@@ -1,3 +1,9 @@
+//#define TMHM_LEARNSET(moves) {(u32)(moves), ((u64)(moves) >> 32)}
+//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01))
+
+#define TMHM(tmhm)          ((u8) ((ITEM_##tmhm) - ITEM_TM01))
+#define TMHM_LEARNSET_END   0xFF
+
 static const u8 sBulbasaurTMHMLearnset[] = {
 	TMHM(TM01_WORK_UP),
 	TMHM(TM06_TOXIC),

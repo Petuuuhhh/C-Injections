@@ -25,9 +25,18 @@ for (const mon in learnsetsMerge) {
     learnsets[mon]['learnset'] = orderedLearnset;
 }
 const tmhmList = ['workup', 'dragonclaw', 'psyshock', 'calmmind', 'roar', 'toxic', 'hail', 'bulkup', 'venoshock', 'hiddenpower', 'sunnyday', 'taunt', 'icebeam', 'blizzard', 'hyperbeam', 'lightscreen', 'protect', 'raindance', 'roost', 'safeguard', 'frustration', 'solarbeam', 'smackdown', 'thunderbolt', 'thunder', 'earthquake', 'return', 'leechlife', 'psychic', 'shadowball', 'brickbreak', 'doubleteam', 'reflect', 'sludgewave', 'flamethrower', 'sludgebomb', 'sandstorm', 'fireblast', 'rocktomb', 'aerialace', 'torment', 'facade', 'flamecharge', 'rest', 'attract', 'thief', 'lowsweep', 'round', 'echoedvoice', 'overheat', 'steelwing', 'focusblast', 'energyball', 'falseswipe', 'scald', 'fling', 'chargebeam', 'skydrop', 'brutalswing', 'quash', 'willowisp', 'acrobatics', 'embargo', 'explosion', 'shadowclaw', 'payback', 'smartstrike', 'gigaimpact', 'rockpolish', 'auroraveil', 'stoneedge', 'voltswitch', 'thunderwave', 'gyroball', 'swordsdance', 'fly', 'psychup', 'bulldoze', 'frostbreath', 'rockslide', 'xscissor', 'dragontail', 'infestation', 'poisonjab', 'dreameater', 'grassknot', 'swagger', 'sleeptalk', 'uturn', 'substitute', 'flashcannon', 'trickroom', 'wildcharge', 'surf', 'snarl', 'naturepower', 'darkpulse', 'waterfall', 'dazzlinggleam', 'confide', 'cut', 'fly', 'surf', 'strength', 'flash', 'rocksmash', 'waterfall', 'dive'];
+let sTMHMMoves = 'static const u16 sTMHMMoves[NUM_TMHMS] = {\n';
+function PrintsTMHMMoves(learnsetsGen) {
+    for (const move of tmhmList) {
+        sTMHMMoves += '\tMOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',\n';
+    }
+    sTMHMMoves += '};';
+    fs.writeFileSync('party_menu.h', sTMHMMoves);
+}
+PrintsTMHMMoves(7);
 const NumTMs = 100;
-let TMHMLearnsets = '';
-async function PrintTMHMCompatibility(speciesGen, learnsetsGen, tmhmList) {
+let TMHMLearnsets = '//#define TMHM_LEARNSET(moves) {(u32)(moves), ((u64)(moves) >> 32)}\n//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01))\n\n#define TMHM(tmhm)          ((u8) ((ITEM_##tmhm) - ITEM_TM01))\n#define TMHM_LEARNSET_END   0xFF\n\n';
+async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
     for (const mon in Dex.data.Species) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species
         TMHMLearnsets += 'static const u8 s' + gens.get(speciesGen).species.get(mon).name.replace('-', '').replace('.', '').replace(' ', '') + 'TMHMLearnset[] = {\n';
@@ -57,4 +66,4 @@ async function PrintTMHMCompatibility(speciesGen, learnsetsGen, tmhmList) {
     TMHMLearnsets += '};';
     fs.writeFileSync('tmhm_learnsets.h', TMHMLearnsets);
 }
-PrintTMHMCompatibility(3, 7, tmhmList);
+PrintTMHMLearnsets(3, 7, tmhmList);
