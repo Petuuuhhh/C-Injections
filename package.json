@@ -1,0 +1,17 @@
+{
+  "name": "c-injections-tmhm-expansion",
+  "version": "1.0.0",
+  "description": "This template currently builds no code, but has many functions declared and ready to use that aren't very specific to any one application.  Each new branch for code that is inserted into Fire Gold will be based on this branch.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pkmn/data": "^0.7.59",
+    "@pkmn/dex": "^0.7.59",
+    "deepmerge": "^4.3.1"
+  }
+}
