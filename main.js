@@ -44,16 +44,16 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
         let HiddenPower = 0;
         for (const move of list) {
             // Limit to a certain gen's learnset compatibility
-            const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
+            /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
                     gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
                 }
-            });
+            }); */
             // Include every move a mon can learn
-            /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;
+            if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
                 gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
-            } */
+            }
         }
         gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
         gMoveLearnerMoves += '),\n\n';
