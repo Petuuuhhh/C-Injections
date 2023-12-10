@@ -43,7 +43,7 @@ async function PrintTMHMCompatibility(speciesGen, learnsetsGen, tmhmList) {
             if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
                 if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                else if (tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                else if (tmhmList.indexOf(move) + 1 <= NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 else TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - 99) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
             }
         }
