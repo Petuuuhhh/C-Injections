@@ -44,24 +44,16 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
         let HiddenPower = 0;
         for (const move of list) {
             // Limit to a certain gen's learnset compatibility
-            /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
+            const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
-                    if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else if (tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else TMHMLearnsets += '\tTMHM(HM' + (tmhmList.indexOf(move) - 99) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
                 }
-            }); */
+            });
             // Include every move a mon can learn
-            if (!learnsets[mon] || !learnsets[mon].learnset) continue;
+            /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
-                if (move == 'Nothing') continue;
-                if (move.includes('Hidden Power')) {
-                    move = 'hiddenpower';
-                    HiddenPower += 1;
-                }
-                if (toID(move) != 'hiddenpower') gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
-                else if (HiddenPower < 2) gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
-            }
+                gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+            } */
         }
         gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
         gMoveLearnerMoves += '),\n\n';
