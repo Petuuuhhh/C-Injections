@@ -1,5 +1,5 @@
 //#define TMHM_LEARNSET(moves) {(u32)(moves), ((u64)(moves) >> 32)}
-//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01_FOCUS_PUNCH))
+//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01))
 
 #define TMHM(tmhm)          ((u8) ((ITEM_##tmhm) - ITEM_TM01))
 #define TMHM_LEARNSET_END   0xFF

@@ -61,12 +61,112 @@ static EWRAM_DATA struct {
 // sMenuActionIndices_UnionRoom 0846316b
 static const u8 sMenuActionIndices_Field[] = {ACTION_USE, ACTION_GIVE, ACTION_EXIT};
 static const u8 sMenuActionIndices_UnionRoom[] = {ACTION_GIVE, ACTION_EXIT};
+enum {
+    WIN_LIST,
+    WIN_DESCRIPTION,
+    WIN_SELECTED_MSG,
+    WIN_TITLE,
+    WIN_MOVE_INFO_LABELS,
+    WIN_MOVE_INFO,
+    WIN_MESSAGE,
+    WIN_SELL_QUANTITY,
+    WIN_MONEY,
+};
+enum {
+    COLOR_LIGHT,
+    COLOR_DARK,
+    COLOR_CURSOR_SELECTED,
+    COLOR_MOVE_INFO,
+    COLOR_CURSOR_ERASE = 0xFF
+};
+#define tListTaskId       data[0]
+#define tSelection        data[1]
+static void Action_Use(u8 taskId)
+{
+    RemoveContextMenu(&sTMCaseDynamicResources->contextMenuWindowId);
+    ClearStdWindowAndFrameToTransparent(WIN_SELECTED_MSG, FALSE);
+    ClearWindowTilemap(WIN_SELECTED_MSG);
+    PutWindowTilemap(WIN_LIST);
+    ScheduleBgCopyTilemapToVram(0);
+    ScheduleBgCopyTilemapToVram(1);
+    if (CalculatePlayerPartyCount() == 0)
+    {
+        PrintError_ThereIsNoPokemon(taskId);
+    }
+    else
+    {
+        // Chose a TM/HM to use, exit TM case for party menu
+        gItemUseCB = ItemUseCB_TMHM;
+        sTMCaseDynamicResources->nextScreenCallback = CB2_ShowPartyMenuForItemUse;
+        Task_BeginFadeOutFromTMCase(taskId);
+    }
+}
+
+#define IS_HM(itemId) (ItemId_GetImportance(itemId) != 0)
+
+static void Action_Give(u8 taskId)
+{
+    s16 * data = gTasks[taskId].data;
+    u16 itemId = BagGetItemIdByPocketPosition(POCKET_TM_CASE, tSelection);
+    RemoveContextMenu(&sTMCaseDynamicResources->contextMenuWindowId);
+    ClearStdWindowAndFrameToTransparent(WIN_SELECTED_MSG, FALSE);
+    ClearWindowTilemap(WIN_SELECTED_MSG);
+    PutWindowTilemap(WIN_DESCRIPTION);
+    PutWindowTilemap(WIN_MOVE_INFO_LABELS);
+    PutWindowTilemap(WIN_MOVE_INFO);
+    ScheduleBgCopyTilemapToVram(0);
+    ScheduleBgCopyTilemapToVram(1);
+    if (!IS_HM(itemId))
+    {
+        if (CalculatePlayerPartyCount() == 0)
+        {
+            PrintError_ThereIsNoPokemon(taskId);
+        }
+        else
+        {
+            sTMCaseDynamicResources->nextScreenCallback = CB2_ChooseMonToGiveItem;
+            Task_BeginFadeOutFromTMCase(taskId);
+        }
+    }
+    else
+    {
+        PrintError_ItemCantBeHeld(taskId);
+    }
+}
+
+static void Action_Exit(u8 taskId)
+{
+    s16 * data = gTasks[taskId].data;
+
+    RemoveContextMenu(&sTMCaseDynamicResources->contextMenuWindowId);
+    ClearStdWindowAndFrameToTransparent(WIN_SELECTED_MSG, FALSE);
+    ClearWindowTilemap(WIN_SELECTED_MSG);
+    PutWindowTilemap(WIN_LIST);
+    PrintListCursor(tListTaskId, COLOR_DARK);
+    PutWindowTilemap(WIN_DESCRIPTION);
+    PutWindowTilemap(WIN_MOVE_INFO_LABELS);
+    PutWindowTilemap(WIN_MOVE_INFO);
+    ScheduleBgCopyTilemapToVram(0);
+    ScheduleBgCopyTilemapToVram(1);
+    ReturnToList(taskId);
+}
+
+// 081325f0 l 0000006c Action_Use
+// 0813265c l 0000009c Action_Give
+// 081327fc l 0000006c Action_Exit
+// (*Action_Use)(u8) = (u8 (*)(void))0x081325f1;
+static const struct MenuAction sMenuActions_UseGiveExit[] = {
+    [ACTION_USE]  = {gOtherText_Use,  Action_Use },
+    [ACTION_GIVE] = {gOtherText_Give, Action_Give},
+    [ACTION_EXIT] = {gOtherText_Exit, Action_Exit},
+};
 // sMenuActions_UseGiveExit 084643a8?
 // 081325f0 l 0000006c Action_Use
 // 0813265c l 0000009c Action_Give
 // 081327fc l 0000006c Action_Exit
 // 08463150 l 00000018 sMenuActions
-(*sMenuActions_UseGiveExit)(u32) = (u32 (*)(void))0x08463151;
+// (*sMenuActions_UseGiveExit)(u32) = (u32 (*)(void))0x08463150;
+// u8 *sMenuActions_UseGiveExit = (u8 *)0x08463150;
 // Task_TMContextMenu_HandleInput 08132568
 (*Task_TMContextMenu_HandleInput)(u32) = (u32 (*)(void))0x08132569;
 // sTMSpriteTemplate
@@ -239,7 +339,15 @@ static void TintTMSpriteByType(u8 type)
     }
 }
 
-void Task_SelectTMAction_FromFieldBag(u8 taskId)
+// Window IDs for the context menu that opens when a TM/HM is selected
+enum {
+    WIN_USE_GIVE_EXIT,
+    WIN_GIVE_EXIT,
+};
+
+// When a TM/HM in the list is selected in the field, create a context
+// menu with a list of actions that can be taken.
+static void Task_SelectTMAction_FromFieldBag(u8 taskId)
 {
     u8 * strbuf;
     TMCase_SetWindowBorder2(2);
@@ -273,6 +381,7 @@ void Task_SelectTMAction_FromFieldBag(u8 taskId)
     ScheduleBgCopyTilemapToVram(1);
     gTasks[taskId].func = Task_TMContextMenu_HandleInput;
 }
+
 
 void SetTMSpriteAnim(struct Sprite * sprite, u8 idx)
 {

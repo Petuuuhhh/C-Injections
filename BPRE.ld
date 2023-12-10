@@ -13342,7 +13342,6 @@ Task_BeginFadeOutFromTMCase = 0x08132230|1;
 Task_FadeOutAndCloseTMCase = 0x0813226c|1;
 Task_HandleListInput = 0x081322d4|1;
 ReturnToList = 0x081323e4|1;
-Task_SelectedTMHM_Field = 0x08132414|1;
 Task_ContextMenu_HandleInput = 0x08132568|1;
 Action_Use = 0x081325f0|1;
 Action_Give = 0x0813265c|1;
