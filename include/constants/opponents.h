@@ -18,6 +18,7 @@
 #define TRAINER_RS_BEAUTY                         13
 #define TRAINER_RICH_BOY                          14
 #define TRAINER_RS_POKEMANIAC                     15
+#define TRAINER_BROCK_REMATCH                     15
 #define TRAINER_RS_SWIMMER_M                      16
 #define TRAINER_RS_BLACK_BELT                     17
 #define TRAINER_GUITARIST                         18

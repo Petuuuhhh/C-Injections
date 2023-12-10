@@ -78,7 +78,8 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
             {
                 const struct TrainerMonNoItemDefaultMoves *partyData = gTrainers[trainerNum].party.NoItemDefaultMoves;
                 u8 level = partyData[i].lvl;
-                if (badgeCount == 0 && gTrainerBattleOpponent_A == TRAINER_RIVAL_OAKS_LAB_CHARMANDER) level = 1;
+                if (badgeCount == 4 && gTrainerBattleOpponent_A == TRAINER_LEADER_BROCK) level = 10;
+                if (badgeCount == 5 && gTrainerBattleOpponent_A == TRAINER_BROCK_REMATCH) level = 15;
 
                 for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
                     nameHash += gSpeciesNames[partyData[i].species][j];
@@ -91,13 +92,16 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
             case F_TRAINER_PARTY_CUSTOM_MOVESET:
             {
                 const struct TrainerMonNoItemCustomMoves *partyData = gTrainers[trainerNum].party.NoItemCustomMoves;
+                u8 level = partyData[i].lvl;
+                if (badgeCount == 4 && gTrainerBattleOpponent_A == TRAINER_LEADER_BROCK) level = 10;
+                if (badgeCount == 5 && gTrainerBattleOpponent_A == TRAINER_BROCK_REMATCH) level = 15;
 
                 for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
                     nameHash += gSpeciesNames[partyData[i].species][j];
 
                 personalityValue += nameHash << 8;
                 fixedIV = partyData[i].iv * MAX_PER_STAT_IVS / 255;
-                CreateMon(&party[i], partyData[i].species, partyData[i].lvl, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
+                CreateMon(&party[i], partyData[i].species, level, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
 
                 for (j = 0; j < MAX_MON_MOVES; j++)
                 {
