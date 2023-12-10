@@ -1,3 +1,13 @@
 #examples:
 #SetTradedMonPokedexFlags 080507A0 1
-MoveLearnerInitListMenuBuffersEtc 080e50cc 0
+CanMonLearnTMTutor 08120b20 0
+CB2_UseItem 08124e48 0
+CB2_UseTMHMAfterForgettingMove 08124efc 0
+ItemIdToBattleMoveId 08125a78 0
+Task_LearnedMove 08125c48 0
+CanMonLearnTMHM 08043c2c 0
+GetTMNumberAndMoveString 08131d48 0
+Task_SelectTMAction_FromFieldBag 08132414 0
+CreateTMSprite 0813368c 0
+SetTMSpriteAnim 08133714 0
+UpdateTMSpritePosition 08133790 0
