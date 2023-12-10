@@ -40,7 +40,9 @@ let gMoveLearnerMoves = '#define MOVE_LEARNER_MOVES_SPECIES_OFFSET 20000\n#defin
 async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
     for (const mon in Dex.data.Species) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species
-        // for (const move of list) {
+        gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
+        let HiddenPower = 0;
+        for (const move of list) {
             // Limit to a certain gen's learnset compatibility
             /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
@@ -50,16 +52,21 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
                 }
             }); */
             // Include every move a mon can learn
-            /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;
+            if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
-                if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                else if (tmhmList.indexOf(move) + 1 <= NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                else TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - 99) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-            } */
-        // }
-        if (!gen3ou[gens.get(speciesGen).species.get(mon).name]) continue;
+                if (move == 'Nothing') continue;
+                if (move.includes('Hidden Power')) {
+                    move = 'hiddenpower';
+                    HiddenPower += 1;
+                }
+                if (toID(move) != 'hiddenpower') gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+                else if (HiddenPower < 2) gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+            }
+        }
+        gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
+        gMoveLearnerMoves += '),\n\n';
+        /* if (!gen3ou[gens.get(speciesGen).species.get(mon).name]) continue;
         gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
-        let HiddenPower = 0;
         for (let move in gen3ou[gens.get(speciesGen).species.get(mon).name].moves) {
             if (move == 'Nothing') continue;
             if (move.includes('Hidden Power')) {
@@ -69,9 +76,10 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
             if (toID(move) != 'hiddenpower') gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
             else if (HiddenPower < 2) gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
         }
-        gMoveLearnerMoves += '),\n\n';
+        gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
+        gMoveLearnerMoves += '),\n\n'; */
     }
     gMoveLearnerMoves += '\tMOVE_LEARNER_MOVES_TERMINATOR\n};';
     fs.writeFileSync('move_learner_moves.h', gMoveLearnerMoves);
 }
-PrintgMoveLearnerMoves(3, 7);
+PrintgMoveLearnerMoves(3, 7, tmhmList);
