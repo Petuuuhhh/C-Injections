@@ -56,7 +56,7 @@ static EWRAM_DATA struct {
     u8 numMenuActions;
     s16 seqId;
     u8 unused[8];
-} * sTMCaseDynamicResources = NULL;
+} * sTMCaseDynamicResources = 0x0203B118;
 // sMenuActionIndices_Field 08463168
 // sMenuActionIndices_UnionRoom 0846316b
 static const u8 sMenuActionIndices_Field[] = {ACTION_USE, ACTION_GIVE, ACTION_EXIT};
@@ -168,7 +168,29 @@ static const struct MenuAction sMenuActions_UseGiveExit[] = {
 // (*sMenuActions_UseGiveExit)(u32) = (u32 (*)(void))0x08463150;
 // u8 *sMenuActions_UseGiveExit = (u8 *)0x08463150;
 // Task_TMContextMenu_HandleInput 08132568
-(*Task_TMContextMenu_HandleInput)(u32) = (u32 (*)(void))0x08132569;
+static void Task_TMContextMenu_HandleInput(u8 taskId)
+{
+    s8 input;
+
+    if (IsActiveOverworldLinkBusy() != TRUE)
+    {
+        input = Menu_ProcessInputNoWrapAround();
+        switch (input)
+        {
+        case MENU_B_PRESSED:
+            // Run last action in list (Exit)
+            PlaySE(SE_SELECT);
+            sMenuActions_UseGiveExit[sTMCaseDynamicResources->menuActionIndices[sTMCaseDynamicResources->numMenuActions - 1]].func.void_u8(taskId);
+            break;
+        case MENU_NOTHING_CHOSEN:
+            break;
+        default:
+            PlaySE(SE_SELECT);
+            sMenuActions_UseGiveExit[sTMCaseDynamicResources->menuActionIndices[input]].func.void_u8(taskId);
+            break;
+        }
+    }
+}
 // sTMSpriteTemplate
 // 084631f8 l 00000008 sTMSpriteOamData
 u8 *sTMSpriteOamData = (u8 *)0x084631f8;
@@ -381,7 +403,6 @@ static void Task_SelectTMAction_FromFieldBag(u8 taskId)
     ScheduleBgCopyTilemapToVram(1);
     gTasks[taskId].func = Task_TMContextMenu_HandleInput;
 }
-
 
 void SetTMSpriteAnim(struct Sprite * sprite, u8 idx)
 {
