@@ -40,7 +40,6 @@ let gMoveLearnerMoves = '#define MOVE_LEARNER_MOVES_SPECIES_OFFSET 20000\n#defin
 async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
     for (const mon in Dex.data.Species) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species
-        gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
         let HiddenPower = 0;
         let Gen3Learnset = {};
         Gen3Learnset[mon] = {};
@@ -73,11 +72,15 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
                 }
             })
         }
-        for (const move in TradebacksMoves[mon]) {
-            gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+        if (Object.keys(TradebacksMoves[mon]).length > 0) {
+            if (mon == 'ditto') console.log(TradebacksMoves[mon]);
+            gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '').replace(' ', '_').replace('’', '') + ',';
+            for (const move in TradebacksMoves[mon]) {
+                gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace(/-/g, '_').replace(/ /g, '_').replace('FEINT_ATTACK', 'FAINT_ATTACK').replace('SMELLING_SALTS', 'SMELLING_SALT').replace('HIGH_JUMP_KICK', 'HI_JUMP_KICK') + ',';
+            }
+            gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
+            gMoveLearnerMoves += '),\n\n';
         }
-        gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
-        gMoveLearnerMoves += '),\n\n';
         /* if (!gen3ou[gens.get(speciesGen).species.get(mon).name]) continue;
         gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
         for (let move in gen3ou[gens.get(speciesGen).species.get(mon).name].moves) {

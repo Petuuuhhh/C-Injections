@@ -83,7 +83,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SUBMISSION,
 			  MOVE_TAKE_DOWN,
 			  MOVE_THUNDER_PUNCH,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(CHARMELEON,
 			  MOVE_AIR_CUTTER,
@@ -105,7 +105,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SUBMISSION,
 			  MOVE_TAKE_DOWN,
 			  MOVE_THUNDER_PUNCH,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(CHARIZARD,
 			  MOVE_AIR_CUTTER,
@@ -129,7 +129,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_TAKE_DOWN,
 			  MOVE_THUNDER_PUNCH,
 			  MOVE_TWISTER,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(SQUIRTLE,
 			  MOVE_BIDE,
@@ -220,8 +220,6 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_TAKE_DOWN,
 			  MOVE_TELEPORT,
 			  MOVE_TWISTER),
-
-	move_learner_moves(WEEDLE),
 
 	move_learner_moves(KAKUNA,
 			  MOVE_IRON_DEFENSE),
@@ -994,7 +992,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_REFLECT,
 			  MOVE_REVERSAL,
 			  MOVE_SKULL_BASH,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(ARCANINE,
 			  MOVE_BIDE,
@@ -1013,7 +1011,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SKULL_BASH,
 			  MOVE_SOLAR_BEAM,
 			  MOVE_TELEPORT,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(POLIWAG,
 			  MOVE_AMNESIA,
@@ -1292,7 +1290,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_RAGE,
 			  MOVE_REFLECT,
 			  MOVE_SKULL_BASH,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(RAPIDASH,
 			  MOVE_BIDE,
@@ -1306,7 +1304,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_RAGE,
 			  MOVE_REFLECT,
 			  MOVE_SKULL_BASH,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(SLOWPOKE,
 			  MOVE_BIDE,
@@ -1383,7 +1381,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_TAKE_DOWN,
 			  MOVE_TELEPORT),
 
-	move_learner_moves(FARFETCH’D,
+	move_learner_moves(FARFETCHD,
 			  MOVE_AIR_CUTTER,
 			  MOVE_BIDE,
 			  MOVE_COVET,
@@ -2041,7 +2039,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_WHIRLPOOL,
 			  MOVE_ZAP_CANNON),
 
-	move_learner_moves(MR__MIME,
+	move_learner_moves(MR_MIME,
 			  MOVE_AERIAL_ACE,
 			  MOVE_BIDE,
 			  MOVE_CHARM,
@@ -2130,7 +2128,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_COVET,
 			  MOVE_CURSE,
 			  MOVE_DETECT,
-			  MOVE_FEINT_ATTACK,
+			  MOVE_FAINT_ATTACK,
 			  MOVE_FIRE_SPIN,
 			  MOVE_FOCUS_ENERGY,
 			  MOVE_HEADBUTT,
@@ -2147,7 +2145,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_TAKE_DOWN,
 			  MOVE_TELEPORT,
 			  MOVE_UPROAR,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(PINSIR,
 			  MOVE_BIDE,
@@ -2231,8 +2229,6 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_WHIRLPOOL,
 			  MOVE_ZAP_CANNON),
 
-	move_learner_moves(DITTO),
-
 	move_learner_moves(EEVEE,
 			  MOVE_BIDE,
 			  MOVE_COVET,
@@ -2312,7 +2308,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SKULL_BASH,
 			  MOVE_STRENGTH,
 			  MOVE_SUPERPOWER,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_YAWN,
 			  MOVE_ZAP_CANNON),
 
@@ -2569,7 +2565,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_TRI_ATTACK,
 			  MOVE_TRICK,
 			  MOVE_WATER_GUN,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_ZAP_CANNON),
 
 	move_learner_moves(MEW,
@@ -2630,7 +2626,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_WATER_GUN,
 			  MOVE_WHIRLPOOL,
 			  MOVE_WHIRLWIND,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(CHIKORITA,
 			  MOVE_AROMATHERAPY,
@@ -2676,7 +2672,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_IRON_TAIL,
 			  MOVE_NATURE_POWER,
 			  MOVE_SUBMISSION,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(QUILAVA,
 			  MOVE_CURSE,
@@ -2689,7 +2685,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_IRON_TAIL,
 			  MOVE_NATURE_POWER,
 			  MOVE_SUBMISSION,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(TYPHLOSION,
 			  MOVE_CURSE,
@@ -2705,7 +2701,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_ROCK_TOMB,
 			  MOVE_SOLAR_BEAM,
 			  MOVE_SUBMISSION,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(TOTODILE,
 			  MOVE_BLOCK,
@@ -3214,7 +3210,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_AIR_CUTTER,
 			  MOVE_ANCIENT_POWER,
 			  MOVE_CURSE,
-			  MOVE_FEINT_ATTACK,
+			  MOVE_FAINT_ATTACK,
 			  MOVE_HEADBUTT,
 			  MOVE_PURSUIT,
 			  MOVE_STRING_SHOT),
@@ -3324,12 +3320,8 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_MEMENTO,
 			  MOVE_TRICK,
 			  MOVE_UPROAR,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_ZAP_CANNON),
-
-	move_learner_moves(UNOWN),
-
-	move_learner_moves(WOBBUFFET),
 
 	move_learner_moves(GIRAFARIG,
 			  MOVE_CURSE,
@@ -3537,7 +3529,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SPIT_UP,
 			  MOVE_STOCKPILE,
 			  MOVE_SWALLOW,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(MAGCARGO,
 			  MOVE_ANCIENT_POWER,
@@ -3553,7 +3545,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SPIT_UP,
 			  MOVE_STOCKPILE,
 			  MOVE_SWALLOW,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(SWINUB,
 			  MOVE_CURSE,
@@ -3822,7 +3814,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_COVET,
 			  MOVE_CURSE,
 			  MOVE_DETECT,
-			  MOVE_FEINT_ATTACK,
+			  MOVE_FAINT_ATTACK,
 			  MOVE_FIRE_SPIN,
 			  MOVE_FOCUS_ENERGY,
 			  MOVE_HEADBUTT,
@@ -3831,7 +3823,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_MACH_PUNCH,
 			  MOVE_OVERHEAT,
 			  MOVE_UPROAR,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(MILTANK,
 			  MOVE_BLOCK,
@@ -3894,7 +3886,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_OVERHEAT,
 			  MOVE_SACRED_FIRE,
 			  MOVE_SHADOW_BALL,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(SUICUNE,
 			  MOVE_CURSE,
@@ -3970,7 +3962,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SIGNAL_BEAM,
 			  MOVE_TWISTER,
 			  MOVE_WEATHER_BALL,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_ZAP_CANNON),
 
 	move_learner_moves(CELEBI,
@@ -4034,7 +4026,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_HEAT_WAVE,
 			  MOVE_HELPING_HAND,
 			  MOVE_LOW_KICK,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(COMBUSKEN,
 			  MOVE_AGILITY,
@@ -4047,7 +4039,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_HEAT_WAVE,
 			  MOVE_HELPING_HAND,
 			  MOVE_LOW_KICK,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(BLAZIKEN,
 			  MOVE_AGILITY,
@@ -4060,13 +4052,13 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_HEADBUTT,
 			  MOVE_HEAT_WAVE,
 			  MOVE_HELPING_HAND,
-			  MOVE_HIGH_JUMP_KICK,
+			  MOVE_HI_JUMP_KICK,
 			  MOVE_KNOCK_OFF,
 			  MOVE_LOW_KICK,
 			  MOVE_ROLE_PLAY,
 			  MOVE_SOLAR_BEAM,
 			  MOVE_SUPERPOWER,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(MUDKIP,
 			  MOVE_ANCIENT_POWER,
@@ -4350,7 +4342,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_BIDE,
 			  MOVE_STRING_SHOT,
 			  MOVE_TRICK,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(WHISMUR,
 			  MOVE_ENDEAVOR,
@@ -4450,7 +4442,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SPITE,
 			  MOVE_TICKLE,
 			  MOVE_TRICK,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(MAWILE,
 			  MOVE_GROWL,
@@ -4622,7 +4614,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SPIT_UP,
 			  MOVE_STOCKPILE,
 			  MOVE_SWALLOW,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_YAWN),
 
 	move_learner_moves(CAMERUPT,
@@ -4636,7 +4628,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SPIT_UP,
 			  MOVE_STOCKPILE,
 			  MOVE_SWALLOW,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_YAWN),
 
 	move_learner_moves(TORKOAL,
@@ -4652,7 +4644,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_SKULL_BASH,
 			  MOVE_SOLAR_BEAM,
 			  MOVE_SUPERPOWER,
-			  MOVE_WILL_O-WISP,
+			  MOVE_WILL_O_WISP,
 			  MOVE_WITHDRAW),
 
 	move_learner_moves(SPOINK,
@@ -4751,7 +4743,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_MAGICAL_LEAF,
 			  MOVE_NATURE_POWER,
 			  MOVE_ROLE_PLAY,
-			  MOVE_SMELLING_SALTS,
+			  MOVE_SMELLING_SALT,
 			  MOVE_SPITE,
 			  MOVE_SYNTHESIS),
 
@@ -4764,7 +4756,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_MAGICAL_LEAF,
 			  MOVE_NATURE_POWER,
 			  MOVE_ROLE_PLAY,
-			  MOVE_SMELLING_SALTS,
+			  MOVE_SMELLING_SALT,
 			  MOVE_SPITE,
 			  MOVE_SUPERPOWER,
 			  MOVE_SYNTHESIS),
@@ -4828,7 +4820,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_PAIN_SPLIT,
 			  MOVE_RECYCLE,
 			  MOVE_SIGNAL_BEAM,
-			  MOVE_WILL_O-WISP),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(BARBOACH,
 			  MOVE_BOUNCE,
@@ -4963,27 +4955,6 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_HEADBUTT,
 			  MOVE_HYDRO_PUMP),
 
-	move_learner_moves(CASTFORM_SUNNY,
-			  MOVE_AMNESIA,
-			  MOVE_COSMIC_POWER,
-			  MOVE_DISABLE,
-			  MOVE_HEADBUTT,
-			  MOVE_HYDRO_PUMP),
-
-	move_learner_moves(CASTFORM_RAINY,
-			  MOVE_AMNESIA,
-			  MOVE_COSMIC_POWER,
-			  MOVE_DISABLE,
-			  MOVE_HEADBUTT,
-			  MOVE_HYDRO_PUMP),
-
-	move_learner_moves(CASTFORM_SNOWY,
-			  MOVE_AMNESIA,
-			  MOVE_COSMIC_POWER,
-			  MOVE_DISABLE,
-			  MOVE_HEADBUTT,
-			  MOVE_HYDRO_PUMP),
-
 	move_learner_moves(KECLEON,
 			  MOVE_CAMOUFLAGE,
 			  MOVE_DIZZY_PUNCH,
@@ -5065,9 +5036,7 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_ROCK_TOMB,
 			  MOVE_ROLE_PLAY,
 			  MOVE_SUPERPOWER,
-			  MOVE_WILL_O-WISP),
-
-	move_learner_moves(WYNAUT),
+			  MOVE_WILL_O_WISP),
 
 	move_learner_moves(SNORUNT,
 			  MOVE_BIDE,
@@ -5116,7 +5085,7 @@ const u16 gMoveLearnerMoves[] = {
 	move_learner_moves(HUNTAIL,
 			  MOVE_BIND,
 			  MOVE_BOUNCE,
-			  MOVE_FEINT_ATTACK,
+			  MOVE_FAINT_ATTACK,
 			  MOVE_MUDDY_WATER,
 			  MOVE_SUPER_FANG),
 
@@ -5239,42 +5208,6 @@ const u16 gMoveLearnerMoves[] = {
 			  MOVE_UPROAR),
 
 	move_learner_moves(DEOXYS,
-			  MOVE_BIND,
-			  MOVE_DETECT,
-			  MOVE_HEADBUTT,
-			  MOVE_LOW_KICK,
-			  MOVE_MAGIC_COAT,
-			  MOVE_METEOR_MASH,
-			  MOVE_RECYCLE,
-			  MOVE_ROLE_PLAY,
-			  MOVE_SIGNAL_BEAM,
-			  MOVE_TRICK),
-
-	move_learner_moves(DEOXYS_ATTACK,
-			  MOVE_BIND,
-			  MOVE_DETECT,
-			  MOVE_HEADBUTT,
-			  MOVE_LOW_KICK,
-			  MOVE_MAGIC_COAT,
-			  MOVE_METEOR_MASH,
-			  MOVE_RECYCLE,
-			  MOVE_ROLE_PLAY,
-			  MOVE_SIGNAL_BEAM,
-			  MOVE_TRICK),
-
-	move_learner_moves(DEOXYS_DEFENSE,
-			  MOVE_BIND,
-			  MOVE_DETECT,
-			  MOVE_HEADBUTT,
-			  MOVE_LOW_KICK,
-			  MOVE_MAGIC_COAT,
-			  MOVE_METEOR_MASH,
-			  MOVE_RECYCLE,
-			  MOVE_ROLE_PLAY,
-			  MOVE_SIGNAL_BEAM,
-			  MOVE_TRICK),
-
-	move_learner_moves(DEOXYS_SPEED,
 			  MOVE_BIND,
 			  MOVE_DETECT,
 			  MOVE_HEADBUTT,
