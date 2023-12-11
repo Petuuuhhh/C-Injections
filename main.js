@@ -36,7 +36,7 @@ function PrintsTMHMMoves(learnsetsGen) {
 }
 PrintsTMHMMoves(7);
 const NumTMs = 100;
-let gMoveLearnerMoves = '#define MOVE_LEARNER_MOVES_SPECIES_OFFSET 20000\n#define MOVE_LEARNER_MOVES_TERMINATOR 0xFFFF\n#define move_learner_moves(species, moves...) (SPECIES_##species + MOVE_LEARNER_MOVES_SPECIES_OFFSET), moves\n\n';
+let gMoveLearnerMoves = '#define MOVE_LEARNER_MOVES_SPECIES_OFFSET 20000\n#define MOVE_LEARNER_MOVES_TERMINATOR 0xFFFF\n#define move_learner_moves(species, moves...) (SPECIES_##species + MOVE_LEARNER_MOVES_SPECIES_OFFSET), moves\n\nconst u16 gMoveLearnerMoves[] = {\n';
 async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
     for (const mon in Dex.data.Species) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species

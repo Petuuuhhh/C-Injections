@@ -2,6 +2,7 @@
 #define MOVE_LEARNER_MOVES_TERMINATOR 0xFFFF
 #define move_learner_moves(species, moves...) (SPECIES_##species + MOVE_LEARNER_MOVES_SPECIES_OFFSET), moves
 
+const u16 gMoveLearnerMoves[] = {
 	move_learner_moves(BULBASAUR,
 			  MOVE_AMNESIA,
 			  MOVE_BIDE,
