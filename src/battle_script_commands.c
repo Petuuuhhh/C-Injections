@@ -40,6 +40,8 @@
 #include "../include/constants/trainers.h"
 #include "../include/constants/maps.h"
 
+#include "species_info.h"
+
 void atk23_getexp(void)
 {
     u16 item;
@@ -90,15 +92,15 @@ void atk23_getexp(void)
                     holdEffect = ItemId_GetHoldEffect(item);
             }
 
-            calculatedExp = gBaseStats[gBattleMons[gBattlerFainted].species].expYield * gBattleMons[gBattlerFainted].level / 7;
+            calculatedExp = gSpeciesInfo[gBattleMons[gBattlerFainted].species].expYield * gBattleMons[gBattlerFainted].level / 7;
+            viaExpShare = gSaveBlock1Ptr->playerPartyCount;
 
-            if (FlagGet(FLAG_EXP_SHARE)) // exp share is turned on
+            if (FlagGet(FLAG_EXP_SHARE) && viaExpShare > 1) // exp share is turned on
             {
                 *exp = SAFE_DIV(calculatedExp / 2, viaSentIn);
                 if (*exp == 0)
                     *exp = 1;
 
-                viaExpShare = gSaveBlock1Ptr->playerPartyCount;
                 gExpShareExp = calculatedExp / 2 / viaExpShare;
                 if (gExpShareExp == 0)
                     gExpShareExp = 1;
