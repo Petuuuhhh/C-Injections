@@ -67,7 +67,7 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
         // Do this for however many gens you want to get tradeback/tradeforward moves from
         for (const move in Dex.data.Moves /*const move of list*/) {
             const Gen7Learn = await gens.get(7).learnsets.canLearn(mon, move).then(returnValue => {
-                if (returnValue && !(move in Gen3Learnset[mon])) {
+                if (returnValue && !(move in Gen3Learnset[mon]) && gens.get(speciesGen).moves.get(move)) {
                     TradebacksMoves[mon][move] = [];
                     TradebacksMoves[mon][move].push(7);
                 }
