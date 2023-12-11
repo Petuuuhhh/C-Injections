@@ -42,7 +42,11 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species
         gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
         let HiddenPower = 0;
-        for (const move of list) {
+        let Gen3Learnset = {};
+        Gen3Learnset[mon] = {};
+        let TradebacksMoves = {};
+        TradebacksMoves[mon] = {};
+        for (const move in Dex.data.Moves /*const move of list*/) {
             // Limit to a certain gen's learnset compatibility
             /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
@@ -50,10 +54,27 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
                 }
             }); */
             // Include every move a mon can learn
-            if (!learnsets[mon] || !learnsets[mon].learnset) continue;
+            /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
                 gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
-            }
+            } */
+            const Gen3Learn = await gens.get(3).learnsets.canLearn(mon, move).then(returnValue => {
+                if (returnValue) {
+                    Gen3Learnset[mon][move] = 3;
+                }
+            })
+        }
+        // Do this for however many gens you want to get tradeback/tradeforward moves from
+        for (const move in Dex.data.Moves /*const move of list*/) {
+            const Gen7Learn = await gens.get(7).learnsets.canLearn(mon, move).then(returnValue => {
+                if (returnValue && !(move in Gen3Learnset[mon])) {
+                    TradebacksMoves[mon][move] = [];
+                    TradebacksMoves[mon][move].push(7);
+                }
+            })
+        }
+        for (const move in TradebacksMoves[mon]) {
+            gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
         }
         gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
         gMoveLearnerMoves += '),\n\n';
