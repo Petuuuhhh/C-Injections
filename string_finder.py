@@ -55466,13 +55466,15 @@ for symbol in pokefirered_sym:
         text = eval(compile(string, '<string>', 'eval'))
         text_newline = text.replace('\n', '\\n')
         if '{' in text:
-            translated_text = translate(text_newline.split('{').split('}'),"es","auto")
+            # translated_text = translate(text_newline.split('{').split('}'),"es","auto")
+            continue
         else:
             translated_text = translate(text_newline,"es","auto")
         offset = symbol[0][2:]
         # print("@" + offset + ' FF')
         # print("@" + offset + ' ^scripts.text.spanish.' + string + '"" "' + translated_text + '"')
         print('#org @' + symbol[3] + '\n' + translated_text + '\n')
+        # print(string + ' ' + offset)
         num = num + 1
     except:
         pass
