@@ -1,3971 +1,1396 @@
-#org @gExpandedPlaceholder_Empty
+#org @sString_Dummy
 
 
-#org @gExpandedPlaceholder_Kun
+#org @sString_Newline
+\n
 
+#org @sText_ShedinjaJpnName
+Nukenin
 
-#org @gExpandedPlaceholder_Chan
+#org @sNoneDescription
+Ninguna habilidad especial.
 
+#org @sStenchDescription
+Ayuda a repeler los POKéMON salvajes.
 
-#org @gExpandedPlaceholder_Sapphire
-ZAFIRO
+#org @sDrizzleDescription
+Llueven invocaciones en la batalla.
 
-#org @gExpandedPlaceholder_Ruby
-RUBÍ
+#org @sSpeedBoostDescription
+Aumenta gradualmente la VELOCIDAD.
 
-#org @gExpandedPlaceholder_Aqua
-AGUA
+#org @sBattleArmorDescription
+Bloquea golpes críticos.
 
-#org @gExpandedPlaceholder_Magma
-MAGMA
+#org @sSturdyDescription
+Niega ataques de KO de 1 golpe.
 
-#org @gExpandedPlaceholder_Archie
-ARCHIE
+#org @sDampDescription
+Previene la autodestrucción.
 
-#org @gExpandedPlaceholder_Maxie
-MAXI
+#org @sLimberDescription
+Previene la parálisis.
 
-#org @gExpandedPlaceholder_Kyogre
-KYOGRE
+#org @sSandVeilDescription
+Aumenta la evasión en una tormenta de arena.
 
-#org @gExpandedPlaceholder_Groudon
-GROUDON
+#org @sStaticDescription
+Se paraliza al contacto.
 
-#org @gExpandedPlaceholder_Red
-ROJO
+#org @sVoltAbsorbDescription
+Convierte la electricidad en HP.
 
-#org @gExpandedPlaceholder_Green
-VERDE
+#org @sWaterAbsorbDescription
+Cambia el agua en HP.
 
-#org @gText_EggNickname
-HUEVO
+#org @sObliviousDescription
+Previene la atracción.
 
-#org @gText_MenuPokemon
-POKéMON
+#org @sCloudNineDescription
+Niega los efectos del clima.
 
-#org @gText_NewGame
-NUEVO JUEGO
+#org @sCompoundEyesDescription
+Aumenta la precisión.
 
-#org @gText_Continue
-CONTINUAR
+#org @sInsomniaDescription
+Impide el sueño.
 
-#org @gTextJP_Options
-Cambia tu riqueza
+#org @sColorChangeDescription
+Cambia el tipo al movimiento del enemigo.
 
-#org @gUnusedText_MysteryGift
-REGALO MISTERIOSO
+#org @sImmunityDescription
+Previene el envenenamiento.
 
-#org @gText_MysteryGift
-REGALO MISTERIOSO
+#org @sFlashFireDescription
+Se enciende si lo golpea el fuego.
 
-#org @gText_WirelessNotConnected
-El adaptador inalámbrico no está\nconectado.
+#org @sShieldDustDescription
+Previene efectos añadidos.
 
-#org @gText_MysteryGiftCantUse
-El REGALO MISTERIOSO no se puede utilizar mientras\nel adaptador inalámbrico esté conectado.
+#org @sOwnTempoDescription
+Previene la confusión.
 
-#org @gText_UpdatingSaveExternalData
-Escribiré un informe basado en los datos.\nEspere un momento.
+#org @sSuctionCupsDescription
+Ancla firmemente el cuerpo.
 
-#org @gText_SaveFileUpdated
-¡El informe ha sido publicado!
+#org @sIntimidateDescription
+Reduce el ATAQUE del enemigo.
 
-#org @gText_SaveFileUpdatedSwapBackup
-¡El informe se ha completado! \p Esto es todo \n El informe no se puede completar, así que \l Utilice un cartucho de respaldo \l ¡Haga esto! \p Para obtener más información \nServicio de Nintendo Comuníquese con el centro de servicio.
+#org @sShadowTagDescription
+Impide la fuga del enemigo.
 
-#org @gText_FailedUpdateSwapBackup
-¡El informe está completo!\p¡Reemplace el cartucho de respaldo!\pPara obtener más información,\ncomunícate con el Centro de servicio de Nintendo.\nContáctanos.
+#org @sRoughSkinDescription
+Duele al tocarlo.
 
-#org @gText_SaveFileCorrupted
-El archivo guardado está dañado.\pSe\ncargará el archivo guardado anterior.
+#org @sWonderGuardDescription
+Golpes “súper efectivos”.
 
-#org @gText_SaveFileHasBeenDeleted
-El archivo guardado ha sido\neliminado...
+#org @sLevitateDescription
+No golpeado por ataques TIERRA.
 
-#org @gText_1MSubCircuitBoardNotInstalled
-La placa de subcircuito 1M\nno está instalada.
+#org @sEffectSporeDescription
+Deja esporas al contacto.
 
-#org @gTextJP_InternalBatteryHasRunDry
-Debido a la descomposición, el juego ya no se mueve.\pLos eventos que afectan el juego no ocurrirán, pero\npuedes continuar jugando.
+#org @sSynchronizeDescription
+Pasa por problemas de estado.
 
-#org @gText_PlayerUnused
-Shujinko
+#org @sClearBodyDescription
+Previene la reducción de la capacidad.
 
-#org @gText_PokedexUnused
-enciclopedia pokemon
+#org @sNaturalCureDescription
+Se cura al cambiar.
 
-#org @gText_MainMenuTime
-TIEMPO
+#org @sLightningRodDescription
+Dibuja movimientos eléctricos.
 
-#org @gText_BadgesUnused
-insignias que tienes
+#org @sSereneGraceDescription
+Promueve efectos añadidos.
 
-#org @gText_AButton
-Un botón
+#org @sSwiftSwimDescription
+Aumenta la VELOCIDAD bajo la lluvia.
 
-#org @gText_BButton
-botón B
+#org @sChlorophyllDescription
+Aumenta la VELOCIDAD bajo el sol.
 
-#org @gText_RButton
-botón R
+#org @sIlluminateDescription
+La tasa de encuentro aumenta.
 
-#org @gText_LButton
-botón L
+#org @sTraceDescription
+Copia habilidad especial.
 
-#org @gText_Start
-botón de inicio
+#org @sHugePowerDescription
+Aumenta el ATAQUE.
 
-#org @gText_Select
-botón de selección
+#org @sPoisonPointDescription
+Envenena al enemigo al contacto.
 
-#org @gText_ControlPad
-botón
+#org @sInnerFocusDescription
+Evita estremecerse.
 
-#org @gText_LButtonRButton
-Botón L Botón R
+#org @sMagmaArmorDescription
+Previene la congelación.
 
-#org @gText_Controls
-CONTROL S
+#org @sWaterVeilDescription
+Previene quemaduras.
 
-#org @gText_PickOk
-[DPAD_UP_DOWN]Selecciona [A_BUTTON]Kete
+#org @sMagnetPullDescription
+Atrapa POKéMON de tipo ACERO.
 
-#org @gText_ABUTTONNext
-[A_BUTTON]SIGUIENTE
+#org @sSoundproofDescription
+Evita movimientos basados en sonido.
 
-#org @gText_ABUTTONNext_BBUTTONBack
-[A_BUTTON]SIGUIENTE [B_BUTTON]ATRÁS
+#org @sRainDishDescription
+Ligera recuperación de HP bajo la lluvia.
 
-#org @gText_UPDOWNPick_ABUTTONNext_BBUTTONBack
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]SIGUIENTE [B_BUTTON]CANCELAR
+#org @sSandStreamDescription
+Invoca una tormenta de arena.
 
-#org @gText_UPDOWNPick_ABUTTONBBUTTONCancel
-[DPAD_UP_DOWN]ELIGE [A_BUTTON][B_BUTTON]CANCELAR
+#org @sPressureDescription
+Aumenta el uso de PP del enemigo.
 
-#org @gText_ABUTTONExit
-[A_BUTTON]SALIR
+#org @sThickFatDescription
+Protección contra el calor y el frío.
 
-#org @gText_Boy
-CHICO
+#org @sEarlyBirdDescription
+Se despierta rápidamente del sueño.
 
-#org @gText_Girl
-CHICA
+#org @sFlameBodyDescription
+Quema al enemigo al contacto.
 
-#org @gText_PokedexTableOfContents
-ÍNDICE DE CONTENIDOS DE POKéDEX
+#org @sRunAwayDescription
+Hace que escapar sea más fácil.
 
-#org @gText_PickOK
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar
+#org @sKeenEyeDescription
+Evita la pérdida de precisión.
 
-#org @gText_Seen
-Visto:
+#org @sHyperCutterDescription
+Previene la reducción del ATAQUE.
 
-#org @gText_Owned
-Propiedad:
+#org @sPickupDescription
+Puede recoger artículos.
 
-#org @gText_Kanto
-KANTÓ
+#org @sTruantDescription
+Se mueve sólo cada dos turnos.
 
-#org @gText_National
-NACIONAL
+#org @sHustleDescription
+Cambia precisión por potencia.
 
-#org @gText_PokemonHabitats
-[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]HÁBITATS DE POKéMON
+#org @sCuteCharmDescription
+Se enamora al contacto.
 
-#org @gText_DexCategory_GrasslandPkmn
-POKéMON Pastizal
+#org @sPlusDescription
+Se enciende con MENOS.
 
-#org @gText_DexCategory_ForestPkmn
-POKéMON del bosque
+#org @sMinusDescription
+Se enciende con PLUS.
 
-#org @gText_DexCategory_WatersEdgePkmn
-POKéMON al borde del agua
+#org @sForecastDescription
+Cambia con el clima.
 
-#org @gText_DexCategory_SeaPkmn
-POKéMON de mar
+#org @sStickyHoldDescription
+Previene el robo de artículos.
 
-#org @gText_DexCategory_CavePkmn
-Cueva POKéMON
+#org @sShedSkinDescription
+Cura el cuerpo desprendiéndose.
 
-#org @gText_DexCategory_MountainPkmn
-POKéMON Montaña
+#org @sGutsDescription
+Sube ATAQUE si sufre.
 
-#org @gText_DexCategory_RoughTerrainPkmn
-POKéMON terreno accidentado
+#org @sMarvelScaleDescription
+Sube DEFENSA si sufre.
 
-#org @gText_DexCategory_UrbanPkmn
-POKéMON urbano
+#org @sLiquidOozeDescription
+El drenaje causa lesiones.
 
-#org @gText_DexCategory_RarePkmn
-Pokémon raros
+#org @sOvergrowDescription
+Ups GRASS se mueve en caso de apuro.
 
-#org @gText_Search
-[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]BUSCAR
+#org @sBlazeDescription
+Ups FIRE se mueve en caso de apuro.
 
-#org @gText_NumericalMode
-MODO NUMÉRICO
+#org @sTorrentDescription
+Ups AGUA se mueve en caso de apuro.
 
-#org @gText_AToZMode
-MODO DE LA A A LA Z
+#org @sSwarmDescription
+Ups BUG se mueve en caso de apuro.
 
-#org @gText_PokedexOther
-[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]OTRO
+#org @sRockHeadDescription
+Previene daños por retroceso.
 
-#org @gTextJP_HowToUsePokedex
-Cómo utilizar la enciclopedia
+#org @sDroughtDescription
+Invoca la luz del sol en la batalla.
 
-#org @gText_ClosePokedex
-CERRAR POKéDEX
+#org @sArenaTrapDescription
+Impide la huida.
 
-#org @gText_TypeMode
-MODO TIPO
+#org @sVitalSpiritDescription
+Impide el sueño.
 
-#org @gText_LightestMode
-MODO MÁS LIGERO
+#org @sWhiteSmokeDescription
+Previene la reducción de la capacidad.
 
-#org @gText_SmallestMode
-MODO MÁS PEQUEÑO
+#org @sPurePowerDescription
+Aumenta el ATAQUE.
 
-#org @gText_PokemonList
-[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]LISTA DE POKéMON
+#org @sShellArmorDescription
+Bloquea golpes críticos.
 
-#org @gText_NumericalModeKanto
-MODO NUMÉRICO: KANTO
+#org @sCacophonyDescription
+Evita movimientos basados en sonido.
 
-#org @gText_NumericalModeNational
-MODO NUMÉRICO: NACIONAL
+#org @sAirLockDescription
+Niega los efectos del clima.
 
-#org @gText_PokemonListNoColor
-LISTA POKÉMON
+#org @gStatusConditionString_PoisonJpn
+Veneno$$$$$
 
-#org @gText_SearchNoColor
-BUSCAR
+#org @gStatusConditionString_SleepJpn
+Dormir$$$$
 
-#org @gText_PickOKExit
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]CANCELAR
+#org @gStatusConditionString_ParalysisJpn
+Parálisis$$$$$
 
-#org @gText_5Dashes
------
+#org @gStatusConditionString_BurnJpn
+Quemar$$$$
 
-#org @gText_PickFlipPageCheckCancel
-[DPAD_LEFT_RIGHT]ELIGIR[PLUS]voltear página [A_BUTTON]COMPROBAR [B_BUTTON]CANCELAR
+#org @gStatusConditionString_IceJpn
+Hielo$$$$
 
-#org @gText_PokedexPokemon
-POKéMON
+#org @gStatusConditionString_ConfusionJpn
+Konran$$$
 
-#org @gText_HT
-HT
+#org @gStatusConditionString_LoveJpn
+Melo Melo $$$
 
-#org @gText_WT
-peso
+#org @sText_GameFreak
+juego gratis
 
-#org @gText_PokedexQuotationMark
-"
+#org @sNewLineText
+\n
 
-#org @gText_Lbs
-libras
+#org @sJapaneseEggNickname
+huevo
 
-#org @gTextJP_PokemonData
-Datos de Pokémon
-
-#org @gText_Cry
-[START_BUTTON]LLORA
-
-#org @gText_NextDataCancel
-[A_BUTTON]SIGUIENTE DATO [B_BUTTON]CANCELAR
-
-#org @gText_Next
-[A_BUTTON]SIGUIENTE
-
-#org @gText_CancelPreviousData
-[A_BUTTON]CANCELAR [B_BUTTON]DATOS ANTERIORES
-
-#org @gText_Area
-ÁREA
-
-#org @gText_Size
-TAMAÑO
-
-#org @gText_AreaUnknown
-ÁREA DESCONOCIDA
-
-#org @gText_PokedexNo
-NO
-
-#org @gText_Page
-PÁGINA
-
-#org @gText_WelcomeToHOF
-¡Bienvenidos al SALÓN DE LA FAMA!
-
-#org @gText_HOFDexRating
-¡Encontraste Pokémon [STR_VAR_1]!\n¡Pokemon capturado [STR_VAR_2]!\pMadeja de Aquilegia\nPokédex Hyoka!\pAquilegia "¿Cuál?"\p
-
-#org @gText_HOFDexSaving
-¡Estoy escribiendo el informe hasta ahora!\nPor favor, no cortes las judías verdes.
-
-#org @gText_HOFCorrupted
-Los datos del SALÓN DE LA FAMA están\ndañados.
-
-#org @gText_HOFNumber
-SALÓN DE LA FAMA No. [STR_VAR_1]
-
-#org @gText_LeagueChamp
-¡CAMPEÓN DE LA LIGA!\n¡FELICIDADES!
-
-#org @gText_Number
-No.
-
-#org @gText_Level
-Lv.
-
-#org @gText_Name
-NOMBRE
-
-#org @gText_IDNumber
-DNI No.
-
-#org @gText_BirchInTrouble
-[HIGHLIGHT DYNAMIC_COLOR6][COLOR WHITE]¡La madeja de Aquilegia está en apuros!\n¡Enviemos un Pokémon para ayudar!
-
-#org @gText_ConfirmStarterChoice
-[HIGHLIGHT DYNAMIC_COLOR6][COLOR WHITE]¿Quieres este Pokémon?
-
-#org @gText_Pokemon4
-Pokémon
-
-#org @gText_SaveError_PleaseExchangeBackupMemory
-Error al guardar.\pCambie la\nmemoria de respaldo.
-
-#org @gSaveStatName_Player
-JUGADOR
-
-#org @gSaveStatName_Badges
-INSIGNIAS
-
-#org @gSaveStatName_Pokedex
-POKéDEX
-
-#org @gSaveStatName_Time
-TIEMPO
-
-#org @gText_FlyToWhere
-¿Adónde volarás?
-
-#org @gOtherText_Use
-USAR
-
-#org @gOtherText_Toss
-SACUDIDA
-
-#org @gOtherText_Register
-REGISTRO
-
-#org @gOtherText_Give
-DAR
-
-#org @gMenuText_Confirm
-Kitei
-
-#org @gOtherText_Walk
-CAMINAR
-
-#org @gFameCheckerText_Cancel
-CANCELAR
-
-#org @gOtherText_Exit
-SALIDA
-
-#org @gString_Dummy
-
-
-#org @gText_Cancel7
-Cancelar
-
-#org @gText_Item
-ARTÍCULO
-
-#org @gText_Mail
-CORREO
-
-#org @gText_Take
-LLEVAR
-
-#org @gText_Store
-ALMACENAR
-
-#org @gOtherText_Check
-CONTROLAR
-
-#org @gText_PokeSum_Item_None
-NINGUNO
-
-#org @gOtherText_Open
-ABIERTO
-
-#org @gOtherText_Deselect
-DESELECCIONAR
-
-#org @gText_PokeSum_DexNoUnknown
-???
-
-#org @gText_FiveMarks
-?????
-
-#org @gText_Slash
+#org @sText_Slash
 /
 
-#org @gText_PokeSum_OneHyphen
--
+#org @sText_HealthboxNickname
+[DESTACADO 02]
 
-#org @gText_PokeSum_TwoHyphens
---
+#org @sText_Dummy
 
-#org @gText_ThreeHyphens
----
 
-#org @gText_SevenHyphens
--------
+#org @sText_ClrWhtHltTranspShdwDrkGry
+[COLOR BLANCO][RESALTAR TRANSPARENTE][SOMBRA OSCURO_GRIS]
 
-#org @gText_MaleSymbol
+#org @gText_MaleSymbol4
 ♂
 
-#org @gText_FemaleSymbol
+#org @gText_FemaleSymbol4
 ♀
 
-#org @gText_Lv
-[LV_2]
+#org @gText_GenderlessSymbol
 
-#org @gText_NumberClear01
-[BORRAR 0x01]
 
-#org @gText_Plus
-[MÁS]
+#org @sText_Dummy2
 
-#org @gText_Escape3
-[ESCAPE 0x03]
 
-#org @gText_IDNumber2
-[identificación]
+#org @sText_Newline
+\n
 
-#org @gText_PokeSum_PP
-[PÁGINAS]
+#org @sText_ShedinjaJP
+Nukenin
 
-#org @gText_SelectorArrow2
-▶
+#org @sText_S
+S
 
-#org @gText_YesNo
-SÍ\nNO
+#org @sText_IES
+IES
 
-#org @gText_GoBackToThePreviousMenu
-Vuelva al\nmenú anterior.
+#org @sText_TaskOver
+TASK OVER\nLa tarea ha terminado
 
-#org @gText_WhatWouldYouLikeToDo
-Que te gustaría hacer?
+#org @gItemDescription_ITEM_NONE
+?????
 
-#org @gText_MenuPokedex
-POKéDEX
+#org @sBerryDescriptionPart1_Cheri
+Flores muy lindas.
 
-#org @gText_MenuBag
-BOLSA
+#org @sBerryDescriptionPart2_Cheri
+Makanami es muy difícil.
 
-#org @gText_MenuPokenav
-pokenavi
+#org @sBerryDescriptionPart1_Chesto
+Todo sobre mi cuerpo y mi cuerpo.
 
-#org @gText_MenuPlayer
-[JUGADOR]
+#org @sBerryDescriptionPart2_Chesto
+Es duro No importa dónde lo comas, es pegajoso.
 
-#org @gText_MenuSave
-AHORRAR
+#org @sBerryDescriptionPart1_Pecha
+Muy dulce y delicioso.
 
-#org @gText_MenuOption
-OPCIÓN
+#org @sBerryDescriptionPart2_Pecha
+Es suave, por lo que es complicado cuando golpea.
 
-#org @gText_MenuExit
-SALIDA
+#org @sBerryDescriptionPart1_Rawst
+Cuando las hojas están enrolladas durante mucho tiempo,
 
-#org @gText_MenuRetire
-JUBILARSE
+#org @sBerryDescriptionPart2_Rawst
+Al parecer se vuelve muy amargo.
 
-#org @gText_MenuSafariStats
-[STR_VAR_1]/[STR_VAR_2]\nBOLAS [STR_VAR_3]
+#org @sBerryDescriptionPart1_Aspear
+Hay mucha agua en la dureza.
 
-#org @gText_TimesStrVar1
-x[STR_VAR_1]
+#org @sBerryDescriptionPart2_Aspear
+Contiene mucho Bastante amargo.
 
-#org @gText_Berry
-BAYA
+#org @sBerryDescriptionPart1_Leppa
+Ligeramente mejor en comparación con Kurabo, etc.
 
-#org @gText_Coins
-[STR_VAR_1] MONEDAS
+#org @sBerryDescriptionPart2_Leppa
+Cuanto más pequeño es el arroz, más sabroso queda.
 
-#org @gText_Items2
-ELEMENTOS
+#org @sBerryDescriptionPart1_Oran
+Una mezcla misteriosa de varios jureles.
 
-#org @gText_PokeBalls2
-POKÉ BOLAS
+#org @sBerryDescriptionPart2_Oran
+Se necesita un día para dominarlo.
 
-#org @gText_KeyItems2
-ELEMENTOS CLAVE
+#org @sBerryDescriptionPart1_Persim
+Amo la vida Cuando me golpea,
 
-#org @gText_DepositItem
-ARTÍCULO DE DEPÓSITO
+#org @sBerryDescriptionPart2_Persim
+Los colores se vuelven cada vez más vivos.
 
-#org @gText_CloseBag
-CERRAR BOLSA
+#org @sBerryDescriptionPart1_Lum
+Se necesita tiempo para desarrollarse, pero es importante.
 
-#org @gText_Var1IsSelected
-[STR_VAR_1] está\nseleccionado.
+#org @sBerryDescriptionPart2_Lum
+Cuando lo cultives, es posible que tengas dos rasguños.
 
-#org @gText_CantWriteMailHere
-No puedes escribir\nMAIL aquí.
+#org @sBerryDescriptionPart1_Sitrus
+Oren es como un hermano.
 
-#org @gText_ThereIsNoPokemon
-No existe ningún\nPOKéMON.
+#org @sBerryDescriptionPart2_Sitrus
+Es de gran tamaño y tiene jureles.
 
-#org @gOtherText_WhereShouldTheStrVar1BePlaced
-¿Dónde debería colocarse el [STR_VAR_1]\n?
+#org @sBerryDescriptionPart1_Figy
+Algunas de las formas parecen restos de comida.
 
-#org @gText_ItemCantBeHeld
-El [STR_VAR_1] no se puede retener.
+#org @sBerryDescriptionPart2_Figy
+Mi cuerpo está obstruido.
 
-#org @gText_TheStrVar1CantBeHeldHere
-El [STR_VAR_1] no se puede retener\naquí.
+#org @sBerryDescriptionPart1_Wiki
+Las verrugas que te rodean son Pokémon.
 
-#org @gText_DepositHowManyStrVars1
-¿Cuántos\n[STR_VAR_1](s) depositas?
+#org @sBerryDescriptionPart2_Wiki
+Se dice que fue hecho para que fuera fácil de sostener.
 
-#org @gText_DepositedStrVar2StrVar1s
-[STR_VAR_2]\n[STR_VAR_1](s) depositados.
+#org @sBerryDescriptionPart1_Mago
+Cuanto más grande se vuelve, mejor se ve.
 
-#org @gText_NoRoomToStoreItems
-No hay espacio para\nalmacenar artículos.
+#org @sBerryDescriptionPart2_Mago
+Es tan dulce y delicioso.
 
-#org @gText_TossOutHowManyStrVar1s
-Desecha ¿cuántos\n[STR_VAR_1](s)?
+#org @sBerryDescriptionPart1_Aguav
+Flores de pequeño tamaño y luz.
 
-#org @gText_ThrewAwayStrVar2StrVar1s
-Desechaste [STR_VAR_2]\n[STR_VAR_1](s).
+#org @sBerryDescriptionPart2_Aguav
+Un árbol raro que es difícil de conservar.
 
-#org @gText_ThrowAwayStrVar2OfThisItemQM
-¿Tirar [STR_VAR_2] de\neste artículo?
+#org @sBerryDescriptionPart1_Iapapa
+Setas ácidas muy grandes.
 
-#org @gText_OakForbidsUseOfItemHere
-OAK: ¡[PLAYER]!\n¡Este no es el momento de usar eso![PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Iapapa
+Incluso si es pequeño, tardará aproximadamente 1 año en crecer.
 
-#org @gText_CantDismountBike
-No puedes bajarte de tu BICI aquí.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Razz
+Cuando comes arroz rojo, te da un poco de sequedad.
 
-#org @gText_ItemfinderResponding
-¿Eh?\n¡El ITEMFINDER está respondiendo!\p¡Hay un objeto enterrado por aquí![PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Razz
+Crece rápidamente, se pule en 4 horas.
 
-#org @gText_ItemfinderShakingWildly
-¡Oh!\n¡El ITEMFINDER está temblando violentamente!\p¡Hay un objeto enterrado bajo tus pies!\p▶ ▶ ▶ ▶ ▶ ▶[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Bluk
+El río es azul y amarillo, pero cuando lo como,
 
-#org @gText_NopeTheresNoResponse
-▶ ▶ ▶ ▶¡No!\nNo hay respuesta.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Bluk
+El interior de mi boca se vuelve negro.
 
-#org @gText_CoinCase
-Tus MONEDAS:\n[STR_VAR_1][PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Nanab
+Me echaron en séptimo grado del mundo.
 
-#org @gText_BootedUpTM
-¡Encendí la máquina a propósito!
+#org @sBerryDescriptionPart2_Nanab
+Una niña llamada Nana es muy dulce.
 
-#org @gText_BootedUpHM
-¿Cómo encontraste la máquina oculta?
+#org @sBerryDescriptionPart1_Wepear
+Pequeñas flores blancas Nigasato
 
-#org @gText_TMHMContainedVar1
-¡Algunos de ellos se han [STR_VAR_1]\nperdidos!\p¿Quieres que tu Pokémon aprenda [STR_VAR_1]?
+#org @sBerryDescriptionPart2_Wepear
+Ají con un toque amargo.
 
-#org @gText_PlayerUsedVar2
-[PLAYER] usó el\n[STR_VAR_2].[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Pinap
+Hace frío y frío.
 
-#org @gText_RepelEffectsLingered
-Pero los efectos de un REPEL\nperduraron desde antes.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Pinap
+Mis entrañas están agrias y mis entrañas están agrias.
 
-#org @gText_UsedVar2WildLured
-[PLAYER] usó el\n[STR_VAR_2].\pPOKéMON salvajes serán atraídos.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Pomeg
+No importa cuánta agua te dé, no importa cuánta agua te dé.
 
-#org @gText_UsedVar2WildRepelled
-[PLAYER] usó el\n[STR_VAR_2].\pLos POKéMON salvajes serán repelidos.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Pomeg
+Incluso si los hubiera, sólo añadiría seis.
 
-#org @gText_BoxFull
-La CAJA está llena.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Kelpsy
+Una rara forma felina.
 
-#org @gText_PowderQty
-CANTIDAD DE POLVO: [STR_VAR_1][PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Kelpsy
+Una flor muy grande.
 
-#org @gOtherText_Powder
-POLVO
+#org @sBerryDescriptionPart1_Qualot
+Amo el agua Amo el agua todo el tiempo.
 
-#org @gText_PlayedPokeFluteCatchy
-Toqué la FLAUTA POKé.\p¡Qué melodía pegadiza![PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Qualot
+Se mantiene firme incluso en la oscuridad.
 
-#org @gText_PlayedPokeFlute
-Tocó la FLAUTA POKé.
+#org @sBerryDescriptionPart1_Hondew
+Es muy interesante y hay mucho que ver.
 
-#org @gText_PokeFluteAwakenedMon
-La POKé FLAUTA despertó durmiendo\nPOKéMON.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Hondew
+No puedo comerlo, está muy delicioso.
 
-#org @gText_TMCase
-CASO TM
+#org @sBerryDescriptionPart1_Grepa
+De la suavidad y forma redonda.
 
-#org @gText_Close
-CERCA
+#org @sBerryDescriptionPart2_Grepa
+Es tan amargo que ni siquiera puedo comerlo.
 
-#org @gText_TMCaseWillBePutAway
-El TM CASE se\nguardará.
+#org @sBerryDescriptionPart1_Tamato
+Está tan seco que tus labios se curvan.
 
-#org @gText_FontSmall
-[FONT_SMALL]
+#org @sBerryDescriptionPart2_Tamato
+Se necesita un tiempo para crecer.
 
-#org @gText_FontNormal
-[FONT_NORMAL]
+#org @sBerryDescriptionPart1_Cornn
+Ha estado en flor desde la antigüedad. Mucho.
 
-#org @gText_EmptySpace
+#org @sBerryDescriptionPart2_Cornn
+Hay ocasiones en las que no puedo hacerlo bien a menos que mejore.
 
+#org @sBerryDescriptionPart1_Magost
+El jurel tiene muy buen equilibrio.
 
-#org @gText_BerryPouch
-BOLSA DE BAYAS
+#org @sBerryDescriptionPart2_Magost
+Árbol Hyoban.
 
-#org @gText_TheBerryPouchWillBePutAway
-La BOLSA DE BAYAS se\nguardará.
+#org @sBerryDescriptionPart1_Rabuta
+Raro con muchas lesiones.
 
-#org @gText_ShopBuy
-COMPRAR
+#org @sBerryDescriptionPart2_Rabuta
+Muy amargo, bastante amargo.
 
-#org @gText_ShopSell
-VENDER
+#org @sBerryDescriptionPart1_Nomel
+Bastante amargo Un bocado
 
-#org @gText_ShopQuit
-¡NOS VEMOS!
+#org @sBerryDescriptionPart2_Nomel
+Después de 3 días, dejan de salir otros jureles.
 
-#org @gText_InBagVar1
-EN BOLSA:[FONT_SMALL] [STR_VAR_1]
+#org @sBerryDescriptionPart1_Spelon
+Cuando me enojo, me siento extremadamente cansado.
 
-#org @gText_QuitShopping
-Deja de comprar.
+#org @sBerryDescriptionPart2_Spelon
+Incluso las verrugas producen erupciones.
 
-#org @gText_Var1CertainlyHowMany
-¿[STR_VAR_1]? Por supuesto.\n¿Cuántos quieres?
+#org @sBerryDescriptionPart1_Pamtre
+El mar surge flotando de la nada.
 
-#org @gText_Var1AndYouWantedVar2
-[STR_VAR_1] y quieres [STR_VAR_2].\nEso será \$[STR_VAR_3]. ¿Bueno?
+#org @sBerryDescriptionPart2_Pamtre
+Parece estar creciendo en algún lugar del mundo.
 
-#org @gText_Var1IsItThatllBeVar2
-[STR_VAR_1] ¡Así es!\n[STR_VAR_2]\n¿Pero está bien?
+#org @sBerryDescriptionPart1_Watmel
+Muy grandes, algunos de más de 50 cm.
 
-#org @gText_YouWantedVar1ThatllBeVar2
-¡Es [STR_VAR_1]!\n[STR_VAR_2]\n¿Pero lo quieres?
+#org @sBerryDescriptionPart2_Watmel
+Me quedé impresionado, fue extremadamente dulce.
 
-#org @gText_HereYouGoThankYou
-¡Aquí estás!\n¡Gracias!
+#org @sBerryDescriptionPart1_Durin
+Sólo mirarlo me pone amargo, es muy amargo.
 
-#org @gText_ThankYouIllSendItHome
-¡Muchas gracias!\n¡Lo enviaré a mi computadora!
+#org @sBerryDescriptionPart2_Durin
+Nadie lo ha comido nunca tal cual.
 
-#org @gText_ThanksIllSendItHome
-¡Muchas gracias!\n¡Lo enviaré a mi computadora!
+#org @sBerryDescriptionPart1_Belue
+Es suave y se ve delicioso, pero es ridículamente delicioso.
 
-#org @gText_YouDontHaveMoney
-No tienes suficiente dinero.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Belue
+Es agrio y tarda un poco en crecer.
 
-#org @gText_NoMoreRoomForThis
-No tienes más espacio para este\nitem.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Liechi
+Semillas Misteriosas. Sólo para Cheetah Umino
 
-#org @gText_SpaceForVar1Full
-Hay muchos lugares para colocar [STR_VAR_1] [PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Liechi
+Hay un rumor de que Chikara tiene un poder.
 
-#org @gText_AnythingElseICanHelp
-¿Hay algo mas que pueda hacer?
+#org @sBerryDescriptionPart1_Ganlon
+Semillas misteriosas Rikuno solo para Ryuga
 
-#org @gText_CanIHelpWithAnythingElse
-Además de eso, ¿qué más puedes hacer?
+#org @sBerryDescriptionPart2_Ganlon
+Hay un rumor de que Chikara tiene un poder.
 
-#org @gText_ThrowInPremierBall
-¡Te regalo 1 Premier Ball como extra![PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart1_Salac
+La semilla de un misterio. Sora no sólo para Kamura.
 
-#org @gText_OhNoICantBuyThat
-¿[STR_VAR_1]? Oh, no.\nNo puedo creerlo.[PAUSE_UNTIL_PRESS]
+#org @sBerryDescriptionPart2_Salac
+Hay un rumor de que Chikara tiene un poder.
 
-#org @gText_HowManyWouldYouLikeToSell
-[STR_VAR_1]?\n¿Cuántos te gustaría vender?
+#org @sBerryDescriptionPart1_Petaya
+La semilla de un misterio, sólo Yatapi tiene todas las semillas.
 
-#org @gText_ICanPayThisMuch_WouldThatBeOkay
-Puedo pagar \$[STR_VAR_3].\n¿Estaría bien?
+#org @sBerryDescriptionPart2_Petaya
+Se dice que el poder de los seres vivos sobrevive.
 
-#org @gText_TurnedOverItemsWorthYen
-Se entregó el sistema [STR_VAR_1]\nvalor \n[STR_VAR_3].
+#org @sBerryDescriptionPart1_Apicot
+Misterioso Árbol Misterioso ¿Qué es?
 
-#org @gText_PokedollarVar1
-\$[STR_VAR_1]
+#org @sBerryDescriptionPart2_Apicot
+No sé si va a pasar o qué puedo hacer.
 
-#org @gText_Shift
-CAMBIO
+#org @sBerryDescriptionPart1_Lansat
+Se dice que es un manjar.
 
-#org @gText_SendOut
-MANDAR
+#org @sBerryDescriptionPart2_Lansat
+Parece hacerte muy feliz.
 
-#org @gText_Switch2
-CAMBIAR
+#org @sBerryDescriptionPart1_Starf
+Porque el poder es demasiado fuerte
 
-#org @gText_Summary5
-RESUMEN
+#org @sBerryDescriptionPart2_Starf
+Una ilusión que tiré al borde del mundo.
 
-#org @gText_Moves
-Técnicas útiles
+#org @sBerryDescriptionPart1_Enigma
+Shotai Fumeino Kinomi.
 
-#org @gText_Enter
-INGRESAR
+#org @sBerryDescriptionPart2_Enigma
+Parece tener el poder de las estrellas.
 
-#org @gText_NoEntry
-NO HAY ENTRADA
+#org @sEasyChatWord_IChooseYou
+TE ESCOJO A TI
 
-#org @gText_Take2
-LLEVAR
+#org @sEasyChatWord_Gotcha
+ENTENDIDO
 
-#org @gText_Read2
-LEER
-
-#org @gText_Trade4
+#org @sEasyChatWord_Trade
 COMERCIO
 
-#org @gText_ItemEffect_HP
-caballos de fuerza
+#org @sEasyChatWord_Sapphire
+ZAFIRO
 
-#org @gText_ItemEffect_SpAtk
-SP. INFORMÁTICA
+#org @sEasyChatWord_Evolve
+EVOLUCIONAR
 
-#org @gText_ItemEffect_SpDef
-SP. DEF
+#org @sEasyChatWord_Encyclopedia
+ENCICLOPEDIA
 
-#org @gText_PartyMenu_OK
-DE ACUERDO
+#org @sEasyChatWord_Nature
+NATURALEZA
 
-#org @gText_Empty
+#org @sEasyChatWord_Center
+CENTRO
 
+#org @sEasyChatWord_Egg
+HUEVO
 
-#org @gText_PauseUntilPress
-[PAUSE_UNTIL_PRESS]
+#org @sEasyChatWord_Link
+ENLACE
 
-#org @gText_WontHaveEffect
-No tendrá ningún efecto.[PAUSE_UNTIL_PRESS]
+#org @sEasyChatWord_SpAbility
+SP. CAPACIDAD
 
-#org @gText_CantBeUsedOnPkmn
-Esto no se puede usar en\nese POKéMON.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnCantSwitchOut
-¡[STR_VAR_1] no se puede cambiar\n![PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnAlreadyInBattle
-¡[STR_VAR_1] ya está\nen batalla![PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnAlreadySelected
-[STR_VAR_1] ya ha sido\nseleccionado.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnHasNoEnergy
-¡A [STR_VAR_1] no le queda energía\npara luchar![PAUSE_UNTIL_PRESS]
-
-#org @gText_CantSwitchWithAlly
-¡No puedes cambiar el\nPOKéMON de [STR_VAR_1] por uno tuyo![PAUSE_UNTIL_PRESS]
-
-#org @gText_EggCantBattle
-¡Un HUEVO no puede luchar![PAUSE_UNTIL_PRESS]
-
-#org @gText_CantUseUntilNewBadge
-Esto no se puede utilizar hasta que se obtenga un nuevo\nBADGE.[PAUSE_UNTIL_PRESS]
-
-#org @gText_NoMoreThanThreeMayEnter
-No podrán participar más de tres POKéMON\n.[PAUSE_UNTIL_PRESS]
-
-#org @gText_NoMoreThanTwoMayEnter
-No pueden entrar más de dos POKéMON\n.[PAUSE_UNTIL_PRESS]
-
-#org @gText_SendMailToPC
-¿Enviar el CORREO eliminado a\nsu PC?
-
-#org @gText_MailSentToPC
-El CORREO fue enviado a su PC.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PCMailboxFull
-El MAILBOX de tu PC está lleno.[PAUSE_UNTIL_PRESS]
-
-#org @gText_MailMessageWillBeLost
-Si se elimina el CORREO, el\nmensaje se perderá. ¿Bueno?
-
-#org @gText_RemoveMailBeforeItem
-MAIL debe eliminarse antes de\nretener un artículo.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnWasGivenItem
-A [STR_VAR_1] se le dio el\n[STR_VAR_2] para que retenga.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnAlreadyHoldingItemSwitch
-[STR_VAR_1] ya tiene\ninguno [STR_VAR_2].\p¿Quieres cambiar los\ndos elementos?
-
-#org @gText_PkmnNotHolding
-[STR_VAR_1] no tiene\nnada.[PAUSE_UNTIL_PRESS]
-
-#org @gText_ReceivedItemFromPkmn
-Recibiste el [STR_VAR_2]\nde [STR_VAR_1].[PAUSE_UNTIL_PRESS]
-
-#org @gText_MailTakenFromPkmn
-EL CORREO fue tomado del\nPOKéMON.[PAUSE_UNTIL_PRESS]
-
-#org @gText_SwitchedPkmnItem
-El [STR_VAR_2] fue tomado y\nreemplazado con el [STR_VAR_1].[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnHoldingItemCantHoldMail
-Este POKéMON tiene un\nitem. No puede retener MAIL.[PAUSE_UNTIL_PRESS]
-
-#org @gText_MailTransferredFromMailbox
-MAIL fue transferido desde\nel MAILBOX.[PAUSE_UNTIL_PRESS]
-
-#org @gText_BagFullCouldNotRemoveItem
-El [STR_VAR_1] está lleno. No se pudo eliminar el elemento\ni del POKéMON.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnLearnedMove3
-¡[STR_VAR_1] aprendió\n[STR_VAR_2]!
-
-#org @gText_PkmnCantLearnMove
-[STR_VAR_1] y [STR_VAR_2]\nno son compatibles.\p[STR_VAR_2] no se puede\nconocer.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnNeedsToReplaceMove
-[STR_VAR_1] quiere aprender el\nmovimiento [STR_VAR_2].\pSin embargo, [STR_VAR_1] ya\nconoce cuatro movimientos.\p¿Debería eliminarse un movimiento y\nreemplazarse con [STR_VAR_2]?
-
-#org @gText_StopLearningMove2
-¿Dejar de intentar enseñar\n[STR_VAR_2]?
-
-#org @gText_MoveNotLearned
-[STR_VAR_1] no aprendió el\nmovimiento [STR_VAR_2].[PAUSE_UNTIL_PRESS]
-
-#org @gText_WhichMoveToForget
-¿Qué movimiento debería olvidarse?[PAUSE_UNTIL_PRESS]
-
-#org @gText_12PoofForgotMove
-1, [PAUSE 0x0F]2 y [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F][PLAY_SE SE_BALL_BOUNCE_1]¡Puf!\p[STR_VAR_1] olvidé cómo\nusar [STR_VAR_2].\pY ...[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnAlreadyKnows
-[STR_VAR_1] ya lo sabe\n[STR_VAR_2].[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnHPRestoredByVar2
-Los HP de [STR_VAR_1] fueron restaurados\nen [STR_VAR_2] punto(s).[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnCuredOfPoison
-[STR_VAR_1] se curó de su\nenvenenamiento.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnCuredOfParalysis
-[STR_VAR_1] se curó de\nparálisis.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnWokeUp2
-[STR_VAR_1] se despertó.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnBurnHealed
-La quemadura de [STR_VAR_1] se curó.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnThawedOut
-[STR_VAR_1] fue descongelado.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PPWasRestored
-PP fue restaurado.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnRegainhedHealth
-[STR_VAR_1]\n ¡recuperó su salud![PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnBecameHealthy
-[STR_VAR_1] se recuperó.[PAUSE_UNTIL_PRESS]
-
-#org @gText_MovesPPIncreased
-Los PP de [STR_VAR_1] aumentaron.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnElevatedToLvVar2
-[STR_VAR_1] fue elevado a\nLv. [STR_VAR_2].
-
-#org @gText_PkmnBaseVar2StatIncreased
-Se elevó la base [STR_VAR_2]\nstat de [STR_VAR_1].[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnSnappedOutOfConfusion
-[STR_VAR_1] salió de su\nconfusión.[PAUSE_UNTIL_PRESS]
-
-#org @gText_PkmnGotOverInfatuation
-[STR_VAR_1] superó su\nencaprichamiento.[PAUSE_UNTIL_PRESS]
-
-#org @gText_OnlyPkmnForBattle
-Ese es tu único\nPOKéMON para la batalla.
-
-#org @gText_PkmnCantBeTradedNow
-Ese POKéMON no se puede intercambiar\nahora.
-
-#org @gText_EggCantBeTradedNow
-Un EGG no se puede comercializar ahora.
-
-#org @gText_OtherTrainersPkmnCantBeTraded
-El POKéMON\ndel otro ENTRENADOR no se puede intercambiar ahora.
-
-#org @gText_OtherTrainerCantAcceptPkmn
-El otro ENTRENADOR no puede aceptar\nese POKéMON ahora.
-
-#org @gText_CantTradeWithTrainer
-No puedes comerciar con ese\nENTRENADOR ahora.
-
-#org @gText_NotPkmnOtherTrainerWants
-Ese no es el tipo de POKéMON\nque el otro ENTRENADOR quiere.
-
-#org @gText_ThatIsntAnEgg
-Eso no es un HUEVO.
-
-#org @gText_ChoosePokemon
-Elige un POKéMON.
-
-#org @gText_MoveToWhere
-¿Mudarse a dónde?
-
-#org @gText_TeachWhichPokemon
-¿Enseñar qué POKéMON?
-
-#org @gText_UseOnWhichPokemon
-¿Usar en qué POKéMON?
-
-#org @gText_GiveToWhichPokemon
-¿Dar a qué POKéMON?
-
-#org @gText_DoWhatWithPokemon
-¿Hacer qué con este [PKMN]?
-
-#org @gText_NothingToCut
-No hay nada que CORTAR.
-
-#org @gText_CantSurfHere
-¡No SURF aquí!
-
-#org @gText_AlreadySurfing
-Ya estás SURFEAR.
-
-#org @gText_CantUseHere
-No puedo usar eso aquí.
-
-#org @gText_RestoreWhichMove
-¿Restaurar qué movimiento?
-
-#org @gText_BoostPp
-¿Impulsar el PP de cuál?
-
-#org @gText_DoWhatWithItem
-¿Hacer qué con un artículo?
-
-#org @gText_NoPokemonForBattle
-¡No pelees de esta manera!
-
-#org @gText_ChoosePokemon2
-Elige un POKéMON.
-
-#org @gText_NotEnoughHp
-No hay suficientes HP▶
-
-#org @gText_ThreePkmnAreNeeded
-Se necesitan tres [PKMN].
-
-#org @gText_PokemonCantBeSame
-[PKMN] no puede ser el mismo.
-
-#org @gText_NoIdenticalHoldItems
-¡No hay los mismos artículos retenidos!
-
-#org @gText_CurrentIsTooFast
-¡La corriente es demasiado rápida!
-
-#org @gText_DoWhatWithMail
-¿Hacer qué con el CORREO?
-
-#org @gText_ChoosePokemonCancel
-Elige POKéMON o CANCELAR.
-
-#org @gText_ChoosePokemonConfirm
-Elige POKéMON y confirma.
-
-#org @gText_TwoPokemonAreNeeded
-Se necesitan dos POKéMON.
-
-#org @gText_EnjoyCycling
-¡Disfrutemos del ciclismo!
-
-#org @gText_InUseAlready_PM
-Esto ya está en uso.
-
-#org @gText_NoUse
-Es inútil.
-
-#org @gText_Able
-CAPAZ
-
-#org @gText_First_PM
-PRIMERO
-
-#org @gText_Second_PM
-SEGUNDO
-
-#org @gText_Third_PM
-TERCERO
-
-#org @gText_Able2
-CAPAZ
-
-#org @gText_NotAble
-NOTABLE
-
-#org @gText_Able3
-¡CAPAZ!
-
-#org @gText_NotAble2
-¡NOTABLE!
-
-#org @gText_Learned
-APRENDIÓ
-
-#org @gText_OakImportantToGetToKnowPokemonThroughly
-OAK: Es importante conocer\ntu POKéMON a fondo.\p
-
-#org @gText_OakThisIsListOfPokemon
-Esta es una lista de tu POKéMON,\n[JUGADOR].\pAbre esto para verificar las habilidades\ny movimientos de tu POKéMON.\pTambién eliges POKéMON aquí si\nquieres usar un elemento en uno.[PAUSE_UNTIL_PRESS]
-
-#org @gText_CutATreeOrGrass
-Corta un árbol o césped.
-
-#org @gText_FlyToAKnownTown
-Vuela a una ciudad conocida.
-
-#org @gText_TravelOnWater
-Viajar sobre el agua.
-
-#org @gText_MoveHeavyBoulders
-Mueve rocas pesadas.
-
-#org @gText_LightUpDarkness
-Ilumina la oscuridad.
-
-#org @gText_ShatterACrackedRock
-Rompe una roca agrietada.
-
-#org @gText_ClimbAWaterfall
-Sube a una cascada.
-
-#org @gText_DiveUnderwater
-Sandía
-
-#org @gText_EscapeFromHere
-Escapa de aquí.
-
-#org @gText_LureWildPokemon
-Atrae a POKéMON salvajes.
-
-#org @gText_ShareHp
-Comparte HP.
-
-#org @gText_ReturnToAHealingSpot
-Regrese a un lugar de curación.
-
-#org @gText_EscapeFromHereAndReturnTo
-¿Quieres escapar de aquí y regresar\na [STR_VAR_1]?
-
-#org @gText_ReturnToHealingSpot
-¿Quieres volver al punto de curación\nusado por última vez en [STR_VAR_1]?
-
-#org @gText_ItemEffect_Attack
-ATAQUE
-
-#org @gText_ItemEffect_Defense
-DEFENSA
-
-#org @gText_ItemEffect_SpAtk_Unused
-Especial
-
-#org @gText_ItemEffect_SpDef_Unused
-Tokubou
-
-#org @gText_ItemEffect_Speed
-VELOCIDAD
-
-#org @gText_ItemEffect_HP_Unused
-caballos de fuerza
-
-#org @gText_PkmnCantParticipate
-Ese POKéMON no puede participar.[PAUSE_UNTIL_PRESS]
-
-#org @gText_CancelParticipation
-¿Cancelar participación?
-
-#org @gText_Empty12
-
-
-#org @gText_CancelBattle
-¿Cancelar la batalla?
-
-#org @gText_TurnOff
-APAGAR
-
-#org @gText_Decoration
-Luchando
-
-#org @gText_ItemStorage
-ALMACENAMIENTO DE ARTÍCULOS
-
-#org @gText_Mailbox
-BUZÓN
-
-#org @gText_DepositItem2
-ARTÍCULO DE DEPÓSITO
-
-#org @gText_WithdrawItem2
-RETIRAR ARTÍCULO
-
-#org @gText_TossItem
-Tirar artículos
-
-#org @gText_StoreItemsInThePC
-Almacene artículos en la PC.
-
-#org @gText_TakeOutItemsFromThePC
-Saque elementos de la PC.
-
-#org @gText_ThrowAwayItemsInPC
-Voy a tirar las herramientas que guardo en mi computadora.
-
-#org @gText_ThereAreNoItems
-No hay elementos.[PAUSE_UNTIL_PRESS]
-
-#org @gText_NoMoreRoomInBag
-Ya no queda\nespacio en la BOLSA.
-
-#org @gText_WithdrawHowMany
-¿Retirar cuántos\n[STR_VAR_1](s)?
-
-#org @gText_WithdrewQuantItem
-Retiró [STR_VAR_2]\n[STR_VAR_1](s).
-
-#org @gOtherText_Read
-LEER
-
-#org @gOtherText_MoveToBag
-MOVER A LA BOLSA
-
-#org @gOtherText_Give2
-DAR
-
-#org @gText_TheresNoMailHere
-No hay CORREO aquí.[PAUSE_UNTIL_PRESS]
-
-#org @gText_WhatWouldYouLikeToDoWithPlayersMail
-¿Qué te gustaría hacer con el MAIL de\n[STR_VAR_1]?
-
-#org @gText_MessageWillBeLost
-El mensaje se perderá.\n¿Está bien?
-
-#org @gText_BagIsFull
-La BOLSA está llena.[PAUSE_UNTIL_PRESS]
-
-#org @gText_MailReturnedToBagMessageErased
-El CORREO fue devuelto a la BOLSA\ncon su mensaje borrado.[PAUSE_UNTIL_PRESS]
-
-#org @gText_WithdrawItem
-RETIRAR\nARTÍCULO
-
-#org @gText_Withdraw
-RETIRAR
-
-#org @gText_ReturnToPC
-Regrese a la computadora.
-
-#org @gText_LtSurge
-LT. AUMENTO
-
-#org @gText_Koga
-KOGA
-
-#org @gText_Participate
-unirse
-
-#org @gText_Info
-INFORMACIÓN
-
-#org @gText_Eggs
-HUEVOS
-
-#org @gText_HallOfFame
-SALÓN DE LA FAMA
-
-#org @gText_Victories
-VICTORIAS
-
-#org @gText_Quit
-ABANDONAR
-
-#org @gText_Psn
-PSN
-
-#org @gText_Par
-PAR
-
-#org @gText_Slp
-SLP
-
-#org @gText_Brn
-BRN
-
-#org @gText_Frz
-FRZ
-
-#org @gText_Toxic
-TÓXICO
-
-#org @gText_OK
-DE ACUERDO
-
-#org @gOtherText_Quit
-ABANDONAR
-
-#org @gText_SawIt
-Sierra
-
-#org @gText_NotYet
-desde ahora
-
-#org @gText_Yes
-SÍ
-
-#org @gText_No
-NO
-
-#org @gText_Info4
-explicación
-
-#org @gText_SingleBattle
-BATALLA ÚNICA
-
-#org @gText_DoubleBattle
-DOBLE BATALLA
-
-#org @gText_MultiBattle
-BATALLA MÚLTIPLE
-
-#org @gText_MakeAChallenge
-Haz un desafío.
-
-#org @gText_Info_2
-INFORMACIÓN
-
-#org @gText_FreshWater_200
-AGUA DULCE[CLEAR_TO 0x57][FONT_SMALL]\$200
-
-#org @gText_SodaPop_300
-Refresco[CLEAR_TO 0x57][FONT_SMALL]\$300
-
-#org @gText_Lemonade_350
-LIMONADA[CLEAR_TO 0x57][FONT_SMALL]\$350
-
-#org @gText_50Coins_1000
-[FONT_SMALL] 50 MONEDAS[CLEAR_TO 0x45]\$1000
-
-#org @gText_500Coins_10000
-[FONT_SMALL]500 MONEDAS[CLEAR_TO 0x40]\$10,000
-
-#org @gText_Excellent
-Excelente
-
-#org @gText_NotSoBad
-No es tan malo
-
-#org @gText_RedShard
-Fragmento rojo
-
-#org @gText_YellowShard
-Fragmento amarillo
-
-#org @gText_BlueShard
-FRAGMENTO AZUL
-
-#org @gText_GreenShard
-Fragmento verde
-
-#org @gText_BattleTower
-torre de batalla-
-
-#org @gText_Right
-Bien
-
-#org @gText_Left
-Izquierda
-
-#org @gText_Tm13_4000Coins
-TM13[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
-
-#org @gText_Tm23_3500Coins
-TM23[CLEAR_TO 0x48][FONT_SMALL]3500 MONEDAS
-
-#org @gText_Tm24_4000Coins
-TM24[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
-
-#org @gText_Tm30_4500Coins
-TM30[CLEAR_TO 0x48][FONT_SMALL]4500 MONEDAS
-
-#org @gText_Tm35_4000Coins
-TM35[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
-
-#org @gText_1F_2
-1F
-
-#org @gText_2F_2
-2F
-
-#org @gText_3F_2
-3F
-
-#org @gText_4F_2
-4F
-
-#org @gText_5F_2
-5F
-
-#org @gText_Cool
-FRESCO
-
-#org @gText_Beauty
-BELLEZA
-
-#org @gText_Cute
-LINDO
-
-#org @gText_Smart
-ELEGANTE
-
-#org @gText_Tough
-DIFÍCIL
-
-#org @gText_Normal
-NORMAL
-
-#org @gText_Black
-NEGRO
-
-#org @gText_Pink
-ROSA
-
-#org @gText_Sepia
-SEPIA
-
-#org @gText_Cool_2
-FRESCO
-
-#org @gText_Beauty_2
-BELLEZA
-
-#org @gText_Cute_2
-LINDO
-
-#org @gText_Smart_2
-ELEGANTE
-
-#org @gText_Tough_2
-DIFÍCIL
-
-#org @gText_Items
-ELEMENTOS
-
-#org @gText_KeyItems
-ELEMENTOS CLAVE
-
-#org @gText_PokeBalls
-POKÉ BOLAS
-
-#org @gText_TMsAndHMs
-TM y HM
-
-#org @gText_Berries
-BAYAS
-
-#org @gText_Boulderbadge
-INSIGNIA DE BOULDER
-
-#org @gText_Cascadebadge
-INSIGNIA EN CASCADA
-
-#org @gText_Thunderbadge
-INSIGNIA DEL TRUENO
-
-#org @gText_Rainbowbadge
-INSIGNIA ARCO IRIS
-
-#org @gText_Soulbadge
-INSIGNIA DEL ALMA
-
-#org @gText_Marshbadge
-MARSHBADGE
-
-#org @gText_Volcanobadge
-VOLCANOBADGE
-
-#org @gText_Earthbadge
-INSIGNIA DE TIERRA
-
-#org @gText_SomeoneSPc
-LA PC DE ALGUIEN
-
-#org @gText_BillSPc
-PC DE BILL
-
-#org @gText_SPc
-PC de [PLAYER]
-
-#org @gText_HallOfFame_2
-SALÓN DE LA FAMA
-
-#org @gText_LogOff
-DESCONECTARSE
-
-#org @gText_ProfOakSPc
-PROFE. PC de roble
-
-#org @gText_Eevee
-EEVEE
-
-#org @gText_Flareon
-FLAREÓN
-
-#org @gText_Jolteon
-JOLTEÓN
-
-#org @gText_Vaporeon
-VAPOREON
-
-#org @gText_QuitLooking
-Deja de buscar.
-
-#org @gText_FreshWater
-AGUA DULCE
-
-#org @gText_SodaPop
-GASEOSA
-
-#org @gText_Lemonade
-LIMONADA
-
-#org @gText_Coins_2
-MONEDAS
-
-#org @gText_Bicycle_Price
-BICICLETA[CLEAR_TO 0x49][FONT_SMALL]\$1.000.000
-
-#org @gText_NoThanks
-NO, GRACIAS
-
-#org @gText_Abra_180Coins
-ABRA[CLEAR_TO 0x55][FONT_SMALL] 180 MONEDAS
-
-#org @gText_Clefairy_500Coins
-CLEFAIRY[CLEAR_TO 0x55][FONT_SMALL] 500 MONEDAS
-
-#org @gText_Dratini_2800Coins
-DRATINI[CLEAR_TO 0x4B][FONT_SMALL] 2.800 MONEDAS
-
-#org @gText_Scyther_5500Coins
-SCYTHER[CLEAR_TO 0x4B][FONT_SMALL] 5.500 MONEDAS
-
-#org @gText_Porygon_9999Coins
-PORYGON[CLEAR_TO 0x4B][FONT_SMALL] 9,999 MONEDAS
-
-#org @gText_Abra_120Coins
-ABRA[CLEAR_TO 0x55][FONT_SMALL] 120 MONEDAS
-
-#org @gText_Clefairy_750Coins
-CLEFAIRY[CLEAR_TO 0x55][FONT_SMALL] 750 MONEDAS
-
-#org @gText_Pinsir_2500Coins
-PINSIR[CLEAR_TO 0x4B][FONT_SMALL] 2500 MONEDAS
-
-#org @gText_Dratini_4600Coins
-DRATINI[CLEAR_TO 0x4B][FONT_SMALL] 4.600 MONEDAS
-
-#org @gText_Porygon_6500Coins
-PORYGON[CLEAR_TO 0x4B][FONT_SMALL] 6.500 MONEDAS
-
-#org @gText_NoThanks_2
-NO, GRACIAS
-
-#org @gText_HelixFossil
-FÓSIL DE HÉLICE
-
-#org @gText_DomeFossil
-FÓSIL DE CÚPULA
-
-#org @gText_OldAmber
-VIEJO ÁMBAR
-
-#org @gText_TradeCenter
-CENTRO DE COMERCIO
-
-#org @gText_Colosseum
-COLISEO
-
-#org @gText_GameLinkCable
-Cable de enlace de juego
-
-#org @gText_Wireless
-Inalámbrico
-
-#org @gText_ItemsPocket
-BOLSILLO DE ARTÍCULOS
-
-#org @gText_KeyItemsPocket
-BOLSILLO PARA ARTÍCULOS CLAVE
-
-#org @gText_PokeBallsPocket
-BOLSILLO DE POKÉ BOLAS
-
-#org @gText_TmCase
-CASO TM
-
-#org @gText_BerryPouch_2
-BOLSA DE BAYAS
-
-#org @gText_Other
-OTRO
-
-#org @gText_OneIsland
-UNA ISLA
-
-#org @gText_TwoIsland
-DOS ISLAS
-
-#org @gText_ThreeIsland
-TRES ISLAS
-
-#org @gText_FourIsland
-CUATRO ISLAS
-
-#org @gText_FiveIsland
-CINCO ISLAS
-
-#org @gText_SixIsland
-SEIS ISLAS
-
-#org @gText_SevenIsland
-SIETE ISLAS
-
-#org @gText_Vermilion
-BERMELLÓN
-
-#org @gText_Colosseum_2
-COLISEO
-
-#org @gText_BerryCrush
-TRITURACIÓN DE BAYAS
-
-#org @gText_EmptyLinkService1
-
-
-#org @gText_EmptyLinkService2
-
-
-#org @gText_ListenToExplanation
-escucha los susurros
-
-#org @gText_RecordCorner
-
-
-#org @gText_PokemonJump
-SALTO POKéMON
-
-#org @gText_DodrioBerryPicking
-RECOGIDA DE BAYAS DE DODRIO
-
-#org @gText_2Tinymushrooms
-2 SETAS PEQUEÑAS
-
-#org @gText_1BigMushroom
-1 HONGO GRANDE
-
-#org @gText_SeviiIslands
-ISLA SEVII
-
-#org @gText_NavelRock
-ROCA DEL OMBLIGO
-
-#org @gText_BirthIsland
-ISLA NACIMIENTO
-
-#org @gText_MiracleSeed_1000Coins
-SEMILLA MILAGROSA[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
-
-#org @gText_Charcoal_1000Coins
-CARBÓN[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
-
-#org @gText_MysticWater_1000Coins
-AGUA MÍSTICA[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
-
-#org @gText_YellowFlute_1600Coins
-FLAUTA AMARILLA[CLEAR_TO 0x50][FONT_SMALL]1,600 MONEDAS
-
-#org @gText_SmokeBall_800Coins
-BOLA DE HUMO[CLEAR_TO 0x5A][FONT_SMALL]800 MONEDAS
-
-#org @gText_Multichoice_Empty2
-
-
-#org @gText_Multichoice_Empty1
-
-
-#org @gText_BecomeLeader
-CONVIÉRTETE EN LÍDER
-
-#org @gText_JoinGroup
-UNIRSE AL GRUPO
-
-#org @gOtherText_Single
-SOLTERO
-
-#org @gOtherText_Double
-DOBLE
-
-#org @gOtherText_Knockout
-KNOCKEAR
-
-#org @gOtherText_Mixed
-MEZCLADO
-
-#org @gText_99TimesPlus
-99 años
-
-#org @gText_1MinutePlus
-1 golpe
-
-#org @gText_SpaceSeconds
-virar
-
-#org @gText_SpaceTimes
-mariscos
-
-#org @gText_DecimalPoint
-.
-
-#org @gText_BigGuy
-Gran chico
-
-#org @gText_BigGirl
-Niña grande
-
-#org @gText_Son
-hijo
-
-#org @gText_Daughter
-hija
-
-#org @gText_BoulderBadge
-INSIGNIA DE BOULDER
-
-#org @gText_CascadeBadge
-INSIGNIA EN CASCADA
-
-#org @gText_ThunderBadge
-INSIGNIA DEL TRUENO
-
-#org @gText_RainbowBadge
-INSIGNIA ARCO IRIS
-
-#org @gText_SoulBadge
-INSIGNIA DEL ALMA
-
-#org @gText_MarshBadge
-MARSHBADGE
-
-#org @gText_VolcanoBadge
-VOLCANOBADGE
-
-#org @gText_EarthBadge
-INSIGNIA DE TIERRA
-
-#org @gText_1F
-1F
-
-#org @gText_2F
-2F
-
-#org @gText_3F
-3F
-
-#org @gText_4F
-4F
-
-#org @gText_5F
-5F
-
-#org @gText_6F
-6F
-
-#org @gText_7F
-7F
-
-#org @gText_8F
-8F
-
-#org @gText_9F
-9F
-
-#org @gText_10F
-10F
-
-#org @gText_11F
-11F
-
-#org @gText_B1F
-B1F
-
-#org @gText_B2F
-B2F
-
-#org @gText_B3F
-B3F
-
-#org @gText_B4F
-B4F
-
-#org @gText_Rooftop
-TECHO
-
-#org @gText_NowOn
-Ahora en:
-
-#org @gText_LinkedGamePlay
-JUEGO VINCULADO
-
-#org @gText_DirectCorner
-ESQUINA DIRECTA
-
-#org @gText_UnionRoom
-SALA DE LA UNIÓN
-
-#org @gText_Energypowder_50
-POLVO DE ENERGÍA[CLEAR_TO 0x74][FONT_SMALL]50
-
-#org @gText_EnergyRoot_80
-RAÍZ DE ENERGÍA[CLEAR_TO 0x74][FONT_SMALL]80
-
-#org @gText_HealPowder_50
-POLVO CURATIVO[CLEAR_TO 0x74][FONT_SMALL]50
-
-#org @gText_RevivalHerb_300
-HIERBA DE AVIVAMIENTO[CLEAR_TO 0x6F][FONT_SMALL]300
-
-#org @gText_Protein_1000
-PROTEÍNA[CLEAR_TO 0x65][FONT_SMALL]1000
-
-#org @gText_Iron_1000
-HIERRO[CLEAR_TO 0x65][FONT_SMALL]1.000
-
-#org @gText_Carbos_1000
-CARBOS[CLEAR_TO 0x65][FONT_SMALL]1.000
-
-#org @gText_Calcium_1000
-CALCIO[CLEAR_TO 0x65][FONT_SMALL]1000
-
-#org @gText_Zinc_1000
-ZINC[CLEAR_TO 0x65][FONT_SMALL]1000
-
-#org @gText_HpUp_1000
-HP HASTA[CLEAR_TO 0x65][FONT_SMALL]1000
-
-#org @gText_PpUp_3000
-PP ARRIBA[CLEAR_TO 0x65][FONT_SMALL]3000
-
-#org @gString_BattleRecords_PlayersBattleResults
-RESULTADOS DE LA BATALLA DE [JUGADOR]
-
-#org @gString_BattleRecords_TotalRecord
-REGISTRO TOTAL W:[STR_VAR_1] L:[STR_VAR_2] D:[STR_VAR_3]
-
-#org @gString_BattleRecords_ColumnHeaders
-GANAR[CLEAR_TO 0x30]PERDER[CLEAR_TO 0x60]EMPATE
-
-#org @gString_BattleRecords_7Dashes
--------
-
-#org @gString_BattleRecords_4Dashes
-----
-
-#org @gFameCheckerText_FameCheckerWillBeClosed
-El FAME CHECKER estará cerrado.
-
-#org @gFameCheckerText_ClearTextbox
-\norte
-
-#org @gText_ExitUnused
-detener
-
-#org @gText_ExitFromBox
-Salir de la CAJA.
-
-#org @gText_WhatDoYouWantToDo
-¿Qué es lo que quieres hacer?
-
-#org @gText_PleasePickATheme
-Por favor elige un tema.
-
-#org @gText_PickTheWallpaper
-Elige el fondo de pantalla.
-
-#org @gText_PkmnIsSelected
-Se selecciona [DINÁMICO 0x00].
-
-#org @gText_JumpToWhichBox
-¿Saltar a qué CAJA?
-
-#org @gText_DepositInWhichBox
-¿Depositar en qué CAJA?
-
-#org @gText_PkmnWasDeposited
-Se depositó [DYNAMIC 0x00].
-
-#org @gText_BoxIsFull2
-La CAJA está llena.
-
-#org @gText_ReleaseThisPokemon
-¿Liberar este POKéMON?
-
-#org @gText_PkmnWasReleased
-Se lanzó [DYNAMIC 0x00].
-
-#org @gText_ByeByePkmn
-¡Adiós, [DYNAMIC 0x00]!
-
-#org @gText_MarkYourPkmn
-Marca tu POKéMON.
-
-#org @gText_ThatsYourLastPkmn
-¡Ese es tu último POKéMON!
-
-#org @gText_YourPartysFull
-¡Tu fiesta está llena!
-
-#org @gText_YoureHoldingAPkmn
-¡Tienes un POKéMON en la mano!
-
-#org @gText_WhichOneWillYouTake
-¿Cuál te llevarás?
-
-#org @gText_YouCantReleaseAnEgg
-No puedes liberar un HUEVO.
-
-#org @gText_ContinueBoxOperations
-¿Continuar operaciones de BOX?
-
-#org @gText_PkmnCameBack
-¡[DYNAMIC 0x00] ha vuelto!
-
-#org @gText_WasItWorriedAboutYou
-¿Estaba preocupado por ti?
-
-#org @gText_FourEllipsesExclamation
-▶ ▶ ▶ ▶ ▶!
-
-#org @gText_PleaseRemoveTheMail
-Por favor elimine el CORREO.
-
-#org @gText_GiveToAPkmn
-¿DARLE a un POKéMON?
-
-#org @gText_PlacedItemInBag
-Artículo colocado en la BOLSA.
-
-#org @gText_BagIsFull2
-La BOLSA está llena.
-
-#org @gText_PutItemInBag
-¿Poner este artículo en la BOLSA?
-
-#org @gText_ItemIsNowHeld
-[DYNAMIC 0x00] ahora está retenido.
-
-#org @gText_ChangedToNewItem
-Cambiado a [DINÁMICO 0x00].
-
-#org @gText_MailCantBeStored
-¡MAIL no se puede almacenar!
-
-#org @gPCText_Cancel
-CANCELAR
-
-#org @gPCText_Store
-ALMACENAR
-
-#org @gPCText_Withdraw
-RETIRAR
-
-#org @gPCText_Shift
-CAMBIO
-
-#org @gPCText_Move
-MOVER
-
-#org @gPCText_Place
-LUGAR
-
-#org @gPCText_Summary
-RESUMEN
-
-#org @gPCText_Release
-LIBERAR
-
-#org @gPCText_Mark
-MARCA
-
-#org @gPCText_Name
-NOMBRE
-
-#org @gPCText_Jump
-SALTAR
-
-#org @gPCText_Wallpaper
-FONDO DE PANTALLA
-
-#org @gPCText_Take
-LLEVAR
-
-#org @gPCText_Give
-DAR
-
-#org @gPCText_Switch
-CAMBIAR
-
-#org @gPCText_Bag
-BOLSA
-
-#org @gPCText_Info
-INFORMACIÓN
-
-#org @gPCText_Scenery1
-PAISAJE 1
-
-#org @gPCText_Scenery2
-PAISAJE 2
-
-#org @gPCText_Scenery3
-PAISAJE 3
-
-#org @gPCText_Etcetera
-ETC
-
-#org @gPCText_Forest
-BOSQUE
-
-#org @gPCText_City
-CIUDAD
-
-#org @gPCText_Desert
-DESIERTO
-
-#org @gPCText_Savanna
-SABANA
-
-#org @gPCText_Crag
-RISCO
-
-#org @gPCText_Volcano
-VOLCÁN
-
-#org @gPCText_Snow
-NIEVE
-
-#org @gPCText_Cave
-CUEVA
-
-#org @gPCText_Beach
-PLAYA
-
-#org @gPCText_Seafloor
-FONDO MARINO
-
-#org @gPCText_River
-RÍO
-
-#org @gPCText_Sky
-CIELO
-
-#org @gPCText_PolkaDot
-ESTRELLAS
-
-#org @gPCText_Pokecenter
-POKéCENTRO
-
-#org @gPCText_Machine
-LOSAS
-
-#org @gPCText_Simple
-SIMPLE
-
-#org @gText_PC_WhatWouldYouLikeToDo
-¿Qué vas a hacer?
-
-#org @gText_WithdrawPokemon
-RETIRAR POKéMON
-
-#org @gText_DepositPokemon
-DEPÓSITO POKéMON
-
-#org @gText_MovePokemon
-MOVER POKéMON
-
-#org @gText_MoveItems
-MOVER ARTÍCULOS
-
-#org @gText_SeeYa
-¡NOS VEMOS!
-
-#org @gText_WithdrawMonDescription
-Puedes retirar un POKéMON si\ntienes alguno en una CAJA.
-
-#org @gText_DepositMonDescription
-Puedes depositar tu grupo\nPOKéMON en cualquier BOX.
-
-#org @gText_MoveMonDescription
-Puedes mover POKéMON que estén\nalmacenados en cualquier BOX.
-
-#org @gText_MoveItemsDescription
-Puedes mover objetos que tenga cualquier\nPOKéMON en una CAJA o en tu grupo.
-
-#org @gText_SeeYaDescription
-¡Hasta luego!
-
-#org @gText_JustOnePkmn
-¡No puedo depositar el último POKéMON!
-
-#org @gText_PartyFull
-No puedo aceptar más POKéMON.
-
-#org @gText_Box
-CAJA
-
-#org @gText_CombineFourWordsOrPhrases
-Combina cuatro palabras o frases
-
-#org @gText_AndMakeYourProfile
-y haz tu perfil.
-
-#org @gText_MakeMessageSixPhrases
-Haz un mensaje de seis frases.
-
-#org @gText_MaxTwoTwelveLetterPhrases
-Máximo dos frases de 12 letras por línea.
-
-#org @gText_FindWordsThatDescribeYour
-Encuentra palabras que describan tu
-
-#org @gText_FeelingsRightNow
-sentimientos en este momento.
-
-#org @gText_WithFourPhrases
-en cuatro palabras
-
-#org @gText_CombineNineWordsOrPhrases
-Combina nueve palabras o frases
-
-#org @gText_AndMakeAMessage
-y hacer un mensaje.
-
-#org @gText_ChangeJustOneWordOrPhrase
-Cambiar solo una palabra o frase
-
-#org @gText_AndImproveTheBardsSong
-y mejorar la canción del BARDO.
-
-#org @gText_AndFillOutTheQuestionnaire
-y rellena el cuestionario.
-
-#org @gText_YourProfile
-Tu perfil
-
-#org @gText_YourFeelingAtTheBattlesStart
-Tu sentimiento al comienzo de la batalla.
-
-#org @gText_WhatYouSayIfYouWin
-¿Qué dices si ganas una batalla?
-
-#org @gText_WhatYouSayIfYouLose
-¿Qué dices si pierdes una batalla?
-
-#org @gText_TheAnswer
-La respuesta
-
-#org @gText_TheMailMessage
-El mensaje de CORREO
-
-#org @gText_TheMailSalutation
-Saludos para poner en postales.
-
-#org @gText_TheNewSong
-la nueva cancion
-
-#org @gText_CombineTwoWordsOrPhrases
-Combina dos palabras o frases
-
-#org @gText_AndMakeATrendySaying
-y haz un dicho de moda.
-
-#org @gText_TheTrendySaying
-El dicho de moda
-
-#org @gText_IsAsShownOkay
-es como se muestra. ¿Bueno?
-
-#org @gText_CombineTwoWordsOrPhrases2
-Junta dos palabras
-
-#org @gText_ToTeachHerAGoodSaying
-¡Déjame enseñarte algunas buenas palabras!
-
-#org @gText_AllTextBeingEditedWill
-Todo el texto que se está editando
-
-#org @gText_BeDeletedThatOkay
-ser eliminado. ¿Está bien?
-
-#org @gText_PleaseEnterPhraseOrWord
-¡Por favor ingrese algunas palabras!
-
-#org @gText_EntireTextCantBeDeleted
-¡No puedes eliminar completamente las palabras!
-
-#org @gText_OnlyOnePhrase
-¡Solo se puede cambiar una palabra!
-
-#org @gText_OriginalSongWillBeUsed
-¡Devolveré la canción a sus raíces!
-
-#org @gText_ThatsTrendyAlready
-¡Ya está sucediendo!
-
-#org @gText_CombineTwoWordsOrPhrases3
-¡Por favor, junta las dos palabras!
-
-#org @gText_QuitEditing
-¿Dejar de editar?
-
-#org @gText_StopGivingPkmnMail
-¿Dejar de darle CORREO POKéMON?
-
-#org @gText_TheEditedWords
-Las palabras extrañas son ciertas
-
-#org @gText_WillNotBeSaved
-¿Está bien si no lo hago?
-
-#org @gText_Profile
-PERFIL
-
-#org @gText_AtTheBattlesStart
-Al comienzo de la batalla:
-
-#org @gText_UponWinningABattle
-Al ganar una batalla:
-
-#org @gText_UponLosingABattle
-Al perder una batalla:
-
-#org @gText_TheBardsSong
-La canción del BARDO
-
-#org @gText_WhatsHipAndHappening
-¿Qué está de moda y qué está pasando?
-
-#org @gText_Interview
-Entrevista
-
-#org @gText_GoodSaying
-buenas palabras
-
-#org @gText_Questionnaire
-CUESTIONARIO
-
-#org @GiddyText_SoPretty
-Es hermoso, ¿no?
-
-#org @GiddyText_SoDarling
-Es lindo, ¿no?
-
-#org @GiddyText_SoRelaxed
-Es relajante, ¿no?
-
-#org @GiddyText_SoSunny
-Hace calor, ¿no?
-
-#org @GiddyText_SoDesirable
-Te admiro, ¿verdad?
-
-#org @GiddyText_SoExciting
-Mi corazón late con fuerza, ¿no?
-
-#org @GiddyText_SoAmusing
-Es interesante, ¿no?
-
-#org @GiddyText_SoMagical
-Es extraño, ¿no?
-
-#org @GiddyText_Is
-Eso es todo
-
-#org @GiddyText_DontYouAgree
-\n¿No lo crees?
-
-#org @GiddyText_ISoWantToGoOnAVacation
-Quiero salir siempre.\n¿No conoces algún lugar bonito?
-
-#org @GiddyText_IBoughtCrayonsWith120Colors
-Necesitaba 120 crayones.\n¿No está bien?
-
-#org @GiddyText_WouldntItBeNiceIfWeCouldFloat
-¿No sería como flotar en una pompa de jabón?
-
-#org @GiddyText_WhenYouWriteOnASandyBeach
-Es triste que los garabatos que escribí en mi cara desaparezcan tan rápido.
-
-#org @GiddyText_WhatsTheBottomOfTheSeaLike
-Me pregunto qué estará pasando allí en el mar. Me gustaría echarle un vistazo sólo una vez.
-
-#org @GiddyText_WhenYouSeeTheSettingSunDoesIt
-Cuando ves lo bonito que es, ¿no quieres volver a casa?
-
-#org @GiddyText_LyingBackInTheGreenGrass
-Se siente tan bien tumbarse sobre la hierba verde.
-
-#org @GiddyText_SecretBasesAreSoWonderful
-¡Es fantástico tener un secreto!\n¿No te emociona?
-
-#org @gText_PokemonLeague
-liga pokemon
-
-#org @gText_PokemonCenter
-CENTRO POKÉMON
-
-#org @gText_GetsAPokeBlockQuestion
-¿Quieres darme un poco de Pollock?
-
-#org @gText_Coolness
-Deportividad
-
-#org @gText_Beauty3
-belleza
-
-#org @gText_Cuteness
-monería
-
-#org @gText_Smartness
-inteligencia
-
-#org @gText_Toughness
-Tenacidad
-
-#org @gText_WasEnhanced
-¡Ha sido pulido!
-
-#org @gText_NothingChanged
-¡Nada ha cambiado!
-
-#org @gText_WontEatAnymore
-No creo que pueda comer más esto...
-
-#org @gText_SaveFailedCheckingBackup
-Error al guardar.\nComprobando la memoria de respaldo▶\nEspere.\n“Tiempo requerido:\naproximadamente 1 minuto”
-
-#org @gText_BackupMemoryDamaged
-La memoria de respaldo está dañada o\nla batería del juego se ha agotado.\nSe puede jugar al juego, pero\nno se puede guardar su progreso.\n“Presiona el botón A”.
-
-#org @gText_GamePlayCannotBeContinued
-[COLOR DARK_GRAY]“No puedo continuar mi aventura así\nVolver al título”
-
-#org @gText_CheckCompleted
-¡Ya terminé!\nEscribiré el informe nuevamente\nPor favor, espere un momento.
-
-#org @gText_SaveCompleteGameCannotContinue
-Terminé de escribir el informe.\n[COLOR DARK_GRAY]“No puedo continuar mi aventura así.\nVolver al título”.
-
-#org @gText_SaveCompletePressA
-Guardar completado.\n“Presione el botón A”.
-
-#org @gText_Ferry
-Renrakusen
-
-#org @gText_SecretBase
-Base secreta
-
-#org @gText_Hideout
-escondite
-
-#org @gText_YourName
-¿SU NOMBRE?
-
-#org @gText_BoxName
-¿NOMBRE DE LA CAJA?
-
-#org @gText_PkmnsNickname
-¿El apodo?
-
-#org @gText_RivalsName
-¿NOMBRE DEL RIVAL?
-
-#org @gText_MoveOkBack
-[DPAD_ANY]MOVER [A_BUTTON]Aceptar [B_BUTTON]ATRÁS
-
-#org @gText_AlphabetUpperLower
-
-
-#org @gText_RegionMap_Space
-
-
-#org @gText_RegionMap_AButtonGuide
-[A_BUTTON]GUÍA
-
-#org @gText_RegionMap_AButtonCancel
-[A_BUTTON]CANCELAR
-
-#org @gText_RegionMap_AButtonCancel2
-[A_BUTTON]CANCELAR
-
-#org @gText_RegionMap_AButtonSwitch
-[A_BUTTON]CAMBIAR
-
-#org @gText_RegionMap_AButtonOK
-[A_BUTTON]Aceptar
-
-#org @gText_RegionMap_DPadMove
-[DPAD_ANY]MOVER
-
-#org @gText_RegionMap_UpDownPick
-[DPAD_UP_DOWN]SELECCIONAR
-
-#org @gText_RegionMap_NoData
-Sin datos
-
-#org @gText_RegionMap_AreaDesc_ViridianForest
-Un bosque profundo y extenso que\nse extiende alrededor de VIRIDIAN CITY.\nUn laberinto natural, mucha gente\nse pierde en su interior.
-
-#org @gText_RegionMap_AreaDesc_MtMoon
-Una montaña mística que es conocida\npor sus frecuentes caídas de meteoritos.\nLos fragmentos de estrellas que caen\naquí se conocen como PIEDRAS LUNARES.
-
-#org @gText_RegionMap_AreaDesc_DiglettsCave
-Un túnel aparentemente sencillo que fue excavado por el salvaje DIGLETT. Es famoso por conectar las RUTAS 2 y 11.
-
-#org @gText_RegionMap_AreaDesc_VictoryRoad
-Un túnel situado en la RUTA 23.\nSe ganó su nombre porque\ndebe ser recorrido por todos los ENTRENADORES\ncon miras a la cima.
-
-#org @gText_RegionMap_AreaDesc_PokemonMansion
-Una mansión decrépita e incendiada\nISLA CINNABAR.\nRecibió su nombre porque allí vivía un famoso\ninvestigador POKéMON.
-
-#org @gText_RegionMap_AreaDesc_SafariZone
-Un parque de diversiones en las afueras de FUCHSIA\nCITY donde se pueden observar muchos POKéMON raros en estado salvaje.\n¡Atrápalos en un juego popular!
-
-#org @gText_RegionMap_AreaDesc_RockTunnel
-Un túnel\nsubterráneo formado naturalmente. Debido a que no ha sido\nrevelado, el interior está muy oscuro.\nSe necesita luz para atravesarlo.
-
-#org @gText_RegionMap_AreaDesc_SeafoamIslands
-Un par de islas que se encuentran\nfuera de la RUTA 20.\nLas dos islas tienen la misma\nforma, como si fueran gemelas.
-
-#org @gText_RegionMap_AreaDesc_PokemonTower
-Una torre que alberga las tumbas de\ninfinidad de POKéMON.\nMuchas personas la visitan a diario para\npresentar sus respetos a los caídos.
-
-#org @gText_RegionMap_AreaDesc_CeruleanCave
-Una cueva misteriosa que está llena\nde POKéMON terriblemente duros.\nEs tan peligrosa que la LIGA\nPOKéMON está a cargo de ella.
-
-#org @gText_RegionMap_AreaDesc_PowerPlant
-Una central eléctrica que\nfue abandonada hace\naños, aunque algunas de las\nmáquinas todavía funcionan. Está infestado\nde POKéMON eléctricos.
-
-#org @gText_RegionMap_AreaDesc_MtEmber
-Supuestamente es un volcán inactivo.\nSin embargo, hay\ninformes persistentes de que el pico arde\ncon fuego por la noche.
-
-#org @gText_RegionMap_AreaDesc_BerryForest
-Un bosque en un pequeño islote frente a la\ncosta de TRES ISLAS. LAS BAYAS\ncrecen salvajemente en profusión,\nreponiendo rápidamente las que se caen.
-
-#org @gText_RegionMap_AreaDesc_IcefallCave
-Una cueva que está cubierta por agua\ny hielo en FOUR ISLAND.\nParece que el final de la cueva\nestá conectado al océano.
-
-#org @gText_RegionMap_AreaDesc_LostCave
-Una cueva desconcertante frente a la costa\nde RESORT MAGNÍFICO.\nAlgunos buscadores de emociones curiosos\nnunca han salido de ella.
-
-#org @gText_RegionMap_AreaDesc_TanobyRuins
-Una antigua ruina que se rumorea que\nes el hogar de un POKéMON peculiar.\nSin embargo, hasta ahora, el\nPOKéMON sigue siendo un rumor sin confirmar.
-
-#org @gText_RegionMap_AreaDesc_AlteringCave
-Esta isla ha sido conocida con este\nnombre desde un pasado lejano.\nSin embargo, hoy en día nadie sabe de dónde\nobtuvo este nombre.
-
-#org @gText_RegionMap_AreaDesc_PatternBush
-Una zona exuberante y arbustiva. \nEn él hay patrones donde\nno crece hierba. Algunos lo estudian con la creencia de que se oculta un secreto.
-
-#org @gText_RegionMap_AreaDesc_DottedHole
-Una misteriosa ruina recién descubierta de una época antigua. Debe su nombre a los seis puntos que se encuentran en su puerta.
-
-#org @gText_PokeSum_MetInATrade
-[DYNAMIC 0x00] naturaleza.\nConocido en un intercambio.
-
-#org @gText_PokeSum_MetInATrade_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza.\nConocido en un intercambio.
-
-#org @gText_PokeSum_FatefulEncounterMet
-[DYNAMIC 0x00] naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_FatefulEncounterMet_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_Met
-[DYNAMIC 0x00] naturaleza.\nSe reunió en [DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_Met_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza.\nSe reunió en [DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_ApparentlyMet
-[DYNAMIC 0x00] naturaleza.\nAparentemente se reunió en [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_ApparentlyMet_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza.\nAparentemente se reunió en [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_Hatched
-[DYNAMIC 0x00] naturaleza.\nSombreado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_Hatched_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza.\nSombreado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
-
-#org @gText_PokeSum_JP_ApparentlyHatched
-[DYNAMIC 0x00]Parece que regresó en [LV_2][DYNAMIC 0x01]\n[DYNAMIC 0x02]
-
-#org @gText_PokeSum_JP_ApparentlyHatched_BoldGentleGrammar
-[DYNAMIC 0x00]Cuando era [LV_2][DYNAMIC 0x01]\nParece que regresó en [DYNAMIC 0x02]
-
-#org @gText_PokeSum_FatefulEncounterHatched
-[DYNAMIC 0x00] naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01]).
-
-#org @gText_PokeSum_FatefulEncounterHatched_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01]).
-
-#org @gText_PokeSum_ApparentlyFatefulEncounterHatched
-[DYNAMIC 0x00] naturaleza. Aparentemente se conocieron en\nun encuentro fatídico (eclosionado:\n[DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01]).
-
-#org @gText_PokeSum_ApparentlyFatefulEncounterHatched_BoldGentleGrammar
-[DYNAMIC 0x00] naturaleza. Aparentemente se conocieron en\nun encuentro fatídico (eclosionado:\n[DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01]).
-
-#org @gText_PokeSum_EggOrigin_DayCare
-Un extraño HUEVO POKéMON encontrado por la\npareja de GUARDERÍA.
-
-#org @gText_PokeSum_EggOrigin_TravelingMan
-Un extraño HUEVO POKéMON obtenido\ndel viajero.
-
-#org @gText_PokeSum_EggOrigin_NicePlace
-Un HUEVO POKéMON maravillosamente peculiar obtenido en un lugar agradable.
-
-#org @gText_PokeSum_EggOrigin_Spa
-Un extraño HUEVO POKéMON obtenido de\nuna anciana en el SPA.
-
-#org @gText_PokeSum_EggOrigin_Trade
-Un peculiar HUEVO POKéMON obtenido\nen un intercambio.
-
-#org @gText_PokeSum_EggHatch_LongTime
-Parece que este\nEGG tardará\nmucho tiempo en eclosionar.
-
-#org @gText_PokeSum_EggHatch_SomeTime
-¿Qué saldrá\nde esto? Tardará\nalgún tiempo.
-
-#org @gText_PokeSum_EggHatch_Soon
-Ocasionalmente\nse mueve. Debería\n eclosionar pronto.
-
-#org @gText_PokeSum_EggHatch_AlmostReady
-Está emitiendo sonidos.\n¡Está casi listo\n para salir del cascarón!
-
-#org @gText_PokeSum_ATrade
-un comercio
-
-#org @gText_Somewhere
-En algún lugar
-
-#org @gText_PokeSum_PageName_PokemonInfo
-INFORMACIÓN DE POKÉMON
-
-#org @gText_PokeSum_PageName_PokemonSkills
-HABILIDADES POKÉMON
-
-#org @gText_PokeSum_PageName_KnownMoves
-MOVIMIENTOS CONOCIDOS
-
-#org @gText_PokeSum_NoData
-Sin datos
-
-#org @gText_PokeSum_ExpPoints
-EXP. PUNTOS
-
-#org @gText_PokeSum_NextLv
-SIGUIENTE LV.
-
-#org @gText_PokeSum_Controls_PageCancel
-[DPAD_RIGHT]PÁGINA [A_BUTTON]CANCELAR
-
-#org @gText_PokeSum_Controls_Cancel
-[A_BUTTON]CANCELAR
-
-#org @gText_PokeSum_Controls_Page
-[DPAD_LEFT_RIGHT]PÁGINA
-
-#org @gText_PokeSum_Controls_PageDetail
-[DPAD_LEFT]PÁGINA [A_BUTTON]DETALLE
-
-#org @gText_PokeSum_Controls_PickSwitch
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]CAMBIAR
-
-#org @gText_PokeSum_Controls_Pick
-[DPAD_UP_DOWN]SELECCIONAR
-
-#org @gText_PokeSum_Controls_PickDelete
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]ELIMINAR
-
-#org @gText_PokeSum_HmMovesCantBeForgotten
-Los movimientos de HM no se pueden\nolvidar ahora.
-
-#org @gText_TrainerCardName
-NOMBRE:
-
-#org @gText_TrainerCardIDNo
-DNI No.
-
-#org @gText_TrainerCardMoney
-DINERO
-
-#org @gText_TrainerCardYen
-\$
-
-#org @gText_TrainerCardPokedex
-POKéDEX
-
-#org @gText_TrainerCardNull
-
-
-#org @gText_Colon2
-:
-
-#org @gText_Points
-punto
-
-#org @gText_TrainerCardTime
-TIEMPO
-
-#org @gText_BattlePoints
-punto de juego
-
-#org @gText_Var1sTrainerCard
-TARJETA DE ENTRENADOR
-
-#org @gText_HallOfFameDebut
-DEBUT EN EL SALÓN DE LA FAMA
-
-#org @gText_LinkBattles
-BATALLAS DE ENLACE
-
-#org @gText_LinkCableBattles
-BATALLAS DE CABLE DE ENLACE
-
-#org @gText_WinLossRatio
-W:[CLEAR_TO 0x30]L:
-
-#org @gText_PokemonTrades
-COMERCIOS DE POKéMON
-
-#org @gText_UnionRoomTradesBattles
-COMERCIOS Y BATALLAS SINDICALES
-
-#org @gText_BerryCrushes
-TRITURACIÓN DE BAYAS
-
-#org @gText_WaitingTrainerFinishReading
-Esperando a que el otro ENTRENADOR\ntermine de leer tu TARJETA DE ENTRENADOR.
-
-#org @gText_Option
-OPCIÓN
-
-#org @gText_TextSpeed
-VELOCIDAD DEL TEXTO
-
-#org @gText_BattleScene
-ESCENA DE BATALLA
-
-#org @gText_BattleStyle
-ESTILO DE BATALLA
-
-#org @gText_Sound
-SONIDO
-
-#org @gText_ButtonMode
-MODO BOTÓN
-
-#org @gText_Frame
-MARCO
-
-#org @gText_OptionMenuCancel
-CANCELAR
-
-#org @gText_TextSpeedSlow
-LENTO
-
-#org @gText_TextSpeedMid
-MEDIO
-
-#org @gText_TextSpeedFast
-RÁPIDO
-
-#org @gText_BattleSceneOn
-EN
-
-#org @gText_BattleSceneOff
-APAGADO
-
-#org @gText_BattleStyleShift
-CAMBIO
-
-#org @gText_BattleStyleSet
-COLOCAR
-
-#org @gText_SoundMono
-MONONUCLEOSIS INFECCIOSA
-
-#org @gText_SoundStereo
-ESTÉREO
-
-#org @gTextJP_Type
-tipo
-
-#org @gText_ButtonTypeHelp
-AYUDA
-
-#org @gText_ButtonTypeLEqualsA
-L=A
-
-#org @gText_ButtonTypeLR
-LR
-
-#org @gText_FrameType
-TIPO
-
-#org @gText_PickSwitchCancel
-[DPAD_UP_DOWN]ELIGE [DPAD_LEFT_RIGHT]CAMBIAR [A_BUTTON][B_BUTTON]CANCELAR
-
-#org @gText_ResetRTCConfirmCancel
-Restablecer RTC\nA para iniciar, B para cancelar
-
-#org @gText_PresentTime
-Un tiempo sin juegos
-
-#org @gText_PreviousTime
-Nada de juegos
-
-#org @gText_PleaseResetTime
-Por favor dame algo de tiempo
-
-#org @gText_ClockHasBeenReset
-¡He estado esperando un rato!\nEstoy escribiendo un informe. Espere.
-
-#org @gText_SaveCompleted
-¡Escribí el informe!
-
-#org @gText_SaveFailed
-Me divertí mucho escribiendo el informe.
-
-#org @gText_NoSaveFileCantSetTime
-Como no hay ningún informe, ¡no es posible hacer una reserva por el momento!
-
-#org @gText_InGameClockUsable
-¡Ahora puedes usar el sistema sin juego!
-
-#org @gText_SavingDontTurnOffThePower2
-GUARDANDO…\nNO APAGUE LA CORRIENTE.
-
-#org @gStartMenuDesc_Pokedex
-Un dispositivo que registra secretos de POKéMON\ncuando los encuentra o los atrapa.
-
-#org @gStartMenuDesc_Pokemon
-Comprueba y organiza los POKéMON que\nviajan contigo en tu grupo.
-
-#org @gStartMenuDesc_Bag
-Equipado con bolsillos para guardar artículos\nque compraste, recibiste o encontraste.
-
-#org @gStartMenuDesc_Player
-Consulta tu dinero y otros datos del juego.
-
-#org @gStartMenuDesc_Save
-Guarda tu juego con un registro\ncompleto de tu progreso para tomarte un descanso.
-
-#org @gStartMenuDesc_Option
-Ajusta varias configuraciones del juego, como\nvelocidad del texto, reglas del juego, etc.
-
-#org @gStartMenuDesc_Exit
-Cierre esta ventana de MENÚ.
-
-#org @gStartMenuDesc_Retire
-Retírese del JUEGO SAFARI y regrese al mostrador de registro.
-
-#org @gText_WasUsedOn
-fue usado en\n
-
-#org @gText_Period
-.
-
-#org @gText_LevelRoseTo
-El nivel subió a\n
-
-#org @gText_Period2
-.
-
-#org @gText_LevelUp_MaxHP
-[FONT_SMALL]MÁX.[FONT_NORMAL] HP
-
-#org @gText_LevelUp_Attack
-ATAQUE
-
-#org @gText_LevelUp_Defense
-DEFENSA
-
-#org @gText_LevelUp_Speed
-VELOCIDAD
-
-#org @gText_LevelUp_SpAtk
-SP. INFORMÁTICA
-
-#org @gText_LevelUp_SpDef
-SP. DEF
-
-#org @gText_LevelUp_Plus
-[FONT_SMALL][PLUS][FONT_NORMAL]
-
-#org @gText_LevelUp_Minus
-[FONT_SMALL]-[FONT_NORMAL]
-
-#org @gText_Counting_1
-1,
-
-#org @gText_Counting_2And
-2, y ▶ ▶ ▶
-
-#org @gText_Poof
-¡Puf!\p
-
-#org @gText_MonForgotMove
-[DYNAMIC 0x00] lo olvidé\n[DYNAMIC 0x01].\p
-
-#org @gText_And
-Y P
-
-#org @gText_MachineSet
-¡Máquina preparada!\p
-
-#org @gText_Huh
-¿Eh?
-
-#org @gText_MonLearnedTMHM
-¡[DYNAMIC 0x00] aprendido\n[DYNAMIC 0x01]!
-
-#org @gText_Upper
-SUPERIOR
-
-#org @gText_Lower
-más bajo
-
-#org @gText_Others
-OTROS
-
-#org @gText_Symbols
-SÍMBOLOS
-
-#org @gText_Register2
-REGISTRO
-
-#org @gText_Exit
-SALIDA
-
-#org @gText_QuitChatting
-¿Dejar de chatear?
-
-#org @gText_RegisterTextWhere
-Registrar texto ¿dónde?
-
-#org @gText_RegisterTextHere
-¿Registrar texto aquí?
-
-#org @gText_InputText
-Texto de entrada.
-
-#org @gText_F700JoinedChat
-¡[DYNAMIC 0x00] se unió al chat!
-
-#org @gText_F700LeftChat
-[DYNAMIC 0x00] abandonó el chat.
-
-#org @gText_PlayersXPokemon
-[DINÁMICO 0x01] de [DINÁMICO 0x00]:
-
-#org @gText_PlayersXPokmonDoesNotExist
-[DYNAMIC 0x01] de [DYNAMIC 0x00] no está presente
-
-#org @gText_ExitingTheChat
-Saliendo del chat▶
-
-#org @gText_LeaderHasLeftEndingChat
-El LÍDER, [DYNAMIC 0x00], se ha ido, finalizando el chat.
-
-#org @gText_RegisteredTextChanged_OKtoSave
-El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
-
-#org @gText_RegisteredTextChanged_AlreadySavedFile
-Ya hay un archivo guardado.\n¿Está bien sobrescribirlo?
-
-#org @gText_RegisteredTextChanged_SavingDontTurnOff
-AHORRANDO▶\nNO APAGUE LA CORRIENTE.
-
-#org @gText_RegisteredTextChanged_SavedTheGame
-[DYNAMIC 0x00] salvó el juego.
-
-#org @gText_IfLeaderLeavesChatWillEnd
-Si el LÍDER se va, el chat\nterminará. ¿Está bien?
-
-#org @gText_Hello
-HOLA
-
-#org @gText_Pokemon2
-POKéMON
-
-#org @gText_Trade
-COMERCIO
-
-#org @gText_Battle
-BATALLA
-
-#org @gText_Lets
-VAMOS
-
-#org @gText_Ok
-¡DE ACUERDO!
-
-#org @gText_Sorry
-LO SIENTO
-
-#org @gText_YaySmileEmoji
-YAY[EMOJI_BIGSMILE]
-
-#org @gText_ThankYou
-GRACIAS
-
-#org @gText_ByeBye
-¡ADIÓS!
-
-#org @gText_PlayerScurriedToCenter
-[PLAYER] corrió a un CENTRO POKéMON,\nprotegiendo a los exhaustos y desmayados\nPOKéMON de mayores daños▶\p
-
-#org @gText_PlayerScurriedBackHome
-[PLAYER] se apresuró a regresar a casa, protegiendo\nal exhausto y desmayado POKéMON de\nmás daño▶\p
-
-#org @gText_Diploma_Player
-JUGADOR: [DINÁMICO 0x00]
-
-#org @gText_Diploma_ThisDocument
-Este documento se emite en\nreconocimiento por tu\nmagnífico logro: completar\nla POKéDEX [DYNAMIC 0x01].
-
-#org @gText_Diploma_GameFreak
-ADICTO A LOS JUEGOS
-
-#org @gText_Diploma_National
-NACIONAL
-
-#org @gText_Diploma_Kanto
-KANTÓ
-
-#org @gText_ClearAllSaveData
-¿Borrar todas las áreas de datos guardados?
-
-#org @gText_ClearingData
-Borrando datos▶\nPor favor espera.
-
-#org @gText_Player
-JUGADOR
-
-#org @gText_Time
-TIEMPO
-
-#org @gText_Colon
-:
-
-#org @gText_Pokedex
-POKéDEX
-
-#org @gTextJPDummy_Hiki
-
-
-#org @gText_Badges
-INSIGNIAS
-
-#org @gTextJPDummy_Ko
-
-
-#org @gText_Register
-REGISTRO
-
-#org @gText_HatchedFromEgg
-¡[STR_VAR_1] nació del HUEVO!
-
-#org @gText_NickHatchPrompt
-¿Te gustaría ponerle un apodo al recién\nnacido [STR_VAR_1]?
-
-#org @gString_OutOfCoins
-Te has quedado sin MONEDAS.\n¡Se acabó el juego!
-
-#org @gString_QuitPlaying
-¿Deja de jugar?
-
-#org @gString_SlotMachineControls
-[DPAD_LEFT_RIGHT]COMBOS [DPAD_DOWN]APUESTA [A_BUTTON]DETENER [B_BUTTON]SALIR
-
-#org @gText_TeachyTV
-Enseñanza de televisión
-
-#org @gText_End
-El fin
-
-#org @gString_Bill
-FACTURA
-
-#org @gString_Someone
-ALGUIEN
-
-#org @gString_Help
-AYUDA
-
-#org @gString_HelpSystem_ClearTo8
-[CLEAR_TO 8]
-
-#org @gText_SpacePoints2
-puntos
-
-#org @gText_SpaceTimes3
-veces)
-
-#org @gText_PkmnJumpRecords
-RÉCORDES DE SALTO POKéMON
-
-#org @gText_JumpsInARow
-Saltos seguidos:
-
-#org @gText_BestScore2
-Mejor puntuación:
-
-#org @gText_ExcellentsInARow
-EXCELENTES seguidos:
-
-#org @gText_AwesomeWonF701F700
-Impresionante puntuación! ¡Has ganado\n [DYNAMIC 01] [DYNAMIC 00]!
-
-#org @gText_FilledStorageSpace2
-Ya no queda espacio.
-
-#org @gText_CantHoldMore
-¡No puedes aguantar más!
-
-#org @gText_WantToPlayAgain2
-¿Quieres volver a jugar?
-
-#org @gText_SomeoneDroppedOut2
-Alguien abandonó.\nEl enlace se cancelará.
-
-#org @gText_SavingDontTurnOffPower
-GUARDANDO…\nNO APAGUE LA CORRIENTE.
-
-#org @gText_CommunicationStandby4
-Comunicación en espera…
-
-#org @gText_SavingDontTurnOffPower2
-GUARDANDO...\nNO APAGUE LA CORRIENTE.
-
-#org @gText_BerryPickingRecords
-REGISTROS DE RECOGIDA DE BAYAS DE DODRIO
-
-#org @gText_BerriesPicked
-BAYAS recogidas:
-
-#org @gText_BestScore
-Mejor puntuación:
-
-#org @gText_BerriesInRowFivePlayers
-BAYAS recogidas en fila con\ncinco jugadores:
-
-#org @gText_BerryPickingResults
-¡Anunciamos los resultados de la RECOGIDA DE BAYAS!
-
-#org @gText_10P30P50P50P
-10P 30P 50P [EMOJI_MINUS]50P
-
-#org @gText_AnnouncingRankings
-¡Anunciando clasificaciones!
-
-#org @gText_AnnouncingPrizes
-¡Anunciando premios!
-
-#org @gText_1Colon
-1:
-
-#org @gText_2Colon
-2:
-
-#org @gText_3Colon
-3:
-
-#org @gText_4Colon
-4:
-
-#org @gText_5Colon
-5:
-
-#org @gText_FirstPlacePrize
-¡El ganador del primer lugar se lleva\neste [DYNAMIC 00]!
-
-#org @gText_CantHoldAnyMore
-No puedes aguantar más...
-
-#org @gText_FilledStorageSpace
-Llenó su espacio de almacenamiento.
-
-#org @gText_WantToPlayAgain
-¿Quieres volver a jugar?
-
-#org @gText_SomeoneDroppedOut
-Alguien abandonó.\nEl enlace se cancelará.
-
-#org @gText_SpacePoints
-puntos
-
-#org @gText_CommunicationStandby3
-Comunicación en espera…
-
-#org @gText_BerryCrush_AreYouReady
-¿Estás listo para CRUSH DE BAYAS?\nPor favor, elige una BAYA para usar.\p
-
-#org @gText_BerryCrush_WaitForOthersToChooseBerry
-Espere mientras cada miembro\nelige una BAYA.
-
-#org @gText_BerryCrush_GainedXUnitsOfPowder
-[PAUSE_MUSIC][PLAY_BGM MUS_LEVEL_UP]Terminaste con [STR_VAR_1] unidades de\nBAYAS EN POLVO suave como la seda.[RESUME_MUSIC]\pTu cantidad total de BAYAS EN POLVO\nes [STR_VAR_2].\p
-
-#org @gText_BerryCrush_RecordingGameResults
-Grabando los resultados de tu juego en el\narchivo guardado.\nEspera.
-
-#org @gText_BerryCrush_WantToPlayAgain
-¿Quieres volver a jugar a BERRY CRUSH?
-
-#org @gText_BerryCrush_NoBerries
-No tienes BAYAS.\nEl juego será cancelado.
-
-#org @gText_BerryCrush_MemberDroppedOut
-Un miembro se dio de baja.\nEl juego será cancelado.
-
-#org @gText_BerryCrush_TimeUp
-Se acabó el tiempo.\pNo se pudo hacer un buen POLVO DE BAYAS\n...\p
-
-#org @gText_BerryCrush_CommunicationStandby
-Comunicación en espera…
-
-#org @gText_1_ClrBluShdwLtBlu_Dynamic0
-1. [COLOR AZUL][SOMBRA AZUL CLARO][DINÁMICO 0x00]
-
-#org @gText_1_Dynamic0
-1. [DINÁMICO 0x00]
-
-#org @gText_SpaceTimes2
-veces
-
-#org @gText_XDotY
-[STR_VAR_1].[STR_VAR_2]
-
-#org @gText_StrVar1Berry
-[STR_VAR_1] BAYA
-
-#org @gText_TimeColon
-Tiempo:
-
-#org @gText_PressingSpeed
-Velocidad de prensado:
-
-#org @gText_Silkiness
-Suavidad:
-
-#org @gText_StrVar1
-[STR_VAR_1]
-
-#org @gText_SpaceMin
-mín.
-
-#org @gText_XDotY2
-[STR_VAR_1].[STR_VAR_2]
-
-#org @gText_SpaceSec
-segundo.
-
-#org @gText_XDotY3
-[STR_VAR_1].[STR_VAR_2]
-
-#org @gText_TimesPerSec
-Tiempos/seg.
-
-#org @gText_Var1Percent
-[STR_VAR_1]%
-
-#org @gText_PressesRankings
-Número de rankings de imprentas
-
-#org @gText_CrushingResults
-Resultados aplastantes
-
-#org @gText_NeatnessRankings
-Clasificaciones de limpieza
-
-#org @gText_CooperativeRankings
-Clasificaciones cooperativas
-
-#org @gText_PressingPowerRankings
-Clasificaciones de poder de presión
-
-#org @gText_BerryCrush2
-TRITURACIÓN DE BAYAS
-
-#org @gText_PressingSpeedRankings
-Clasificaciones de velocidad de prensado
-
-#org @gText_Var1Players
-[STR_VAR_1] JUGADORES
-
-#org @gText_Ghost
-FANTASMA
-
-#org @gText_PokemonOnHook
-¡Un POKéMON está enganchado![PAUSE_UNTIL_PRESS]
-
-#org @gText_NotEvenANibble
-Ni siquiera un mordisco▶[PAUSE_UNTIL_PRESS]
-
-#org @gText_ItGotAway
-Se escapó▶[PAUSE_UNTIL_PRESS]
-
-#org @gText_Rooftop2
-TECHO
-
-#org @gString_PokemonFireRed_Staff
-Pokémon Versión Rojo Fuego\nPersonal
-
-#org @gString_PokemonLeafGreen_Staff
-Pokémon Versión Verde Hoja\nPersonal
-
-#org @gCreditsString_Director
-\n\nDirector\n\n\n\n
-
-#org @gCreditsString_Junichi_Masuda
-\n\n\nJunichi Masuda\n\n\n
-
-#org @gCreditsString_Art_Director_Battle_Director
-\nDirector de arte\n\nDirector de batalla\n\n\n
-
-#org @gCreditsString_Ken_Sugimori_Shigeki_Morimoto
-\n\nKen Sugimori\n\nShigeki Morimoto\n\n
-
-#org @gCreditsString_Program_Leader_Planning_Leader_Graphic_Design_Leader
-Líder de programa\n\nLíder de planificación\n\nLíder de diseño gráfico\n\n
-
-#org @gCreditsString_Tetsuya_Watanabe_Koji_Nishino_Takao_Unno
-\nTetsuya Watanabe\n\nKoji Nishino\n\nTakao Unno\n
-
-#org @gCreditsString_Programmers
-Programadores\n\n\n\n\n
-
-#org @gCreditsString_Hiroyuki_Nakamura_Masao_Taya_Satoshi_Nohara_Miyuki_Iwasawa_Daisuke_Goto
-\nHiroyuki Nakamura\nMasao Taya\nSatoshi Nohara\nMiyuki Iwasawa\nDaisuke Goto\n
-
-#org @gCreditsString_System_Programmers
-Programadores del sistema\n\n\n\n\n\n
-
-#org @gCreditsString_Tetsuya_Watanabe_Akito_Mori_Hisashi_Sogabe_Sousuke_Tamada
-\nTetsuya Watanabe\nAkito Mori\nHisashi Sogabe\nSousuke Tamada\n\n
-
-#org @gCreditsString_Graphic_Designers
-Diseñadores gráficos\n\n\n\n\n\n
-
-#org @gCreditsString_Takao_Unno_Asuka_Iwashita_Kanako_Eo_Hiroki_Fuchino
-\nTakao Unno\nAsuka Iwashita\nKanako Eo\nHiroki Fuchino\n\n
-
-#org @gCreditsString_Graphic_Designers_2
-\nDiseñadores gráficos\n\n\n\n\n
-
-#org @gCreditsString_Ken_Sugimori_Hironobu_Yoshida
-\n\nKen Sugimori\nHironobu Yoshida\n\n\n
-
-#org @gCreditsString_Music_Composition
-\nComposición musical\n\n\n\n\n
-
-#org @gCreditsString_Go_Ichinose_Junichi_Masuda
-\n\nVe Ichinose\nJunichi Masuda\n\n\n
-
-#org @gCreditsString_Sound_Effects
-\n\nEfectos de sonido\n\n\n\n
-
-#org @gCreditsString_Go_Ichinose
-\n\n\nVaya Ichinose\n\n\n
-
-#org @gCreditsString_Game_Designers
-\nDiseñadores de juegos\n\n\n\n\n
-
-#org @gCreditsString_Junichi_Masuda_Koji_Nishino_Tetsuji_Ohta
-\n\nJunichi Masuda\nKoji Nishino\nTetsuji Ohta\n\n
-
-#org @gCreditsString_Game_Designers_2
-\nDiseñadores de juegos\n\n\n\n\n
-
-#org @gCreditsString_Hitomi_Sato_Shigeru_Ohmori_Tadashi_Takahashi
-\n\nHitomi Sato\nShigeru Ohmori\nTadashi Takahashi\n\n
-
-#org @gCreditsString_Game_Scenario
-\nEscenario del juego\n\n\n\n\n
-
-#org @gCreditsString_Hitomi_Sato_Satoshi_Tajiri
-\n\nHitomi Sato\nSatoshi Tajiri\n\n\n
-
-#org @gCreditsString_Script_Designer_Map_Designer
-\nDiseñador de scripts\n\nDiseñador de mapas\n\n\n
-
-#org @gCreditsString_Satoshi_Nohara_Shigeru_Ohmori
-\n\nSatoshi Nohara\n\nShigeru Ohmori\n\n
-
-#org @gCreditsString_Parametric_Designers
-\nDiseñadores paramétricos\n\n\n\n\n
-
-#org @gCreditsString_Koji_Nishino_Tetsuji_Ohta_Shigeki_Morimoto
-\n\nKoji Nishino\nTetsuji Ohta\nShigeki Morimoto\n\n
-
-#org @gCreditsString_POKeDEX_Text
-\n\nTexto POKéDEX\n\n\n\n
-
-#org @gCreditsString_Kenji_Matsushima
-\n\n\nKenji Matsushima\n\n\n
-
-#org @gCreditsString_POKeMON_Designers
-Diseñadores POKéMON\n\n\n\n\n\n
-
-#org @gCreditsString_Ken_Sugimori_Motofumi_Fujiwara_Shigeki_Morimoto_Hironobu_Yoshida
-\nKen Sugimori\nMotofumi Fujiwara\nShigeki Morimoto\nHironobu Yoshida\n\n
-
-#org @gCreditsString_POKeMON_Designers_2
-Diseñadores POKéMON\n\n\n\n\n\n
-
-#org @gCreditsString_Satoshi_Ohta_Asuka_Iwashita_Takao_Unno_Kanako_Eo_Aimi_Tomita
-\nSatoshi Ohta\nAsuka Iwashita\nTakao Unno\nKanako Eo\nAimi Tomita\n
-
-#org @gCreditsString_POKeMON_Designers_3
-Diseñadores POKéMON\n\n\n\n\n\n
-
-#org @gCreditsString_Atsuko_Nishida_Muneo_Saito_Rena_Yoshikawa_Jun_Okutani
-\nAtsuko Nishida\nMuneo Saito\nRena Yoshikawa\nJun Okutani\n\n
-
-#org @gCreditsString_Supporting_Programmers
-Programadores de apoyo\n\n\n\n
-
-#org @gCreditsString_Teruyuki_Yoshioka_Takao_Nakano_Satoshi_Mitsuhara_Daisuke_Hoshino
-\nTeruyuki Yoshioka\nTakao Nakano\n\nSatoshi Mitsuhara\nDaisuke Hoshino\n
-
-#org @gCreditsString_NCL_Product_Testing
-\n\nPruebas de productos NCL\n\n\n\n
-
-#org @gCreditsString_NCL_Super_Mario_Club
-\n\n\nNCL Super Mario Club\n\n\n
-
-#org @gCreditsString_Special_Thanks
-Gracias especiales\n\n\n\n\n\n
-
-#org @gCreditsString_Hiro_Nakamura_Hiroyuki_Uesugi_Teruki_Murakawa_Kazuya_Suyama
-\nHiro Nakamura\nHiroyuki Uesugi\nTeruki Murakawa\n\nKazuya Suyama\n
-
-#org @gCreditsString_Special_Thanks_2
-Gracias especiales\n\n\n\n\n\n
-
-#org @gCreditsString_Kenji_Tominaga_Kenjiro_Ito_Tomotaka_Komura_Michiko_Takizawa
-\nKenji Tominaga\n\nKenjiro Ito\nTomotaka Komura\nMichiko Takizawa\n
-
-#org @gCreditsString_Special_Thanks_3
-Gracias especiales\n\n\n\n\n\n
-
-#org @gCreditsString_Makiko_Takada_Mikiko_Ohashi_Shusaku_Egami_Takanao_Kondo_Rui_Kawaguchi
-\nMakiko Takada\nMikiko Ohashi\nShusaku Egami\nTakanao Kondo\nRui Kawaguchi\n
-
-#org @gCreditsString_Braille_Code_Check
-\n\nComprobación del código Braille\n\n\n\n
-
-#org @gCreditsString_Japan_Braille_Library
-\n\n\nBiblioteca Braille de Japón\n\n\n
-
-#org @gCreditsString_Information_Supervisors
-Supervisores de información\n\n\n\n\n\n
-
-#org @gCreditsString_Hiroki_Enomoto_Kazuyuki_Terada_Yuri_Sakurai_Yumi_Funasaka_Naoko_Yanase
-\nHiroki Enomoto\nKazuyuki Terada\nYuri Sakurai\nYumi Funasaka\nNaoko Yanase\n
-
-#org @gCreditsString_Coordinators
-Coordinadores\n\n\n\n\n\n
-
-#org @gCreditsString_Azusa_Tajima_Akira_Kinashi_Kazuki_Yoshihara_Retsuji_Nomoto
-\nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n
-
-#org @gCreditsString_Task_Managers
-\nAdministradores de tareas\n\n\n\n\n
-
-#org @gCreditsString_Hitoshi_Yamagami_Gakuji_Nomoto
-\n\nHitoshi Yamagami\nGakuji Nomoto\n\n\n
-
-#org @gCreditsString_Producers
-\nProductores\n\n\n\n\n
-
-#org @gCreditsString_Hiroyuki_Jinnai_Takehiro_Izushi_Hiroaki_Tsuru
-\n\nHiroyuki Jinnai\nTakehiro Izushi\nHiroaki Tsuru\n\n
-
-#org @gCreditsString_Executive_Director
-\n\nDirector Ejecutivo\n\n\n\n
-
-#org @gCreditsString_Satoshi_Tajiri
-\n\n\nSatoshi Tajiri\n\n\n
-
-#org @gCreditsString_Executive_Producer
-\n\nProductor ejecutivo\n\n\n\n
-
-#org @gCreditsString_Satoru_Iwata
-\n\n\nSatoru Iwata\n\n\n
-
-#org @gCreditsString_Executive_Producer_2
-\n\nProductor ejecutivo\n\n\n\n
-
-#org @gCreditsString_Tsunekaz_Ishihara
-\n\n\nTsunekaz Ishihara\n\n\n
-
-#org @gCreditsString_English_Version_Coordinators
-\nCoordinadores de la versión en inglés\n\n\n\n\n
-
-#org @gCreditsString_Hiro_Nakamura_Seth_McMahill
-\n\nHiro Nakamura\nSeth McMahill\n\n\n
-
-#org @gCreditsString_Translator_Text_Editor
-\nTraductor\n\nEditor de texto\n\n\n
-
-#org @gCreditsString_Nob_Ogasawara_Teresa_Lillygren
-\n\nNob Ogasawara\n\nTeresa Lillygren\n\n
-
-#org @gCreditsString_Programmers_2
-Programadores\n\n\n\n\n\n
-
-#org @gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Yuichiro_Ito_Akira_Kinashi
-\nTeruki Murakawa\nSouichi Yamamoto\nYuichiro Ito\nAkira Kinashi\n\n
-
-#org @gCreditsString_Environment_Tool_Programmers
-\nProgramadores de entornos y herramientas\n\n\n\n\n
-
-#org @gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Kimiko_Nakamichi
-\n\nTeruki Murakawa\nSouichi Yamamoto\nKimiko Nakamichi\n\n
-
-#org @gCreditsString_NOA_Product_Testing
-Pruebas de productos NOA\n\n\n\n\n\n
-
-#org @gCreditsString_Thomas_Hertzog_Kathy_Huguenard_Mika_Kurosawa
-\nThomas Hertzog\nKathy Huguenard\nMika Kurosawa\n\n\n
-
-#org @gCreditsString_Braille_Code_Check_2
-Comprobación del código Braille\n\n\n\n\n\n
-
-#org @gCreditsString_National_Federation_of_the_Blind_Patricia_A_Maurer_Japan_Braille_Library_European_Blind_Union
-\nFederación Nacional\n[CLEAR_TO 0x13]de Ciegos\nPatricia A. Maurer\nBiblioteca Braille de Japón\nUnión Europea de Ciegos\n
-
-#org @gCreditsString_Braille_Code_Check_3
-\nComprobación del código Braille\n\n\n\n\n
-
-#org @gCreditsString_National_Information_Library_Service_Margaret_Campion
-\n\nServicio de Biblioteca Nacional de Información\n[CLEAR_TO 0x2D]\nMargaret Campion\n\n
-
-#org @gCreditsString_Special_Thanks_4
-Gracias especiales\n\n\n\n\n\n
-
-#org @gCreditsString_Takehiro_Izushi_Motoyasu_Tojima_Hitoshi_Yamagami_Hiroyuki_Uesugi
-\nTakehiro Izushi\nMotoyasu Tojima\nHitoshi Yamagami\nHiroyuki Uesugi\n\n
-
-#org @gCreditsString_Special_Thanks_5
-Gracias especiales\n\n\n\n\n\n
-
-#org @gCreditsString_Nicola_Pratt_Barlow_Shellie_Dow_Anthony_Howitt_Naoko_Saeki_Kyoko_Onishi
-\nNicola Pratt-Barlow\nShellie Dow\nAnthony Howitt\nNaoko Saeki\nKyoko Onishi\n
-
-#org @gCreditsString_Braille_Code_Check_4
-\nComprobación del código Braille\n\n\n\n\n
-
-#org @gCreditsString_The_Royal_New_Zealand_Foundation_of_the_Blind_Greg_Moran
-\n\nLa Fundación Real de Nueva Zelanda\nFundación para Ciegos\nGreg Moran\n\n
-
-#org @gCreditsString_Graphic_Designer
-\n\nDiseñador gráfico\n\n\n\n
-
-#org @gCreditsString_Akira_Kinashi
-\n\n\nAkira Kinashi\n\n\n
-
-#org @gJPText_MysteryGift
-
-
-#org @gJPText_DecideStop
-
-
-#org @gJPText_ReceiveMysteryGiftWithEReader
-
-
-#org @gJPText_SelectConnectFromEReaderMenu
-
-
-#org @gJPText_SelectConnectWithGBA
-
-
-#org @gJPText_SelectConnectAndPressA
-Seleccione 'Transferir' en el lector electrónico de tarjetas [PLUS] y presione el botón A.
-
-#org @gJPText_LinkIsIncorrect
-
-
-#org @gJPText_CardReadingHasBeenHalted
-
-
-#org @gJPText_UnableConnectWithEReader
-No se puede conectar con el lector electrónico de tarjetas [PLUS]
-
-#org @gJPText_Connecting
-
-
-#org @gJPText_ConnectionErrorCheckLink
-
-
-#org @gJPText_ConnectionErrorTryAgain
-
-
-#org @gJPText_AllowEReaderToLoadCard
-
-
-#org @gJPText_ConnectionComplete
-
-
-#org @gJPText_NewTrainerHasComeToSevii
-
-
-#org @gJPText_PleaseWaitAMoment
-
-
-#org @gJPText_WriteErrorUnableToSaveData
-
-
-#org @gText_CommErrorCheckConnections
-Error de comunicación...\nCompruebe todas las conexiones,\nluego apague y encienda la alimentación.
-
-#org @gText_CommErrorEllipsis
-Error de comunicación…
-
-#org @gText_MoveCloserToLinkPartner
-Acércate a tus socios de enlace.\nEvita los obstáculos entre socios.
-
-#org @gText_ABtnRegistrationCounter
-Un botón: contador de registro
-
-#org @gText_ABtnTitleScreen
-Un botón: pantalla de título
-
-#org @gText_NumPlayerLink
-[STR_VAR_1]P ENLACE
-
-#org @gText_BronzeCard
-BRONCE
-
-#org @gText_CopperCard
-COBRE
-
-#org @gText_SilverCard
-PLATA
-
-#org @gText_GoldCard
-ORO
-
-#org @gText_HelpSystemControls_A_Next
-[A_BUTTON]SIGUIENTE
-
-#org @gText_HelpSystemControls_PickOkEnd
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]END
-
-#org @gText_HelpSystemControls_AorBtoCancel
-[A_BUTTON][B_BUTTON]CANCELAR
-
-#org @gText_HelpSystemControls_PickOkCancel
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]CANCELAR
-
-#org @gEasyChatGroupName_Pokemon
-POKéMON
-
-#org @gEasyChatGroupName_Trainer
+#org @sEasyChatWord_Trainer
 ENTRENADOR
 
-#org @gEasyChatGroupName_Status
-ESTADO
+#org @sEasyChatWord_Version
+VERSIÓN
 
-#org @gEasyChatGroupName_Battle
+#org @sEasyChatWord_Pokenav
+POKÉNOMBRE
+
+#org @sEasyChatWord_Pokemon
+POKéMON
+
+#org @sEasyChatWord_Get
+CONSEGUIR
+
+#org @sEasyChatWord_Pokedex
+POKéDEX
+
+#org @sEasyChatWord_Ruby
+RUBÍ
+
+#org @sEasyChatWord_Level
+NIVEL
+
+#org @sEasyChatWord_Red
+ROJO
+
+#org @sEasyChatWord_Green
+VERDE
+
+#org @sEasyChatWord_Bag
+BOLSA
+
+#org @sEasyChatWord_Flame
+FUEGO
+
+#org @sEasyChatWord_Gold
+ORO
+
+#org @sEasyChatWord_Leaf
+HOJA
+
+#org @sEasyChatWord_Silver
+PLATA
+
+#org @sEasyChatWord_Dark
+OSCURO
+
+#org @sEasyChatWord_Stench
+HEDOR
+
+#org @sEasyChatWord_ThickFat
+GRASA GRUESA
+
+#org @sEasyChatWord_RainDish
+PLATO DE LLUVIA
+
+#org @sEasyChatWord_Drizzle
+LLOVIZNA
+
+#org @sEasyChatWord_ArenaTrap
+TRAMPA DE ARENA
+
+#org @sEasyChatWord_Intimidate
+INTIMIDAR
+
+#org @sEasyChatWord_RockHead
+CABEZA DE PIEDRA
+
+#org @sEasyChatWord_Color
+COLOR
+
+#org @sEasyChatWord_AltColor
+ALT. COLOR
+
+#org @sEasyChatWord_Rock
+ROCA
+
+#org @sEasyChatWord_Beautiful
+HERMOSO
+
+#org @sEasyChatWord_Beauty
+BELLEZA
+
+#org @sEasyChatWord_AirLock
+BLOQUEO DE AIRE
+
+#org @sEasyChatWord_Psychic
+PSÍQUICO
+
+#org @sEasyChatWord_HyperCutter
+HIPER CORTADOR
+
+#org @sEasyChatWord_Fighting
+LUCHA
+
+#org @sEasyChatWord_ShadowTag
+ETIQUETA DE SOMBRA
+
+#org @sEasyChatWord_Smart
+ELEGANTE
+
+#org @sEasyChatWord_Smartness
+ELEGANCIA
+
+#org @sEasyChatWord_SpeedBoost
+AUMENTO DE VELOCIDAD
+
+#org @sEasyChatWord_Cool
+FRESCO
+
+#org @sEasyChatWord_Coolness
+FRESCURA
+
+#org @sEasyChatWord_BattleArmor
+ARMADURA DE BATALLA
+
+#org @sEasyChatWord_Cute
+LINDO
+
+#org @sEasyChatWord_Cuteness
+MONERÍA
+
+#org @sEasyChatWord_Sturdy
+ROBUSTO
+
+#org @sEasyChatWord_SuctionCups
+VENTOSAS
+
+#org @sEasyChatWord_Grass
+CÉSPED
+
+#org @sEasyChatWord_ClearBody
+CUERPO CLARO
+
+#org @sEasyChatWord_Torrent
+TORRENTE
+
+#org @sEasyChatWord_Ghost
+FANTASMA
+
+#org @sEasyChatWord_Ice
+HIELO
+
+#org @sEasyChatWord_Guts
+VÍSCERAS
+
+#org @sEasyChatWord_RoughSkin
+PIEL ÁSPERA
+
+#org @sEasyChatWord_ShellArmor
+ARMADURA DE CONCHA
+
+#org @sEasyChatWord_NaturalCure
+CURA NATURAL
+
+#org @sEasyChatWord_Damp
+HÚMEDO
+
+#org @sEasyChatWord_Ground
+SUELO
+
+#org @sEasyChatWord_Limber
+ÁGIL
+
+#org @sEasyChatWord_MagnetPull
+TIRAR DEL IMÁN
+
+#org @sEasyChatWord_WhiteSmoke
+HUMO BLANCO
+
+#org @sEasyChatWord_Synchronize
+SINCRONIZAR
+
+#org @sEasyChatWord_Overgrow
+CRECER DEMASIADO
+
+#org @sEasyChatWord_SwiftSwim
+NATACIÓN RÁPIDA
+
+#org @sEasyChatWord_SandStream
+CORRIENTE DE ARENA
+
+#org @sEasyChatWord_SandVeil
+VELO DE ARENA
+
+#org @sEasyChatWord_KeenEye
+BUEN OJO
+
+#org @sEasyChatWord_InnerFocus
+ENFOQUE INTERNO
+
+#org @sEasyChatWord_Static
+ESTÁTICO
+
+#org @sEasyChatWord_Type
+TIPO
+
+#org @sEasyChatWord_Tough
+DIFÍCIL
+
+#org @sEasyChatWord_Toughness
+TENACIDAD
+
+#org @sEasyChatWord_ShedSkin
+MUDAR LA PIEL
+
+#org @sEasyChatWord_HugePower
+ENORME PODER
+
+#org @sEasyChatWord_VoltAbsorb
+ABSORCIÓN DE VOLTIOS
+
+#org @sEasyChatWord_WaterAbsorb
+ABSORBIR AGUA
+
+#org @sEasyChatWord_Electric
+ELÉCTRICO
+
+#org @sEasyChatWord_Forecast
+PRONÓSTICO
+
+#org @sEasyChatWord_SereneGrace
+GRACIA SERENA
+
+#org @sEasyChatWord_Poison
+VENENO
+
+#org @sEasyChatWord_PoisonPoint
+PUNTO DE VENENO
+
+#org @sEasyChatWord_Dragon
+CONTINUAR
+
+#org @sEasyChatWord_Trace
+RASTRO
+
+#org @sEasyChatWord_Oblivious
+INADVERTIDO
+
+#org @sEasyChatWord_Truant
+AUSENTE
+
+#org @sEasyChatWord_RunAway
+HUIR
+
+#org @sEasyChatWord_StickyHold
+FIJACIÓN PEGAJA
+
+#org @sEasyChatWord_CloudNine
+NUBE NUEVE
+
+#org @sEasyChatWord_Normal
+NORMAL
+
+#org @sEasyChatWord_Steel
+ACERO
+
+#org @sEasyChatWord_Illuminate
+ILUMINAR
+
+#org @sEasyChatWord_EarlyBird
+MADRUGADOR
+
+#org @sEasyChatWord_Hustle
+AJETREO
+
+#org @sEasyChatWord_Shine
+BRILLAR
+
+#org @sEasyChatWord_Flying
+VOLADOR
+
+#org @sEasyChatWord_Drought
+SEQUÍA
+
+#org @sEasyChatWord_Lightningrod
+PARARRAYOS
+
+#org @sEasyChatWord_Compoundeyes
+OJOS COMPUESTOS
+
+#org @sEasyChatWord_MarvelScale
+ESCALA MARAVILLA
+
+#org @sEasyChatWord_WonderGuard
+GUARDIA MARAVILLA
+
+#org @sEasyChatWord_Insomnia
+INSOMNIO
+
+#org @sEasyChatWord_Levitate
+ERIGIR POR LEVITACIÓN
+
+#org @sEasyChatWord_Plus
+MÁS
+
+#org @sEasyChatWord_Pressure
+PRESIÓN
+
+#org @sEasyChatWord_LiquidOoze
+EXPURO LIQUIDO
+
+#org @sEasyChatWord_ColorChange
+CAMBIO DE COLOR
+
+#org @sEasyChatWord_Soundproof
+INSONORIZAR
+
+#org @sEasyChatWord_EffectSpore
+EFECTO ESPORA
+
+#org @sEasyChatWord_Pkrs
+[PK]RS
+
+#org @sEasyChatWord_Fire
+FUEGO
+
+#org @sEasyChatWord_FlameBody
+CUERPO DE LLAMA
+
+#org @sEasyChatWord_Minus
+MENOS
+
+#org @sEasyChatWord_OwnTempo
+PROPIO TEMPO
+
+#org @sEasyChatWord_MagmaArmor
+ARMADURA DE MAGMA
+
+#org @sEasyChatWord_Water
+AGUA
+
+#org @sEasyChatWord_WaterVeil
+VELO DE AGUA
+
+#org @sEasyChatWord_Bug
+BICHO
+
+#org @sEasyChatWord_Swarm
+ENJAMBRE
+
+#org @sEasyChatWord_CuteCharm
+LINDO ENCANTO
+
+#org @sEasyChatWord_Immunity
+INMUNIDAD
+
+#org @sEasyChatWord_Blaze
+RESPLANDOR
+
+#org @sEasyChatWord_Pickup
+LEVANTAR
+
+#org @sEasyChatWord_Pattern
+PATRÓN
+
+#org @sEasyChatWord_FlashFire
+INCENDIO REPENTINO
+
+#org @sEasyChatWord_VitalSpirit
+ESPÍRITU VITAL
+
+#org @sEasyChatWord_Chlorophyll
+CLOROFILA
+
+#org @sEasyChatWord_PurePower
+PURA POTENCIA
+
+#org @sEasyChatWord_ShieldDust
+POLVO DE ESCUDO
+
+#org @sEasyChatWord_MatchUp
+EMPAREJAR
+
+#org @sEasyChatWord_Go
+IR
+
+#org @sEasyChatWord_No1
+NO. 1
+
+#org @sEasyChatWord_Decide
+DECIDIR
+
+#org @sEasyChatWord_LetMeWin
+DÉJAME GANAR
+
+#org @sEasyChatWord_Wins
+GANA
+
+#org @sEasyChatWord_Win
+GANAR
+
+#org @sEasyChatWord_Won
+GANADO
+
+#org @sEasyChatWord_IfIWin
+SI GANO
+
+#org @sEasyChatWord_WhenIWin
+CUANDO GANAR
+
+#org @sEasyChatWord_CantWin
+NO PUEDO GANAR
+
+#org @sEasyChatWord_CanWin
+PUEDE GANAR
+
+#org @sEasyChatWord_NoMatch
+SIN COINCIDENCIA
+
+#org @sEasyChatWord_Spirit
+ESPÍRITU
+
+#org @sEasyChatWord_Decided
+DECIDIDO
+
+#org @sEasyChatWord_TrumpCard
+TARJETA DE TRIUNFO
+
+#org @sEasyChatWord_TakeThat
+TOMA ESO
+
+#org @sEasyChatWord_ComeOn
+VAMOS
+
+#org @sEasyChatWord_Attack
+ATAQUE
+
+#org @sEasyChatWord_Surrender
+RENDIRSE
+
+#org @sEasyChatWord_Gutsy
+VALIENTE
+
+#org @sEasyChatWord_Talent
+TALENTO
+
+#org @sEasyChatWord_Strategy
+ESTRATEGIA
+
+#org @sEasyChatWord_Smite
+HERIR
+
+#org @sEasyChatWord_Match
+FÓSFORO
+
+#org @sEasyChatWord_Victory
+VICTORIA
+
+#org @sEasyChatWord_Offensive
+OFENSIVO
+
+#org @sEasyChatWord_Sense
+SENTIDO
+
+#org @sEasyChatWord_Versus
+VERSUS
+
+#org @sEasyChatWord_Fights
+LUCHAS
+
+#org @sEasyChatWord_Power
+FUERZA
+
+#org @sEasyChatWord_Challenge
+DESAFÍO
+
+#org @sEasyChatWord_Strong
+FUERTE
+
+#org @sEasyChatWord_TooStrong
+MUY FUERTE
+
+#org @sEasyChatWord_GoEasy
+CON CALMA
+
+#org @sEasyChatWord_Foe
+ENEMIGO
+
+#org @sEasyChatWord_Genius
+GENIO
+
+#org @sEasyChatWord_Legend
+LEYENDA
+
+#org @sEasyChatWord_Escape
+ESCAPAR
+
+#org @sEasyChatWord_Aim
+APUNTAR
+
+#org @sEasyChatWord_Battle
 BATALLA
 
-#org @gEasyChatGroupName_Greetings
-SALUDOS
+#org @sEasyChatWord_Fight
+LUCHAR
 
-#org @gEasyChatGroupName_People
-GENTE
+#org @sEasyChatWord_Resuscitate
+RESUCITAR
 
-#org @gEasyChatGroupName_Voices
-VOCES
+#org @sEasyChatWord_Points
+PUNTOS
 
-#org @gEasyChatGroupName_Speech
-DISCURSO
+#org @sEasyChatWord_Serious
+GRAVE
 
-#org @gEasyChatGroupName_Endings
-FINALES
+#org @sEasyChatWord_GiveUp
+ABANDONAR
 
-#org @gEasyChatGroupName_Feelings
-SENTIMIENTOS
+#org @sEasyChatWord_Loss
+PÉRDIDA
 
-#org @gEasyChatGroupName_Conditions
-CONDICIONES
+#org @sEasyChatWord_IfILose
+SI PIERDO
 
-#org @gEasyChatGroupName_Actions
-COMPORTAMIENTO
+#org @sEasyChatWord_Lost
+PERDIDO
 
-#org @gEasyChatGroupName_Lifestyle
-ESTILO DE VIDA
+#org @sEasyChatWord_Lose
+PERDER
 
-#org @gEasyChatGroupName_Hobbies
-AFICIONES
+#org @sEasyChatWord_Guard
+GUARDIA
 
-#org @gEasyChatGroupName_Time
-TIEMPO
+#org @sEasyChatWord_Partner
+PAREJA
 
-#org @gEasyChatGroupName_Misc
-MISC.
+#org @sEasyChatWord_Reject
+RECHAZAR
 
-#org @gEasyChatGroupName_Adjectives
-ADJETIVOS
+#org @sEasyChatWord_Accept
+ACEPTAR
 
-#org @gEasyChatGroupName_Events
-EVENTOS
+#org @sEasyChatWord_Invincible
+INVENCIBLE
 
-#org @gEasyChatGroupName_Move1
-MOVER 1
+#org @sEasyChatWord_Received
+RECIBIÓ
 
-#org @gEasyChatGroupName_Move2
-MOVER 2
+#org @sEasyChatWord_Easy
+FÁCIL
 
-#org @gEasyChatGroupName_TrendySaying
-DICHO DE MODA
+#org @sEasyChatWord_Weak
+DÉBIL
 
-#org @gEasyChatGroupName_Pokemon2
-POKéMON2
+#org @sEasyChatWord_TooWeak
+MUY DEBIL
 
-#org @gText_ThreeQuestionMarks
-???
+#org @sEasyChatWord_Pushover
+PERSONA FÁCIL DE CONVENCER
 
-#org @gText_UnusedEmpty
+#org @sEasyChatWord_Leader
+LÍDER
 
+#org @sEasyChatWord_Rule
+REGLA
 
-#org @gText_UnusedLv
-Lv
+#org @sEasyChatWord_Move
+MOVER
 
-#org @gText_UnusedDashes
----
+#org @sEasyChatWord_Thanks
+GRACIAS
 
-#org @gText_4Qmark
-????
+#org @sEasyChatWord_Yes
+SÍ
 
-#org @gText_UnusedEmpty2
+#org @sEasyChatWord_HereGoes
+AQUÍ VA
 
+#org @sEasyChatWord_HereICome
+AQUÍ VENGO
 
-#org @gText_IsThisTradeOkay
-¿Está bien este intercambio?
+#org @sEasyChatWord_HereItIs
+AQUÍ LO TIENES
 
-#org @gTradeText_Cancel
-CANCELAR
+#org @sEasyChatWord_Yeah
+SÍ
 
-#org @gTradeText_ChooseAPokemon
-Elige un POKéMON.
+#org @sEasyChatWord_Welcome
+BIENVENIDO
 
-#org @gTradeText_Summary
-RESUMEN
+#org @sEasyChatWord_Oi
+EY
 
-#org @gTradeText_Trade
-COMERCIO
+#org @sEasyChatWord_HowDo
+COMO HACER
 
-#org @gText_CancelTrade
-¿Cancelar el comercio?
+#org @sEasyChatWord_Congrats
+FELICITACIONES
 
-#org @gTradeText_PressBButtonToExit
-Presione el botón B para salir.
+#org @sEasyChatWord_GiveMe
+DAME
 
-#org @gText_TradeAction_Summary
-RESUMEN
+#org @sEasyChatWord_Sorry
+LO SIENTO
 
-#org @gText_TradeAction_Trade
-COMERCIO
+#org @sEasyChatWord_Apologize
+DISCULPARSE
 
-#org @gText_Trade_CommunicationStandby
-[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Comunicación en espera...\nEspere.
+#org @sEasyChatWord_Forgive
+PERDONAR
 
-#org @gText_TradeHasBeenCanceled
-[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]La operación ha sido cancelada.
+#org @sEasyChatWord_HeyThere
+HOLA
 
-#org @gText_Trade_OnlyPkmnForBattle
-[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Ese es tu único POKéMON\npara la batalla.
+#org @sEasyChatWord_Hello
+HOLA
 
-#org @gText_WaitingForFriendToFinish
-[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Esperando a que tu amigo\n termine...
+#org @sEasyChatWord_GoodBye
+ADIÓS
 
-#org @gText_FriendWantsToTrade
-Tu amigo quiere\nintercambiar POKéMON.
+#org @sEasyChatWord_ThankYou
+GRACIAS
 
-#org @gText_XWillBeSentToY
-[STR_VAR_2] se\nenviará a [STR_VAR_1].
+#org @sEasyChatWord_IveArrived
+HE LLEGADO
 
-#org @gText_ByeByeVar1
-¡Adiós, [STR_VAR_2]!
+#org @sEasyChatWord_Pardon
+INDULTO
 
-#org @gText_XSentOverY
-[STR_VAR_1] tarde más de [STR_VAR_3].
+#org @sEasyChatWord_Excuse
+DISCULPAR
 
-#org @gText_TakeGoodCareOfX
-¡Cuida bien de [STR_VAR_3]!
+#org @sEasyChatWord_SeeYa
+NOS VEMOS
 
-#org @gText_From
-De
+#org @sEasyChatWord_ExcuseMe
+DISCULPE
 
-#org @gText_Empty1
+#org @sEasyChatWord_WellThen
+BIEN ENTONCES
 
+#org @sEasyChatWord_GoAhead
+ADELANTE
 
-#org @gText_Empty2
+#org @sEasyChatWord_Appreciate
+AGRADECER
 
+#org @sEasyChatWord_HeyQues
+¿EY?
 
-#org @gText_Empty3
+#org @sEasyChatWord_WhatsUpQues
+¿QUÉ PASA?
 
+#org @sEasyChatWord_HuhQues
+¿EH?
 
-#org @gText_Empty4
+#org @sEasyChatWord_No
+NO
 
+#org @sEasyChatWord_Hi
+HOLA
 
-#org @gText_Empty5
+#org @sEasyChatWord_YeahYeah
+SÍ, SÍ
 
+#org @sEasyChatWord_ByeBye
+ADIÓS
 
-#org @gText_Empty6
+#org @sEasyChatWord_MeetYou
+CONOCERTE
 
+#org @sEasyChatWord_Hey
+EY
 
-#org @gText_Empty7
+#org @sEasyChatWord_Smell
+OLER
 
+#org @sEasyChatWord_Listening
+ESCUCHANDO
 
-#org @gText_Empty8
+#org @sEasyChatWord_HooHah
+HOO-HAH
 
+#org @sEasyChatWord_Yahoo
+YAHOO
 
-#org @gText_Empty9
+#org @sEasyChatWord_Yo
+yo
 
+#org @sEasyChatWord_ComeOver
+VENIR
 
-#org @gText_Empty10
+#org @sEasyChatWord_CountOn
+CONTAR CON
 
+#org @sEasyChatWord_Opponent
+ADVERSARIO
 
-#org @gText_Empty11
+#org @sEasyChatWord_I
+I
 
+#org @sEasyChatWord_You
+TÚ
 
-#org @gText_WirelessCommunicationStatus
-Estado de comunicación inalámbrica
+#org @sEasyChatWord_Yours
+TUYO
 
-#org @gText_PeopleTrading
-Comercio de personas:
+#org @sEasyChatWord_Son
+HIJO
 
-#org @gText_PeopleBattling
-Personas luchando:
+#org @sEasyChatWord_Your
+SU
 
-#org @gText_PeopleInUnionRoom
-Personas en la SALA DE LA UNIÓN:
+#org @sEasyChatWord_Youre
+ESTÁS
 
-#org @gText_PeopleCommunicating
-Personas que se comunican:
+#org @sEasyChatWord_Youve
+TIENES
 
-#org @gText_Dynamic0Players
-[DYNAMIC 0x00] jugadores
+#org @sEasyChatWord_Mother
+MADRE
 
-#org @gText_Dynamic1Players
-Reproductor [DYNAMIC 0x01]
+#org @sEasyChatWord_Grandfather
+ABUELO
 
-#org @gText_Dynamic2Players
-[DYNAMIC 0x02] jugadores
+#org @sEasyChatWord_Uncle
+TÍO
 
-#org @gText_Dynamic3Players
-[DYNAMIC 0x03] jugadores
+#org @sEasyChatWord_Father
+PADRE
 
-#org @gText_DPadChooseAButtonConfirm
-[DPAD_ANY]Seleccione:[A_BUTTON]
+#org @sEasyChatWord_Boy
+CHICO
 
-#org @gText_BButtonCancel
-[B_BUTTON]CANCELAR
+#org @sEasyChatWord_Adult
+ADULTO
 
-#org @gText_ChooseBattleLineup
-[COLOR RED][SHADOW LIGHT_RED] Combinación de colores\n[COLOR DARK_GRAY][SHADOW LIGHT_GRAY]Elige tu propio color.
+#org @sEasyChatWord_Brother
+HERMANO
 
-#org @gText_UnusedId
-[IDENTIFICACIÓN]
+#org @sEasyChatWord_Sister
+HERMANA
 
-#org @gText_CommunicationStandby5
-Comunicación en espera…
+#org @sEasyChatWord_Grandmother
+ABUELA
 
-#org @gDaycareText_GetAlongVeryWell
-Los dos parecen llevarse muy bien.
+#org @sEasyChatWord_Aunt
+TÍA
 
-#org @gDaycareText_GetAlong
-Los dos parecen llevarse bien.
+#org @sEasyChatWord_Parent
+PADRE
 
-#org @gDaycareText_DontLikeOther
-Los dos no parecen agradarse mucho.
+#org @sEasyChatWord_Man
+HOMBRE
 
-#org @gDaycareText_PlayOther
-Los dos prefieren jugar con otros\nPOKéMON que entre ellos.
+#org @sEasyChatWord_Me
+A MÍ
 
-#org @gText_TeachWhichMoveToMon
-¿Enseñar qué movimiento a [STR_VAR_1]?
+#org @sEasyChatWord_Girl
+CHICA
 
-#org @gText_TeachMoveQues
-¿Enseñar [STR_VAR_2]?
+#org @sEasyChatWord_Babe
+BEBÉ
 
-#org @gText_MonLearnedMove
-[STR_VAR_1] aprendido\n[STR_VAR_2].
+#org @sEasyChatWord_Family
+FAMILIA
 
-#org @gText_MonIsTryingToLearnMove
-[STR_VAR_1] está intentando aprender\n[STR_VAR_2].\pPero [STR_VAR_1] no puede aprender más\nde cuatro movimientos.\p¿Eliminar un movimiento anterior para\nhacer espacio para [STR_VAR_2]?
+#org @sEasyChatWord_Her
+SU
 
-#org @gText_StopLearningMove
-¿Dejar de aprender [STR_VAR_2]?
+#org @sEasyChatWord_Him
+A ÉL
 
-#org @gText_1_2_and_Poof
-[PAUSE 0x20]1, [PAUSE 0x0F]2 y [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F][PLAY_SE SE_BALL_BOUNCE_1]¡Puf!\p
+#org @sEasyChatWord_He
+ÉL
 
-#org @gText_MonForgotOldMoveAndMonLearnedNewMove
-[STR_VAR_1] olvidó [STR_VAR_3].\pY▶\p[STR_VAR_1]\naprendió [STR_VAR_2].
+#org @sEasyChatWord_Place
+LUGAR
 
-#org @gText_GiveUpTryingToTeachNewMove
-¿Dejaste de intentar enseñar un nuevo\nmovimiento a [STR_VAR_1]?
+#org @sEasyChatWord_Daughter
+HIJA
 
-#org @gText_WhichMoveShouldBeForgotten
-¿Qué movimiento debería olvidarse?\p
+#org @sEasyChatWord_His
+SU
 
-#org @gText_TenDashes
-----------
+#org @sEasyChatWord_Hes
+ÉL ES
 
-#org @gText_CommStandbyAwaitingOtherPlayer
-Comunicación en espera▶\nEsperando que otro jugador elija.
+#org @sEasyChatWord_Arent
+NO LO SON
 
-#org @gText_BattleWasRefused
-La batalla fue rechazada.[PAUSE 0x3C]
+#org @sEasyChatWord_Siblings
+HERMANOS
 
-#org @gText_RefusedBattle
-Rechazó la batalla.[PAUSE 0x3C]
+#org @sEasyChatWord_Kid
+NIÑO
 
-#org @gFameCheckerText_MainScreenUI
-[START_BUTTON]ELIGE [DPAD_UP_DOWN]SELECCIONA [A_BUTTON]Aceptar
-
-#org @gFameCheckerText_PickScreenUI
-[START_BUTTON]ELIGE [DPAD_UP_DOWN]SELECCIONA [B_BUTTON]CANCELAR
-
-#org @gFameCheckerText_FlavorTextUI
-[DPAD_ANY]ELIGE [A_BUTTON]LEER [B_BUTTON]CANCELAR
-
-#org @gFameCheckerOakName
-ROBLE
-
-#org @gFameCheckerDaisyName
-MARGARITA
-
-#org @gFameCheckerBillName
-FACTURA
-
-#org @gFameCheckerMrFujiName
-fuji
-
-#org @gText_VarietyOfEventsImportedWireless
-Se importarán una variedad de eventos\na través de comunicación inalámbrica.
-
-#org @gText_WonderCardsInPossession
-Lee las TARJETAS MARAVILLAS que\ntienes en tu poder.
-
-#org @gText_ReadNewsThatArrived
-Lea las NOTICIAS que llegaron.
-
-#org @gText_ReturnToTitle
-Regresa a la pantalla de título.
-
-#org @gText_DontHaveCardNewOneInput
-No tienes una TARJETA WONDER,\npor lo que se ingresará una TARJETA nueva.
-
-#org @gText_DontHaveNewsNewOneInput
-No tienes ninguna NOTICIA MARAVILLA,\npor lo que se ingresarán nuevas NOTICIAS.
-
-#org @gText_WhereShouldCardBeAccessed
-¿Dónde se debe acceder a la WONDER CARD\n?
-
-#org @gText_WhereShouldNewsBeAccessed
-¿Dónde se debe acceder a WONDER NEWS\n?
-
-#org @gText_LinkStandyBButtonCancel
-Enlace en espera...\n... ... Botón B: Cancelar
-
-#org @gText_Communicating
-Comunicado…
-
-#org @gText_CommunicationCompleted
-Comunicación completada.
-
-#org @gText_CommunicationError
-Error de comunicación.
-
-#org @gText_CommunicationCanceled
-La comunicación ha sido cancelada.
-
-#org @gText_ThrowAwayWonderCard
-¿Desechar la TARJETA MARAVILLA\ny introducir una nueva TARJETA?
-
-#org @gText_HaventReceivedCardsGift
-Aún no has recibido el regalo de la TARJETA. ¿Ingresar una nueva TARJETA de todos modos?
-
-#org @gText_WonderCardReceivedFrom
-Se ha recibido una TARJETA MARAVILLA\nde [STR_VAR_1].
-
-#org @gText_WonderNewsReceivedFrom
-Se ha recibido\nun artículo de NOTICIAS MARAVILLOSAS de [STR_VAR_1].
-
-#org @gText_WonderCardReceived
-Se ha recibido\nuna nueva WONDER CARD.
-
-#org @gText_WonderNewsReceived
-Se ha recibido\nun nuevo artículo de WONDER NEWS.
-
-#org @gText_NewStampReceived
-Se ha recibido un nuevo SELLO.
-
-#org @gText_NewTrainerReceived
-Ha llegado un nuevo ENTRENADOR.
-
-#org @gText_AlreadyHadCard
-Ya tenías esa\nWONDER CARD.
-
-#org @gText_AlreadyHadNews
-Ya tenías ese\nartículo MARAVILLOSO DE NOTICIAS.
-
-#org @gText_AlreadyHadStamp
-Ya tenías ese\nSELLO.
-
-#org @gText_NoMoreRoomForStamps
-Ya no hay espacio para agregar\nSELLOS.
-
-#org @gText_RecordUploadedViaWireless
-Su registro se ha subido mediante\nCOMUNICACIÓN INALÁMBRICA.
-
-#org @gText_CantAcceptCardFromTrainer
-No puedes aceptar una WONDER CARD\nde este ENTRENADOR.
-
-#org @gText_CantAcceptNewsFromTrainer
-No puedes aceptar WONDER NEWS\nde este ENTRENADOR.
-
-#org @gText_NothingSentOver
-No se envió nada...
-
-#org @gText_WhatToDoWithCards
-¿Qué te gustaría hacer\ncon las WONDER CARDS?
-
-#org @gText_WhatToDoWithNews
-¿Qué te gustaría hacer\ncon WONDER NEWS?
-
-#org @gText_SendingWonderCard
-Enviando tu TARJETA MARAVILLA...
-
-#org @gText_SendingWonderNews
-Enviando su artículo MARAVILLA DE NOTICIAS...
-
-#org @gText_WonderCardSentTo
-Tu WONDER CARD ha sido enviada\na [STR_VAR_1].
-
-#org @gText_WonderNewsSentTo
-Tu artículo de WONDER NEWS ha sido\nenviado a [STR_VAR_1].
-
-#org @gText_StampSentTo
-Se ha enviado un SELLO a [STR_VAR_1].
-
-#org @gText_GiftSentTo
-Se ha enviado un REGALO a [STR_VAR_1].
-
-#org @gText_OtherTrainerHasCard
-El otro ENTRENADOR ya tiene la misma\nWONDER CARD.
-
-#org @gText_OtherTrainerHasNews
-El otro ENTRENADOR ya tiene las mismas\nNOTICIAS MARAVILLAS.
-
-#org @gText_OtherTrainerHasStamp
-El otro ENTRENADOR ya tiene el mismo\nSELLO.
-
-#org @gText_OtherTrainerCanceled
-El otro ENTRENADOR canceló\nla comunicación.
-
-#org @gText_CantSendGiftToTrainer
-No puedes enviar un REGALO MISTERIOSO a\neste ENTRENADOR.
-
-#org @gText_IfThrowAwayCardEventWontHappen
-Si tiras la TARJETA,\nsu evento no ocurrirá. ¿Bueno?
-
-#org @gText_OkayToDiscardNews
-¿Está bien descartar este elemento\nNEWS?
-
-#org @gText_HaventReceivedGiftOkayToDiscard
-No has recibido el\nREGALO. ¿Está bien descartarlo?
-
-#org @gText_DataWillBeSaved
-Los datos se guardarán.\nEspere.
-
-#org @gText_SaveCompletedPressA
-Guardar completado.\nPresione el botón A.
-
-#org @gText_WonderCardThrownAway
-La WONDER CARD fue desechada.
-
-#org @gText_WonderNewsThrownAway
-Las NOTICIAS MARAVILLAS fueron desperdiciadas.
-
-#org @gText_MysteryGift2
-REGALO MISTERIOSO
-
-#org @gText_PickOKCancel
-[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]SALIR
-
-#org @gText_WonderCards
-TARJETAS MARAVILLAS
-
-#org @gText_WonderNews
-NOTICIAS MARAVILLAS
-
-#org @gText_WirelessCommunication
-COMUNICACIÓN INALÁMBRICA
-
-#org @gText_Friend2
-AMIGO
-
-#org @gText_Exit3
-SALIDA
-
-#org @gText_Receive
-RECIBIR
-
-#org @gText_Send
-ENVIAR
-
-#org @gText_Toss
-SACUDIDA
-
-#org @gText_DelAllCancelOk
-DEL. TODO[CLEAR_TO 0x57]CANCELAR[CLEAR_TO 0xA4]Aceptar
+#org @sEasyChatWord_Children

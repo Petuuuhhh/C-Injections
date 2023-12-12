@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@andreasremdt/simple-translator": "^2.0.4",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "free-translate": "^0.6.1",
+    "google-translate-api": "^2.3.0",
+    "google-translate-api-x": "^10.6.7",
+    "google-translate-open-api": "^1.3.7",
+    "translate": "^2.0.2",
+    "translate-google": "^1.5.0"
+  },
+  "type": "module"
+}
