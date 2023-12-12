@@ -169,7 +169,7 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
     bufferChars = ""
     strLen = 0
 
-    for char in string:
+    for char in string.encode('iso-8859-1').decode('utf-8'):
         if 0 < maxLength <= strLen:
             print('Warning: The string "' + string + '" has exceeded the maximum length of '
                   + str(maxLength) + ' and has been truncated!')
@@ -225,6 +225,8 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                     stringToWrite += hex(charMap["\\" + char])
                     strLen += 1
                 else:
+                    print(charMap)
+                    print(string, char)
                     print('Error parsing string on line ' + str(lineNum) + ' at character "' + char + '".')
                     sys.exit(1)
     
@@ -238,15 +240,12 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
 
 def PokeByteTableMaker():
     dictionary = {}
-    with open(CharMap, 'r', encoding="ISO-8859-1") as file:
+    with open(CharMap, 'r', encoding='iso-8859-1') as file:
         for line in file:
             if line.strip() != "/FF" and line.strip() != "":
                 if line[2] == '=' and line[3] != "":
                     try:
-                        if line[3] == '\\':
-                            dictionary[line[3] + line[4]] = int(line.split('=')[0], 16)
-                        else:
-                            dictionary[line[3]] = int(line.split('=')[0], 16)
+                        dictionary[line[3:].encode('iso-8859-1').decode('utf-8')[:-1]] = int(line.split('=')[0], 16)
                     except:
                         pass
         dictionary[' '] = 0

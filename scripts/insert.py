@@ -221,7 +221,6 @@ def RealRepoint2(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
 
         for pointer in pointerList:
             if word == startingOffset:
-                print(startingOffset)
                 offsetList.append((offset, pointerDict[pointer][1]))
                 rom.write(bytes(pointerDict[pointer][0].to_bytes(4, 'little')))
                 break
