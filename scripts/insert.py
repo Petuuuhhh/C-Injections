@@ -42,6 +42,7 @@ HOOKS = 'hooks'
 REPOINTS = 'repoints'
 GENERATED_REPOINTS = 'generatedrepoints'
 REPOINT_ALL = 'repointall'
+REPOINT_YAK = 'repointyak'
 ROUTINE_POINTERS = 'routinepointers'
 FUNCTION_REWRITES = 'functionrewrites'
 EVENT_SCRIPTS = "eventscripts"
@@ -192,6 +193,42 @@ def RealRepoint(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
 
     return offsetList
 
+import struct
+
+def RealRepoint2(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
+    pointerList = []
+    pointerDict = {}
+    global startingOffset
+    for tup in offsetTuples:  # Format is (Double Pointer, New Pointer, Symbol)
+        offset = tup[0]
+        startingOffset = offset + 0x08000000
+        rom.seek(offset)
+        pointer = ExtractPointer(rom.read(4))
+        pointerList.append(pointer)
+        pointerDict[pointer] = (tup[1] + 0x08000000, tup[2])
+
+    offset = 0
+    offsetList = []
+
+    while offset < 0xFFFFFD:
+        if offset in IGNORED_OFFSETS:
+            offset += 4
+            continue
+
+        rom.seek(offset)
+        word = ExtractPointer(rom.read(4))
+        rom.seek(offset)
+
+        for pointer in pointerList:
+            if word == startingOffset:
+                print(startingOffset)
+                offsetList.append((offset, pointerDict[pointer][1]))
+                rom.write(bytes(pointerDict[pointer][0].to_bytes(4, 'little')))
+                break
+
+        offset += 4
+
+    return offsetList
 
 def ReplaceBytes(rom: _io.BufferedReader, offset: int, data: str):
     ar = offset
@@ -478,6 +515,41 @@ def main():
                     for tup in offsets:
                         output.write(tup[1] + ' ' + str(tup[0]) + '\n')
                     output.close()
+
+        if os.path.isfile(REPOINT_YAK):
+            offsetsToRepointTogether = []
+            with open(REPOINT_YAK, 'r') as repointList:
+                definesDict = {}
+                conditionals = []
+                for line in repointList:
+                    if TryProcessFileInclusion(line, definesDict):
+                        continue
+                    if TryProcessConditionalCompilation(line, definesDict, conditionals):
+                        continue
+                    if line.strip().startswith('#') or line.strip() == '':
+                        continue
+
+                    symbol, address = line.split()
+                    offset = int(address, 16) - 0x08000000
+
+                    if symbol in symbolsRepointed:
+                        continue
+
+                    try:
+                        code = table[symbol]
+                    except KeyError:
+                        print('Symbol missing:', symbol)
+                        continue
+                    offsetsToRepointTogether.append((offset, code, symbol))
+
+                if offsetsToRepointTogether != []:
+                    offsets = RealRepoint2(rom, offsetsToRepointTogether) # Format is [(offset, symbol), ...]
+
+                    output = open(GENERATED_REPOINTS, 'a')
+                    for tup in offsets:
+                        output.write(tup[1] + ' ' + str(tup[0]) + '\n')
+                    output.close()
+
 
         # Read routine repoints from a file
         if os.path.isfile(ROUTINE_POINTERS):

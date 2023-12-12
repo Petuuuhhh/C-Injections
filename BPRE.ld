@@ -39116,7 +39116,6 @@ gText_ABUTTONNext_BBUTTONBack = 0X08415d50;
 gText_UPDOWNPick_ABUTTONNext_BBUTTONBack = 0X08415d60;
 gText_UPDOWNPick_ABUTTONBBUTTONCancel = 0X08415d78;
 gText_ABUTTONExit = 0X08415d8c;
-gText_Boy = 0X08415d93;
 gText_Girl = 0X08415d97;
 gText_PokedexTableOfContents = 0X08415d9c;
 gText_Seen = 0X08415dc4;
