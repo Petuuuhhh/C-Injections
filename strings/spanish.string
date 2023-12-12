@@ -128,25 +128,22 @@ Botón L Botón R
 CONTROL S
 
 #org @gText_PickOk
-{DPAD_UPDOWN}Selecciona {A_BUTTON}Kete
+[DPAD_UP_DOWN]Selecciona [A_BUTTON]Kete
 
 #org @gText_ABUTTONNext
-{A_BUTTON}SIGUIENTE
+[A_BUTTON]SIGUIENTE
 
 #org @gText_ABUTTONNext_BBUTTONBack
-{A_BUTTON}SIGUIENTE {B_BUTTON}ATRÁS
+[A_BUTTON]SIGUIENTE [B_BUTTON]ATRÁS
 
 #org @gText_UPDOWNPick_ABUTTONNext_BBUTTONBack
-{DPAD_UPDOWN}ELIGE {A_BUTTON}SIGUIENTE {B_BUTTON}CANCELAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]SIGUIENTE [B_BUTTON]CANCELAR
 
 #org @gText_UPDOWNPick_ABUTTONBBUTTONCancel
-{DPAD_UPDOWN}ELIGE {A_BUTTON}{B_BUTTON}CANCELAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_ABUTTONExit
-{A_BUTTON}SALIR
-
-#org @gText_Boy
-CHICO
+[A_BUTTON]SALIR
 
 #org @gText_Boy
 CHICO
@@ -158,7 +155,7 @@ CHICA
 ÍNDICE DE CONTENIDOS DE POKéDEX
 
 #org @gText_PickOK
-{DPAD_UPDOWN}ELIGE {A_BUTTON}Aceptar
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar
 
 #org @gText_Seen
 Visto:
@@ -173,7 +170,7 @@ KANTÓ
 NACIONAL
 
 #org @gText_PokemonHabitats
-{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}HÁBITATS DE POKéMON
+[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]HÁBITATS DE POKéMON
 
 #org @gText_DexCategory_GrasslandPkmn
 POKéMON Pastizal
@@ -203,7 +200,7 @@ POKéMON urbano
 Pokémon raros
 
 #org @gText_Search
-{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}BUSCAR
+[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]BUSCAR
 
 #org @gText_NumericalMode
 MODO NUMÉRICO
@@ -212,7 +209,7 @@ MODO NUMÉRICO
 MODO DE LA A A LA Z
 
 #org @gText_PokedexOther
-{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}OTRO
+[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]OTRO
 
 #org @gTextJP_HowToUsePokedex
 Cómo utilizar la enciclopedia
@@ -230,7 +227,7 @@ MODO MÁS LIGERO
 MODO MÁS PEQUEÑO
 
 #org @gText_PokemonList
-{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}LISTA DE POKéMON
+[COLOR DYNAMIC_COLOR6][SHADOW DYNAMIC_COLOR5]LISTA DE POKéMON
 
 #org @gText_NumericalModeKanto
 MODO NUMÉRICO: KANTO
@@ -245,13 +242,13 @@ LISTA POKÉMON
 BUSCAR
 
 #org @gText_PickOKExit
-{DPAD_UPDOWN}ELIGE {A_BUTTON}Aceptar {B_BUTTON}CANCELAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]CANCELAR
 
 #org @gText_5Dashes
 -----
 
 #org @gText_PickFlipPageCheckCancel
-{DPAD_LEFTRIGHT}ELIGIR{PLUS}voltear página {A_BUTTON}COMPROBAR {B_BUTTON}CANCELAR
+[DPAD_LEFT_RIGHT]ELIGIR[PLUS]voltear página [A_BUTTON]COMPROBAR [B_BUTTON]CANCELAR
 
 #org @gText_PokedexPokemon
 POKéMON
@@ -272,16 +269,16 @@ libras
 Datos de Pokémon
 
 #org @gText_Cry
-{START_BUTTON}LLORA
+[START_BUTTON]LLORA
 
 #org @gText_NextDataCancel
-{A_BUTTON}SIGUIENTE DATO {B_BUTTON}CANCELAR
+[A_BUTTON]SIGUIENTE DATO [B_BUTTON]CANCELAR
 
 #org @gText_Next
-{A_BUTTON}SIGUIENTE
+[A_BUTTON]SIGUIENTE
 
 #org @gText_CancelPreviousData
-{A_BUTTON}CANCELAR {B_BUTTON}DATOS ANTERIORES
+[A_BUTTON]CANCELAR [B_BUTTON]DATOS ANTERIORES
 
 #org @gText_Area
 ÁREA
@@ -293,7 +290,7 @@ TAMAÑO
 ÁREA DESCONOCIDA
 
 #org @gText_PokedexNo
-{NO}
+NO
 
 #org @gText_Page
 PÁGINA
@@ -302,7 +299,7 @@ PÁGINA
 ¡Bienvenidos al SALÓN DE LA FAMA!
 
 #org @gText_HOFDexRating
-¡Encontraste Pokémon {STR_VAR_1}!\n¡Pokemon capturado {STR_VAR_2}!\pMadeja de Aquilegia\nPokédex Hyoka!\pAquilegia "¿Cuál?"\p
+¡Encontraste Pokémon [STR_VAR_1]!\n¡Pokemon capturado [STR_VAR_2]!\pMadeja de Aquilegia\nPokédex Hyoka!\pAquilegia "¿Cuál?"\p
 
 #org @gText_HOFDexSaving
 ¡Estoy escribiendo el informe hasta ahora!\nPor favor, no cortes las judías verdes.
@@ -311,7 +308,7 @@ PÁGINA
 Los datos del SALÓN DE LA FAMA están\ndañados.
 
 #org @gText_HOFNumber
-SALÓN DE LA FAMA No. {STR_VAR_1}
+SALÓN DE LA FAMA No. [STR_VAR_1]
 
 #org @gText_LeagueChamp
 ¡CAMPEÓN DE LA LIGA!\n¡FELICIDADES!
@@ -329,10 +326,10 @@ NOMBRE
 DNI No.
 
 #org @gText_BirchInTrouble
-{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}¡La madeja de Aquilegia está en apuros!\n¡Enviemos un Pokémon para ayudar!
+[HIGHLIGHT DYNAMIC_COLOR6][COLOR WHITE]¡La madeja de Aquilegia está en apuros!\n¡Enviemos un Pokémon para ayudar!
 
 #org @gText_ConfirmStarterChoice
-{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}¿Quieres este Pokémon?
+[HIGHLIGHT DYNAMIC_COLOR6][COLOR WHITE]¿Quieres este Pokémon?
 
 #org @gText_Pokemon4
 Pokémon
@@ -437,22 +434,22 @@ DESELECCIONAR
 ♀
 
 #org @gText_Lv
-{LV_2}
+[LV_2]
 
 #org @gText_NumberClear01
-{NO}{BORRAR 0x01}
+[BORRAR 0x01]
 
 #org @gText_Plus
-{MÁS}
+[MÁS]
 
 #org @gText_Escape3
-{ESCAPE 0x03}
+[ESCAPE 0x03]
 
 #org @gText_IDNumber2
-{identificación}{NO}
+[identificación]
 
 #org @gText_PokeSum_PP
-{PÁGINAS}
+[PÁGINAS]
 
 #org @gText_SelectorArrow2
 ▶
@@ -476,7 +473,7 @@ BOLSA
 pokenavi
 
 #org @gText_MenuPlayer
-{JUGADOR}
+[JUGADOR]
 
 #org @gText_MenuSave
 AHORRAR
@@ -491,16 +488,16 @@ SALIDA
 JUBILARSE
 
 #org @gText_MenuSafariStats
-{STR_VAR_1}/{STR_VAR_2}\nBOLAS {STR_VAR_3}
+[STR_VAR_1]/[STR_VAR_2]\nBOLAS [STR_VAR_3]
 
 #org @gText_TimesStrVar1
-×{STR_VAR_1}
+x[STR_VAR_1]
 
 #org @gText_Berry
 BAYA
 
 #org @gText_Coins
-{STR_VAR_1} MONEDAS
+[STR_VAR_1] MONEDAS
 
 #org @gText_Items2
 ELEMENTOS
@@ -518,7 +515,7 @@ ARTÍCULO DE DEPÓSITO
 CERRAR BOLSA
 
 #org @gText_Var1IsSelected
-{STR_VAR_1} está\nseleccionado.
+[STR_VAR_1] está\nseleccionado.
 
 #org @gText_CantWriteMailHere
 No puedes escribir\nMAIL aquí.
@@ -527,49 +524,49 @@ No puedes escribir\nMAIL aquí.
 No existe ningún\nPOKéMON.
 
 #org @gOtherText_WhereShouldTheStrVar1BePlaced
-¿Dónde debería colocarse el {STR_VAR_1}\n?
+¿Dónde debería colocarse el [STR_VAR_1]\n?
 
 #org @gText_ItemCantBeHeld
-El {STR_VAR_1} no se puede retener.
+El [STR_VAR_1] no se puede retener.
 
 #org @gText_TheStrVar1CantBeHeldHere
-El {STR_VAR_1} no se puede retener\naquí.
+El [STR_VAR_1] no se puede retener\naquí.
 
 #org @gText_DepositHowManyStrVars1
-¿Cuántos\n{STR_VAR_1}(s) depositas?
+¿Cuántos\n[STR_VAR_1](s) depositas?
 
 #org @gText_DepositedStrVar2StrVar1s
-{STR_VAR_2}\n{STR_VAR_1}(s) depositados.
+[STR_VAR_2]\n[STR_VAR_1](s) depositados.
 
 #org @gText_NoRoomToStoreItems
 No hay espacio para\nalmacenar artículos.
 
 #org @gText_TossOutHowManyStrVar1s
-Desecha ¿cuántos\n{STR_VAR_1}(s)?
+Desecha ¿cuántos\n[STR_VAR_1](s)?
 
 #org @gText_ThrewAwayStrVar2StrVar1s
-Desechaste {STR_VAR_2}\n{STR_VAR_1}(s).
+Desechaste [STR_VAR_2]\n[STR_VAR_1](s).
 
 #org @gText_ThrowAwayStrVar2OfThisItemQM
-¿Tirar {STR_VAR_2} de\neste artículo?
+¿Tirar [STR_VAR_2] de\neste artículo?
 
 #org @gText_OakForbidsUseOfItemHere
-OAK: ¡{PLAYER}!\n¡Este no es el momento de usar eso!{PAUSE_UNTIL_PRESS}
+OAK: ¡[PLAYER]!\n¡Este no es el momento de usar eso![PAUSE_UNTIL_PRESS]
 
 #org @gText_CantDismountBike
-No puedes bajarte de tu BICI aquí.{PAUSE_UNTIL_PRESS}
+No puedes bajarte de tu BICI aquí.[PAUSE_UNTIL_PRESS]
 
 #org @gText_ItemfinderResponding
-¿Eh?\n¡El ITEMFINDER está respondiendo!\p¡Hay un objeto enterrado por aquí!{PAUSE_UNTIL_PRESS}
+¿Eh?\n¡El ITEMFINDER está respondiendo!\p¡Hay un objeto enterrado por aquí![PAUSE_UNTIL_PRESS]
 
 #org @gText_ItemfinderShakingWildly
-¡Oh!\n¡El ITEMFINDER está temblando violentamente!\p¡Hay un objeto enterrado bajo tus pies!\p‥ ‥ ‥ ‥ ‥ ‥{PAUSE_UNTIL_PRESS}
+¡Oh!\n¡El ITEMFINDER está temblando violentamente!\p¡Hay un objeto enterrado bajo tus pies!\p▶ ▶ ▶ ▶ ▶ ▶[PAUSE_UNTIL_PRESS]
 
 #org @gText_NopeTheresNoResponse
-‥ ‥ ‥ ‥¡No!\nNo hay respuesta.{PAUSE_UNTIL_PRESS}
+▶ ▶ ▶ ▶¡No!\nNo hay respuesta.[PAUSE_UNTIL_PRESS]
 
 #org @gText_CoinCase
-Tus MONEDAS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}
+Tus MONEDAS:\n[STR_VAR_1][PAUSE_UNTIL_PRESS]
 
 #org @gText_BootedUpTM
 ¡Encendí la máquina a propósito!
@@ -578,37 +575,37 @@ Tus MONEDAS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}
 ¿Cómo encontraste la máquina oculta?
 
 #org @gText_TMHMContainedVar1
-¡Algunos de ellos se han {STR_VAR_1}\nperdidos!\p¿Quieres que tu Pokémon aprenda {STR_VAR_1}?
+¡Algunos de ellos se han [STR_VAR_1]\nperdidos!\p¿Quieres que tu Pokémon aprenda [STR_VAR_1]?
 
 #org @gText_PlayerUsedVar2
-{PLAYER} usó el\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+[PLAYER] usó el\n[STR_VAR_2].[PAUSE_UNTIL_PRESS]
 
 #org @gText_RepelEffectsLingered
-Pero los efectos de un REPEL\nperduraron desde antes.{PAUSE_UNTIL_PRESS}
+Pero los efectos de un REPEL\nperduraron desde antes.[PAUSE_UNTIL_PRESS]
 
 #org @gText_UsedVar2WildLured
-{PLAYER} usó el\n{STR_VAR_2}.\pPOKéMON salvajes serán atraídos.{PAUSE_UNTIL_PRESS}
+[PLAYER] usó el\n[STR_VAR_2].\pPOKéMON salvajes serán atraídos.[PAUSE_UNTIL_PRESS]
 
 #org @gText_UsedVar2WildRepelled
-{PLAYER} usó el\n{STR_VAR_2}.\pLos POKéMON salvajes serán repelidos.{PAUSE_UNTIL_PRESS}
+[PLAYER] usó el\n[STR_VAR_2].\pLos POKéMON salvajes serán repelidos.[PAUSE_UNTIL_PRESS]
 
 #org @gText_BoxFull
-La CAJA está llena.{PAUSE_UNTIL_PRESS}
+La CAJA está llena.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PowderQty
-CANTIDAD DE POLVO: {STR_VAR_1}{PAUSE_UNTIL_PRESS}
+CANTIDAD DE POLVO: [STR_VAR_1][PAUSE_UNTIL_PRESS]
 
 #org @gOtherText_Powder
 POLVO
 
 #org @gText_PlayedPokeFluteCatchy
-Toqué la FLAUTA POKé.\p¡Qué melodía pegadiza!{PAUSE_UNTIL_PRESS}
+Toqué la FLAUTA POKé.\p¡Qué melodía pegadiza![PAUSE_UNTIL_PRESS]
 
 #org @gText_PlayedPokeFlute
 Tocó la FLAUTA POKé.
 
 #org @gText_PokeFluteAwakenedMon
-La POKé FLAUTA despertó durmiendo\nPOKéMON.{PAUSE_UNTIL_PRESS}
+La POKé FLAUTA despertó durmiendo\nPOKéMON.[PAUSE_UNTIL_PRESS]
 
 #org @gText_TMCase
 CASO TM
@@ -620,10 +617,10 @@ CERCA
 El TM CASE se\nguardará.
 
 #org @gText_FontSmall
-{FONT_SMALL}
+[FONT_SMALL]
 
 #org @gText_FontNormal
-{FONT_NORMAL}
+[FONT_NORMAL]
 
 #org @gText_EmptySpace
 
@@ -644,22 +641,22 @@ VENDER
 ¡NOS VEMOS!
 
 #org @gText_InBagVar1
-EN BOLSA:{FONT_SMALL} {STR_VAR_1}
+EN BOLSA:[FONT_SMALL] [STR_VAR_1]
 
 #org @gText_QuitShopping
 Deja de comprar.
 
 #org @gText_Var1CertainlyHowMany
-¿{STR_VAR_1}? Por supuesto.\n¿Cuántos quieres?
+¿[STR_VAR_1]? Por supuesto.\n¿Cuántos quieres?
 
 #org @gText_Var1AndYouWantedVar2
-{STR_VAR_1} y quieres {STR_VAR_2}.\nEso será ¥{STR_VAR_3}. ¿Bueno?
+[STR_VAR_1] y quieres [STR_VAR_2].\nEso será \$[STR_VAR_3]. ¿Bueno?
 
 #org @gText_Var1IsItThatllBeVar2
-{STR_VAR_1} ¡Así es!\n{STR_VAR_2}\ ¿Pero está bien?
+[STR_VAR_1] ¡Así es!\n[STR_VAR_2]\n¿Pero está bien?
 
 #org @gText_YouWantedVar1ThatllBeVar2
-¡Es {STR_VAR_1}!\n{STR_VAR_2}\ ¿Pero lo quieres?
+¡Es [STR_VAR_1]!\n[STR_VAR_2]\n¿Pero lo quieres?
 
 #org @gText_HereYouGoThankYou
 ¡Aquí estás!\n¡Gracias!
@@ -671,13 +668,13 @@ Deja de comprar.
 ¡Muchas gracias!\n¡Lo enviaré a mi computadora!
 
 #org @gText_YouDontHaveMoney
-No tienes suficiente dinero.{PAUSE_UNTIL_PRESS}
+No tienes suficiente dinero.[PAUSE_UNTIL_PRESS]
 
 #org @gText_NoMoreRoomForThis
-No tienes más espacio para este\nitem.{PAUSE_UNTIL_PRESS}
+No tienes más espacio para este\nitem.[PAUSE_UNTIL_PRESS]
 
 #org @gText_SpaceForVar1Full
-Hay muchos lugares para colocar {STR_VAR_1} {PAUSE_UNTIL_PRESS}
+Hay muchos lugares para colocar [STR_VAR_1] [PAUSE_UNTIL_PRESS]
 
 #org @gText_AnythingElseICanHelp
 ¿Hay algo mas que pueda hacer?
@@ -686,22 +683,22 @@ Hay muchos lugares para colocar {STR_VAR_1} {PAUSE_UNTIL_PRESS}
 Además de eso, ¿qué más puedes hacer?
 
 #org @gText_ThrowInPremierBall
-¡Te regalo 1 Premier Ball como extra!{PAUSE_UNTIL_PRESS}
+¡Te regalo 1 Premier Ball como extra![PAUSE_UNTIL_PRESS]
 
 #org @gText_OhNoICantBuyThat
-¿{STR_VAR_1}? Oh, no.\nNo puedo creerlo.{PAUSE_UNTIL_PRESS}
+¿[STR_VAR_1]? Oh, no.\nNo puedo creerlo.[PAUSE_UNTIL_PRESS]
 
 #org @gText_HowManyWouldYouLikeToSell
-{STR_VAR_1}?\n¿Cuántos te gustaría vender?
+[STR_VAR_1]?\n¿Cuántos te gustaría vender?
 
 #org @gText_ICanPayThisMuch_WouldThatBeOkay
-Puedo pagar ¥{STR_VAR_3}.\n¿Estaría bien?
+Puedo pagar \$[STR_VAR_3].\n¿Estaría bien?
 
 #org @gText_TurnedOverItemsWorthYen
-Se entregó el sistema {STR_VAR_1}\nvalor \{STR_VAR_3}.
+Se entregó el sistema [STR_VAR_1]\nvalor \n[STR_VAR_3].
 
 #org @gText_PokedollarVar1
-¥{STR_VAR_1}
+\$[STR_VAR_1]
 
 #org @gText_Shift
 CAMBIO
@@ -749,148 +746,148 @@ DE ACUERDO
 
 
 #org @gText_PauseUntilPress
-{PAUSE_UNTIL_PRESS}
+[PAUSE_UNTIL_PRESS]
 
 #org @gText_WontHaveEffect
-No tendrá ningún efecto.{PAUSE_UNTIL_PRESS}
+No tendrá ningún efecto.[PAUSE_UNTIL_PRESS]
 
 #org @gText_CantBeUsedOnPkmn
-Esto no se puede usar en\nese POKéMON.{PAUSE_UNTIL_PRESS}
+Esto no se puede usar en\nese POKéMON.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnCantSwitchOut
-¡{STR_VAR_1} no se puede cambiar\n!{PAUSE_UNTIL_PRESS}
+¡[STR_VAR_1] no se puede cambiar\n![PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnAlreadyInBattle
-¡{STR_VAR_1} ya está\nen batalla!{PAUSE_UNTIL_PRESS}
+¡[STR_VAR_1] ya está\nen batalla![PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnAlreadySelected
-{STR_VAR_1} ya ha sido\nseleccionado.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] ya ha sido\nseleccionado.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnHasNoEnergy
-¡A {STR_VAR_1} no le queda energía\npara luchar!{PAUSE_UNTIL_PRESS}
+¡A [STR_VAR_1] no le queda energía\npara luchar![PAUSE_UNTIL_PRESS]
 
 #org @gText_CantSwitchWithAlly
-¡No puedes cambiar el\nPOKéMON de {STR_VAR_1} por uno tuyo!{PAUSE_UNTIL_PRESS}
+¡No puedes cambiar el\nPOKéMON de [STR_VAR_1] por uno tuyo![PAUSE_UNTIL_PRESS]
 
 #org @gText_EggCantBattle
-¡Un HUEVO no puede luchar!{PAUSE_UNTIL_PRESS}
+¡Un HUEVO no puede luchar![PAUSE_UNTIL_PRESS]
 
 #org @gText_CantUseUntilNewBadge
-Esto no se puede utilizar hasta que se obtenga un nuevo\nBADGE.{PAUSE_UNTIL_PRESS}
+Esto no se puede utilizar hasta que se obtenga un nuevo\nBADGE.[PAUSE_UNTIL_PRESS]
 
 #org @gText_NoMoreThanThreeMayEnter
-No podrán participar más de tres POKéMON\n.{PAUSE_UNTIL_PRESS}
+No podrán participar más de tres POKéMON\n.[PAUSE_UNTIL_PRESS]
 
 #org @gText_NoMoreThanTwoMayEnter
-No pueden entrar más de dos POKéMON\n.{PAUSE_UNTIL_PRESS}
+No pueden entrar más de dos POKéMON\n.[PAUSE_UNTIL_PRESS]
 
 #org @gText_SendMailToPC
 ¿Enviar el CORREO eliminado a\nsu PC?
 
 #org @gText_MailSentToPC
-El CORREO fue enviado a su PC.{PAUSE_UNTIL_PRESS}
+El CORREO fue enviado a su PC.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PCMailboxFull
-El MAILBOX de tu PC está lleno.{PAUSE_UNTIL_PRESS}
+El MAILBOX de tu PC está lleno.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MailMessageWillBeLost
 Si se elimina el CORREO, el\nmensaje se perderá. ¿Bueno?
 
 #org @gText_RemoveMailBeforeItem
-MAIL debe eliminarse antes de\nretener un artículo.{PAUSE_UNTIL_PRESS}
+MAIL debe eliminarse antes de\nretener un artículo.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnWasGivenItem
-A {STR_VAR_1} se le dio el\n{STR_VAR_2} para que retenga.{PAUSE_UNTIL_PRESS}
+A [STR_VAR_1] se le dio el\n[STR_VAR_2] para que retenga.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnAlreadyHoldingItemSwitch
-{STR_VAR_1} ya tiene\ninguno {STR_VAR_2}.\p¿Quieres cambiar los\ndos elementos?
+[STR_VAR_1] ya tiene\ninguno [STR_VAR_2].\p¿Quieres cambiar los\ndos elementos?
 
 #org @gText_PkmnNotHolding
-{STR_VAR_1} no tiene\nnada.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] no tiene\nnada.[PAUSE_UNTIL_PRESS]
 
 #org @gText_ReceivedItemFromPkmn
-Recibiste el {STR_VAR_2}\nde {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+Recibiste el [STR_VAR_2]\nde [STR_VAR_1].[PAUSE_UNTIL_PRESS]
 
 #org @gText_MailTakenFromPkmn
-EL CORREO fue tomado del\nPOKéMON.{PAUSE_UNTIL_PRESS}
+EL CORREO fue tomado del\nPOKéMON.[PAUSE_UNTIL_PRESS]
 
 #org @gText_SwitchedPkmnItem
-El {STR_VAR_2} fue tomado y\nreemplazado con el {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+El [STR_VAR_2] fue tomado y\nreemplazado con el [STR_VAR_1].[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnHoldingItemCantHoldMail
-Este POKéMON tiene un\nitem. No puede retener MAIL.{PAUSE_UNTIL_PRESS}
+Este POKéMON tiene un\nitem. No puede retener MAIL.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MailTransferredFromMailbox
-MAIL fue transferido desde\nel MAILBOX.{PAUSE_UNTIL_PRESS}
+MAIL fue transferido desde\nel MAILBOX.[PAUSE_UNTIL_PRESS]
 
 #org @gText_BagFullCouldNotRemoveItem
-El {STR_VAR_1} está lleno. No se pudo eliminar el elemento\ni del POKéMON.{PAUSE_UNTIL_PRESS}
+El [STR_VAR_1] está lleno. No se pudo eliminar el elemento\ni del POKéMON.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnLearnedMove3
-¡{STR_VAR_1} aprendió\n{STR_VAR_2}!
+¡[STR_VAR_1] aprendió\n[STR_VAR_2]!
 
 #org @gText_PkmnCantLearnMove
-{STR_VAR_1} y {STR_VAR_2}\nno son compatibles.\p{STR_VAR_2} no se puede\nconocer.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] y [STR_VAR_2]\nno son compatibles.\p[STR_VAR_2] no se puede\nconocer.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnNeedsToReplaceMove
-{STR_VAR_1} quiere aprender el\nmovimiento {STR_VAR_2}.\pSin embargo, {STR_VAR_1} ya\nconoce cuatro movimientos.\p¿Debería eliminarse un movimiento y\nreemplazarse con {STR_VAR_2}?
+[STR_VAR_1] quiere aprender el\nmovimiento [STR_VAR_2].\pSin embargo, [STR_VAR_1] ya\nconoce cuatro movimientos.\p¿Debería eliminarse un movimiento y\nreemplazarse con [STR_VAR_2]?
 
 #org @gText_StopLearningMove2
-¿Dejar de intentar enseñar\n{STR_VAR_2}?
+¿Dejar de intentar enseñar\n[STR_VAR_2]?
 
 #org @gText_MoveNotLearned
-{STR_VAR_1} no aprendió el\nmovimiento {STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] no aprendió el\nmovimiento [STR_VAR_2].[PAUSE_UNTIL_PRESS]
 
 #org @gText_WhichMoveToForget
-¿Qué movimiento debería olvidarse?{PAUSE_UNTIL_PRESS}
+¿Qué movimiento debería olvidarse?[PAUSE_UNTIL_PRESS]
 
 #org @gText_12PoofForgotMove
-1, {PAUSE 0x0F}2 y {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}¡Puf!\p{STR_VAR_1} olvidé cómo\nusar {STR_VAR_2}.\pY ...{PAUSE_UNTIL_PRESS}
+1, [PAUSE 0x0F]2 y [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F][PLAY_SE SE_BALL_BOUNCE_1]¡Puf!\p[STR_VAR_1] olvidé cómo\nusar [STR_VAR_2].\pY ...[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnAlreadyKnows
-{STR_VAR_1} ya lo sabe\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] ya lo sabe\n[STR_VAR_2].[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnHPRestoredByVar2
-Los HP de {STR_VAR_1} fueron restaurados\nen {STR_VAR_2} punto(s).{PAUSE_UNTIL_PRESS}
+Los HP de [STR_VAR_1] fueron restaurados\nen [STR_VAR_2] punto(s).[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnCuredOfPoison
-{STR_VAR_1} se curó de su\nenvenenamiento.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] se curó de su\nenvenenamiento.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnCuredOfParalysis
-{STR_VAR_1} se curó de\nparálisis.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] se curó de\nparálisis.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnWokeUp2
-{STR_VAR_1} se despertó.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] se despertó.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnBurnHealed
-La quemadura de {STR_VAR_1} se curó.{PAUSE_UNTIL_PRESS}
+La quemadura de [STR_VAR_1] se curó.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnThawedOut
-{STR_VAR_1} fue descongelado.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] fue descongelado.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PPWasRestored
-PP fue restaurado.{PAUSE_UNTIL_PRESS}
+PP fue restaurado.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnRegainhedHealth
-{STR_VAR_1}\n ¡recuperó su salud!{PAUSE_UNTIL_PRESS}
+[STR_VAR_1]\n ¡recuperó su salud![PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnBecameHealthy
-{STR_VAR_1} se recuperó.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] se recuperó.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MovesPPIncreased
-Los PP de {STR_VAR_1} aumentaron.{PAUSE_UNTIL_PRESS}
+Los PP de [STR_VAR_1] aumentaron.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnElevatedToLvVar2
-{STR_VAR_1} fue elevado a\nLv. {STR_VAR_2}.
+[STR_VAR_1] fue elevado a\nLv. [STR_VAR_2].
 
 #org @gText_PkmnBaseVar2StatIncreased
-Se elevó la base {STR_VAR_2}\nstat de {STR_VAR_1}.{PAUSE_UNTIL_PRESS}
+Se elevó la base [STR_VAR_2]\nstat de [STR_VAR_1].[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnSnappedOutOfConfusion
-{STR_VAR_1} salió de su\nconfusión.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] salió de su\nconfusión.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnGotOverInfatuation
-{STR_VAR_1} superó su\nencaprichamiento.{PAUSE_UNTIL_PRESS}
+[STR_VAR_1] superó su\nencaprichamiento.[PAUSE_UNTIL_PRESS]
 
 #org @gText_OnlyPkmnForBattle
 Ese es tu único\nPOKéMON para la batalla.
@@ -932,7 +929,7 @@ Elige un POKéMON.
 ¿Dar a qué POKéMON?
 
 #org @gText_DoWhatWithPokemon
-¿Hacer qué con este {PKMN}?
+¿Hacer qué con este [PKMN]?
 
 #org @gText_NothingToCut
 No hay nada que CORTAR.
@@ -962,13 +959,13 @@ No puedo usar eso aquí.
 Elige un POKéMON.
 
 #org @gText_NotEnoughHp
-No hay suficientes HP‥
+No hay suficientes HP▶
 
 #org @gText_ThreePkmnAreNeeded
-Se necesitan tres {PKMN}.
+Se necesitan tres [PKMN].
 
 #org @gText_PokemonCantBeSame
-{PKMN} no puede ser el mismo.
+[PKMN] no puede ser el mismo.
 
 #org @gText_NoIdenticalHoldItems
 ¡No hay los mismos artículos retenidos!
@@ -1028,7 +1025,7 @@ APRENDIÓ
 OAK: Es importante conocer\ntu POKéMON a fondo.\p
 
 #org @gText_OakThisIsListOfPokemon
-Esta es una lista de tu POKéMON,\n{JUGADOR}.\pAbre esto para verificar las habilidades\ny movimientos de tu POKéMON.\pTambién eliges POKéMON aquí si\nquieres usar un elemento en uno.{PAUSE_UNTIL_PRESS}
+Esta es una lista de tu POKéMON,\n[JUGADOR].\pAbre esto para verificar las habilidades\ny movimientos de tu POKéMON.\pTambién eliges POKéMON aquí si\nquieres usar un elemento en uno.[PAUSE_UNTIL_PRESS]
 
 #org @gText_CutATreeOrGrass
 Corta un árbol o césped.
@@ -1067,10 +1064,10 @@ Comparte HP.
 Regrese a un lugar de curación.
 
 #org @gText_EscapeFromHereAndReturnTo
-¿Quieres escapar de aquí y regresar\na {STR_VAR_1}?
+¿Quieres escapar de aquí y regresar\na [STR_VAR_1]?
 
 #org @gText_ReturnToHealingSpot
-¿Quieres volver al punto de curación\nusado por última vez en {STR_VAR_1}?
+¿Quieres volver al punto de curación\nusado por última vez en [STR_VAR_1]?
 
 #org @gText_ItemEffect_Attack
 ATAQUE
@@ -1091,7 +1088,7 @@ VELOCIDAD
 caballos de fuerza
 
 #org @gText_PkmnCantParticipate
-Ese POKéMON no puede participar.{PAUSE_UNTIL_PRESS}
+Ese POKéMON no puede participar.[PAUSE_UNTIL_PRESS]
 
 #org @gText_CancelParticipation
 ¿Cancelar participación?
@@ -1133,16 +1130,16 @@ Saque elementos de la PC.
 Voy a tirar las herramientas que guardo en mi computadora.
 
 #org @gText_ThereAreNoItems
-No hay elementos.{PAUSE_UNTIL_PRESS}
+No hay elementos.[PAUSE_UNTIL_PRESS]
 
 #org @gText_NoMoreRoomInBag
 Ya no queda\nespacio en la BOLSA.
 
 #org @gText_WithdrawHowMany
-¿Retirar cuántos\n{STR_VAR_1}(s)?
+¿Retirar cuántos\n[STR_VAR_1](s)?
 
 #org @gText_WithdrewQuantItem
-Retiró {STR_VAR_2}\n{STR_VAR_1}(s).
+Retiró [STR_VAR_2]\n[STR_VAR_1](s).
 
 #org @gOtherText_Read
 LEER
@@ -1154,19 +1151,19 @@ MOVER A LA BOLSA
 DAR
 
 #org @gText_TheresNoMailHere
-No hay CORREO aquí.{PAUSE_UNTIL_PRESS}
+No hay CORREO aquí.[PAUSE_UNTIL_PRESS]
 
 #org @gText_WhatWouldYouLikeToDoWithPlayersMail
-¿Qué te gustaría hacer con el MAIL de\n{STR_VAR_1}?
+¿Qué te gustaría hacer con el MAIL de\n[STR_VAR_1]?
 
 #org @gText_MessageWillBeLost
 El mensaje se perderá.\n¿Está bien?
 
 #org @gText_BagIsFull
-La BOLSA está llena.{PAUSE_UNTIL_PRESS}
+La BOLSA está llena.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MailReturnedToBagMessageErased
-El CORREO fue devuelto a la BOLSA\ncon su mensaje borrado.{PAUSE_UNTIL_PRESS}
+El CORREO fue devuelto a la BOLSA\ncon su mensaje borrado.[PAUSE_UNTIL_PRESS]
 
 #org @gText_WithdrawItem
 RETIRAR\nARTÍCULO
@@ -1256,19 +1253,19 @@ Haz un desafío.
 INFORMACIÓN
 
 #org @gText_FreshWater_200
-AGUA DULCE{CLEAR_TO 0x57}{FONT_SMALL}¥200
+AGUA DULCE[CLEAR_TO 0x57][FONT_SMALL]\$200
 
 #org @gText_SodaPop_300
-Refresco{CLEAR_TO 0x57}{FONT_SMALL}¥300
+Refresco[CLEAR_TO 0x57][FONT_SMALL]\$300
 
 #org @gText_Lemonade_350
-LIMONADA{CLEAR_TO 0x57}{FONT_SMALL}¥350
+LIMONADA[CLEAR_TO 0x57][FONT_SMALL]\$350
 
 #org @gText_50Coins_1000
-{FONT_SMALL} 50 MONEDAS{CLEAR_TO 0x45}¥1000
+[FONT_SMALL] 50 MONEDAS[CLEAR_TO 0x45]\$1000
 
 #org @gText_500Coins_10000
-{FONT_SMALL}500 MONEDAS{CLEAR_TO 0x40}¥10,000
+[FONT_SMALL]500 MONEDAS[CLEAR_TO 0x40]\$10,000
 
 #org @gText_Excellent
 Excelente
@@ -1298,19 +1295,19 @@ Bien
 Izquierda
 
 #org @gText_Tm13_4000Coins
-TM13{CLEAR_TO 0x48}{FONT_SMALL}4000 MONEDAS
+TM13[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
 
 #org @gText_Tm23_3500Coins
-TM23{CLEAR_TO 0x48}{FONT_SMALL}3500 MONEDAS
+TM23[CLEAR_TO 0x48][FONT_SMALL]3500 MONEDAS
 
 #org @gText_Tm24_4000Coins
-TM24{CLEAR_TO 0x48}{FONT_SMALL}4000 MONEDAS
+TM24[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
 
 #org @gText_Tm30_4500Coins
-TM30{CLEAR_TO 0x48}{FONT_SMALL}4500 MONEDAS
+TM30[CLEAR_TO 0x48][FONT_SMALL]4500 MONEDAS
 
 #org @gText_Tm35_4000Coins
-TM35{CLEAR_TO 0x48}{FONT_SMALL}4000 MONEDAS
+TM35[CLEAR_TO 0x48][FONT_SMALL]4000 MONEDAS
 
 #org @gText_1F_2
 1F
@@ -1415,7 +1412,7 @@ LA PC DE ALGUIEN
 PC DE BILL
 
 #org @gText_SPc
-PC de {PLAYER}
+PC de [PLAYER]
 
 #org @gText_HallOfFame_2
 SALÓN DE LA FAMA
@@ -1454,40 +1451,40 @@ LIMONADA
 MONEDAS
 
 #org @gText_Bicycle_Price
-BICICLETA{CLEAR_TO 0x49}{FONT_SMALL}¥1.000.000
+BICICLETA[CLEAR_TO 0x49][FONT_SMALL]\$1.000.000
 
 #org @gText_NoThanks
 NO, GRACIAS
 
 #org @gText_Abra_180Coins
-ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 MONEDAS
+ABRA[CLEAR_TO 0x55][FONT_SMALL] 180 MONEDAS
 
 #org @gText_Clefairy_500Coins
-CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 MONEDAS
+CLEFAIRY[CLEAR_TO 0x55][FONT_SMALL] 500 MONEDAS
 
 #org @gText_Dratini_2800Coins
-DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2.800 MONEDAS
+DRATINI[CLEAR_TO 0x4B][FONT_SMALL] 2.800 MONEDAS
 
 #org @gText_Scyther_5500Coins
-SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5.500 MONEDAS
+SCYTHER[CLEAR_TO 0x4B][FONT_SMALL] 5.500 MONEDAS
 
 #org @gText_Porygon_9999Coins
-PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 MONEDAS
+PORYGON[CLEAR_TO 0x4B][FONT_SMALL] 9,999 MONEDAS
 
 #org @gText_Abra_120Coins
-ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 MONEDAS
+ABRA[CLEAR_TO 0x55][FONT_SMALL] 120 MONEDAS
 
 #org @gText_Clefairy_750Coins
-CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 MONEDAS
+CLEFAIRY[CLEAR_TO 0x55][FONT_SMALL] 750 MONEDAS
 
 #org @gText_Pinsir_2500Coins
-PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2500 MONEDAS
+PINSIR[CLEAR_TO 0x4B][FONT_SMALL] 2500 MONEDAS
 
 #org @gText_Dratini_4600Coins
-DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4.600 MONEDAS
+DRATINI[CLEAR_TO 0x4B][FONT_SMALL] 4.600 MONEDAS
 
 #org @gText_Porygon_6500Coins
-PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6.500 MONEDAS
+PORYGON[CLEAR_TO 0x4B][FONT_SMALL] 6.500 MONEDAS
 
 #org @gText_NoThanks_2
 NO, GRACIAS
@@ -1595,19 +1592,19 @@ ROCA DEL OMBLIGO
 ISLA NACIMIENTO
 
 #org @gText_MiracleSeed_1000Coins
-SEMILLA MILAGROSA{CLEAR_TO 0x50}{FONT_SMALL}1000 MONEDAS
+SEMILLA MILAGROSA[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
 
 #org @gText_Charcoal_1000Coins
-CARBÓN{CLEAR_TO 0x50}{FONT_SMALL}1000 MONEDAS
+CARBÓN[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
 
 #org @gText_MysticWater_1000Coins
-AGUA MÍSTICA{CLEAR_TO 0x50}{FONT_SMALL}1000 MONEDAS
+AGUA MÍSTICA[CLEAR_TO 0x50][FONT_SMALL]1000 MONEDAS
 
 #org @gText_YellowFlute_1600Coins
-FLAUTA AMARILLA{CLEAR_TO 0x50}{FONT_SMALL}1,600 MONEDAS
+FLAUTA AMARILLA[CLEAR_TO 0x50][FONT_SMALL]1,600 MONEDAS
 
 #org @gText_SmokeBall_800Coins
-BOLA DE HUMO{CLEAR_TO 0x5A}{FONT_SMALL}800 MONEDAS
+BOLA DE HUMO[CLEAR_TO 0x5A][FONT_SMALL]800 MONEDAS
 
 #org @gText_Multichoice_Empty2
 
@@ -1745,46 +1742,46 @@ ESQUINA DIRECTA
 SALA DE LA UNIÓN
 
 #org @gText_Energypowder_50
-POLVO DE ENERGÍA{CLEAR_TO 0x74}{FONT_SMALL}50
+POLVO DE ENERGÍA[CLEAR_TO 0x74][FONT_SMALL]50
 
 #org @gText_EnergyRoot_80
-RAÍZ DE ENERGÍA{CLEAR_TO 0x74}{FONT_SMALL}80
+RAÍZ DE ENERGÍA[CLEAR_TO 0x74][FONT_SMALL]80
 
 #org @gText_HealPowder_50
-POLVO CURATIVO{CLEAR_TO 0x74}{FONT_SMALL}50
+POLVO CURATIVO[CLEAR_TO 0x74][FONT_SMALL]50
 
 #org @gText_RevivalHerb_300
-HIERBA DE AVIVAMIENTO{CLEAR_TO 0x6F}{FONT_SMALL}300
+HIERBA DE AVIVAMIENTO[CLEAR_TO 0x6F][FONT_SMALL]300
 
 #org @gText_Protein_1000
-PROTEÍNA{CLEAR_TO 0x65}{FONT_SMALL}1000
+PROTEÍNA[CLEAR_TO 0x65][FONT_SMALL]1000
 
 #org @gText_Iron_1000
-HIERRO{CLEAR_TO 0x65}{FONT_SMALL}1.000
+HIERRO[CLEAR_TO 0x65][FONT_SMALL]1.000
 
 #org @gText_Carbos_1000
-CARBOS{CLEAR_TO 0x65}{FONT_SMALL}1.000
+CARBOS[CLEAR_TO 0x65][FONT_SMALL]1.000
 
 #org @gText_Calcium_1000
-CALCIO{CLEAR_TO 0x65}{FONT_SMALL}1000
+CALCIO[CLEAR_TO 0x65][FONT_SMALL]1000
 
 #org @gText_Zinc_1000
-ZINC{CLEAR_TO 0x65}{FONT_SMALL}1000
+ZINC[CLEAR_TO 0x65][FONT_SMALL]1000
 
 #org @gText_HpUp_1000
-HP HASTA{CLEAR_TO 0x65}{FONT_SMALL}1000
+HP HASTA[CLEAR_TO 0x65][FONT_SMALL]1000
 
 #org @gText_PpUp_3000
-PP ARRIBA{CLEAR_TO 0x65}{FONT_SMALL}3000
+PP ARRIBA[CLEAR_TO 0x65][FONT_SMALL]3000
 
 #org @gString_BattleRecords_PlayersBattleResults
-RESULTADOS DE LA BATALLA DE {JUGADOR}
+RESULTADOS DE LA BATALLA DE [JUGADOR]
 
 #org @gString_BattleRecords_TotalRecord
-REGISTRO TOTAL W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}
+REGISTRO TOTAL W:[STR_VAR_1] L:[STR_VAR_2] D:[STR_VAR_3]
 
 #org @gString_BattleRecords_ColumnHeaders
-GANAR{CLEAR_TO 0x30}PERDER{CLEAR_TO 0x60}EMPATE
+GANAR[CLEAR_TO 0x30]PERDER[CLEAR_TO 0x60]EMPATE
 
 #org @gString_BattleRecords_7Dashes
 -------
@@ -1814,7 +1811,7 @@ Por favor elige un tema.
 Elige el fondo de pantalla.
 
 #org @gText_PkmnIsSelected
-Se selecciona {DINÁMICO 0x00}.
+Se selecciona [DINÁMICO 0x00].
 
 #org @gText_JumpToWhichBox
 ¿Saltar a qué CAJA?
@@ -1823,7 +1820,7 @@ Se selecciona {DINÁMICO 0x00}.
 ¿Depositar en qué CAJA?
 
 #org @gText_PkmnWasDeposited
-Se depositó {DYNAMIC 0x00}.
+Se depositó [DYNAMIC 0x00].
 
 #org @gText_BoxIsFull2
 La CAJA está llena.
@@ -1832,10 +1829,10 @@ La CAJA está llena.
 ¿Liberar este POKéMON?
 
 #org @gText_PkmnWasReleased
-Se lanzó {DYNAMIC 0x00}.
+Se lanzó [DYNAMIC 0x00].
 
 #org @gText_ByeByePkmn
-¡Adiós, {DYNAMIC 0x00}!
+¡Adiós, [DYNAMIC 0x00]!
 
 #org @gText_MarkYourPkmn
 Marca tu POKéMON.
@@ -1859,13 +1856,13 @@ No puedes liberar un HUEVO.
 ¿Continuar operaciones de BOX?
 
 #org @gText_PkmnCameBack
-¡{DYNAMIC 0x00} ha vuelto!
+¡[DYNAMIC 0x00] ha vuelto!
 
 #org @gText_WasItWorriedAboutYou
 ¿Estaba preocupado por ti?
 
 #org @gText_FourEllipsesExclamation
-‥ ‥ ‥ ‥ ‥!
+▶ ▶ ▶ ▶ ▶!
 
 #org @gText_PleaseRemoveTheMail
 Por favor elimine el CORREO.
@@ -1883,10 +1880,10 @@ La BOLSA está llena.
 ¿Poner este artículo en la BOLSA?
 
 #org @gText_ItemIsNowHeld
-{DYNAMIC 0x00} ahora está retenido.
+[DYNAMIC 0x00] ahora está retenido.
 
 #org @gText_ChangedToNewItem
-Cambiado a {DINÁMICO 0x00}.
+Cambiado a [DINÁMICO 0x00].
 
 #org @gText_MailCantBeStored
 ¡MAIL no se puede almacenar!
@@ -2273,19 +2270,19 @@ Tenacidad
 No creo que pueda comer más esto...
 
 #org @gText_SaveFailedCheckingBackup
-Error al guardar.\nComprobando la memoria de respaldo‥\nEspere.\n“Tiempo requerido:\naproximadamente 1 minuto”
+Error al guardar.\nComprobando la memoria de respaldo▶\nEspere.\n“Tiempo requerido:\naproximadamente 1 minuto”
 
 #org @gText_BackupMemoryDamaged
 La memoria de respaldo está dañada o\nla batería del juego se ha agotado.\nSe puede jugar al juego, pero\nno se puede guardar su progreso.\n“Presiona el botón A”.
 
 #org @gText_GamePlayCannotBeContinued
-{COLOR DARK_GRAY}“No puedo continuar mi aventura así\nVolver al título”
+[COLOR DARK_GRAY]“No puedo continuar mi aventura así\nVolver al título”
 
 #org @gText_CheckCompleted
 ¡Ya terminé!\nEscribiré el informe nuevamente\nPor favor, espere un momento.
 
 #org @gText_SaveCompleteGameCannotContinue
-Terminé de escribir el informe.\n{COLOR DARK_GRAY}“No puedo continuar mi aventura así.\nVolver al título”.
+Terminé de escribir el informe.\n[COLOR DARK_GRAY]“No puedo continuar mi aventura así.\nVolver al título”.
 
 #org @gText_SaveCompletePressA
 Guardar completado.\n“Presione el botón A”.
@@ -2312,7 +2309,7 @@ escondite
 ¿NOMBRE DEL RIVAL?
 
 #org @gText_MoveOkBack
-{DPAD_ANY}MOVER {A_BUTTON}Aceptar {B_BUTTON}ATRÁS
+[DPAD_ANY]MOVER [A_BUTTON]Aceptar [B_BUTTON]ATRÁS
 
 #org @gText_AlphabetUpperLower
 
@@ -2321,25 +2318,25 @@ escondite
 
 
 #org @gText_RegionMap_AButtonGuide
-{A_BUTTON}GUÍA
+[A_BUTTON]GUÍA
 
 #org @gText_RegionMap_AButtonCancel
-{A_BUTTON}CANCELAR
+[A_BUTTON]CANCELAR
 
 #org @gText_RegionMap_AButtonCancel2
-{A_BUTTON}CANCELAR
+[A_BUTTON]CANCELAR
 
 #org @gText_RegionMap_AButtonSwitch
-{A_BUTTON}CAMBIAR
+[A_BUTTON]CAMBIAR
 
 #org @gText_RegionMap_AButtonOK
-{A_BUTTON}Aceptar
+[A_BUTTON]Aceptar
 
 #org @gText_RegionMap_DPadMove
-{DPAD_ANY}MOVER
+[DPAD_ANY]MOVER
 
 #org @gText_RegionMap_UpDownPick
-{DPAD_UPDOWN}SELECCIONAR
+[DPAD_UP_DOWN]SELECCIONAR
 
 #org @gText_RegionMap_NoData
 Sin datos
@@ -2354,7 +2351,7 @@ Una montaña mística que es conocida\npor sus frecuentes caídas de meteoritos.
 Un túnel aparentemente sencillo que fue excavado por el salvaje DIGLETT. Es famoso por conectar las RUTAS 2 y 11.
 
 #org @gText_RegionMap_AreaDesc_VictoryRoad
-Un túnel situado en la RUTA 23.\nSe ganó su nombre porque\ndebe ser recorrido por todos los ENTRENADORES\con miras a la cima.
+Un túnel situado en la RUTA 23.\nSe ganó su nombre porque\ndebe ser recorrido por todos los ENTRENADORES\ncon miras a la cima.
 
 #org @gText_RegionMap_AreaDesc_PokemonMansion
 Una mansión decrépita e incendiada\nISLA CINNABAR.\nRecibió su nombre porque allí vivía un famoso\ninvestigador POKéMON.
@@ -2381,7 +2378,7 @@ Una central eléctrica que\nfue abandonada hace\naños, aunque algunas de las\nm
 Supuestamente es un volcán inactivo.\nSin embargo, hay\ninformes persistentes de que el pico arde\ncon fuego por la noche.
 
 #org @gText_RegionMap_AreaDesc_BerryForest
-Un bosque en un pequeño islote frente a la\costa de TRES ISLAS. LAS BAYAS\ncrecen salvajemente en profusión,\nreponiendo rápidamente las que se caen.
+Un bosque en un pequeño islote frente a la\ncosta de TRES ISLAS. LAS BAYAS\ncrecen salvajemente en profusión,\nreponiendo rápidamente las que se caen.
 
 #org @gText_RegionMap_AreaDesc_IcefallCave
 Una cueva que está cubierta por agua\ny hielo en FOUR ISLAND.\nParece que el final de la cueva\nestá conectado al océano.
@@ -2402,52 +2399,52 @@ Una zona exuberante y arbustiva. \nEn él hay patrones donde\nno crece hierba. A
 Una misteriosa ruina recién descubierta de una época antigua. Debe su nombre a los seis puntos que se encuentran en su puerta.
 
 #org @gText_PokeSum_MetInATrade
-{DYNAMIC 0x00} naturaleza.\nConocido en un intercambio.
+[DYNAMIC 0x00] naturaleza.\nConocido en un intercambio.
 
 #org @gText_PokeSum_MetInATrade_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza.\nConocido en un intercambio.
+[DYNAMIC 0x00] naturaleza.\nConocido en un intercambio.
 
 #org @gText_PokeSum_FatefulEncounterMet
-{DYNAMIC 0x00} naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_FatefulEncounterMet_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSe conocieron en un fatídico encuentro cuando\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_Met
-{DYNAMIC 0x00} naturaleza.\nSe reunió en {DYNAMIC 0x02} en {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSe reunió en [DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_Met_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza.\nSe reunió en {DYNAMIC 0x02} en {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSe reunió en [DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_ApparentlyMet
-{DYNAMIC 0x00} naturaleza.\nAparentemente se reunió en {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nAparentemente se reunió en [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_ApparentlyMet_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza.\nAparentemente se reunió en {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nAparentemente se reunió en [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_Hatched
-{DYNAMIC 0x00} naturaleza.\nSombreado: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSombreado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_Hatched_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza.\nSombreado: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.
+[DYNAMIC 0x00] naturaleza.\nSombreado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01].
 
 #org @gText_PokeSum_JP_ApparentlyHatched
-{DYNAMIC 0x00}Parece que regresó en {LV_2}{DYNAMIC 0x01}\n{DYNAMIC 0x02}
+[DYNAMIC 0x00]Parece que regresó en [LV_2][DYNAMIC 0x01]\n[DYNAMIC 0x02]
 
 #org @gText_PokeSum_JP_ApparentlyHatched_BoldGentleGrammar
-{DYNAMIC 0x00}Cuando era {LV_2}{DYNAMIC 0x01}\nParece que regresó en {DYNAMIC 0x02}
+[DYNAMIC 0x00]Cuando era [LV_2][DYNAMIC 0x01]\nParece que regresó en [DYNAMIC 0x02]
 
 #org @gText_PokeSum_FatefulEncounterHatched
-{DYNAMIC 0x00} naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).
+[DYNAMIC 0x00] naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01]).
 
 #org @gText_PokeSum_FatefulEncounterHatched_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).
+[DYNAMIC 0x00] naturaleza. Se conocieron en un\nencuentro fatídico (eclosionado: [DYNAMIC 0x02]\nat [LV_2] [DYNAMIC 0x01]).
 
 #org @gText_PokeSum_ApparentlyFatefulEncounterHatched
-{DYNAMIC 0x00} naturaleza. Aparentemente se conocieron en\un encuentro fatídico (eclosionado:\n{DYNAMIC 0x02} en {LV_2} {DYNAMIC 0x01}).
+[DYNAMIC 0x00] naturaleza. Aparentemente se conocieron en\nun encuentro fatídico (eclosionado:\n[DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01]).
 
 #org @gText_PokeSum_ApparentlyFatefulEncounterHatched_BoldGentleGrammar
-{DYNAMIC 0x00} naturaleza. Aparentemente se conocieron en\un encuentro fatídico (eclosionado:\n{DYNAMIC 0x02} en {LV_2} {DYNAMIC 0x01}).
+[DYNAMIC 0x00] naturaleza. Aparentemente se conocieron en\nun encuentro fatídico (eclosionado:\n[DYNAMIC 0x02] en [LV_2] [DYNAMIC 0x01]).
 
 #org @gText_PokeSum_EggOrigin_DayCare
 Un extraño HUEVO POKéMON encontrado por la\npareja de GUARDERÍA.
@@ -2459,7 +2456,7 @@ Un extraño HUEVO POKéMON obtenido\ndel viajero.
 Un HUEVO POKéMON maravillosamente peculiar obtenido en un lugar agradable.
 
 #org @gText_PokeSum_EggOrigin_Spa
-Un extraño HUEVO POKéMON obtenido de\una anciana en el SPA.
+Un extraño HUEVO POKéMON obtenido de\nuna anciana en el SPA.
 
 #org @gText_PokeSum_EggOrigin_Trade
 Un peculiar HUEVO POKéMON obtenido\nen un intercambio.
@@ -2501,25 +2498,25 @@ EXP. PUNTOS
 SIGUIENTE LV.
 
 #org @gText_PokeSum_Controls_PageCancel
-{DPAD_RIGHT}PÁGINA {A_BUTTON}CANCELAR
+[DPAD_RIGHT]PÁGINA [A_BUTTON]CANCELAR
 
 #org @gText_PokeSum_Controls_Cancel
-{A_BUTTON}CANCELAR
+[A_BUTTON]CANCELAR
 
 #org @gText_PokeSum_Controls_Page
-{DPAD_LEFTRIGHT}PÁGINA
+[DPAD_LEFT_RIGHT]PÁGINA
 
 #org @gText_PokeSum_Controls_PageDetail
-{DPAD_LEFT}PÁGINA {A_BUTTON}DETALLE
+[DPAD_LEFT]PÁGINA [A_BUTTON]DETALLE
 
 #org @gText_PokeSum_Controls_PickSwitch
-{DPAD_UPDOWN}ELIGE {A_BUTTON}CAMBIAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]CAMBIAR
 
 #org @gText_PokeSum_Controls_Pick
-{DPAD_UPDOWN}SELECCIONAR
+[DPAD_UP_DOWN]SELECCIONAR
 
 #org @gText_PokeSum_Controls_PickDelete
-{DPAD_UPDOWN}ELIGE {A_BUTTON}ELIMINAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]ELIMINAR
 
 #org @gText_PokeSum_HmMovesCantBeForgotten
 Los movimientos de HM no se pueden\nolvidar ahora.
@@ -2534,7 +2531,7 @@ DNI No.
 DINERO
 
 #org @gText_TrainerCardYen
-¥
+\$
 
 #org @gText_TrainerCardPokedex
 POKéDEX
@@ -2567,7 +2564,7 @@ BATALLAS DE ENLACE
 BATALLAS DE CABLE DE ENLACE
 
 #org @gText_WinLossRatio
-W:{CLEAR_TO 0x30}L:
+W:[CLEAR_TO 0x30]L:
 
 #org @gText_PokemonTrades
 COMERCIOS DE POKéMON
@@ -2648,7 +2645,7 @@ LR
 TIPO
 
 #org @gText_PickSwitchCancel
-{DPAD_UPDOWN}ELIGE {DPAD_LEFTRIGHT}CAMBIAR {A_BUTTON}{B_BUTTON}CANCELAR
+[DPAD_UP_DOWN]ELIGE [DPAD_LEFT_RIGHT]CAMBIAR [A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_ResetRTCConfirmCancel
 Restablecer RTC\nA para iniciar, B para cancelar
@@ -2717,7 +2714,7 @@ El nivel subió a\n
 .
 
 #org @gText_LevelUp_MaxHP
-{FONT_SMALL}MÁX.{FONT_NORMAL} HP
+[FONT_SMALL]MÁX.[FONT_NORMAL] HP
 
 #org @gText_LevelUp_Attack
 ATAQUE
@@ -2735,22 +2732,22 @@ SP. INFORMÁTICA
 SP. DEF
 
 #org @gText_LevelUp_Plus
-{FONT_SMALL}{PLUS}{FONT_NORMAL}
+[FONT_SMALL][PLUS][FONT_NORMAL]
 
 #org @gText_LevelUp_Minus
-{FONT_SMALL}-{FONT_NORMAL}
+[FONT_SMALL]-[FONT_NORMAL]
 
 #org @gText_Counting_1
 1,
 
 #org @gText_Counting_2And
-2, y ‥ ‥ ‥
+2, y ▶ ▶ ▶
 
 #org @gText_Poof
 ¡Puf!\p
 
 #org @gText_MonForgotMove
-{DYNAMIC 0x00} lo olvidé\n{DYNAMIC 0x01}.\p
+[DYNAMIC 0x00] lo olvidé\n[DYNAMIC 0x01].\p
 
 #org @gText_And
 Y P
@@ -2762,7 +2759,7 @@ Y P
 ¿Eh?
 
 #org @gText_MonLearnedTMHM
-¡{DYNAMIC 0x00} aprendido\n{DYNAMIC 0x01}!
+¡[DYNAMIC 0x00] aprendido\n[DYNAMIC 0x01]!
 
 #org @gText_Upper
 SUPERIOR
@@ -2795,22 +2792,22 @@ Registrar texto ¿dónde?
 Texto de entrada.
 
 #org @gText_F700JoinedChat
-¡{DYNAMIC 0x00} se unió al chat!
+¡[DYNAMIC 0x00] se unió al chat!
 
 #org @gText_F700LeftChat
-{DYNAMIC 0x00} abandonó el chat.
+[DYNAMIC 0x00] abandonó el chat.
 
 #org @gText_PlayersXPokemon
-{DINÁMICO 0x01} de {DINÁMICO 0x00}:
+[DINÁMICO 0x01] de [DINÁMICO 0x00]:
 
 #org @gText_PlayersXPokmonDoesNotExist
-{DYNAMIC 0x01} de {DYNAMIC 0x00} no está presente
+[DYNAMIC 0x01] de [DYNAMIC 0x00] no está presente
 
 #org @gText_ExitingTheChat
-Saliendo del chat‥
+Saliendo del chat▶
 
 #org @gText_LeaderHasLeftEndingChat
-El LÍDER, {DYNAMIC 0x00}, se ha ido, finalizando el chat.
+El LÍDER, [DYNAMIC 0x00], se ha ido, finalizando el chat.
 
 #org @gText_RegisteredTextChanged_OKtoSave
 El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
@@ -2819,10 +2816,10 @@ El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
 Ya hay un archivo guardado.\n¿Está bien sobrescribirlo?
 
 #org @gText_RegisteredTextChanged_SavingDontTurnOff
-AHORRANDO‥\nNO APAGUE LA CORRIENTE.
+AHORRANDO▶\nNO APAGUE LA CORRIENTE.
 
 #org @gText_RegisteredTextChanged_SavedTheGame
-{DYNAMIC 0x00} salvó el juego.
+[DYNAMIC 0x00] salvó el juego.
 
 #org @gText_IfLeaderLeavesChatWillEnd
 Si el LÍDER se va, el chat\nterminará. ¿Está bien?
@@ -2849,7 +2846,7 @@ VAMOS
 LO SIENTO
 
 #org @gText_YaySmileEmoji
-YAY{EMOJI_BIGSMILE}
+YAY[EMOJI_BIGSMILE]
 
 #org @gText_ThankYou
 GRACIAS
@@ -2858,16 +2855,16 @@ GRACIAS
 ¡ADIÓS!
 
 #org @gText_PlayerScurriedToCenter
-{PLAYER} corrió a un CENTRO POKéMON,\nprotegiendo a los exhaustos y desmayados\nPOKéMON de mayores daños‥\p
+[PLAYER] corrió a un CENTRO POKéMON,\nprotegiendo a los exhaustos y desmayados\nPOKéMON de mayores daños▶\p
 
 #org @gText_PlayerScurriedBackHome
-{PLAYER} se apresuró a regresar a casa, protegiendo\nal exhausto y desmayado POKéMON de\nmás daño‥\p
+[PLAYER] se apresuró a regresar a casa, protegiendo\nal exhausto y desmayado POKéMON de\nmás daño▶\p
 
 #org @gText_Diploma_Player
-JUGADOR: {DINÁMICO 0x00}
+JUGADOR: [DINÁMICO 0x00]
 
 #org @gText_Diploma_ThisDocument
-Este documento se emite en\nreconocimiento por tu\nmagnífico logro: completar\nla POKéDEX {DYNAMIC 0x01}.
+Este documento se emite en\nreconocimiento por tu\nmagnífico logro: completar\nla POKéDEX [DYNAMIC 0x01].
 
 #org @gText_Diploma_GameFreak
 ADICTO A LOS JUEGOS
@@ -2882,7 +2879,7 @@ KANTÓ
 ¿Borrar todas las áreas de datos guardados?
 
 #org @gText_ClearingData
-Borrando datos‥\nPor favor espera.
+Borrando datos▶\nPor favor espera.
 
 #org @gText_Player
 JUGADOR
@@ -2909,10 +2906,10 @@ INSIGNIAS
 REGISTRO
 
 #org @gText_HatchedFromEgg
-¡{STR_VAR_1} nació del HUEVO!
+¡[STR_VAR_1] nació del HUEVO!
 
 #org @gText_NickHatchPrompt
-¿Te gustaría ponerle un apodo al recién\nnacido {STR_VAR_1}?
+¿Te gustaría ponerle un apodo al recién\nnacido [STR_VAR_1]?
 
 #org @gString_OutOfCoins
 Te has quedado sin MONEDAS.\n¡Se acabó el juego!
@@ -2921,7 +2918,7 @@ Te has quedado sin MONEDAS.\n¡Se acabó el juego!
 ¿Deja de jugar?
 
 #org @gString_SlotMachineControls
-{DPAD_LEFTRIGHT}COMBOS {DPAD_DOWN}APUESTA {A_BUTTON}DETENER {B_BUTTON}SALIR
+[DPAD_LEFT_RIGHT]COMBOS [DPAD_DOWN]APUESTA [A_BUTTON]DETENER [B_BUTTON]SALIR
 
 #org @gText_TeachyTV
 Enseñanza de televisión
@@ -2939,7 +2936,7 @@ ALGUIEN
 AYUDA
 
 #org @gString_HelpSystem_ClearTo8
-{CLEAR_TO 8}
+[CLEAR_TO 8]
 
 #org @gText_SpacePoints2
 puntos
@@ -2960,7 +2957,7 @@ Mejor puntuación:
 EXCELENTES seguidos:
 
 #org @gText_AwesomeWonF701F700
-Impresionante puntuación! ¡Has ganado\n {DYNAMIC 01} {DYNAMIC 00}!
+Impresionante puntuación! ¡Has ganado\n [DYNAMIC 01] [DYNAMIC 00]!
 
 #org @gText_FilledStorageSpace2
 Ya no queda espacio.
@@ -2999,7 +2996,7 @@ BAYAS recogidas en fila con\ncinco jugadores:
 ¡Anunciamos los resultados de la RECOGIDA DE BAYAS!
 
 #org @gText_10P30P50P50P
-10P 30P 50P {EMOJI_MINUS}50P
+10P 30P 50P [EMOJI_MINUS]50P
 
 #org @gText_AnnouncingRankings
 ¡Anunciando clasificaciones!
@@ -3023,7 +3020,7 @@ BAYAS recogidas en fila con\ncinco jugadores:
 5:
 
 #org @gText_FirstPlacePrize
-¡El ganador del primer lugar se lleva\neste {DYNAMIC 00}!
+¡El ganador del primer lugar se lleva\neste [DYNAMIC 00]!
 
 #org @gText_CantHoldAnyMore
 No puedes aguantar más...
@@ -3050,7 +3047,7 @@ Comunicación en espera…
 Espere mientras cada miembro\nelige una BAYA.
 
 #org @gText_BerryCrush_GainedXUnitsOfPowder
-{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}Terminaste con {STR_VAR_1} unidades de\nBAYAS EN POLVO suave como la seda.{RESUME_MUSIC}\pTu cantidad total de BAYAS EN POLVO\nes {STR_VAR_2}.\p
+[PAUSE_MUSIC][PLAY_BGM MUS_LEVEL_UP]Terminaste con [STR_VAR_1] unidades de\nBAYAS EN POLVO suave como la seda.[RESUME_MUSIC]\pTu cantidad total de BAYAS EN POLVO\nes [STR_VAR_2].\p
 
 #org @gText_BerryCrush_RecordingGameResults
 Grabando los resultados de tu juego en el\narchivo guardado.\nEspera.
@@ -3071,19 +3068,19 @@ Se acabó el tiempo.\pNo se pudo hacer un buen POLVO DE BAYAS\n...\p
 Comunicación en espera…
 
 #org @gText_1_ClrBluShdwLtBlu_Dynamic0
-1. {COLOR AZUL}{SOMBRA AZUL CLARO}{DINÁMICO 0x00}
+1. [COLOR AZUL][SOMBRA AZUL CLARO][DINÁMICO 0x00]
 
 #org @gText_1_Dynamic0
-1. {DINÁMICO 0x00}
+1. [DINÁMICO 0x00]
 
 #org @gText_SpaceTimes2
 veces
 
 #org @gText_XDotY
-{STR_VAR_1}.{STR_VAR_2}
+[STR_VAR_1].[STR_VAR_2]
 
 #org @gText_StrVar1Berry
-{STR_VAR_1} BAYA
+[STR_VAR_1] BAYA
 
 #org @gText_TimeColon
 Tiempo:
@@ -3095,25 +3092,25 @@ Velocidad de prensado:
 Suavidad:
 
 #org @gText_StrVar1
-{STR_VAR_1}
+[STR_VAR_1]
 
 #org @gText_SpaceMin
 mín.
 
 #org @gText_XDotY2
-{STR_VAR_1}.{STR_VAR_2}
+[STR_VAR_1].[STR_VAR_2]
 
 #org @gText_SpaceSec
 segundo.
 
 #org @gText_XDotY3
-{STR_VAR_1}.{STR_VAR_2}
+[STR_VAR_1].[STR_VAR_2]
 
 #org @gText_TimesPerSec
 Tiempos/seg.
 
 #org @gText_Var1Percent
-{STR_VAR_1}%
+[STR_VAR_1]%
 
 #org @gText_PressesRankings
 Número de rankings de imprentas
@@ -3137,19 +3134,19 @@ TRITURACIÓN DE BAYAS
 Clasificaciones de velocidad de prensado
 
 #org @gText_Var1Players
-{STR_VAR_1} JUGADORES
+[STR_VAR_1] JUGADORES
 
 #org @gText_Ghost
 FANTASMA
 
 #org @gText_PokemonOnHook
-¡Un POKéMON está enganchado!{PAUSE_UNTIL_PRESS}
+¡Un POKéMON está enganchado![PAUSE_UNTIL_PRESS]
 
 #org @gText_NotEvenANibble
-Ni siquiera un mordisco‥{PAUSE_UNTIL_PRESS}
+Ni siquiera un mordisco▶[PAUSE_UNTIL_PRESS]
 
 #org @gText_ItGotAway
-Se escapó‥{PAUSE_UNTIL_PRESS}
+Se escapó▶[PAUSE_UNTIL_PRESS]
 
 #org @gText_Rooftop2
 TECHO
@@ -3380,13 +3377,13 @@ Pruebas de productos NOA\n\n\n\n\n\n
 Comprobación del código Braille\n\n\n\n\n\n
 
 #org @gCreditsString_National_Federation_of_the_Blind_Patricia_A_Maurer_Japan_Braille_Library_European_Blind_Union
-\nFederación Nacional\n{CLEAR_TO 0x13}de Ciegos\nPatricia A. Maurer\nBiblioteca Braille de Japón\nUnión Europea de Ciegos\n
+\nFederación Nacional\n[CLEAR_TO 0x13]de Ciegos\nPatricia A. Maurer\nBiblioteca Braille de Japón\nUnión Europea de Ciegos\n
 
 #org @gCreditsString_Braille_Code_Check_3
 \nComprobación del código Braille\n\n\n\n\n
 
 #org @gCreditsString_National_Information_Library_Service_Margaret_Campion
-\n\nServicio de Biblioteca Nacional de Información\n{CLEAR_TO 0x2D}\nMargaret Campion\n\n
+\n\nServicio de Biblioteca Nacional de Información\n[CLEAR_TO 0x2D]\nMargaret Campion\n\n
 
 #org @gCreditsString_Special_Thanks_4
 Gracias especiales\n\n\n\n\n\n
@@ -3428,7 +3425,7 @@ Gracias especiales\n\n\n\n\n\n
 
 
 #org @gJPText_SelectConnectAndPressA
-Seleccione 'Transferir' en el lector electrónico de tarjetas {PLUS} y presione el botón A.
+Seleccione 'Transferir' en el lector electrónico de tarjetas [PLUS] y presione el botón A.
 
 #org @gJPText_LinkIsIncorrect
 
@@ -3437,7 +3434,7 @@ Seleccione 'Transferir' en el lector electrónico de tarjetas {PLUS} y presione 
 
 
 #org @gJPText_UnableConnectWithEReader
-No se puede conectar con el lector electrónico de tarjetas {PLUS}
+No se puede conectar con el lector electrónico de tarjetas [PLUS]
 
 #org @gJPText_Connecting
 
@@ -3479,7 +3476,7 @@ Un botón: contador de registro
 Un botón: pantalla de título
 
 #org @gText_NumPlayerLink
-{STR_VAR_1}P ENLACE
+[STR_VAR_1]P ENLACE
 
 #org @gText_BronzeCard
 BRONCE
@@ -3494,16 +3491,16 @@ PLATA
 ORO
 
 #org @gText_HelpSystemControls_A_Next
-{A_BUTTON}SIGUIENTE
+[A_BUTTON]SIGUIENTE
 
 #org @gText_HelpSystemControls_PickOkEnd
-{DPAD_UPDOWN}ELIGE {A_BUTTON}Aceptar {B_BUTTON}END
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]END
 
 #org @gText_HelpSystemControls_AorBtoCancel
-{A_BUTTON}{B_BUTTON}CANCELAR
+[A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_HelpSystemControls_PickOkCancel
-{DPAD_UPDOWN}ELIGE {A_BUTTON}Aceptar {B_BUTTON}CANCELAR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]CANCELAR
 
 #org @gEasyChatGroupName_Pokemon
 POKéMON
@@ -3617,31 +3614,31 @@ RESUMEN
 COMERCIO
 
 #org @gText_Trade_CommunicationStandby
-{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Comunicación en espera...\nEspere.
+[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Comunicación en espera...\nEspere.
 
 #org @gText_TradeHasBeenCanceled
-{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}La operación ha sido cancelada.
+[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]La operación ha sido cancelada.
 
 #org @gText_Trade_OnlyPkmnForBattle
-{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Ese es tu único POKéMON\npara la batalla.
+[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Ese es tu único POKéMON\npara la batalla.
 
 #org @gText_WaitingForFriendToFinish
-{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Esperando a que tu amigo\n termine...
+[COLOR DARK_GRAY][HIGHLIGHT WHITE][SHADOW LIGHT_GRAY]Esperando a que tu amigo\n termine...
 
 #org @gText_FriendWantsToTrade
 Tu amigo quiere\nintercambiar POKéMON.
 
 #org @gText_XWillBeSentToY
-{STR_VAR_2} se\nenviará a {STR_VAR_1}.
+[STR_VAR_2] se\nenviará a [STR_VAR_1].
 
 #org @gText_ByeByeVar1
-¡Adiós, {STR_VAR_2}!
+¡Adiós, [STR_VAR_2]!
 
 #org @gText_XSentOverY
-{STR_VAR_1} tarde más de {STR_VAR_3}.
+[STR_VAR_1] tarde más de [STR_VAR_3].
 
 #org @gText_TakeGoodCareOfX
-¡Cuida bien de {STR_VAR_3}!
+¡Cuida bien de [STR_VAR_3]!
 
 #org @gText_From
 De
@@ -3695,28 +3692,28 @@ Personas en la SALA DE LA UNIÓN:
 Personas que se comunican:
 
 #org @gText_Dynamic0Players
-{DYNAMIC 0x00} jugadores
+[DYNAMIC 0x00] jugadores
 
 #org @gText_Dynamic1Players
-Reproductor {DYNAMIC 0x01}
+Reproductor [DYNAMIC 0x01]
 
 #org @gText_Dynamic2Players
-{DYNAMIC 0x02} jugadores
+[DYNAMIC 0x02] jugadores
 
 #org @gText_Dynamic3Players
-{DYNAMIC 0x03} jugadores
+[DYNAMIC 0x03] jugadores
 
 #org @gText_DPadChooseAButtonConfirm
-{DPAD_ANY}Seleccione:{A_BUTTON}
+[DPAD_ANY]Seleccione:[A_BUTTON]
 
 #org @gText_BButtonCancel
-{B_BUTTON}CANCELAR
+[B_BUTTON]CANCELAR
 
 #org @gText_ChooseBattleLineup
-{COLOR RED}{SHADOW LIGHT_RED} Combinación de colores\n{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Elige tu propio color.
+[COLOR RED][SHADOW LIGHT_RED] Combinación de colores\n[COLOR DARK_GRAY][SHADOW LIGHT_GRAY]Elige tu propio color.
 
 #org @gText_UnusedId
-{IDENTIFICACIÓN}
+[IDENTIFICACIÓN]
 
 #org @gText_CommunicationStandby5
 Comunicación en espera…
@@ -3734,28 +3731,28 @@ Los dos no parecen agradarse mucho.
 Los dos prefieren jugar con otros\nPOKéMON que entre ellos.
 
 #org @gText_TeachWhichMoveToMon
-¿Enseñar qué movimiento a {STR_VAR_1}?
+¿Enseñar qué movimiento a [STR_VAR_1]?
 
 #org @gText_TeachMoveQues
-¿Enseñar {STR_VAR_2}?
+¿Enseñar [STR_VAR_2]?
 
 #org @gText_MonLearnedMove
-{STR_VAR_1} aprendido\n{STR_VAR_2}.
+[STR_VAR_1] aprendido\n[STR_VAR_2].
 
 #org @gText_MonIsTryingToLearnMove
-{STR_VAR_1} está intentando aprender\n{STR_VAR_2}.\pPero {STR_VAR_1} no puede aprender más\nde cuatro movimientos.\p¿Eliminar un movimiento anterior para\nhacer espacio para {STR_VAR_2}?
+[STR_VAR_1] está intentando aprender\n[STR_VAR_2].\pPero [STR_VAR_1] no puede aprender más\nde cuatro movimientos.\p¿Eliminar un movimiento anterior para\nhacer espacio para [STR_VAR_2]?
 
 #org @gText_StopLearningMove
-¿Dejar de aprender {STR_VAR_2}?
+¿Dejar de aprender [STR_VAR_2]?
 
 #org @gText_1_2_and_Poof
-{PAUSE 0x20}1, {PAUSE 0x0F}2 y {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}¡Puf!\p
+[PAUSE 0x20]1, [PAUSE 0x0F]2 y [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F]▶ [PAUSE 0x0F][PLAY_SE SE_BALL_BOUNCE_1]¡Puf!\p
 
 #org @gText_MonForgotOldMoveAndMonLearnedNewMove
-{STR_VAR_1} olvidó {STR_VAR_3}.\pY‥\p{STR_VAR_1}\naprendió {STR_VAR_2}.
+[STR_VAR_1] olvidó [STR_VAR_3].\pY▶\p[STR_VAR_1]\naprendió [STR_VAR_2].
 
 #org @gText_GiveUpTryingToTeachNewMove
-¿Dejaste de intentar enseñar un nuevo\nmovimiento a {STR_VAR_1}?
+¿Dejaste de intentar enseñar un nuevo\nmovimiento a [STR_VAR_1]?
 
 #org @gText_WhichMoveShouldBeForgotten
 ¿Qué movimiento debería olvidarse?\p
@@ -3764,22 +3761,22 @@ Los dos prefieren jugar con otros\nPOKéMON que entre ellos.
 ----------
 
 #org @gText_CommStandbyAwaitingOtherPlayer
-Comunicación en espera‥\nEsperando que otro jugador elija.
+Comunicación en espera▶\nEsperando que otro jugador elija.
 
 #org @gText_BattleWasRefused
-La batalla fue rechazada.{PAUSE 0x3C}
+La batalla fue rechazada.[PAUSE 0x3C]
 
 #org @gText_RefusedBattle
-Rechazó la batalla.{PAUSE 0x3C}
+Rechazó la batalla.[PAUSE 0x3C]
 
 #org @gFameCheckerText_MainScreenUI
-{START_BUTTON}ELIGE {DPAD_UPDOWN}SELECCIONA {A_BUTTON}Aceptar
+[START_BUTTON]ELIGE [DPAD_UP_DOWN]SELECCIONA [A_BUTTON]Aceptar
 
 #org @gFameCheckerText_PickScreenUI
-{START_BUTTON}ELIGE {DPAD_UPDOWN}SELECCIONA {B_BUTTON}CANCELAR
+[START_BUTTON]ELIGE [DPAD_UP_DOWN]SELECCIONA [B_BUTTON]CANCELAR
 
 #org @gFameCheckerText_FlavorTextUI
-{DPAD_ANY}ELIGE {A_BUTTON}LEER {B_BUTTON}CANCELAR
+[DPAD_ANY]ELIGE [A_BUTTON]LEER [B_BUTTON]CANCELAR
 
 #org @gFameCheckerOakName
 ROBLE
@@ -3794,7 +3791,7 @@ FACTURA
 fuji
 
 #org @gText_VarietyOfEventsImportedWireless
-Se importarán una variedad de eventos\a través de comunicación inalámbrica.
+Se importarán una variedad de eventos\na través de comunicación inalámbrica.
 
 #org @gText_WonderCardsInPossession
 Lee las TARJETAS MARAVILLAS que\ntienes en tu poder.
@@ -3839,10 +3836,10 @@ La comunicación ha sido cancelada.
 Aún no has recibido el regalo de la TARJETA. ¿Ingresar una nueva TARJETA de todos modos?
 
 #org @gText_WonderCardReceivedFrom
-Se ha recibido una TARJETA MARAVILLA\nde {STR_VAR_1}.
+Se ha recibido una TARJETA MARAVILLA\nde [STR_VAR_1].
 
 #org @gText_WonderNewsReceivedFrom
-Se ha recibido\nun artículo de NOTICIAS MARAVILLOSAS de {STR_VAR_1}.
+Se ha recibido\nun artículo de NOTICIAS MARAVILLOSAS de [STR_VAR_1].
 
 #org @gText_WonderCardReceived
 Se ha recibido\nuna nueva WONDER CARD.
@@ -3893,16 +3890,16 @@ Enviando tu TARJETA MARAVILLA...
 Enviando su artículo MARAVILLA DE NOTICIAS...
 
 #org @gText_WonderCardSentTo
-Tu WONDER CARD ha sido enviada\na {STR_VAR_1}.
+Tu WONDER CARD ha sido enviada\na [STR_VAR_1].
 
 #org @gText_WonderNewsSentTo
-Tu artículo de WONDER NEWS ha sido\nenviado a {STR_VAR_1}.
+Tu artículo de WONDER NEWS ha sido\nenviado a [STR_VAR_1].
 
 #org @gText_StampSentTo
-Se ha enviado un SELLO a {STR_VAR_1}.
+Se ha enviado un SELLO a [STR_VAR_1].
 
 #org @gText_GiftSentTo
-Se ha enviado un REGALO a {STR_VAR_1}.
+Se ha enviado un REGALO a [STR_VAR_1].
 
 #org @gText_OtherTrainerHasCard
 El otro ENTRENADOR ya tiene la misma\nWONDER CARD.
@@ -3944,7 +3941,7 @@ Las NOTICIAS MARAVILLAS fueron desperdiciadas.
 REGALO MISTERIOSO
 
 #org @gText_PickOKCancel
-{DPAD_UPDOWN}ELIGE {A_BUTTON}Aceptar {B_BUTTON}SALIR
+[DPAD_UP_DOWN]ELIGE [A_BUTTON]Aceptar [B_BUTTON]SALIR
 
 #org @gText_WonderCards
 TARJETAS MARAVILLAS
@@ -3971,4 +3968,4 @@ ENVIAR
 SACUDIDA
 
 #org @gText_DelAllCancelOk
-DEL. TODO{CLEAR_TO 0x57}CANCELAR{CLEAR_TO 0xA4}Aceptar
+DEL. TODO[CLEAR_TO 0x57]CANCELAR[CLEAR_TO 0xA4]Aceptar

@@ -103,6 +103,9 @@ SpecialBuffers = {
     "Br_Z": ["39"],
     "Br_SPACE": ["00"],
     "Br_NEWLINE": ["FE"],
+    "STR_VAR_1": ["FD", "02"],
+    "STR_VAR_2": ["FD", "03"],
+    "STR_VAR_3": ["FD", "04"]
 }
 
 
@@ -208,6 +211,7 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                 strLen += 1
 
             except KeyError:
+                print(string, char)
                 print('Error parsing string: "' + string + '" (Line ' + str(lineNum) + ')')
                 sys.exit(0)
 
@@ -225,7 +229,6 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                     stringToWrite += hex(charMap["\\" + char])
                     strLen += 1
                 else:
-                    print(charMap)
                     print(string, char)
                     print('Error parsing string on line ' + str(lineNum) + ' at character "' + char + '".')
                     sys.exit(1)
