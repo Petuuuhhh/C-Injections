@@ -55501,4 +55501,4 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             pass
                             # print(string, int('0x' + offset_actual, 16) - 0x08000000, ord(rom.read(1)))
                         if constructedString and constructedString[-1] == '$':
-                            print('0x' + offset_actual, constructedString)
+                            print('#org @' + symbol[3] + '\n' + translate(constructedString,"es","auto") + '\n')
