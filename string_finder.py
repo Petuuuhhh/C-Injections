@@ -55470,10 +55470,9 @@ for symbol in pokefirered_sym:
         else:
             translated_text = translate(text_newline,"es","auto")
         offset = symbol[0][2:]
-        print("@" + offset + ' FF')
-        print("@" + offset + ' ^scripts.text.spanish.' + string + '"" "' + translated_text + '"')
-        # ^scripts.text.spanish[text<"">]1332
-        # print('+#' + translated_text + '# <' + offset + '>')
+        # print("@" + offset + ' FF')
+        # print("@" + offset + ' ^scripts.text.spanish.' + string + '"" "' + translated_text + '"')
+        print('#org @' + symbol[3] + '\n' + translated_text + '\n')
         num = num + 1
     except:
         pass
