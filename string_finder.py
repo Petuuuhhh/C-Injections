@@ -55473,7 +55473,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
-            if num < 50:
+            if num < 15:
                 try:
                     text = eval(compile(string, '<string>', 'eval'))
                     text_newline = text.replace('\n', '\\n')
@@ -55489,14 +55489,16 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     num = num + 1
                 except:
                     if string in TextScripts:
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                        constructedString = ''
                         try:
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                            constructedString = CharMap[ord(rom.read(1))]
                             while ord(rom.read(1)) != 255:
-                                constructedString = constructedString + CharMap[ord(rom.read(1))]
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 + 1)
+                                constructedString += CharMap[ord(rom.read(1))]
                                 offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                         except:
                             pass
                             # print(string, int('0x' + offset_actual, 16) - 0x08000000, ord(rom.read(1)))
-                        print(offset_actual, constructedString)
+                        if constructedString and constructedString[-1] == '$':
+                            print('0x' + offset_actual, constructedString)
