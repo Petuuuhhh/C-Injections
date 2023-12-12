@@ -198,14 +198,12 @@ import struct
 def RealRepoint2(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
     pointerList = []
     pointerDict = {}
-    global startingOffset
     for tup in offsetTuples:  # Format is (Double Pointer, New Pointer, Symbol)
         offset = tup[0]
-        startingOffset = offset + 0x08000000
         rom.seek(offset)
         pointer = ExtractPointer(rom.read(4))
         pointerList.append(pointer)
-        pointerDict[pointer] = (tup[1] + 0x08000000, tup[2])
+        pointerDict[pointer] = (tup[1] + 0x08000000, tup[2], offset + 0x08000000)
 
     offset = 0
     offsetList = []
@@ -220,7 +218,7 @@ def RealRepoint2(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
         rom.seek(offset)
 
         for pointer in pointerList:
-            if word == startingOffset:
+            if word == pointerDict[pointer][2]:
                 offsetList.append((offset, pointerDict[pointer][1]))
                 rom.write(bytes(pointerDict[pointer][0].to_bytes(4, 'little')))
                 break
