@@ -55475,7 +55475,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             # if num < 15:
             try:
-                # text = eval(compile(string, '<string>', 'eval'))
+                text = eval(compile(string, '<string>', 'eval'))
                 # text_newline = text.replace('\n', '\\n')
                 # if '{' in text:
                     # translated_text = translate(text_newline.split('{').split('}'),"es","auto")
