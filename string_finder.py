@@ -55475,17 +55475,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             # if num < 15:
             try:
-                text = eval(compile(string, '<string>', 'eval'))
-                text_newline = text.replace('\n', '\\n')
-                if '{' in text:
+                # text = eval(compile(string, '<string>', 'eval'))
+                # text_newline = text.replace('\n', '\\n')
+                # if '{' in text:
                     # translated_text = translate(text_newline.split('{').split('}'),"es","auto")
-                    continue
-                else:
-                    translated_text = translate(text_newline,"es","auto")
+                    # continue
+                # else:
+                    # translated_text = translate(text_newline,"es","auto")
                 # print("@" + offset + ' FF')
                 # print("@" + offset + ' ^scripts.text.spanish.' + string + '"" "' + translated_text + '"')
-                print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                # print(string + ' ' + offset)
+                # print('#org @' + symbol[3] + '\n' + translated_text + '\n')
+                print(string + ' ' + offset)
                 num = num + 1
             except:
                 if string in TextScripts:
@@ -55501,4 +55501,5 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         pass
                         # print(string, int('0x' + offset_actual, 16) - 0x08000000, ord(rom.read(1)))
                     if constructedString and constructedString[-1] == '$':
-                        print('#org @' + symbol[3] + '\n' + translate(constructedString[:-1],"es","auto") + '\n')
+                        # print('#org @' + symbol[3] + '\n' + translate(constructedString[:-1],"es","auto") + '\n')
+                        print(string + ' ' + offset)

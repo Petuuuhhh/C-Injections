@@ -211,7 +211,7 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                 strLen += 1
 
             except KeyError:
-                print(string, char)
+                print(char, string.index(char))
                 print('Error parsing string: "' + string + '" (Line ' + str(lineNum) + ')')
                 sys.exit(0)
 
@@ -229,7 +229,7 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                     stringToWrite += hex(charMap["\\" + char])
                     strLen += 1
                 else:
-                    print(string, char)
+                    print(char)
                     print('Error parsing string on line ' + str(lineNum) + ' at character "' + char + '".')
                     sys.exit(1)
     

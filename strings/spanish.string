@@ -47,7 +47,7 @@ Perdí parte de mi asignación...
 BUG POK\eMON evoluciona rápidamente.\n¡Son muy divertidos!
 
 #org @ViridianForest_Text_RanOutOfPokeBalls
-Estaba lanzando POK\e BOLAS para\atrapar POK\eMON y se me acabó.\pPor eso nunca puedes tener demasiadas\nPOK\e BOLAS.
+Estaba lanzando POK\e BOLAS para\natrapar POK\eMON y se me acabó.\pPor eso nunca puedes tener demasiadas\nPOK\e BOLAS.
 
 #org @ViridianForest_Text_AvoidGrassyAreasWhenWeak
 CONSEJOS PARA EL ENTRENADOR\pSi tus POK\eMON son débiles y\nquieres evitar batallas, ¡manténte alejado\lde las áreas cubiertas de hierba!
@@ -392,7 +392,7 @@ Ah, sí, ¡he visto algunos POK\eMON\nfervesantes a través del agua!
 Los árboles pequeños se pueden talar\nusando el movimiento CORTAR.\p¡Pero recuerda esto!\nCUT es una técnica de HM.\pUna vez aprendida, no se\ndesecha tan fácilmente.
 
 #org @SSAnne_2F_Room4_Text_LamarIntro
-¿Cuál te parece más digno,\un POK\eMON fuerte o raro?
+¿Cuál te parece más digno,\nun POK\eMON fuerte o raro?
 
 #org @SSAnne_2F_Room4_Text_LamarDefeat
 ¡Debo saludarte!
@@ -438,7 +438,7 @@ Cuando estamos en el mar, las medusas\nPOK\eMON a veces pasan a la deriva.
 ¡Maldita sea!\n¡Dejé que se escapara!
 
 #org @SSAnne_B1F_Room1_Text_BarnyPostBattle
-¡También iba a hacerte mi\asistente!
+¡También iba a hacerte mi\nasistente!
 
 #org @SSAnne_B1F_Room2_Text_HueyIntro
 ¡Incluso nosotros, los marineros, también tenemos POK\eMON!
@@ -1180,13 +1180,13 @@ Acerca de mí llorando...\nPor favor, mantenlo en secreto.
 OFICINA CENTRAL DE SILPH CO.\n10F
 
 #org @SilphCo_11F_Text_ThanksForSavingMeDearBoy
-PRESIDENTE: ¡Oh, querido muchacho!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pComo soy rico, puedo darte\ nada.\pAquí, tal vez esto sirva.
+PRESIDENTE: ¡Oh, querido muchacho!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pComo soy rico, puedo darte\nada.\pAquí, tal vez esto sirva.
 
 #org @SilphCo_11F_Text_ThanksForSavingMeDearGirl
-PRESIDENTE: ¡Oh, querida niña!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pPorque soy rico, puedo darte\ nada.\pAquí, tal vez esto sirva.
+PRESIDENTE: ¡Oh, querida niña!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pPorque soy rico, puedo darte\nada.\pAquí, tal vez esto sirva.
 
 #org @SilphCo_11F_Text_ObtainedMasterBallFromPresident
-PRESIDENTE: ¡Oh, querida niña!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pPorque soy rico, puedo darte\ nada.\pAquí, tal vez esto sirva.
+PRESIDENTE: ¡Oh, querida niña!\nGracias por salvar a SILPH.\pNunca olvidaré que nos salvaste en\n nuestro momento de peligro.\pTengo que agradecerte de alguna manera.\pPorque soy rico, puedo darte\nada.\pAquí, tal vez esto sirva.
 
 #org @SilphCo_11F_Text_ThatsOurSecretPrototype
 PRESIDENTE: No puedes comprar eso\nen ningún lado.\pEs nuestro prototipo secreto MASTER\nBALL.\p¡Atrapará cualquier POK\eMON sin\nfallar!\pSin embargo, debes guardar silencio sobre su uso.\n.
@@ -1400,7 +1400,7 @@ Caminé mucho, pero no vi ningún\nPOK\eMON que quería.
 ¡Ah! ¡Por fin!\p¡Eres la primera persona en llegar\na la CASA SECRETA!\pAunque hice una campaña\npara nuestra gran inauguración,\pMe preocupaba que nadie\nganara el premio de nuestra campaña.\p¡Felicitaciones!\nHas ganado !
 
 #org @SafariZone_SecretHouse_Text_ExplainSurf
-HM03 es SURF.\pPOK\eMON podrá transportarte\na través del agua usándolo.\pY este HM no es desechable, por lo\npuedes usarlo una y otra vez.\pTienes mucha suerte de ganar esto\ ¡premio fabuloso!
+HM03 es SURF.\pPOK\eMON podrá transportarte\na través del agua usándolo.\pY este HM no es desechable, por lo\npuedes usarlo una y otra vez.\pTienes mucha suerte de ganar esto\n¡premio fabuloso!
 
 #org @SafariZone_SecretHouse_Text_DontHaveRoomForPrize
 ¡No tienes espacio para este\nfabuloso premio!
@@ -1472,7 +1472,7 @@ Ese POK\eMON dormido en la RUTA 12\nme obligó a tomar este desvío.
 ¡Oh, bueno, conseguiré un ZUBAT sobre la marcha!
 
 #org @RockTunnel_1F_Text_LeahIntro
-¡Eek!\p¡No intentes nada gracioso en la\oscuridad!
+¡Eek!\p¡No intentes nada gracioso en la\noscuridad!
 
 #org @RockTunnel_1F_Text_LeahDefeat
 Estaba demasiado oscuro...
@@ -1736,7 +1736,7 @@ Urff...\n¡Kwaah!
 ¡Mi cabello no se cayó!\n¡Era un espíritu malévolo!
 
 #org @PokemonTower_6F_Text_JenniferIntro
-Yo...yo...yo...\yo...yo...yo!
+Yo...yo...yo...\nyo...yo...yo!
 
 #org @PokemonTower_6F_Text_JenniferDefeat
 ¡Ey!
@@ -1835,7 +1835,7 @@ Nos has estado espiando,\n¿no?
 ¡Desarrolla amnesia cómodamente y\nolvida todo lo que escuchaste!
 
 #org @MtEmber_Exterior_Text_WellRegroupDontStepInsideThere
-Qué revés...\nTendremos que reagruparnos.\p¡Tú! ¡Ni se te ocurra dar\un paso dentro aquí!\pSi sabes lo que es bueno para ti,\n¡ni se te ocurra esto!
+Qué revés...\nTendremos que reagruparnos.\p¡Tú! ¡Ni se te ocurra dar\nun paso dentro aquí!\pSi sabes lo que es bueno para ti,\n¡ni se te ocurra esto!
 
 #org @MtEmber_Exterior_Text_LoganIntro
 Un volcán activo es aquel que está en erupción o a punto de hacerlo.
@@ -1883,7 +1883,7 @@ LOSTELLE: Gime... Huele...\n¡Oh! ¡Por favor, ayuda!\pUn POK\eMON aterrador apa
 Tu BOLSA DE BAYAS está llena.\nSupongo que no quieres esto.
 
 #org @ThreeIsland_BerryForest_Text_WelcomeToBerryForest
-Bienvenido al BOSQUE DE BAYAS\pSé amigable y comparte BAYAS con\otros y POK\eMON.
+Bienvenido al BOSQUE DE BAYAS\pSé amigable y comparte BAYAS con\notros y POK\eMON.
 
 #org @ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons
 ¡Cuidado con los \nPOK\eMON salvajes amantes de las BAYAS!
@@ -1940,7 +1940,7 @@ Ah, pero…\n¡Demasiado!
 Podemos ofrecerte un excelente precio.\n¡Véndenos tu POK\eMON!
 
 #org @FiveIsland_RocketWarehouse_Text_Grunt3Intro
-Los demás me contaron sobre ti.\p¡Pero es imposible que un niño como tú\conozca a nuestro JEFE GIOVANNI!
+Los demás me contaron sobre ti.\p¡Pero es imposible que un niño como tú\nconozca a nuestro JEFE GIOVANNI!
 
 #org @FiveIsland_RocketWarehouse_Text_Grunt3Defeat
 No... te... atrevas... a reír...
@@ -1949,7 +1949,7 @@ No... te... atrevas... a reír...
 ¡No te metas en las cosas de los adultos,\n¡saltador!
 
 #org @FiveIsland_RocketWarehouse_Text_Admin1Intro
-No sé ni me importa si lo que estoy\haciendo está bien o mal...\pSimplemente pongo mi fe en GIOVANNI\ny hago lo que me dicen.
+No sé ni me importa si lo que estoy\nhaciendo está bien o mal...\pSimplemente pongo mi fe en GIOVANNI\ny hago lo que me dicen.
 
 #org @FiveIsland_RocketWarehouse_Text_Admin1Defeat
 Yo...\nEstoy destrozado...
@@ -1961,7 +1961,7 @@ Estás haciendo las cosas de acuerdo\ncon tus creencias y tu moral.\pAhora lo en
 Lo he hecho para que puedas regresar\npor allí.\p¿Por qué no vas a descansar y\nrefrescarte para lo que te espera?\pEl ADMIN detrás de mí me supera\ncompletamente como ENTRENADOR.\pSerá mejor que Prepárate para un\nduro desafío.
 
 #org @FiveIsland_RocketWarehouse_Text_Admin2Intro
-Ya basta de \nhacerte el héroe, chico.\pDifundir mentiras sobre cómo el TEAM\nROCKET se ha disuelto...\pEs un intento tan obvio de\causar confusión en nuestras filas.\pAfortunadamente, no somos tan ignorantes\ncomo para caer en la trampa. ¡Las mentiras de un niño!\pY ahora, ¡te mostraré lo aterrador\que puede ser un adulto enojado!
+Ya basta de \nhacerte el héroe, chico.\pDifundir mentiras sobre cómo el TEAM\nROCKET se ha disuelto...\pEs un intento tan obvio de\ncausar confusión en nuestras filas.\pAfortunadamente, no somos tan ignorantes\ncomo para caer en la trampa. ¡Las mentiras de un niño!\pY ahora, ¡te mostraré lo aterrador\nque puede ser un adulto enojado!
 
 #org @FiveIsland_RocketWarehouse_Text_Admin2Defeat
 Urgh…\nEras demasiado fuerte…\p…\n¡E-esa es la INSIGNIA DE GIOVANNI!\p¿Entonces es verdad?\n¿El TEAM ROCKET realmente se ha disuelto?
@@ -2189,7 +2189,7 @@ Oh... Tenía miedo de que quisieras\nhacerme daño.
 Me alegro mucho de que hayas pasado por aquí.\pMe aburrí bastante de caminar y me siento fatigado.\p¿Puedo pedirte que me lleves a casa\ndesde aquí?
 
 #org @ThreeIsland_DunsparceTunnel_Text_ProspectingForGold
-¡Oye!\n¿Cómo te va?\p¿Qué estoy haciendo aquí, preguntas?\n¡Vaya, estoy buscando oro!\pCuando me haga rico, compraré\una casa en KANTO.
+¡Oye!\n¿Cómo te va?\p¿Qué estoy haciendo aquí, preguntas?\n¡Vaya, estoy buscando oro!\pCuando me haga rico, compraré\nuna casa en KANTO.
 
 #org @ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou
 ¡Hola! ¿Cómo te va?\n¿Te enteraste? ¡He encontrado oro!\pRecordaste que estaba\nprospeccionando, ¿no?\pNo puedes ni empezar a imaginar lo\nfeliz que estoy.\pAsí que, ¡te lo mostraré!\n¡Esto es para ti!
@@ -2276,7 +2276,7 @@ Voy de compras a PEWTER CITY\no de vez en cuando.\pTengo que tomar el sendero si
 ¡Te prohíbo absolutamente\npasar por aquí!\p¡Esto es propiedad privada!
 
 #org @ViridianCity_Text_ShowYouHowToCatchMons
-Bueno, ahora ya tomé mi café y\n¡eso es lo que necesito para comenzar!\pHm?\n¿Qué es esa caja roja que tienes?\pAh, entonces estás trabajando en tu\nPOK\eDEX.\pEntonces déjame darte un\nconsejo.\pCada vez que atrapas un POK\eMON,\nel POK\eDEX actualiza\sus datos automáticamente.\p... ¿No sabes cómo atrapar\un POK\eMON?\pSupongo ¡Será mejor que te lo muestre\nentonces!
+Bueno, ahora ya tomé mi café y\n¡eso es lo que necesito para comenzar!\pHm?\n¿Qué es esa caja roja que tienes?\pAh, entonces estás trabajando en tu\nPOK\eDEX.\pEntonces déjame darte un\nconsejo.\pCada vez que atrapas un POK\eMON,\nel POK\eDEX actualiza\nsus datos automáticamente.\p... ¿No sabes cómo atrapar\nun POK\eMON?\pSupongo ¡Será mejor que te lo muestre\nentonces!
 
 #org @ViridianCity_Text_ThatWasEducationalTakeThis
 ¡Allá! Ahora dime, eso fue\educativo, ¿no?\pY toma, toma esto también.
@@ -2300,7 +2300,7 @@ Hm... Estás demasiado ocupado como para\nni siquiera tener tiempo para TEACHY T
 CIUDAD VIRIDIAN \nEl paraíso eternamente verde
 
 #org @ViridianCity_Text_CatchMonsForEasierBattles
-CONSEJOS PARA EL ENTRENADOR\pAtrapa POK\eMON y amplía tu\colección.\pCuanto más tengas, más fácil\será luchar.
+CONSEJOS PARA EL ENTRENADOR\pAtrapa POK\eMON y amplía tu\ncolección.\pCuanto más tengas, más fácil\nserá luchar.
 
 #org @ViridianCity_Text_MovesLimitedByPP
 CONSEJOS PARA EL ENTRENADOR\pLos movimientos de batalla de POK\eMON están\nlimitados por sus PUNTOS DE POTENCIA, PP.\pPara reponer PP, descansa tu\nPOK\eMON cansado en un CENTRO POK\eMON.
@@ -2333,7 +2333,7 @@ No hay muchos ENTRENADORES POK\eMON\n serios aquí.\pTodos son como CAPTADORES D
 ¿Visitaste el MUSEO?
 
 #org @PewterCity_Text_WerentThoseFossilsAmazing
-¿No eran esos fósiles de MT? LUNA\¿increíble?
+¿No eran esos fósiles de MT? LUNA\n¿increíble?
 
 #org @PewterCity_Text_ReallyYouHaveToGo
 ¿En serio?\n¡Tienes que irte!
@@ -2420,7 +2420,7 @@ RONCO: ¡Para! ¡Me rindo!\n¡Me iré en silencio!
 ¿Sabías que puedes CORTAR\nárboles pequeños?\pIncluso ese pequeño árbol frente\na la tienda se puede CORTAR.\pSin embargo, creo que hay una manera de evitarlo.\n
 
 #org @CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree
-Si ese SLOWBRO no estuviera allí, podrías CORTAR el árbol pequeño.\pDe esa manera, podrías llegar al\otro lado.\pSin embargo, creo que hay una forma de evitarlo.
+Si ese SLOWBRO no estuviera allí, podrías CORTAR el árbol pequeño.\pDe esa manera, podrías llegar al\notro lado.\pSin embargo, creo que hay una forma de evitarlo.
 
 #org @CeruleanCity_Text_PokemonEncyclopediaAmusing
 ¿Estás haciendo una enciclopedia sobre\nPOK\eMON? Eso suena divertido.
@@ -2555,13 +2555,13 @@ PUERTO BERMELÓN
 El barco zarpará.
 
 #org @VermilionCity_Text_BoardSeagallopTriPass
-Ah, tienes un TRI-PASS.\p¿Te gustaría abordar\un ferry SEAGALLOP?
+Ah, tienes un TRI-PASS.\p¿Te gustaría abordar\nun ferry SEAGALLOP?
 
 #org @VermilionCity_Text_Seagallop7Departing
 Bien, todo está en orden.\pSEAGALLOP HI-SPEED 7\npartirá inmediatamente.
 
 #org @VermilionCity_Text_BoardSeagallopRainbowPass
-Ah, tienes un RAINBOW PASS.\p¿Te gustaría abordar\un ferry SEAGALLOP?
+Ah, tienes un RAINBOW PASS.\p¿Te gustaría abordar\nun ferry SEAGALLOP?
 
 #org @VermilionCity_Text_OhMysticTicketTakeYouToNavelRock
 ¡Oh! ¡Ese es un MYSTICTICKET!\nEso es raro.\pEstaremos encantados de llevarte a\nNAVEL ROCK en cualquier momento.
@@ -2700,7 +2700,7 @@ Nombre: KABUTO\nUn POK\eMON extremadamente raro que fue\lregenerado a partir de 
 ……
 
 #org @Text_SubstituteTeach
-Aww, desearía ser un bebé KANGASKHAN\n.\pMe encantaría ser un sustituto del\nbebé...\pY acurrucarme en la bolsa del vientre de la madre\nKANGASKHAN.\pPero solo POK\eMON puede usar la\ntécnica SUSTITUTO...\ ¿Quieres que te enseñe SUSTITUTO a ninguno de tus POK\eMON?
+Aww, desearía ser un bebé KANGASKHAN\n.\pMe encantaría ser un sustituto del\nbebé...\pY acurrucarme en la bolsa del vientre de la madre\nKANGASKHAN.\pPero solo POK\eMON puede usar la\ntécnica SUSTITUTO...\n¿Quieres que te enseñe SUSTITUTO a ninguno de tus POK\eMON?
 
 #org @Text_SubstituteDeclined
 Ah, ¿en serio?\nSUSTITUIR parece muy divertido...
@@ -2712,7 +2712,7 @@ Ah, ¿en serio?\nSUSTITUIR parece muy divertido...
 Vaya, lo que daría por meterme dentro\na bolsa abdominal KANGASKHAN...
 
 #org @FuchsiaCity_Text_MyFatherIsGymLeader
-Mi padre es el LÍDER DEL GIMNASIO de\nesta ciudad.\pEstoy entrenando para usar POK\eMON VENENO\al igual que mi padre.
+Mi padre es el LÍDER DEL GIMNASIO de\nesta ciudad.\pEstoy entrenando para usar POK\eMON VENENO\nal igual que mi padre.
 
 #org @CinnabarIsland_Text_DoorIsLocked
 La puerta está cerrada…
@@ -2739,7 +2739,7 @@ Mira, soy yo, BILL.\n¡Cuánto tiempo sin verte!\pEspero que todavía estés usa
 Muy bien, entonces.\n¡Vamos!
 
 #org @CinnabarIsland_Text_IllBeWaitingInPokeCenter
-¿Qué, estás demasiado ocupado?\pBueno, está bien.\nEl barco aún no ha llegado de todos modos.\pEstaré esperando en el CENTRO POK\eMON\nallí.\pVen a verme cuando hayas terminado\ nsu negocio aquí.
+¿Qué, estás demasiado ocupado?\pBueno, está bien.\nEl barco aún no ha llegado de todos modos.\pEstaré esperando en el CENTRO POK\eMON\nallí.\pVen a verme cuando hayas terminado\nsu negocio aquí.
 
 #org @CinnabarIsland_Text_MyPalsBoatArrived
 Parece que el barco de mi amigo también llegó.\pLo envió especialmente aquí, a\nCINNABAR para que me recogiera.
@@ -2829,7 +2829,7 @@ BILL: ¡Aquí estamos!\nEsta es UNA ISLA.\pHay varias islas alrededor\npor aquí
 ¡Ah, ahí!\n¿Dónde quieres navegar?
 
 #org @OneIsland_Text_LuckyToHaveCelioHere
-Aquí estamos en una isla en medio de la nada.\pTenemos suerte de tener aquí a un joven\níntegro como CELIO.\pMi nieta estaba nerviosa\npor el amigo de CELIO.\pAlgo sobre un\nPOK\ famoso ¿EMANIAC?\pNo estoy seguro de lo que eso significa, pero\n¡CELIO es todo un hombre!
+Aquí estamos en una isla en medio de la nada.\pTenemos suerte de tener aquí a un joven\níntegro como CELIO.\pMi nieta estaba nerviosa\npor el amigo de CELIO.\pAlgo sobre un\nPOK\nfamoso ¿EMANIAC?\pNo estoy seguro de lo que eso significa, pero\n¡CELIO es todo un hombre!
 
 #org @OneIsland_Text_HavePCLinkageWithKanto
 Mi nieta estaba nerviosa\n por un nuevo avance.\pDijo que ahora tenemos conexión de PC\ncon gente de KANTO.\pNo estoy segura de lo que eso significa, ¡pero\nCELIO es todo un hombre!
@@ -2868,16 +2868,16 @@ No puedo expresar lo agradecido que estoy\npor tu rescate de LOSTELLE.\pGracias 
 Ese tipo de allí se mudó aquí\ndesde CELADON CITY.\pEmpezó una tienda con su\nhermano menor.\pHay que preguntarse si sabía en qué\nse estaba metiendo.
 
 #org @TwoIsland_Text_ShopkeepersBrotherWorksGameCorner
-El hermano del comerciante aceptó\un trabajo en el GAME CORNER.\pEstá tratando de reunir dinero\npara poder comprar más mercancías.
+El hermano del comerciante aceptó\nun trabajo en el GAME CORNER.\pEstá tratando de reunir dinero\npara poder comprar más mercancías.
 
 #org @TwoIsland_Text_BrunoCameToIslandWhileBack
-Escucha, escucha.\n¿Lo sabías?\pUn famoso ENTRENADOR vino a la\nISLA hace un tiempo.\pEs uno de los CUATRO ÉLITE.\nSe llama BRUNO.\pSe fue decepcionado cuando\nsupo que eran todos vendidos \ patán de Rage Candybars.
+Escucha, escucha.\n¿Lo sabías?\pUn famoso ENTRENADOR vino a la\nISLA hace un tiempo.\pEs uno de los CUATRO ÉLITE.\nSe llama BRUNO.\pSe fue decepcionado cuando\nsupo que eran todos vendidos \npatán de Rage Candybars.
 
 #org @TwoIsland_Text_BuyRareItemsHere
 ¡El ENTRENADOR exigente sabe cómo\ncomprar artículos raros aquí!
 
 #org @TwoIsland_Text_OldWomanLivesOutOnCape
-Hay una anciana que vive en\una cabaña en el cabo.\pLe echa un vistazo a POK\eMON.\nEs un poco desconcertante.
+Hay una anciana que vive en\nuna cabaña en el cabo.\pLe echa un vistazo a POK\eMON.\nEs un poco desconcertante.
 
 #org @TwoIsland_Text_HaveYouTriedJumpingGame
 ¡Boing! ¡Boing!\n¿Has probado el juego de saltos?\pEl POK\eMON que puedes ingresar...\n¡Boing!\p¡Algunos hacen boing!\p¡Y otros hacen booooooo!\p¿Sabías eso?\n¡Boing!
@@ -2892,7 +2892,7 @@ TRES ISLAS\nKin Island of Family Bonding
 ¡No necesitamos que ustedes traigan\nsu ruido y sus problemas aquí!\p¡Les pedimos que regresen a\nKANTO!
 
 #org @ThreeIsland_Text_BossIsOnHisWay
-Oye, ve a llorar a otro lugar.\nNuestro jefe está en camino.\pCuando llegue, te daremos\un espectáculo de motos k-rad que\lpronto no olvidarás.
+Oye, ve a llorar a otro lugar.\nNuestro jefe está en camino.\pCuando llegue, te daremos\nun espectáculo de motos k-rad que\lpronto no olvidarás.
 
 #org @ThreeIsland_Text_GetOffIslandNow
 ¿¡Q-qué!? ¡No en tu vida!\n¡Sal de la isla ahora!
@@ -2946,7 +2946,7 @@ Invitamos al jefe aquí,\n¡pero tuviste que estropearlo!\p¡Nos avergonzaste, h
 …………………………
 
 #org @ThreeIsland_Text_Biker3PostBattle
-Jefe, le aseguro que debe\hacer algo con este niño.
+Jefe, le aseguro que debe\nhacer algo con este niño.
 
 #org @ThreeIsland_Text_PaxtonIntro
 Te he estado observando y diría\nque has hecho suficiente.\p¿Qué eres, su amigo o\nalgo?\pEntonces supongo que lucharás conmigo\nen su lugar.
@@ -2976,7 +2976,7 @@ Sería fantástico si alguien\ntan fuerte como tú viviera aquí.\pEspero que al
 TRES ISLAS es en realidad la más\npoblada de las islas aquí.\pAun así, podría haber menos sueño.\pPero no me gustaría ver matones\ncomo esos MOTOS aquí otra vez.
 
 #org @ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame
-Voy a entrenar mi DODUO en el\nBOSQUE DE BAYAS.\pCuando evolucione, jugaré\un juego en DOS ISLAS.
+Voy a entrenar mi DODUO en el\nBOSQUE DE BAYAS.\pCuando evolucione, jugaré\nun juego en DOS ISLAS.
 
 #org @ThreeIsland_Text_Doduo
 DODUO: ¡Gigiih!
@@ -3318,7 +3318,7 @@ El portero de SAFFRON no nos deja pasar.\pSé que está haciendo su trabajo, per
 ¡Perdí la gran oportunidad!
 
 #org @Route8_Text_RichPostBattle
-¡Jugar juegos y POK\eMON son como\comer maní! ¡Simplemente no puedo parar!
+¡Jugar juegos y POK\eMON son como\ncomer maní! ¡Simplemente no puedo parar!
 
 #org @Route8_Text_JuliaIntro
 ¿Qué es un\nPOK\eMON lindo, redondo y esponjoso?
@@ -3509,9 +3509,6 @@ Me siento un poco mareado.\nNo he caminado desde hace algún tiempo.
 #org @Route10_Text_CarolDefeat
 Estoy demasiado cansado.\nNo tenía ganas.
 
-#org @Route10_Text_CarolPostBattle
-Los POK\eMON aquí en las montañas\nson tan gruesos...\p¡Ojalá hubiera POK\eMON\n rosados ​​con un patrón floral!
-
 #org @Route10_Text_RockTunnelDetourToLavender
 TÚNEL DE ROCA\nDesvío a LAVENDER TOWN
 
@@ -3615,7 +3612,7 @@ Tch…\n¡Será mejor que vaya a buscar unos más fuertes!
 CUEVA DE DIGLETT
 
 #org @Route12_Text_MonSprawledOutInSlumber
-Un POK\eMON está tendido en\un sueño profundo y confortable.
+Un POK\eMON está tendido en\nun sueño profundo y confortable.
 
 #org @Text_SnorlaxWokeUp
 ¡SNORLAX se despertó!\p¡Atacó con furia de mal humor!
@@ -4110,7 +4107,7 @@ Si voy a tener POK\n, también pueden\n ser feroces.\pLos usaría para dejar a m
 Me divierte acosar a la gente\ncon mi apestoso POK\eMON.\pSon fantásticos para asustar a la gente.\nY también muerden.
 
 #org @Route16_Text_MonSprawledOutInSlumber
-Un POK\eMON está tendido en\un sueño profundo y confortable.
+Un POK\eMON está tendido en\nun sueño profundo y confortable.
 
 #org @Route16_Text_CyclingRoadSign
 ¡Disfruta de la pendiente!\nCAMINO EN BICICLETA
@@ -4494,7 +4491,7 @@ CINNABAR es una isla volcánica.\pEscuché que surgió del mar\ncuando un volcá
 ISLAS DE MARINA
 
 #org @Route20_Text_MistyTrainsHere
-ENTRENADORES fuertes y POK\eMON\de AGUA\na son comunes en estos lugares.\pDicen que MISTY del\nCERULEAN GYM entrena aquí.
+ENTRENADORES fuertes y POK\eMON\nde AGUA\na son comunes en estos lugares.\pDicen que MISTY del\nCERULEAN GYM entrena aquí.
 
 #org @Route21_North_Text_RonaldIntro
 ¿Quieres saber si los peces están\npicando?
@@ -5080,7 +5077,7 @@ SELPHY: Gracias. Puedes irte ahora.
 CASA DE SELPHY
 
 #org @FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons
-Viajas por todos lados,\¿no?\pNo estás manejando tu POK\eMON\ndemasiado brusco, ¿verdad?\pDéjame echarle un vistazo.\n… … … … … …
+Viajas por todos lados,\n¿no?\pNo estás manejando tu POK\eMON\ndemasiado brusco, ¿verdad?\pDéjame echarle un vistazo.\n… … … … … …
 
 #org @FiveIsland_WaterLabyrinth_Text_HmmISeeIsee
 Ah, mmm…\nYa veo, ya veo…
@@ -5245,7 +5242,7 @@ AVA: ¡Oh, eres increíble!\nAún mejor, ¡estás solo!
 AVA: Sabes, prefiero el mar a cualquier piscina.
 
 #org @SixIsland_OutcastIsland_Text_AvaNotEnoughMons
-AVA: ¿Nos estás desafiando a\una batalla?\pNecesitarás al menos dos POK\eMON\nsi quieres hacer eso.
+AVA: ¿Nos estás desafiando a\nuna batalla?\pNecesitarás al menos dos POK\eMON\nsi quieres hacer eso.
 
 #org @SixIsland_OutcastIsland_Text_GebIntro
 GEB: ¡Hermana mayor, ayuda!\n¡Por favor, lucha conmigo!
@@ -5377,7 +5374,7 @@ Mmm…
 Te sugiero que tú también pienses en los secretos y misterios de nuestro mundo una vez al día.
 
 #org @SixIsland_RuinValley_Text_FosterIntro
-Tengo curiosidad, ¿qué te impulsó a\venir aquí?
+Tengo curiosidad, ¿qué te impulsó a\nvenir aquí?
 
 #org @SixIsland_RuinValley_Text_FosterDefeat
 Ha pasado tanto tiempo desde que luché,\nmis instintos están apagados.
@@ -5458,7 +5455,7 @@ TORRE DE ENTRENADOR ADELANTE
 Oh, entonces no eres fan...\pBueno, puedo cambiar eso.\n¡Déjame cantar para ti!
 
 #org @SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle
-Lalalah…\nMis POK\eMON, los envío,\¡todas las chicas gritan y gritan!
+Lalalah…\nMis POK\eMON, los envío,\n¡todas las chicas gritan y gritan!
 
 #org @SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro
 Esta isla está demasiado extendida...\nNo es fácil patrullar el lugar.
@@ -5779,7 +5776,7 @@ OAK: No puedes obtener datos\no POK\eMON detallados con sólo verlos.\pDebes cap
 OAK: No puedes obtener datos\no POK\eMON detallados con sólo verlos.\pDebes capturarlos para obtener datos\ncompletos.\pEntonces, aquí tienes algunas herramientas para\ncapturar POK\eMON salvajes.
 
 #org @PalletTown_ProfessorOaksLab_Text_OakExplainCatching
-Cuando aparece un POK\eMON salvaje,\nes un juego limpio.\p¡Simplemente tírale una POK\e BOLA y\nintenta atraparla!\pSin embargo, esto no siempre funcionará.\pUn POK\eMON sano puede escapar.\ ¡Tienes que tener suerte!
+Cuando aparece un POK\eMON salvaje,\nes un juego limpio.\p¡Simplemente tírale una POK\e BOLA y\nintenta atraparla!\pSin embargo, esto no siempre funcionará.\pUn POK\eMON sano puede escapar.\n¡Tienes que tener suerte!
 
 #org @PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream
 Hacer una guía completa sobre todos\nlos POK\eMON del mundo...\p¡Ese era mi sueño!\pPero soy demasiado mayor.\nNo puedo hacer el trabajo.\pAsí que quiero que ustedes dos cumplan mi\nsueño para mí.\pMuévanse, ustedes dos.\p¡Esta es una gran tarea en\nla historia de POK\eMON!
@@ -5825,10 +5822,10 @@ OAK: Lo sé, lo sé.\nPor supuesto que también necesito tu ayuda.\pAhora necesi
 PROFE. OAK tomó ambas unidades POK\eDEX\n.
 
 #org @PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData
-… … … … … …\p… … … … … …\p…¡Y listo!\pAhora estas unidades pueden registrar datos de\muchos más POK\eMON.
+… … … … … …\p… … … … … …\p…¡Y listo!\pAhora estas unidades pueden registrar datos de\nmuchos más POK\eMON.
 
 #org @PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded
-… … … … … …\p… … … … … …\p…¡Y listo!\pAhora estas unidades pueden registrar datos de\muchos más POK\eMON.
+… … … … … …\p… … … … … …\p…¡Y listo!\pAhora estas unidades pueden registrar datos de\nmuchos más POK\eMON.
 
 #org @ViridianCity_House_Text_NicknamingIsFun
 Crear apodos es divertido,\npero no es tan fácil de hacer.\pLos nombres inteligentes son agradables, pero los\nsimples son más fáciles de recordar.
@@ -5852,7 +5849,7 @@ La EARTHBADGE hace que POK\eMON de\ncualquier nivel obedezcan sin cuestionar.\pE
 La EARTHBADGE hace que POK\eMON de\ncualquier nivel obedezcan sin cuestionar.\pEs una prueba de tu dominio como\na ENTRENADOR POK\eMON.\pCon él, puedes desafiar la\nLIGA POK\eMON.\pAdemás, toma esta MT. \pConsidéralo un regalo por tu desafío POK\eMON\nLIGA.
 
 #org @ViridianCity_Gym_Text_ExplainTM26
-TM26 contiene TERREMOTO.\pEs un ataque poderoso que causa\un temblor masivo.\pLo hice cuando dirigía el GYM aquí,\nhace demasiado tiempo...
+TM26 contiene TERREMOTO.\pEs un ataque poderoso que causa\nun temblor masivo.\pLo hice cuando dirigía el GYM aquí,\nhace demasiado tiempo...
 
 #org @ViridianCity_Gym_Text_YouDoNotHaveSpace
 ¡No tienes espacio para esto!
@@ -6164,7 +6161,7 @@ Estoy intercambiando POK\eMON con ese niño\nallí.\pTenía dos PIKACHU, así qu
 Los POK\eMON aprenden nuevas técnicas a medida\nque crecen.\pPero la gente debe enseñarles algunos movimientos\n.
 
 #org @PewterCity_House2_Text_MonsEasierCatchIfStatused
-Un POK\eMON se vuelve más fácil de \ncatrapar si tiene un problema de estado.\pDormir, envenenar, quemar o paralizar...\nTodos ellos son efectivos.\p¡Pero atrapar un POK\eMON nunca es\una cosa segura!
+Un POK\eMON se vuelve más fácil de \ncatrapar si tiene un problema de estado.\pDormir, envenenar, quemar o paralizar...\nTodos ellos son efectivos.\p¡Pero atrapar un POK\eMON nunca es\nuna cosa segura!
 
 #org @CeruleanCity_House1_Text_BadgesHaveAmazingSecrets
 Sólo los ENTRENADORES expertos pueden recolectar\nPOK\eMON INSIGNIAS.\pVeo que tienes al menos una.\pEsas INSIGNIAS tienen secretos asombrosos,\n¿lo sabías?
@@ -7009,7 +7006,7 @@ Oh, bienvenido.\nMe estaba aburriendo.
 Los POK\eMON de tipo HIERBA son\nresistentes contra los de tipo AGUA.\pTambién tienen ventaja sobre los POK\eMON de tipo ROCA y TIERRA.
 
 #org @CeladonCity_Gym_Text_TinaIntro
-…¿No estabas echando un vistazo aquí\antes?
+…¿No estabas echando un vistazo aquí\nantes?
 
 #org @CeladonCity_Gym_Text_TinaDefeat
 ¡Eres una revelación!
@@ -7139,7 +7136,7 @@ Por favor, devuelve las BOLAS DE SAFARI\nque te queden.
 ¡Hola! ¿Es tu primera vez aquí en\nSAFARI ZONE?
 
 #org @FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone
-La ZONA SAFARI en realidad tiene\ncuatro zonas.\pCada zona tiene diferentes tipos de\nPOK\eMON, incluso algunos raros.\pUsa las BOLAS DE SAFARI suministradas para\atraparlas.\pTambién puedes lanzar CEBO o ROCAS\nademás de las BOLAS DE SAFARI.\pSi lanzas CEBO, es menos probable que el POK\eMON\nhuya, pero\les más difícil de atrapar.\pSi arrojas ROCAS, es más probable que el POK\eMON\nhuya, pero\les más fácil de atrapar.\n pCuando te quedas sin tiempo o SAFARI\nBALLS, ¡se acabó el juego para ti!
+La ZONA SAFARI en realidad tiene\ncuatro zonas.\pCada zona tiene diferentes tipos de\nPOK\eMON, incluso algunos raros.\pUsa las BOLAS DE SAFARI suministradas para\natraparlas.\pTambién puedes lanzar CEBO o ROCAS\nademás de las BOLAS DE SAFARI.\pSi lanzas CEBO, es menos probable que el POK\eMON\nhuya, pero\les más difícil de atrapar.\pSi arrojas ROCAS, es más probable que el POK\eMON\nhuya, pero\les más fácil de atrapar.\n pCuando te quedas sin tiempo o SAFARI\nBALLS, ¡se acabó el juego para ti!
 
 #org @FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere
 Lo siento, ¡eres un cliente habitual aquí!
@@ -7356,7 +7353,7 @@ TM38 contiene FIRE BLAST.\nEnséñele a POK\eMON de tipo FUEGO.\pVULPIX o CHARME
 Fuego, o para ser más precisos,\ncombustión...\p...Oxígeno en el aire...\nBla, bla, bla, bla...
 
 #org @CinnabarIsland_Gym_Text_QuinnIntro
-Yo era un ladrón, pero fui directamente\como ENTRENADOR.
+Yo era un ladrón, pero fui directamente\ncomo ENTRENADOR.
 
 #org @CinnabarIsland_Gym_Text_QuinnDefeat
 ¡Me rindo!
@@ -7533,7 +7530,7 @@ Lo siento mucho, pero has perdido\nel tiempo viniendo aquí.\pLORELEI de ELITE F
 Los POK\eMON tipo FANTASMA de AGATHA son\nhorriblemente terroríficos en cuanto a dureza.\pTomé mis POK\eMON tipo LUCHA\ny los levanté al máximo.\pFui hacia AGATHA sintiéndome\nbastante\nconfiado, pero ella nos azotó.\pEsa vieja La dama también tiene\nuna mecha muy corta.\pNo hace falta nada para que\nesa dama aterradora grite.
 
 #org @IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway
-Quizás convertirse en miembro de ELITE FOUR\n esté en la sangre.\pPor lo que he oído, LANCE tiene\un primo que es LÍDER DE GIMNASIO\len algún lugar lejano.
+Quizás convertirse en miembro de ELITE FOUR\n esté en la sangre.\pPor lo que he oído, LANCE tiene\nun primo que es LÍDER DE GIMNASIO\len algún lugar lejano.
 
 #org @SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered
 Mi hija es muy egocéntrica.\nTiene pocos amigos.
@@ -7718,9 +7715,6 @@ SABRINA es joven, pero también es\n nuestra LÍDER altamente capacitada.\p¡No 
 #org @SaffronCity_Gym_Text_CameronDefeat
 ¡Ay!\n¡Abajo y fuera!
 
-#org @SaffronCity_Gym_Text_CameronPostBattle
-Solía ​​haber dos GIMNASIOS POK\eMON\n en SAFFRON.\pEl DOJO DE LUCHA de al lado perdió\n su estado de GIMNASIO.\pSimplemente los derrotamos cuando\ndecidimos tener solo un GIMNASIO.
-
 #org @SaffronCity_Gym_Text_PrestonIntro
 SAFFRON POK\eMON GYM es famoso\npor entrenar psíquicos.\pQuieres ver a SABRINA, ¿verdad\n? ¡Puedo decir!
 
@@ -7801,12 +7795,14 @@ BROCK es la última palabra sobre lo genial,\nfin de la historia!\p¡Ahora hay u
 #org @SaffronCity_PokemonTrainerFanClub_Text_HadPleasureOfWatchingYouBattle
 BROCK es la última palabra sobre lo genial,\nfin de la historia!\p¡Ahora hay un chico al que quiero parecerme!
 
-#org @SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificence He viajado por todas partes\na través de las tierras.\pPero nunca he visto a un ENTRENADOR\n de tu magnificencia.\p¡Anímate en tus habilidades\ny sigue luchando!\p¡Hazme una promesa,\nmi joven ídolo!
+#org @SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificence
+He viajado por todas partes\na través de las tierras.\pPero nunca he visto a un ENTRENADOR\n de tu magnificencia.\p¡Anímate en tus habilidades\ny sigue luchando!\p¡Hazme una promesa,\nmi joven ídolo!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_HmmAndYouAre
 Hmm...\n¿Y tú?\p¿Esperabas registrarte\na como miembro de nuestro FAN CLUB?
 
-#org @SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinning Todos los aquí reunidos somos fanáticos\nde los ENTRENADORES POK\eMON.\pSu apariencia en la batalla...\nSon la viva imagen de lo genial.\pQuizás se hable de ti\naquí también, si sigues ganando.
+#org @SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinning
+Todos los aquí reunidos somos fanáticos\nde los ENTRENADORES POK\eMON.\pSu apariencia en la batalla...\nSon la viva imagen de lo genial.\pQuizás se hable de ti\naquí también, si sigues ganando.
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrina
 ¿Sabes qué?\n¡Quiero ser como SABRINA!\p¡Quiero ser una chica psíquica como\nella!
@@ -7863,7 +7859,7 @@ Muchos POK\eMON viven sólo en bosques \ny cuevas.\pDebes ser persistente y busc
 Bien, pon seis POK\e BALLS en mi\ncinturón...\pSí, eso bastará. Como máximo,\npuedes tener seis POK\eMON contigo.
 
 #org @Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean
-TEAM ROCKET ataca a los\ciudadanos de CERULEAN...\pNo pasa un día sin que TEAM\nROCKET aparezca en las noticias.
+TEAM ROCKET ataca a los\nciudadanos de CERULEAN...\pNo pasa un día sin que TEAM\nROCKET aparezca en las noticias.
 
 #org @Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500
 HOMBRE: ¡Hola, muchacho!\n¡Tengo una oferta solo para ti!\pTe dejaré tener un POK\eMON\n secreto, un MAGIKARP, ¡por solo \$500!\pEntonces, lo comprarás, ¿verdad? ¿Yo verdad?
@@ -7935,7 +7931,7 @@ Estoy de guardia.\n¡Vaya, aunque tengo sed!\pOh, espera ahí, el camino está c
 Oh, ese TÉ...\nSe ve tremendamente sabroso...
 
 #org @Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards
-¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\ ¡Compartiré este TÉ con los otros\nguardias!
+¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\n¡Compartiré este TÉ con los otros\nguardias!
 
 #org @Route5_SouthEntrance_Text_HiHowsItGoing
 ¿Hola, como te va?
@@ -7947,7 +7943,7 @@ Estoy de guardia.\n¡Vaya, aunque tengo sed!\pOh, espera ahí, el camino está c
 Oh, ese TÉ...\nSe ve tremendamente sabroso...
 
 #org @Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuards
-¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\ ¡Compartiré este TÉ con los otros\nguardias!
+¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\n¡Compartiré este TÉ con los otros\nguardias!
 
 #org @Route6_NorthEntrance_Text_HiHowsItGoing
 ¿Hola, como te va?
@@ -7959,7 +7955,7 @@ Estoy de guardia.\n¡Vaya, aunque tengo sed!\pOh, espera ahí, el camino está c
 Oh, ese TÉ...\nSe ve tremendamente sabroso...
 
 #org @Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards
-¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\ ¡Compartiré este TÉ con los otros\nguardias!
+¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\n¡Compartiré este TÉ con los otros\nguardias!
 
 #org @Route7_EastEntrance_Text_HiHowsItGoing
 ¿Hola, como te va?
@@ -7971,7 +7967,7 @@ Estoy de guardia.\n¡Vaya, aunque tengo sed!\pOh, espera ahí, el camino está c
 Oh, ese TÉ...\nSe ve tremendamente sabroso...
 
 #org @Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards
-¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\ ¡Compartiré este TÉ con los otros\nguardias!
+¿Eh? ¿Puedo tomar esta bebida?\n¡Vaya, gracias!\l… …\lGlug, glug…\l… …\lGulp…\lSi quieres ir a SAFFRON\lCITY…\l… …\lPuedes continuar.\n¡Compartiré este TÉ con los otros\nguardias!
 
 #org @Route8_WestEntrance_Text_HiHowsItGoing
 ¿Hola, como te va?
@@ -7986,10 +7982,10 @@ UNA PEPITA es totalmente inútil.\nAsí que la vendí por \$5000.
 He oído que los fantasmas rondan\nLAVENDER TOWN.
 
 #org @Route10_PokemonCenter_1F_Text_ExplainEverstone
-Hacer que POK\eMON evolucione ciertamente\npuede agregarse al POK\eDEX.\pSin embargo, a veces, es posible\nque no quieras que un determinado POK\eMON evolucione.\pEn ese caso, dale el EVERSTONE\na ese POK\eMON.\ pPrevendrá la evolución según\nel PROFESOR.
+Hacer que POK\eMON evolucione ciertamente\npuede agregarse al POK\eDEX.\pSin embargo, a veces, es posible\nque no quieras que un determinado POK\eMON evolucione.\pEn ese caso, dale el EVERSTONE\na ese POK\eMON.\npPrevendrá la evolución según\nel PROFESOR.
 
 #org @Route11_EastEntrance_1F_Text_BagIsFull
-Hacer que POK\eMON evolucione ciertamente\npuede agregarse al POK\eDEX.\pSin embargo, a veces, es posible\nque no quieras que un determinado POK\eMON evolucione.\pEn ese caso, dale el EVERSTONE\na ese POK\eMON.\ pPrevendrá la evolución según\nel PROFESOR.
+Hacer que POK\eMON evolucione ciertamente\npuede agregarse al POK\eDEX.\pSin embargo, a veces, es posible\nque no quieras que un determinado POK\eMON evolucione.\pEn ese caso, dale el EVERSTONE\na ese POK\eMON.\npPrevendrá la evolución según\nel PROFESOR.
 
 #org @Route11_EastEntrance_1F_Text_ManInLavenderRatesNames
 ¿No crees que es difícil\npensar buenos nombres para POK\eMON?\p¿Especialmente si has capturado un\ngrupo entero?\pEn LAVENDER TOWN, hay un hombre\nque califica los apodos de POK\eMON.\pÉl puede incluso También te ayudará a cambiar el nombre de tu\nPOK\eMON.
@@ -8043,7 +8039,7 @@ Soy el hermano menor\ndel GURU DE LA PESCA.\p¡Simplemente me encanta pescar!\nN
 ¡Grandioso! Me gusta tu estilo.\nCreo que podemos ser amigos.\p¡Toma esto y pesca, joven amigo!
 
 #org @Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe
-¡La pesca es una forma de vida!\nEs como la mejor poesía.\pDesde los mares hasta los ríos, sal\ny pesca el grande, amigo mío.\pAhora tengo una petición.\pSi pescas un MAGIKARP grande\ Con esa CAÑA, quiero verla.\pPor mucho que me guste pescar, también\nme encanta ver el MAGIKARP gigantesco.
+¡La pesca es una forma de vida!\nEs como la mejor poesía.\pDesde los mares hasta los ríos, sal\ny pesca el grande, amigo mío.\pAhora tengo una petición.\pSi pescas un MAGIKARP grande\nCon esa CAÑA, quiero verla.\pPor mucho que me guste pescar, también\nme encanta ver el MAGIKARP gigantesco.
 
 #org @Route12_FishingHouse_Text_OhThatsDisappointing
 Oh...\nEso es tan decepcionante...
@@ -8200,16 +8196,16 @@ Muy bien.\n¡No te guardes nada!
 El partido acabó en empate.
 
 #org @SevenIsland_House_Room1_Text_DrawWasIt
-Un empate, ¿verdad?\pSin embargo, déjame decirte que fue\un espectáculo digno.\pDiría que fue una batalla maravillosa\n¡con una verdadera sensación de profundidad!
+Un empate, ¿verdad?\pSin embargo, déjame decirte que fue\nun espectáculo digno.\pDiría que fue una batalla maravillosa\n¡con una verdadera sensación de profundidad!
 
 #org @SevenIsland_House_Room1_Text_StrVar1_2
-Un empate, ¿verdad?\pSin embargo, déjame decirte que fue\un espectáculo digno.\pDiría que fue una batalla maravillosa\n¡con una verdadera sensación de profundidad!
+Un empate, ¿verdad?\pSin embargo, déjame decirte que fue\nun espectáculo digno.\pDiría que fue una batalla maravillosa\n¡con una verdadera sensación de profundidad!
 
 #org @SevenIsland_House_Room1_Text_AstoundingBattle
-¡Bravo!\p¡Bravo, de hecho!\n¡Qué batalla tan asombrosa!\p¡Fue tan asombrosa, vaya, sigue llenándome los ojos de lágrimas!\p¡El empuje y la parada de técnicas\usadas por expertos!\p¡El choque de poder sobre poder!\ p¡Sí!\n¡Fue pura magnificencia!
+¡Bravo!\p¡Bravo, de hecho!\n¡Qué batalla tan asombrosa!\p¡Fue tan asombrosa, vaya, sigue llenándome los ojos de lágrimas!\p¡El empuje y la parada de técnicas\nusadas por expertos!\p¡El choque de poder sobre poder!\np¡Sí!\n¡Fue pura magnificencia!
 
 #org @SevenIsland_House_Room1_Text_StrVar1_3
-¡Bravo!\p¡Bravo, de hecho!\n¡Qué batalla tan asombrosa!\p¡Fue tan asombrosa, vaya, sigue llenándome los ojos de lágrimas!\p¡El empuje y la parada de técnicas\usadas por expertos!\p¡El choque de poder sobre poder!\ p¡Sí!\n¡Fue pura magnificencia!
+¡Bravo!\p¡Bravo, de hecho!\n¡Qué batalla tan asombrosa!\p¡Fue tan asombrosa, vaya, sigue llenándome los ojos de lágrimas!\p¡El empuje y la parada de técnicas\nusadas por expertos!\p¡El choque de poder sobre poder!\np¡Sí!\n¡Fue pura magnificencia!
 
 #org @SevenIsland_House_Room1_Text_FeelYourDisappointment
 ¡Qué lástima!\nSiento tu decepción.\pSin embargo, esa decepción es\nlo que te hará mejor.\pÚsala, aprende de ella y haz que\nte motive a buscar la grandeza.\pNo olvides esta decepción\ny redobla tu entrenamiento. !
@@ -8341,7 +8337,7 @@ Ojalá pudiera intercambiar POK\eMON con\nmi novio que vive lejos...
 ¡Cambié POK\eMON con mi novio\nque está lejos!\pTodos dicen que podemos\ngracias a ti y a CELIO.\pEntonces, ¡gracias!
 
 #org @OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment
-Máquina de red\nNivel de enlace 0\p…POK\Sistema de almacenamiento eMON en\najuste…
+Máquina de red\nNivel de enlace 0\p…POK\nsistema de almacenamiento eMON en\najuste…
 
 #org @OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKanto
 Equipo de red\nNivel de enlace 1\pEnlace establecido con la\nregión KANTO.
@@ -8368,7 +8364,7 @@ Ahora, ¿adónde ha llegado LOSTELLE hoy?\pElla siempre me trae el almuerzo todo
 ¿Mmm? ¡Tú, ahí!\n¿Eres amiga de LOSTELLE?\p¿Has visto a LOSTELLE por ahí?\nNo sé dónde podría estar.\lElla debería haber estado aquí hace mucho tiempo.\pLOSTELLE es una monada, tiene mi\napariencia. - ¡¿Y qué pasa si alguien…\p¿Qué pasa si algo le pasa\na mi LOSTELLE?!\p¡Por favor, ayúdame a encontrarla!\n¡Por favor, ve a buscar TRES ISLAS!
 
 #org @TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland
-¿Eh? ¿Qué es este RINCÓN DE JUEGO?\n¿Cuánto más triste puede llegar a ser esto?\pEsos payasos...\pDijeron que estarían esperando en la\isla, entonces, ¿dónde están?\p¡Oye, tú! ¿Es esta la única TRES\nISLA por aquí?
+¿Eh? ¿Qué es este RINCÓN DE JUEGO?\n¿Cuánto más triste puede llegar a ser esto?\pEsos payasos...\pDijeron que estarían esperando en la\nisla, entonces, ¿dónde están?\p¡Oye, tú! ¿Es esta la única TRES\nISLA por aquí?
 
 #org @TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt
 Intenta despertarte antes de salir de la cama, punk.\p¡Esto son DOS ISLAS!\p¡Muévete! ¡Saca tu asquerosa moto\nde mi casa!
@@ -8457,7 +8453,7 @@ Se muestran rocas y gemas raras.
 Oye, ¿escuchaste la noticia?\pLa red de PC aquí ahora puede vincularse\ncon las PC en KANTO.\pNo sé cómo surgió eso,\n¡pero es fantástico!
 
 #org @ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslands
-Es imposible SURF entre las\islas alrededor de esta zona.\pLas mareas son demasiado rápidas y\npeligrosas.
+Es imposible SURF entre las\nislas alrededor de esta zona.\pLas mareas son demasiado rápidas y\npeligrosas.
 
 #org @ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForest
 ¡Aplastemos BAYAS!\n... ¿Eso sería desperdiciar BAYAS?\pSiempre puedes encontrar algunas BAYAS\en el suelo en BERRY FOREST.
@@ -8520,7 +8516,7 @@ Hay un tipo raro de POK\eMON de HIELO\nque vive en la cueva.\pRecibimos muchos v
 LORELEI: Hay algo\nque pesa mucho en mi mente.\pSi algo sucediera en\nla isla donde nací...\pNo lo sabría si estuviera\nen la LIGA POK\eMON.\pMe pregunto si eso me haría\nirresponsable con mi hogar…
 
 #org @FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile
-LORELEI: Entonces, ¿lograste resolver\ntodos los problemas aquí?\pEso es maravilloso.\pEso significa que no hay ninguna razón\npara que esté aquí todo el tiempo.\pGracias...\pVolveré al POK\ LIGA eMON\nen poco tiempo.
+LORELEI: Entonces, ¿lograste resolver\ntodos los problemas aquí?\pEso es maravilloso.\pEso significa que no hay ninguna razón\npara que esté aquí todo el tiempo.\pGracias...\pVolveré al POK\nLIGA eMON\nen poco tiempo.
 
 #org @FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow
 No sé qué pasará en\nel futuro, pero...\pHaré lo que pueda aquí y ahora.\nEso es todo lo que puedo hacer.
@@ -8562,7 +8558,7 @@ Durante diez años he buscado\nRUINAS.\pNo, sean veinte años.\pTengo la sensaci
 No hay nada que los jóvenes encuentren emocionante aquí en esta isla.\pPero este es un buen lugar en términos de naturaleza e historia.\pRelájese y disfrute de su estancia.
 
 #org @SixIsland_Mart_Text_AgathaOldestEverEliteFourMember
-¡Juega con lotes de POK\eMON y vive\una larga vida!\pToma a AGATHA, por ejemplo.\pElla estableció un récord por ser el\nmiembro de ELITE FOUR de mayor edad.\pElla me incita a hacer cosas más grandes.
+¡Juega con lotes de POK\eMON y vive\nuna larga vida!\pToma a AGATHA, por ejemplo.\pElla estableció un récord por ser el\nmiembro de ELITE FOUR de mayor edad.\pElla me incita a hacer cosas más grandes.
 
 #org @SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter
 Debería comprar MAIL y escribirle una carta...
@@ -8655,7 +8651,7 @@ Mi altura es 67,0 pulgadas en el\nbotón.\pSé que es esto precisamente porque\n
 CHANSEY: ¡Chansi!¡Chansi!
 
 #org @Text_WouldYouLikeToMixRecords
-¿Te gustaría mezclar discos con\otros TRAINERS?
+¿Te gustaría mezclar discos con\notros TRAINERS?
 
 #org @Text_WeHopeToSeeYouAgain2
 ¡Esperamos verte de nuevo!
@@ -8856,7 +8852,7 @@ Gracias por acceder al\nSistema de REGALOS MISTERIOSOS.
 ¡Guau!
 
 #org @Text_MoveCanOnlyBeLearnedOnce
-Este movimiento sólo se puede aprender\una vez. ¿Está bien?
+Este movimiento sólo se puede aprender\nuna vez. ¿Está bien?
 
 #org @PokedexRating_Text_HowIsPokedexComingAlong
 OAK: ¡Qué bueno verte!\n¿Cómo va tu POK\eDEX?\pAquí, déjame echarle un vistazo.
@@ -8937,7 +8933,7 @@ OAK: ¡Ah, bienvenido!\pCuéntame, ¿cómo va tu POK\eDEX\n?\p¡Wahaha!\pEn real
 ßÌÊì
 
 #org @Braille_Text_ABC
-АÈ
+AÈ
 
 #org @Braille_Text_GHI
 ÔÔÉ
@@ -9918,7 +9914,7 @@ Esto no es algo de lo que debas preocuparte\ndemasiado.\lHabla con otras persona
 Intenta moverte a una nueva carretera, ciudad o\nlugar.
 
 #org @Help_Text_AnswerSomeoneBlockingMyWay
-Podría haber algo en la ciudad\o dentro de un edificio que sea la causa.\lIntenta hablar con la gente de la zona\la nuevamente. Si hay un problema que necesitan resolver, es posible que tengas que ayudar. Después, intenta hablar con la persona que bloquea tu camino nuevamente.
+Podría haber algo en la ciudad\no dentro de un edificio que sea la causa.\lIntenta hablar con la gente de la zona\la nuevamente. Si hay un problema que necesitan resolver, es posible que tengas que ayudar. Después, intenta hablar con la persona que bloquea tu camino nuevamente.
 
 #org @Help_Text_AnswerOutOfThingsToDo
 Intente ir a lugares que \naún no ha visitado.\lAdemás, verifique todo lo que parezca\lsospechoso presionando el botón A.
@@ -9927,7 +9923,7 @@ Intente ir a lugares que \naún no ha visitado.\lAdemás, verifique todo lo que 
 Cualquier artículo que te dé otro\npersonaje va en tu BOLSA.\lEl artículo se clasifica automáticamente y\lse coloca en uno de los tres bolsillos.\lPara obtener instrucciones sobre el uso de la BOLSA,\lconsulta\l“Cómo ¿Hago esto?" título.
 
 #org @Help_Text_AnswerWhatAreMyAdventureBasics
-Si POK\eMON resulta herido en la batalla,\nllévalos a un CENTRO POK\eMON y\lhaz que el personal los cure.\lAcostúmbrate a guardar tu\ljuego y registrar tu progreso.\lAbastécete de elementos curativos en\ lPOK\eMON MARTS antes de viajar lejos.
+Si POK\eMON resulta herido en la batalla,\nllévalos a un CENTRO POK\eMON y\lhaz que el personal los cure.\lAcostúmbrate a guardar tu\ljuego y registrar tu progreso.\lAbastécete de elementos curativos en\nlPOK\eMON MARTS antes de viajar lejos.
 
 #org @Help_Text_AnswerHowAreRoadsForestsDifferent
 Los bosques son básicamente iguales que\nlos caminos, pero pueden ser como laberintos.\lTodos los bosques tienen una salida, así\lno te rindas si te pierdes.
@@ -9943,7 +9939,7 @@ Hay varios tipos de elementos.\nAlgunos solo se pueden usar en el campo.\lAlguno
 
 
 #org @Help_Text_AnswerWhatsABattle
-En una batalla, los POK\eMON intentan reducir\la vitalidad de los demás, expresada como\lHP. Si el HP de un POK\eMON cae a cero,\lit se desmaya y el otro POK\eMON\lgana. Al ganar una batalla, POK\eMON\aprende EXP. Puntos, que les ayudan a subir de nivel (hacerse más fuertes).
+En una batalla, los POK\eMON intentan reducir\la vitalidad de los demás, expresada como\lHP. Si el HP de un POK\eMON cae a cero,\lit se desmaya y el otro POK\eMON\lgana. Al ganar una batalla, POK\eMON\naprende EXP. Puntos, que les ayudan a subir de nivel (hacerse más fuertes).
 
 #org @Help_Text_AnswerHowDoIPrepareForBattle
 Primero, cura completamente el POK\eMON de tu\ngrupo (el POK\eMON contigo) en cualquier\lPOK\eMON CENTRO.\lTambién debes comprar elementos curativos para\lemergencias en un POK\eMON MART.
@@ -9952,7 +9948,7 @@ Primero, cura completamente el POK\eMON de tu\ngrupo (el POK\eMON contigo) en cu
 La vitalidad de un POK\eMON se expresa en HP.\nSi un POK\eMON resulta herido en batalla, se restan HP. Si su HP cae a cero, el POK\eMON se desmaya.\lCura al POK\eMON herido o desmayado en un CENTRO\lPOK\eMON o usando objetos.
 
 #org @Help_Text_AnswerMyMonsAreHurt
-Un CENTRO POK\eMON es como una posada para\nPOK\eMON. Curará completamente a POK\eMON de\todos los problemas de estado y restaurará\lsu HP completamente usando una máquina especial.\lEste servicio es gratuito, así que acostúmbrate a curar tu POK\eMON con frecuencia.
+Un CENTRO POK\eMON es como una posada para\nPOK\eMON. Curará completamente a POK\eMON de\ntodos los problemas de estado y restaurará\lsu HP completamente usando una máquina especial.\lEste servicio es gratuito, así que acostúmbrate a curar tu POK\eMON con frecuencia.
 
 #org @Help_Text_AnswerWhatIsStatusProblem
 Un problema de estado se refiere a una dolencia que se inflige a un POK\eMON por el ataque de su\lenemigo. Estos incluyen quemaduras, parálisis, envenenamiento, sueño y congelamiento. Estos se pueden curar visitando un CENTRO POKÉMON o usando el objeto apropiado.
@@ -9967,10 +9963,10 @@ Si un POK\eMON salvaje escapa de una POK\e\nBOLA, obviamente sigue siendo luchad
 Hay tiendas, conocidas como POK\eMON\nMARTS, que venden artículos.\lNo encontrarás POK\eMON MARTS en\lcaminos, bosques o cuevas.\lAbastécete de los artículos necesarios mientras\lvisitas una ciudad con un POK\eMON MART.
 
 #org @Help_Text_AnswerCanIBuyPokeBalls
-Puedes comprar POK\e BALLS en cualquier\nPOK\eMON MART de cualquier ciudad.\lNo encontrarás POK\eMON MARTS en\lcaminos, bosques o cuevas.\lAbastécete de POK\e BALLS mientras estés\ Visitar una ciudad con un POK\eMON MART.
+Puedes comprar POK\e BALLS en cualquier\nPOK\eMON MART de cualquier ciudad.\lNo encontrarás POK\eMON MARTS en\lcaminos, bosques o cuevas.\lAbastécete de POK\e BALLS mientras estés\nVisitar una ciudad con un POK\eMON MART.
 
 #org @Help_Text_AnswerWhatsATrainer
-Un ENTRENADOR es una persona que cría\nPOK\eMON a través de la batalla.\lLOS ENTRENADORES te desafiarán \ldondequiera que estén: puede ser en\la carretera, en bosques, cuevas, en cualquier lugar.\lSi tus miradas se encuentran, debes aceptar\ su desafío. ¡Así que ten cuidado!
+Un ENTRENADOR es una persona que cría\nPOK\eMON a través de la batalla.\lLOS ENTRENADORES te desafiarán \ldondequiera que estén: puede ser en\la carretera, en bosques, cuevas, en cualquier lugar.\lSi tus miradas se encuentran, debes aceptar\nsu desafío. ¡Así que ten cuidado!
 
 #org @Help_Text_AnswerHowDoIWinAgainstTrainer
 Para vencer a un ENTRENADOR en batalla, usa\nPOK\eMON que tengan ventajas de tipo\nsobre el POK\eMON del enemigo. También puedes usar POK\eMON altamente entrenados con un poder abrumador. Superar en número a los POK\eMON del enemigo es otra táctica obvia.
@@ -9982,7 +9978,7 @@ Los POK\eMON salvajes aparecerán en la hierba alta, en los caminos y en los bos
 POK\npuede aprender hasta cuatro\ntécnicas o movimientos diferentes. Hay una gran variedad de movimientos que incluyen ataques y aquellos con efectos especiales. Los tipos de movimientos que se pueden aprender varían para cada POK\eMON. Algunos movimientos se pueden aprender de las máquinas.
 
 #org @Help_Text_AnswerWhatAreHiddenMoves
-Los movimientos OCULTOS son aquellos que son especialmente importantes para tu aventura. Para usar dicho movimiento fuera de la batalla, abre el MENÚ “POK\eMON” y haz que el POK\eMON que conoce el movimiento lo use. Un POK\eMON desmayado puede usar\un movimiento OCULTO fuera de la batalla.
+Los movimientos OCULTOS son aquellos que son especialmente importantes para tu aventura. Para usar dicho movimiento fuera de la batalla, abre el MENÚ “POK\eMON” y haz que el POK\eMON que conoce el movimiento lo use. Un POK\eMON desmayado puede usar\nun movimiento OCULTO fuera de la batalla.
 
 #org @Help_Text_AnswerWhatMovesShouldIUse
 Selecciona “LUCHA” y aparecerá el MENÚ de movimientos\n. Considere los tipos de enfrentamientos y utilice los movimientos más efectivos. Puedes comprobar los efectos de los movimientos abriendo “POK\eMON”, seleccionando un POK\eMON, abriendo “RESUMEN” y luego abriendo “POK\eMON SKILLS”.
@@ -10378,19 +10374,16 @@ INSIGNIAS
 HP indica la vitalidad de un POK\eMON.\nSi el HP de un POK\eMON cae a cero, se desmaya y no puede luchar.\lEntonces, la clave en la batalla es tratar de\lreducir el HP del enemigo a cero.\lSi tu Los POK\eMON están heridos, restaura su\lHP en un CENTRO POK\eMON o usa objetos.
 
 #org @Help_Text_DefineEXP
-EXP. Puntos significa "Puntos de experiencia\n". POK\eMON gana EXP. Puntos por\lparticipar en batallas ganadoras.\lCuando un POK\eMON acumula suficiente\lEXP. Puntos, sube de nivel. La EXP. Barra\indica EXP acumulada. Puntos.\lVuelve a cero al subir de nivel.
+EXP. Puntos significa "Puntos de experiencia\n". POK\eMON gana EXP. Puntos por\lparticipar en batallas ganadoras.\lCuando un POK\eMON acumula suficiente\lEXP. Puntos, sube de nivel. La EXP. Barra\nindica EXP acumulada. Puntos.\lVuelve a cero al subir de nivel.
 
 #org @Help_Text_DefineMoves
 POK\eMON puede aprender hasta cuatro\nmovimientos diferentes. Hay muchos tipos de movimientos, incluidos ataques y aquellos con efectos especiales. Los tipos de movimientos que se pueden aprender varían para cada \lPOK\eMON. Algunos movimientos se pueden aprender de los elementos.
-
-#org @Help_Text_DefineAttack
-ATAQUE indica el poder de un movimiento\noofensivo. Cuanto mayor sea esta estadística,\lmás poderoso será el movimiento.\lSe aplica para los siguientes\ltipos de movimiento: NORMAL, VENENO, TIERRA,\lVOLADOR, BUG, ​​LUCHA, ROCA, FANTASMA,\y ACERO.
 
 #org @Help_Text_DefineDefense
 DEFENSA indica la resistencia que\nPOK\eMON tiene contra los ataques físicos.\lCuanto más alta sea esta estadística, menos daño\lsufrirá por el golpe físico de un enemigo.
 
 #org @Help_Text_DefineSpAtk
-SP. ATK (Ataque especial) indica el\npoder de un movimiento de ataque especial.\lCuanto mayor sea esta estadística, más poderoso\lel movimiento de ataque especial.\lSe aplica para los siguientes\ltipos de movimiento: FUEGO, AGUA, ELÉCTRICO, HIERBA,\ PIOJOS, PSÍQUICO, DRAGÓN y OSCURIDAD.
+SP. ATK (Ataque especial) indica el\npoder de un movimiento de ataque especial.\lCuanto mayor sea esta estadística, más poderoso\lel movimiento de ataque especial.\lSe aplica para los siguientes\ltipos de movimiento: FUEGO, AGUA, ELÉCTRICO, HIERBA,\nPIOJOS, PSÍQUICO, DRAGÓN y OSCURIDAD.
 
 #org @Help_Text_DefineSpDef
 SP. DEF (Defensa Especial) indica\nla resistencia que tiene un POK\leMON contra\lataques especiales.\lCuanto más alta sea esta estadística, menos daño\lsufrirá por el ataque especial de un enemigo.
@@ -10399,7 +10392,7 @@ SP. DEF (Defensa Especial) indica\nla resistencia que tiene un POK\leMON contra\
 VELOCIDAD indica la agilidad de un\nPOK\eMON. Si esta estadística excede la batalla del enemigo, el POK\eMON puede hacer un movimiento antes que su oponente más lento.
 
 #org @Help_Text_DefineLevel
-Lv. (Nivel) indica el crecimiento y\nla fuerza de un POK\eMON.\lEn general, cuando un POK\eMON sube de nivel,\sus estadísticas como HP, ATAQUE y\lDEFENSA aumentan, haciéndolo más fuerte.\lPOK\eMON puede aprende un nuevo movimiento al subir de nivel.
+Lv. (Nivel) indica el crecimiento y\nla fuerza de un POK\eMON.\lEn general, cuando un POK\eMON sube de nivel,\nsus estadísticas como HP, ATAQUE y\lDEFENSA aumentan, haciéndolo más fuerte.\lPOK\eMON puede aprende un nuevo movimiento al subir de nivel.
 
 #org @Help_Text_DefineType
 POK\eMON y movimientos se clasifican por\ntipo. Cada tipo tiene enfrentamientos ventajosos y desventajosos contra otros tipos. Por ejemplo, como en un juego de piedra, papel y tijera, el tipo AGUA es fuerte contra el tipo FUEGO y débil contra el tipo HIERBA.
@@ -10411,13 +10404,13 @@ OT significa "ENTRENADOR original",\nel primer ENTRENADOR que atrapó el\lPOK\eM
 Se puede hacer que todos los POK\eMON contengan un\nitem cada uno. Algunos elementos serán utilizados por el POK\eMON automáticamente en determinadas situaciones. Para hacer que un POK\eMON contenga un\litem, selecciona el elemento de la BOLSA y\l“DÉSelo” al POK\eMON.
 
 #org @Help_Text_DefineAbility
-Todos los POK\eMON tienen una HABILIDAD especial.\nHay muchos tipos diferentes de estas\habilidades, algunas se usan en la batalla y otras en otros lugares. Las habilidades difieren de una especie a otra. Algunas especies pueden tener más de un tipo de habilidad.
+Todos los POK\eMON tienen una HABILIDAD especial.\nHay muchos tipos diferentes de estas\nhabilidades, algunas se usan en la batalla y otras en otros lugares. Las habilidades difieren de una especie a otra. Algunas especies pueden tener más de un tipo de habilidad.
 
 #org @Help_Text_DefineMoney
-Cada vez que ganes una batalla contra un\nENTRENADOR, recibirás un premio en metálico.\l¡Ahorra el dinero del premio para poder\disfrutar comprando en POK\eMON MARTS!
+Cada vez que ganes una batalla contra un\nENTRENADOR, recibirás un premio en metálico.\l¡Ahorra el dinero del premio para poder\ndisfrutar comprando en POK\eMON MARTS!
 
 #org @Help_Text_DefineMoveType
-Los movimientos también se clasifican por tipos.\nSi un POK\eMON de un determinado tipo usa\un movimiento del mismo tipo, el\lpoder del movimiento aumenta. Si el tipo de movimiento tiene una ventaja de enfrentamiento contra el objetivo, su efectividad también aumenta.
+Los movimientos también se clasifican por tipos.\nSi un POK\eMON de un determinado tipo usa\nun movimiento del mismo tipo, el\lpoder del movimiento aumenta. Si el tipo de movimiento tiene una ventaja de enfrentamiento contra el objetivo, su efectividad también aumenta.
 
 #org @Help_Text_DefineNature
 Todos los POK\eMON tienen una personalidad,\ni “NATURALEZA”. La naturaleza del POK\eMON parece afectar cómo crecerá el\lPOK\eMON al subir de nivel.
@@ -10468,7 +10461,7 @@ Puedes elegir si un\nENTRENADOR puede o no cambiar un POK\eMON después de\lit h
 Puede elegir entre salida de sonido MONO y\nESTÉREO.
 
 #org @Help_Text_DefineButtonMode
-Establezca en “AYUDA” para mostrar mensajes de ayuda\npresionando el botón L o R.\lEstablezca en “LR” para permitir el cambio de las páginas POK\eDEX y BOLSILLOS\usando los botones L y R.\lEstablezca en “ L=A” para hacer que el botón L funcione igual que el botón A.
+Establezca en “AYUDA” para mostrar mensajes de ayuda\npresionando el botón L o R.\lEstablezca en “LR” para permitir el cambio de las páginas POK\eDEX y BOLSILLOS\nusando los botones L y R.\lEstablezca en “ L=A” para hacer que el botón L funcione igual que el botón A.
 
 #org @Help_Text_DefineFrame
 Puede elegir el diseño del marco\nalrededor de ciertos menús. Pruébelos y vea lo que le gusta.
@@ -10477,13 +10470,13 @@ Puede elegir el diseño del marco\nalrededor de ciertos menús. Pruébelos y vea
 La configuración se cambiará a las\nselecciones que se muestran en rojo y usted regresará al MENÚ.
 
 #org @Help_Text_DefineTM
-Una MT (Máquina Técnica) es un dispositivo\que se utiliza para enseñar un movimiento a un POK\eMON.\lHay muchos tipos diferentes.\lLos movimientos sólo se pueden enseñar a aquellos\lPOK\eMON capaces de usarlos.\lUna MT se rompe después un solo uso.
+Una MT (Máquina Técnica) es un dispositivo\nque se utiliza para enseñar un movimiento a un POK\eMON.\lHay muchos tipos diferentes.\lLos movimientos sólo se pueden enseñar a aquellos\lPOK\eMON capaces de usarlos.\lUna MT se rompe después un solo uso.
 
 #org @Help_Text_DefineHM
-Una HM (Máquina Oculta) es un dispositivo usado\npara enseñar un movimiento OCULTO a un POK\eMON.\lUn movimiento OCULTO puede enseñarse sólo a\laquellos POK\eMON capaces de usarlo.\lA diferencia de una TM, una HM puede ser usado sobre\tierra. Un movimiento OCULTO puede ser difícil de olvidar para un POK\eMON.
+Una HM (Máquina Oculta) es un dispositivo usado\npara enseñar un movimiento OCULTO a un POK\eMON.\lUn movimiento OCULTO puede enseñarse sólo a\laquellos POK\eMON capaces de usarlo.\lA diferencia de una TM, una HM puede ser usado sobre\ntierra. Un movimiento OCULTO puede ser difícil de olvidar para un POK\eMON.
 
 #org @Help_Text_DefineHMMove
-Los movimientos OCULTOS son aquellos que son especialmente importantes para tu aventura. Para usar dicho movimiento fuera de la batalla, abre el MENÚ “POK\eMON” y haz que el POK\eMON que conoce el movimiento lo use. Un POK\eMON desmayado puede usar\un movimiento OCULTO fuera de la batalla.
+Los movimientos OCULTOS son aquellos que son especialmente importantes para tu aventura. Para usar dicho movimiento fuera de la batalla, abre el MENÚ “POK\eMON” y haz que el POK\eMON que conoce el movimiento lo use. Un POK\eMON desmayado puede usar\nun movimiento OCULTO fuera de la batalla.
 
 #org @Help_Text_DefineEvolution
 Entre los POK\eMON, hay algunos que\nsufren cambios importantes (evolución) al crecer a ciertos niveles. La evolución hace que un POK\eMON altere su forma, cambie su nombre y tal vez cambie los movimientos que puede aprender. Algunos POK\eMON evolucionan por motivos distintos a subir de nivel.
@@ -10498,7 +10491,7 @@ POK\eMON es un nombre que se le da para describir\ncriaturas maravillosas que ha
 El número de identificación es un número especial asignado\nespecíficamente a usted como ENTRENADOR.\lJunto con el nombre de OT, el número de identificación\nse utiliza para identificar con precisión al\lENTRENADOR original.\lEl número de identificación no cambia incluso si el \lPOK\eMON se comercializa.
 
 #org @Help_Text_DefineMoney2
-Cada vez que ganes una batalla contra un\nENTRENADOR, recibirás un premio en metálico.\l¡Ahorra el dinero del premio para poder\disfrutar comprando en POK\eMON MARTS!
+Cada vez que ganes una batalla contra un\nENTRENADOR, recibirás un premio en metálico.\l¡Ahorra el dinero del premio para poder\ndisfrutar comprando en POK\eMON MARTS!
 
 #org @Help_Text_DefineBadges2
 Esto indica el número de INSIGNIAS DE LIGA POK\eMON\n que has ganado.\lGana INSIGNIAS derrotando a LÍDERES DE GIMNASIO\en varias ciudades y pueblos.
@@ -10777,7 +10770,7 @@ Este es el CLUB INALÁMBRICO POK\eMON\nUNION ROOM.\pDesafortunadamente, tu adapt
 Puedo explicarte las reglas del juego,\nsi lo deseas.\p¿Qué juego debo describir?
 
 #org @Text_PokemonJumpInfo
-“POK\eMON JUMP”\pHaz que tu POK\eMON salte la cuerda\nVINE WHIP con el botón A.\pSolo pueden participar mini POK\eMON de alrededor de 28 pulgadas\n o menos.\pPOK\eMON que solo nadan, excavan o\ Los nfly no son buenos saltando.\pComo resultado, es posible que esos POK\eMON no\nparticipen.\pSuceden cosas buenas si todos\nsalta a tiempo.
+“POK\eMON JUMP”\pHaz que tu POK\eMON salte la cuerda\nVINE WHIP con el botón A.\pSolo pueden participar mini POK\eMON de alrededor de 28 pulgadas\n o menos.\pPOK\eMON que solo nadan, excavan o\nLos nfly no son buenos saltando.\pComo resultado, es posible que esos POK\eMON no\nparticipen.\pSuceden cosas buenas si todos\nsalta a tiempo.
 
 #org @Text_TalkToManToPlay
 Si quieres jugar,\ndíselo al hombre que está a mi lado.
@@ -10819,7 +10812,7 @@ Bienvenido al POK\eMON WIRELESS\nCLUB DIRECT CORNER.\pPuedes interactuar directa
 ¿Le gustaría utilizar el sistema\nBERRY CRUSH?
 
 #org @CableClub_Text_ExplainBattleModes
-Hay tres modos de batalla.\pBATALLA ÚNICA es para dos ENTRENADORES\ncon uno o más POK\eMON cada uno.\pCada ENTRENADOR puede tener un POK\eMON\nen batalla a la vez.\pBATALLA DOBLE es para dos ENTRENADORES\ncon dos o más POK\eMON cada uno.\pCada ENTRENADOR enviará dos\nPOK\eMON en batalla a la vez.\pMULTI BATTLE es para cuatro ENTRENADORES\ncon uno o más POK\eMON cada uno.\pCada ENTRENADOR puede tener un POK\eMON\ Ninja batalla a la vez.
+Hay tres modos de batalla.\pBATALLA ÚNICA es para dos ENTRENADORES\ncon uno o más POK\eMON cada uno.\pCada ENTRENADOR puede tener un POK\eMON\nen batalla a la vez.\pBATALLA DOBLE es para dos ENTRENADORES\ncon dos o más POK\eMON cada uno.\pCada ENTRENADOR enviará dos\nPOK\eMON en batalla a la vez.\pMULTI BATTLE es para cuatro ENTRENADORES\ncon uno o más POK\eMON cada uno.\pCada ENTRENADOR puede tener un POK\eMON\ninja batalla a la vez.
 
 #org @CableClub_Text_ChooseGroupLeaderOfTwo
 Por favor, decida cuál de ustedes dos\nse convertirá en el LÍDER.\pEl otro jugador debe elegir\n“UNIRSE AL GRUPO”.
@@ -10831,7 +10824,7 @@ Por favor, decida cuál de ustedes cuatro\nse convertirá en el LÍDER DEL GRUPO
 Por favor, decida cuál de ustedes\nse convertirá en el LÍDER DEL GRUPO.\pLos demás jugadores deben elegir\n“UNIRSE AL GRUPO”.
 
 #org @CableClub_Text_WelcomeUnionRoomEnter
-Bienvenido a la SALA POK\eMON WIRELESS\nCLUB UNION.\pPuedes interactuar directamente con\otros ENTRENADORES aquí, algunos de\lquienes quizás ni siquiera conozcas.\p¿Te gustaría ingresar a la SALA?
+Bienvenido a la SALA POK\eMON WIRELESS\nCLUB UNION.\pPuedes interactuar directamente con\notros ENTRENADORES aquí, algunos de\lquienes quizás ni siquiera conozcas.\p¿Te gustaría ingresar a la SALA?
 
 #org @CableClub_Text_UnionRoomInfo
 Los ENTRENADORES en la SALA UNION\nserán aquellos jugadores a tu alrededor\lque también han ingresado a la SALA.\pPuedes hacer todo tipo de cosas\naquí, como intercambiar saludos.\pPuedes ingresar dos POK\eMON hasta\nNvl. 30 para una batalla uno a uno.\pPuedes participar en un chat con\nde dos a cinco personas.\pO puedes registrar un POK\eMON para\nintercambiar.\p¿Te gustaría ingresar a la SALA?
@@ -10846,7 +10839,7 @@ Espero que disfrutes tu tiempo en\nUNION ROOM.
 En el piso superior, hay dos\nhabitaciones.\pPrimero, la sala de la izquierda.\nEs la SALA DE LA UNION.\pPuedes conectarte con ENTRENADORES\na tu alrededor que también han entrado\lla SALA DE LA UNION.\pCon ellos, podrás puedes hacer cosas como\nchatear, luchar e intercambiar.\pEn segundo lugar, la sala de la derecha es\nla ESQUINA DIRECTA.\pPuedes intercambiar o luchar contra POK\eMON\ncon tus amigos en esta sala.\pSi el adaptador inalámbrico no está t\nconectado, todavía puedes conectarte usando un cable GBA Game Link.\pSi ese es el caso, debes ir\nal ESQUINA DIRECTA.\pEspero que disfrutes del \nsistema de comunicación inalámbrica.
 
 #org @CableClub_Text_ExplainWirelessClub
-Déjame explicarte cómo funciona el CLUB INALÁMBRICO POK\eMON\n.\pEn este, el último piso, hay\ndos habitaciones.\pPrimero, la habitación de la izquierda.\nEs la SALA UNION.\pPuedes conectarte con ENTRENADORES\ a tu alrededor que también han entrado\la la SALA DE LA UNION.\pCon ellos, puedes hacer cosas como\nchatear, luchar y comerciar.\pEn segundo lugar, la habitación de la derecha es\nla ESQUINA DIRECTA.\pPuedes comerciar o luchar contra POK\ eMON\ncon tus amigos en esta sala.\pA veces, es posible que\nno puedas encontrar a tus amigos en la SALA UNION\o en la ESQUINA DIRECTA.\pEn ese caso, acércate\na tus amigos.\pSi el adaptador inalámbrico no está\nconectado, todavía puedes conectarte usando un cable GBA Game Link.\pSi ese es el caso, debes ir\nal ESQUINA DIRECTA.\pEspero que disfrutes del \nsistema de comunicación inalámbrica.
+Déjame explicarte cómo funciona el CLUB INALÁMBRICO POK\eMON\n.\pEn este, el último piso, hay\ndos habitaciones.\pPrimero, la habitación de la izquierda.\nEs la SALA UNION.\pPuedes conectarte con ENTRENADORES\na tu alrededor que también han entrado\la la SALA DE LA UNION.\pCon ellos, puedes hacer cosas como\nchatear, luchar y comerciar.\pEn segundo lugar, la habitación de la derecha es\nla ESQUINA DIRECTA.\pPuedes comerciar o luchar contra POK\neMON\ncon tus amigos en esta sala.\pA veces, es posible que\nno puedas encontrar a tus amigos en la SALA UNION\no en la ESQUINA DIRECTA.\pEn ese caso, acércate\na tus amigos.\pSi el adaptador inalámbrico no está\nconectado, todavía puedes conectarte usando un cable GBA Game Link.\pSi ese es el caso, debes ir\nal ESQUINA DIRECTA.\pEspero que disfrutes del \nsistema de comunicación inalámbrica.
 
 #org @CableClub_Text_HopeYouEnjoyWirelessSystem
 Espero que disfrutes del sistema de comunicación\ninalámbrica.
@@ -11602,7 +11595,7 @@ Tumbado, mecido por las olas...\nNo noto que el tiempo pasa...
 Mi quemadura de sol está empezando a doler...
 
 #org @OneIsland_KindleRoad_Text_FinnRematchIntro
-La montaña del pájaro de fuego proyecta\una enorme sombra...
+La montaña del pájaro de fuego proyecta\nuna enorme sombra...
 
 #org @OneIsland_KindleRoad_Text_GarrettRematchIntro
 ¡Tengo la fuerte sensación de que\nesta vez puedo ganar!
@@ -11629,7 +11622,7 @@ Ya sabes, todo sabe muy bien\ncuando estás en la naturaleza.
 Comí demasiado otra vez, así que, ¿nos pelearás por hacer algo de ejercicio?
 
 #org @OneIsland_KindleRoad_Text_KiaRematchIntro
-KIA: ¡Mi hermano mayor y yo hacemos\una combinación increíble!\p¡Esta vez no perderemos!
+KIA: ¡Mi hermano mayor y yo hacemos\nuna combinación increíble!\p¡Esta vez no perderemos!
 
 #org @OneIsland_KindleRoad_Text_MikRematchIntro
 MIK: ¡Junto con KIA,\nno le tememos a nada!\p¡Te lo demostraremos esta vez!
@@ -11704,7 +11697,7 @@ AVA: ¡Tengamos otra\nbatalla marina de dos contra dos hoy!
 GEB: ¡Mi hermana mayor y yo somos mucho más duros que antes!
 
 #org @SixIsland_GreenPath_Text_JaclynRematchIntro
-…¿Eh?\pImagino mi casa, ¡pero TELEPORT\siempre me trae aquí!
+…¿Eh?\pImagino mi casa, ¡pero TELEPORT\nsiempre me trae aquí!
 
 #org @SixIsland_WaterPath_Text_RoseRematchIntro
 Oh, hola.\nVuelve a soplar una agradable brisa.
@@ -11830,7 +11823,7 @@ GUARDANDO…\nNO APAGUE LA CORRIENTE.
 GUARDANDO…\nNO APAGUE LA CORRIENTE.
 
 #org @gText_DifferentGameFile
-¡ADVERTENCIA!\pHay un archivo de juego diferente que\nya está guardado.\pSi guardas ahora, la aventura del otro archivo, incluidos los elementos y\lPOK\eMON, se perderá por completo.\p¿Estás seguro de que quieres guardar ahora\ ¿Y sobrescribir el otro archivo guardado?
+¡ADVERTENCIA!\pHay un archivo de juego diferente que\nya está guardado.\pSi guardas ahora, la aventura del otro archivo, incluidos los elementos y\lPOK\eMON, se perderá por completo.\p¿Estás seguro de que quieres guardar ahora\n¿Y sobrescribir el otro archivo guardado?
 
 #org @gOtherText_NewName
 NUEVO NOMBRE
@@ -11851,7 +11844,7 @@ Se utiliza para salir, cancelar una elección\ny cancelar un modo.
 Presione este botón para abrir el\nMENÚ.
 
 #org @gControlsGuide_Text_SelectButton
-Se utiliza para cambiar artículos y usar\un artículo registrado.
+Se utiliza para cambiar artículos y usar\nun artículo registrado.
 
 #org @gControlsGuide_Text_LRButtons
 Si necesitas ayuda para jugar\nel juego o sobre cómo hacer cosas,\npresiona el botón L o R.
@@ -11869,7 +11862,7 @@ Se te abrirán nuevos caminos al ayudar\na personas necesitadas, superar desafí
 A través de tu aventura, esperamos\nque interactúes con todo tipo de personas y logres tu crecimiento personal.\nEse es nuestro mayor objetivo.\n\nPresiona el botón A y deja que comience tu\naventura.
 
 #org @gOakSpeech_Text_WelcomeToTheWorld
-¡Hola!\n¡Encantado de conocerte!\p¡Bienvenido al mundo de POK\eMON!\pMi nombre es OAK.\pLa gente me llama cariñosamente\como el PROFESOR POK\eMON.\p
+¡Hola!\n¡Encantado de conocerte!\p¡Bienvenido al mundo de POK\eMON!\pMi nombre es OAK.\pLa gente me llama cariñosamente\ncomo el PROFESOR POK\eMON.\p
 
 #org @gOakSpeech_Text_ThisWorld
 Este mundo…
@@ -11929,7 +11922,7 @@ No será fácil ganar\ncon este enfrentamiento...\p¡Intentemos cambiar POK\eMON
 Cambiar POK\eMON dentro y fuera usa\nun turno.\pAhora es el turno del oponente.
 
 #org @Pokedude_Text_ButterfreeDoubleResistsGrass
-BUTTERFREE es un\nPOK\eMON de tipo BUG/VUELO.\pContra este POK\eMON, un ataque de\ntipo HIERBA...\p...inflige sólo la mitad del\ndaño habitual en un POK\eMON de tipo BUG...\p...Y , también causa sólo la mitad del daño\nen un POK\eMON de tipo VOLADOR.\pPor lo tanto, BUTTERFREE, siendo un\nPOK\nERROR/VUELO, sólo sufre\una cuarta parte del daño habitual.
+BUTTERFREE es un\nPOK\eMON de tipo BUG/VUELO.\pContra este POK\eMON, un ataque de\ntipo HIERBA...\p...inflige sólo la mitad del\ndaño habitual en un POK\eMON de tipo BUG...\p...Y , también causa sólo la mitad del daño\nen un POK\eMON de tipo VOLADOR.\pPor lo tanto, BUTTERFREE, siendo un\nPOK\nERROR/VUELO, sólo sufre\nuna cuarta parte del daño habitual.
 
 #org @Pokedude_Text_ButterfreeGoodAgainstOddish
 ODDISH es un\nPOK\eMON de tipo HIERBA/VENENO.\pUn ataque de tipo VOLADOR o PSÍQUICO\es súper efectivo contra él.\pUno de esos tipos de ataques\ninfligirá el doble del daño habitual.\pEstá bien, allá vamos. !
@@ -11938,13 +11931,13 @@ ODDISH es un\nPOK\eMON de tipo HIERBA/VENENO.\pUn ataque de tipo VOLADOR o PSÍQ
 ¡Sí!\n¡Ganamos!
 
 #org @Pokedude_Text_WeakenMonBeforeCatching
-POK\e TIPO: Cuando intentes\atrapar un POK\eMON, no arrojes ninguna\lPOK\e BOLAS de inmediato.\pPrimero, debes debilitarlo\nreduciendo su HP.
+POK\e TIPO: Cuando intentes\natrapar un POK\eMON, no arrojes ninguna\lPOK\e BOLAS de inmediato.\pPrimero, debes debilitarlo\nreduciendo su HP.
 
 #org @Pokedude_Text_BestIfTargetStatused
 Vale, eso debería ser suficiente.\pPero, si es posible, sería\nmejor si el objetivo tiene un\lproblema de estado.\pPor ejemplo, sería más fácil\ncaptarlo si estuviera\ldormido o\lparalizado.
 
 #org @Pokedude_Text_CantDoubleUpOnStatus
-¡Esto hará que el POK\eMON sea mucho\más fácil de atrapar!\pOh, sí. Si paralizas un\nPOK\eMON, no puedes hacerlo\dormir encima de la parálisis.\pEn otras palabras, no puedes duplicar\nlos problemas de estado, ¿de acuerdo?
+¡Esto hará que el POK\eMON sea mucho\nmás fácil de atrapar!\pOh, sí. Si paralizas un\nPOK\eMON, no puedes hacerlo\ndormir encima de la parálisis.\pEn otras palabras, no puedes duplicar\nlos problemas de estado, ¿de acuerdo?
 
 #org @Pokedude_Text_LetMeThrowBall
 ¡Está bien!\n¡Déjame lanzar mi POK\e BALL!
@@ -12090,9 +12083,6 @@ Previene quemaduras.
 #org @sMagnetPullDescription
 Atrapa POKéMON de tipo ACERO.
 
-#org @sSoundproofDescription
-Evita movimientos basados ​​en sonido.
-
 #org @sRainDishDescription
 Ligera recuperación de HP bajo la lluvia.
 
@@ -12189,9 +12179,6 @@ Aumenta el ATAQUE.
 #org @sShellArmorDescription
 Bloquea golpes críticos.
 
-#org @sCacophonyDescription
-Evita movimientos basados ​​en sonido.
-
 #org @sAirLockDescription
 Niega los efectos del clima.
 
@@ -12245,9 +12232,6 @@ huevo
 
 #org @sText_Newline
 \norte
-
-#org @sText_Slash
-/
 
 #org @sText_ShedinjaJP
 Nukenin
@@ -16051,9 +16035,6 @@ Meichu/
 #org @sText_100
 100
 
-#org @sText_GameFreak
-juego gratis
-
 #org @gExpandedPlaceholder_Empty
 
 
@@ -16658,7 +16639,7 @@ No puedo usar eso aquí.
 Elige un POKéMON.
 
 #org @gText_NotEnoughHp
-No hay suficientes HP‥
+No hay suficientes HP▶
 
 #org @gText_NoIdenticalHoldItems
 ¡No hay los mismos artículos retenidos!
@@ -17384,7 +17365,7 @@ No puedes liberar un HUEVO.
 ¿Estaba preocupado por ti?
 
 #org @gText_FourEllipsesExclamation
-‥ ‥ ‥ ‥ ‥!
+▶ ▶ ▶ ▶ ▶!
 
 #org @gText_PleaseRemoveTheMail
 Por favor elimine el CORREO.
@@ -17786,7 +17767,7 @@ Tenacidad
 No creo que pueda comer más esto...
 
 #org @gText_SaveFailedCheckingBackup
-Error al guardar.\nComprobando la memoria de respaldo‥\nEspere.\n“Tiempo requerido:\naproximadamente 1 minuto”
+Error al guardar.\nComprobando la memoria de respaldo▶\nEspere.\n“Tiempo requerido:\naproximadamente 1 minuto”
 
 #org @gText_BackupMemoryDamaged
 La memoria de respaldo está dañada o\nla batería del juego se ha agotado.\nSe puede jugar al juego, pero\nno se puede guardar su progreso.\n“Presiona el botón A”.
@@ -17837,7 +17818,7 @@ Una montaña mística que es conocida\npor sus frecuentes caídas de meteoritos.
 Un túnel aparentemente sencillo que fue excavado por el salvaje DIGLETT. Es famoso por conectar las RUTAS 2 y 11.
 
 #org @gText_RegionMap_AreaDesc_VictoryRoad
-Un túnel situado en la RUTA 23.\nSe ganó su nombre porque\ndebe ser recorrido por todos los ENTRENADORES\con miras a la cima.
+Un túnel situado en la RUTA 23.\nSe ganó su nombre porque\ndebe ser recorrido por todos los ENTRENADORES\ncon miras a la cima.
 
 #org @gText_RegionMap_AreaDesc_PokemonMansion
 Una mansión decrépita e incendiada\nISLA CINNABAR.\nRecibió su nombre porque allí vivía un famoso\ninvestigador POKéMON.
@@ -17864,7 +17845,7 @@ Una central eléctrica que\nfue abandonada hace\naños, aunque algunas de las\nm
 Supuestamente es un volcán inactivo.\nSin embargo, hay\ninformes persistentes de que el pico arde\ncon fuego por la noche.
 
 #org @gText_RegionMap_AreaDesc_BerryForest
-Un bosque en un pequeño islote frente a la\costa de TRES ISLAS. LAS BAYAS\ncrecen salvajemente en profusión,\nreponiendo rápidamente las que se caen.
+Un bosque en un pequeño islote frente a la\ncosta de TRES ISLAS. LAS BAYAS\ncrecen salvajemente en profusión,\nreponiendo rápidamente las que se caen.
 
 #org @gText_RegionMap_AreaDesc_IcefallCave
 Una cueva que está cubierta por agua\ny hielo en FOUR ISLAND.\nParece que el final de la cueva\nestá conectado al océano.
@@ -17894,7 +17875,7 @@ Un extraño HUEVO POKéMON obtenido\ndel viajero.
 Un HUEVO POKéMON maravillosamente peculiar obtenido en un lugar agradable.
 
 #org @gText_PokeSum_EggOrigin_Spa
-Un extraño HUEVO POKéMON obtenido de\una anciana en el SPA.
+Un extraño HUEVO POKéMON obtenido de\nuna anciana en el SPA.
 
 #org @gText_PokeSum_EggOrigin_Trade
 Un peculiar HUEVO POKéMON obtenido\nen un intercambio.
@@ -17948,7 +17929,7 @@ DNI No.
 DINERO
 
 #org @gText_TrainerCardYen
-¥
+\$
 
 #org @gText_TrainerCardPokedex
 POKéDEX
@@ -18287,7 +18268,7 @@ SP. DEF
 1,
 
 #org @gText_Counting_2And
-2, y ‥ ‥ ‥
+2, y ▶ ▶ ▶
 
 #org @gText_Poof
 ¡Puf!\p
@@ -18332,7 +18313,7 @@ Registrar texto ¿dónde?
 Texto de entrada.
 
 #org @gText_ExitingTheChat
-Saliendo del chat‥
+Saliendo del chat▶
 
 #org @gText_RegisteredTextChanged_OKtoSave
 El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
@@ -18341,7 +18322,7 @@ El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
 Ya hay un archivo guardado.\n¿Está bien sobrescribirlo?
 
 #org @gText_RegisteredTextChanged_SavingDontTurnOff
-AHORRANDO‥\nNO APAGUE LA CORRIENTE.
+AHORRANDO▶\nNO APAGUE LA CORRIENTE.
 
 #org @gText_IfLeaderLeavesChatWillEnd
 Si el LÍDER se va, el chat\nterminará. ¿Está bien?
@@ -18386,7 +18367,7 @@ KANTÓ
 ¿Borrar todas las áreas de datos guardados?
 
 #org @gText_ClearingData
-Borrando datos‥\nPor favor espera.
+Borrando datos▶\nPor favor espera.
 
 #org @gText_Player
 JUGADOR
@@ -18780,7 +18761,8 @@ Supervisores de información\n\n\n\n\n\n
 #org @gCreditsString_Coordinators
 Coordinadores\n\n\n\n\n\n
 
-#org @gCreditsString_Azusa_Tajima_Akira_Kinashi_Kazuki_Yoshihara_Retsuji_Nomoto \nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n
+#org @gCreditsString_Azusa_Tajima_Akira_Kinashi_Kazuki_Yoshihara_Retsuji_Nomoto
+\nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n
 
 #org @gCreditsString_Task_Managers
 \nAdministradores de tareas\n\n\n\n\n
@@ -19132,7 +19114,7 @@ Los dos prefieren jugar con otros\nPOKéMON que entre ellos.
 ----------
 
 #org @gText_CommStandbyAwaitingOtherPlayer
-Comunicación en espera‥\nEsperando que otro jugador elija.
+Comunicación en espera▶\nEsperando que otro jugador elija.
 
 #org @gFameCheckerOakName
 ROBLE
@@ -19147,7 +19129,7 @@ FACTURA
 fuji
 
 #org @gText_VarietyOfEventsImportedWireless
-Se importarán una variedad de eventos\a través de comunicación inalámbrica.
+Se importarán una variedad de eventos\na través de comunicación inalámbrica.
 
 #org @gText_WonderCardsInPossession
 Lee las TARJETAS MARAVILLAS que\ntienes en tu poder.
@@ -20469,9 +20451,6 @@ akito
 #org @gDeoxysPokedexTextUnused
 
 
-#org @sString_Dummy
-
-
 #org @gText_UR_EmptyString
 
 
@@ -20747,7 +20726,7 @@ Hmhm... ¿Qué?\nEntonces, ¿es esto lo que estás diciendo?\p
 En otras palabras…\n¡Sí! ¡Eso es correcto!\p
 
 #org @sText_ShowedTrainerCardMale1
-Sólo estoy mostrando mi TARJETA DE ENTRENADOR\como mi forma de saludar.\p
+Sólo estoy mostrando mi TARJETA DE ENTRENADOR\ncomo mi forma de saludar.\p
 
 #org @sText_ShowedTrainerCardMale2
 ¡Espero llegar a conocerte mejor!\p
@@ -21284,7 +21263,7 @@ Una canción tranquilizadora\ncon una voz\n tranquilizadora adormece al enemigo\
 El usuario genera\nondas sonoras que asienten.\nPuede confundir al\nenemigo.
 
 #org @gMoveDescription_SonicBoom
-El enemigo es golpeado con\una onda de choque que\nsiempre inflige 20-\nHP de daño.
+El enemigo es golpeado con\nuna onda de choque que\nsiempre inflige 20-\nHP de daño.
 
 #org @gMoveDescription_Disable
 Durante algunos turnos,\nimpide que el enemigo\nuse el último movimiento\nque utilizó.
@@ -21384,7 +21363,7 @@ El usuario ataca\ncon pétalos durante\ndos\ntres turnos,\nluego se confunde.
 El enemigo está atado\ncon hilos disparados\ndesde la boca para\nreducir su VELOCIDAD.
 
 #org @gMoveDescription_DragonRage
-El enemigo es golpeado con\una onda de choque que\nsiempre inflige 40\nHP de daño.
+El enemigo es golpeado con\nuna onda de choque que\nsiempre inflige 40\nHP de daño.
 
 #org @gMoveDescription_FireSpin
 El enemigo queda atrapado en una intensa espiral de fuego que dura de dos a cinco turnos.
@@ -21540,7 +21519,7 @@ El enemigo es atacado\ncon largos tentáculos\ni enredaderas. Puede\nreducir la 
 Se olvida\nde algo y\nsube bruscamente\nSP. DEF.
 
 #org @gMoveDescription_Kinesis
-El usuario distrae\nal enemigo doblando\una cuchara. Puede\nreducir la precisión.
+El usuario distrae\nal enemigo doblando\nuna cuchara. Puede\nreducir la precisión.
 
 #org @gMoveDescription_SoftBoiled
 Cura al usuario\nhasta la mitad de su\nHP total. Puede usarse\npara curar a un aliado.
@@ -21659,7 +21638,7 @@ A un enemigo dormido se le muestra una pesadilla que le inflige algún daño en 
 El usuario lanza una\ncarga de fuego hacia el\nenemigo. Puede causar\na quemaduras.
 
 #org @gMoveDescription_Snore
-Un ataque que\nsólo puede usarse mientras\nestá dormido. Puede\causar un estremecimiento.
+Un ataque que\nsólo puede usarse mientras\nestá dormido. Puede\ncausar un estremecimiento.
 
 #org @gMoveDescription_Curse
 Un movimiento que funciona\ndiferentemente para el\ntipo FANTASMA y para todos\nlos demás tipos.
@@ -21782,7 +21761,7 @@ El enemigo es fijado\ncon una mirada cruel\nque le impide\nescapar.
 Si es del otro género, el enemigo se encapricha y es poco probable que ataque.
 
 #org @gMoveDescription_SleepTalk
-Mientras duerme, el\nusuario utiliza\nal azar ninguno de los\nmovimientos que\conoce.
+Mientras duerme, el\nusuario utiliza\nal azar ninguno de los\nmovimientos que\nconoce.
 
 #org @gMoveDescription_HealBell
 Una campana relajante\nsuena para curar los\nproblemas de estado de\ntodos los aliados.
@@ -21903,7 +21882,7 @@ Un ataque que golpea\nprimero y provoca\nestremecimiento. Utilizable\nosolo en e
 El usuario ataca con\nun alboroto que\nle impide dormir durante\ndos a cinco turnos.
 
 #org @gMoveDescription_Stockpile
-El usuario carga\nenergía para usar\nmás adelante. Se puede\utilizar tres veces.
+El usuario carga\nenergía para usar\nmás adelante. Se puede\nutilizar tres veces.
 
 
 #org @gMoveDescription_SpitUp
@@ -21937,7 +21916,7 @@ Un ataque que se potencia si el usuario se quema, envenena o queda paralizado.
 Un ataque que\nse ejecuta en último lugar.\nEl usuario se estremece\nsi es golpeado de antemano.
 
 #org @gMoveDescription_SmellingSalt
-Doblemente efectivo sobre\un enemigo paralizado,\npero también cura\nla parálisis del enemigo.
+Doblemente efectivo sobre\nun enemigo paralizado,\npero también cura\nla parálisis del enemigo.
 
 #org @gMoveDescription_FollowMe
 El usuario llama\nla atención hacia sí mismo,\nlo que hace que los enemigos\nsolo ataquen al usuario.
@@ -22065,7 +22044,7 @@ El enemigo es mordido\ncon colmillos tóxicos.\nTambién puede\nenvenenar gravem
 El enemigo es atacado\ncon garras afiladas.\nTambién puede reducir\nla DEFENSA del enemigo.
 
 #org @gMoveDescription_BlastBurn
-El enemigo es golpeado con\una gran explosión.\nEl usuario no puede moverse\en el siguiente turno.
+El enemigo es golpeado con\nuna gran explosión.\nEl usuario no puede moverse\en el siguiente turno.
 
 #org @gMoveDescription_HydroCannon
 El enemigo es alcanzado\n con un cañón de agua.\nEl usuario no puede moverse\en el siguiente turno.
@@ -22116,7 +22095,7 @@ El usuario absorbe un\npoder místico para\naumentar su DEFENSA\ny SP. DEF.
 Cuanto mayor sea el HP del\nusuario, más\npoderoso se vuelve este\nataque.
 
 #org @gMoveDescription_SignalBeam
-El enemigo es golpeado con\un rayo intermitente\nque también\npuede causar confusión.
+El enemigo es golpeado con\nun rayo intermitente\nque también\npuede causar confusión.
 
 #org @gMoveDescription_ShadowPunch
 El usuario lanza un\npuñetazo desde\nlas sombras. No se puede\nevadir.
@@ -22159,7 +22138,7 @@ El usuario aúlla para\nelevar su espíritu y\naumentar su estadística\nde ATAQ
 Garras enormes y afiladas enganchan y cortan al enemigo rápidamente y con gran poder.
 
 #org @gMoveDescription_FrenzyPlant
-El enemigo es golpeado con\una rama enorme.\nEl usuario no puede moverse\en el siguiente turno.
+El enemigo es golpeado con\nuna rama enorme.\nEl usuario no puede moverse\en el siguiente turno.
 
 #org @gMoveDescription_BulkUp
 El usuario aumenta\n su cuerpo para aumentar\n sus estadísticas de ATAQUE y\nDEFENSA.
