@@ -573,24 +573,6 @@ SpecialBuffers = {}
 for key, value in SpecialBuffersReverse.items():
     SpecialBuffers[value] = key
 
-import urllib.parse
-
-print(CharMap)
-
-def JPTranslate(string):
-    returnString = ''
-    string2 = urllib.parse.quote(string, encoding='utf-8')
-    for char in string2.split('%'):
-        if char in Japanese:
-            JapChar = Japanese[char]
-            if JapChar in JapaneseChars:
-                returnChar = JapaneseChars[JapChar]
-                if returnChar in Japanese:
-                    Jap = Japanese[returnChar]
-                    if Jap in JapaneseChars:
-                        returnString += Jap
-    return returnString
-
 import textwrap
 wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
 from mtranslate import translate
@@ -737,7 +719,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     ordROM = ord(rom.read(1))
                         except:
                             pass
-                        # print(constructedString)
                         if constructedString and constructedString[-1] == '$':
                             text = constructedString[:-1]
                             text_newline = text.replace('\n', '\\n')
@@ -893,10 +874,14 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         num2 = 0
                         try:
                             while ordROM != 255:
-                                if ordROM in CharMap:
+                                if ordROM < 16:
+                                    returnValue = '0' + hex(ordROM).replace('0x', '').upper()
+                                else:
+                                    returnValue = hex(ordROM).replace('0x', '').upper()
+                                if returnValue in Japanese:
                                     num2 = 0
                                     if num > -1:
-                                        constructedString += CharMap[ordROM]
+                                        constructedString += Japanese[returnValue]
                                     num = num + 1
                                     offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                                     rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
@@ -956,7 +941,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                                     splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                                 if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                    translated_text += JPTranslate(splitted_text_section_2)
+                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 else:
                                                     translated_text += '{' + splitted_text_section_2 + '}'
                                             else:
@@ -988,7 +973,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 wrapped_text_store = wrapped_text_store[:-2]
                                 print('#org @' + string + '\n' + wrapped_text_store + '\n')
                             else:
-                                translated_text = JPTranslate(text_newline)
+                                translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                                 line_endings = 'npl'
                                 line_endings_store = ''
                                 pos = 0
@@ -1029,7 +1014,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                                     splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                                 if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                    translated_text += JPTranslate(splitted_text_section_2)
+                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 else:
                                                     translated_text += '{' + splitted_text_section_2 + '}'
                                             else:
@@ -1061,7 +1046,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 wrapped_text_store = wrapped_text_store[:-2]
                                 print('#org @' + string + '\n' + wrapped_text_store + '\n')
                             else:
-                                translated_text = JPTranslate(text_newline)
+                                print(text_newline)
+                                translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                                 line_endings = 'npl'
                                 line_endings_store = ''
                                 pos = 0
