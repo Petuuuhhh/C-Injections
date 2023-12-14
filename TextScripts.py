@@ -8778,8 +8778,24 @@ TextScripts = ['ViridianForest_Text_FriendsItchingToBattle',
 'gText_MysteryGiftSentOver',
 'gText_MysteryGiftFullParty',
 'gText_MysteryGiftNewTrainer',
-'gText_MysteryGiftNewAdversaryInBattleTower',
 'gText_MysteryGiftCantBeUsed']
+
+JapaneseTextScripts = [
+'SafariZone_Text_WelcomeToSafariZone',
+'SafariZone_Text_WelcomeFirstTime',
+'SafariZone_Text_ComeInAndEnjoy',
+'SafariZone_Text_FirstTimeInfo',
+'SafariZone_Text_WouldYouLikeToPlay',
+'SafariZone_Text_PlayAnotherTime',
+'SafariZone_Text_NotEnoughMoney',
+'SafariZone_Text_ThatWillBe500Please',
+'SafariZone_Text_HereAreYourSafariBalls',
+'SafariZone_Text_Received30SafariBalls',
+'SafariZone_Text_PleaseEnjoyYourself',
+'SafariZone_Text_ExcuseMeYourPCBoxIsFull',
+'SafariZone_Text_YouNeedPokeblockCase',
+'gText_MysteryGiftNewAdversaryInBattleTower',
+]
 
 sText_TaskOver = "TASK OVER\nタスクがオ-バ-しました";
 sText_Slash = "/";

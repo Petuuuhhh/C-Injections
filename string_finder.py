@@ -1,5 +1,6 @@
 import TextScripts
-from TextScripts import TextScripts, pokefirered_sym
+from TextScripts import TextScripts, pokefirered_sym, JapaneseTextScripts
+from Japanese import JapaneseChars, Japanese
 charMap = {'À': 1, 'Á': 2, 'Â': 3, 'Ç': 4, 'È': 5, 'É': 6, 'Ê': 7, 'Ë': 8, 'Ì': 9, 'Î': 11, 'Ï': 12, 'Ò': 13, 'Ó': 14, 'Ô': 15, 'Œ': 16, 'Ù': 17, 'Ú': 18, 'Û': 19, 'Ñ': 20, 'ß': 21, 'à': 22, 'á': 23, 'ç': 25, 'è': 26, 'é': 27, '\\e': 27, 'ê': 28, 'ë': 29, 'ì': 30, 'î': 32, 'ï': 33, 'ò': 34, 'ó': 35, 'ô': 36, 'œ': 37, 'ù': 38, 'ú': 39, 'û': 40, 'ñ': 41, 'º': 42, 'ª': 43, '&': 45, '+': 46, '=': 53, ';': 54, '¿': 81, '¡': 82, 'Í': 90, '%': 91, '(': 92, ')': 93, 'â': 104, 'í': 111, '<': 133, '>': 134, '0': 161, '1': 162, '2': 163, '3': 164, '4': 165, '5': 166, '6': 167, '7': 168, '8': 169, '9': 170, '!': 171, '?': 172, '.': 173, '-': 174, '·': 175, '…': 176, '"': 177, '“': 177, '\\"': 178, '”': 178, '‘': 179, '’': 180, "'": 180, '♂': 181, '♀': 182, '\\$': 183, ',': 184, '*': 185, '/': 186, 'A': 187, 'B': 188, 'C': 189, 'D': 190, 'E': 191, 'F': 192, 'G': 193, 'H': 194, 'I': 195, 'J': 196, 'K': 197, 'L': 198, 'M': 199, 'N': 200, 'O': 201, 'P': 202, 'Q': 203, 'R': 204, 'S': 205, 'T': 206, 'U': 207, 'V': 208, 'W': 209, 'X': 210, 'Y': 211, 'Z': 212, 'a': 213, 'b': 214, 'c': 215, 'd': 216, 'e': 217, 'f': 218, 'g': 219, 'h': 220, 'i': 221, 'j': 222, 'k': 223, 'l': 224, 'm': 225, 'n': 226, 'o': 227, 'p': 228, 'q': 229, 'r': 230, 's': 231, 't': 232, 'u': 233, 'v': 234, 'w': 235, 'x': 236, 'y': 237, 'z': 238, '▶': 239, ':': 240, 'Ä': 241, 'Ö': 242, 'Ü': 243, 'ä': 244, 'ö': 245, 'ü': 246, '\\l': 250, '\\p': 251, '\\n': 254, '$': 255, ' ': 0}
 
 CharMap = {}
@@ -572,9 +573,28 @@ SpecialBuffers = {}
 for key, value in SpecialBuffersReverse.items():
     SpecialBuffers[value] = key
 
+import urllib.parse
+
+print(CharMap)
+
+def JPTranslate(string):
+    returnString = ''
+    string2 = urllib.parse.quote(string, encoding='utf-8')
+    for char in string2.split('%'):
+        if char in Japanese:
+            JapChar = Japanese[char]
+            if JapChar in JapaneseChars:
+                returnChar = JapaneseChars[JapChar]
+                if returnChar in Japanese:
+                    Jap = Japanese[returnChar]
+                    if Jap in JapaneseChars:
+                        returnString += Jap
+    return returnString
+
 import textwrap
 wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
 from mtranslate import translate
+from deep_translator import GoogleTranslator
 num3 = 0
 SOURCE_ROM = "BPRE0.gba"
 with open(SOURCE_ROM, 'rb+') as rom:
@@ -582,286 +602,489 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        # if string == 'SafariZone_Text_WelcomeToSafariZone':
-        if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
-            try:
-                text = eval(compile(string, '<string>', 'eval'))
-                text_newline = text.replace('\n', '\\n')
-                translated_text = ''
-                if '{' in text:
-                    splitted_text = text_newline.split('{')
-                    for splitted_text_section in splitted_text:
-                        if '}' in splitted_text_section:
-                            splitted_text_2 = splitted_text_section.split('}')
-                            for splitted_text_section_2 in splitted_text_2:
-                                if splitted_text_section_2 not in SpecialBuffers:
-                                    if ' ' in splitted_text_section_2:
-                                        splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                        splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                    if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                        translated_text += translate(splitted_text_section_2,"es","auto")
+        if string == 'SafariZone_Text_WelcomeToSafariZone':
+            if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
+                try:
+                    text = eval(compile(string, '<string>', 'eval'))
+                    text_newline = text.replace('\n', '\\n')
+                    translated_text = ''
+                    if '{' in text:
+                        splitted_text = text_newline.split('{')
+                        for splitted_text_section in splitted_text:
+                            if '}' in splitted_text_section:
+                                splitted_text_2 = splitted_text_section.split('}')
+                                for splitted_text_section_2 in splitted_text_2:
+                                    if splitted_text_section_2 not in SpecialBuffers:
+                                        if ' ' in splitted_text_section_2:
+                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                        if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                            translated_text += translate(splitted_text_section_2,"es","auto")
+                                        else:
+                                            translated_text += '{' + splitted_text_section_2 + '}'
                                     else:
                                         translated_text += '{' + splitted_text_section_2 + '}'
-                                else:
-                                    translated_text += '{' + splitted_text_section_2 + '}'
-                if translated_text != '':
-                    line_endings = 'npl'
-                    line_endings_store = ''
-                    pos = 0
-                    for char in translated_text:
-                        if char == '\\':
-                            try:
-                                if translated_text[pos + 1] in line_endings:
-                                    line_endings_store = line_endings_store + translated_text[pos + 1]
-                            except:
-                                pass
-                        pos = pos + 1
-                    wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                    num = 0
-                    wrapped_text_store = ''
-                    for wrap in wrapped_text:
-                        if line_endings_store != '':
-                            try:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            except:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        else:
-                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        num = num + 1
-                    wrapped_text_store = wrapped_text_store[:-2]
-                    print('#org @' + string + '\n' + wrapped_text_store + '\n')
-                    num3 = num3 + 1
-                else:
-                    translated_text = translate(text_newline,"es","auto")
-                    line_endings = 'npl'
-                    line_endings_store = ''
-                    pos = 0
-                    for char in translated_text:
-                        if char == '\\':
-                            try:
-                                if translated_text[pos + 1] in line_endings:
-                                    line_endings_store = line_endings_store + translated_text[pos + 1]
-                            except:
-                                pass
-                        pos = pos + 1
-                    wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                    num = 0
-                    wrapped_text_store = ''
-                    for wrap in wrapped_text:
-                        if line_endings_store != '':
-                            try:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            except:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        else:
-                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        num = num + 1
-                    wrapped_text_store = wrapped_text_store[:-2]
-                    print('#org @' + string + '\n' + wrapped_text_store + '\n')
-                    num3 = num3 + 1
-                # print(string + ' ' + offset)
-            except:
-                if string in TextScripts:
-                    constructedString = ''
-                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                    ordROM = ord(rom.read(1))
-                    num = 0
-                    num2 = 0
-                    try:
-                        while ordROM != 255:
-                            if ordROM in CharMap:
-                                num2 = 0
-                                if num > -1:
-                                    constructedString += CharMap[ordROM]
-                                num = num + 1
-                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                ordROM = ord(rom.read(1))
+                    if translated_text != '':
+                        line_endings = 'npl'
+                        line_endings_store = ''
+                        pos = 0
+                        for char in translated_text:
+                            if char == '\\':
+                                try:
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                except:
+                                    pass
+                            pos = pos + 1
+                        wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                        num = 0
+                        wrapped_text_store = ''
+                        for wrap in wrapped_text:
+                            if line_endings_store != '':
+                                try:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                except:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
                             else:
-                                num = 0
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                ordROM2 = rom.read(2)
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
-                                ordROM3 = rom.read(3)
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
-                                ordROM5 = rom.read(5)
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
-                                ordROM_2 = ''
-                                ordROM_3 = ''
-                                ordROM_5 = ''
-                                for ordROM2_1 in list(ordROM2):
-                                    if ordROM2_1 < 16:
-                                        ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
-                                    else:
-                                        ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
-                                for ordROM3_1 in list(ordROM3):
-                                    if ordROM3_1 < 16:
-                                        ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
-                                    else:
-                                        ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
-                                for ordROM5_1 in list(ordROM5):
-                                    if ordROM5_1 < 16:
-                                        ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
-                                    else:
-                                        ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
-                                if num2 > -1:
-                                    if ordROM_2 in SpecialBuffers:
-                                        constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
-                                    elif ordROM_3 in SpecialBuffers:
-                                        constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
-                                    elif ordROM_5 in SpecialBuffers:
-                                        constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
-                                num2 = num2 + 1
-                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                ordROM = ord(rom.read(1))
-                    except:
-                        pass
-                    # print(constructedString)
-                    if constructedString and constructedString[-1] == '$':
-                        text = constructedString[:-1]
-                        text_newline = text.replace('\n', '\\n')
-                        translated_text = ''
-                        if '{' in text:
-                            splitted_text = text_newline.split('{')
-                            for splitted_text_section in splitted_text:
-                                if '}' in splitted_text_section:
-                                    splitted_text_2 = splitted_text_section.split('}')
-                                    for splitted_text_section_2 in splitted_text_2:
-                                        if splitted_text_section_2 not in SpecialBuffers:
-                                            if ' ' in splitted_text_section_2:
-                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += translate(splitted_text_section_2,"es","auto")
-                                            else:
-                                                translated_text += '{' + splitted_text_section_2 + '}'
-                                        else:
-                                            translated_text += '{' + splitted_text_section_2 + '}'
-                        if translated_text != '':
-                            line_endings = 'npl'
-                            line_endings_store = ''
-                            pos = 0
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                            num = 0
-                            wrapped_text_store = ''
-                            for wrap in wrapped_text:
-                                if line_endings_store != '':
-                                    try:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                    except:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                else:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            num = num + 1
+                        wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        num3 = num3 + 1
+                    else:
+                        translated_text = translate(text_newline,"es","auto")
+                        line_endings = 'npl'
+                        line_endings_store = ''
+                        pos = 0
+                        for char in translated_text:
+                            if char == '\\':
+                                try:
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                except:
+                                    pass
+                            pos = pos + 1
+                        wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                        num = 0
+                        wrapped_text_store = ''
+                        for wrap in wrapped_text:
+                            if line_endings_store != '':
+                                try:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                except:
                                     wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                num = num + 1
-                            wrapped_text_store = wrapped_text_store[:-2]
-                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
-                        else:
-                            translated_text = translate(text_newline,"es","auto")
-                            line_endings = 'npl'
-                            line_endings_store = ''
-                            pos = 0
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                            num = 0
-                            wrapped_text_store = ''
-                            for wrap in wrapped_text:
-                                if line_endings_store != '':
-                                    try:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                    except:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                else:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                num = num + 1
-                            wrapped_text_store = wrapped_text_store[:-2]
-                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
-                    elif constructedString and constructedString[-1] != '$':
-                        text = constructedString
-                        text_newline = text.replace('\n', '\\n')
-                        translated_text = ''
-                        if '{' in text:
-                            splitted_text = text_newline.split('{')
-                            for splitted_text_section in splitted_text:
-                                if '}' in splitted_text_section:
-                                    splitted_text_2 = splitted_text_section.split('}')
-                                    for splitted_text_section_2 in splitted_text_2:
-                                        if splitted_text_section_2 not in SpecialBuffers:
-                                            if ' ' in splitted_text_section_2:
-                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += translate(splitted_text_section_2,"es","auto")
-                                            else:
-                                                translated_text += '{' + splitted_text_section_2 + '}'
-                                        else:
-                                            translated_text += '{' + splitted_text_section_2 + '}'
-                        if translated_text != '':
-                            line_endings = 'npl'
-                            line_endings_store = ''
-                            pos = 0
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                            num = 0
-                            wrapped_text_store = ''
-                            for wrap in wrapped_text:
-                                if line_endings_store != '':
-                                    try:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                    except:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                else:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                num = num + 1
-                            wrapped_text_store = wrapped_text_store[:-2]
-                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
-                        else:
-                            translated_text = translate(text_newline,"es","auto")
-                            line_endings = 'npl'
-                            line_endings_store = ''
-                            pos = 0
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                            num = 0
-                            wrapped_text_store = ''
-                            for wrap in wrapped_text:
-                                if line_endings_store != '':
-                                    try:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                    except:
-                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                else:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                num = num + 1
-                            wrapped_text_store = wrapped_text_store[:-2]
-                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                            else:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            num = num + 1
+                        wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        num3 = num3 + 1
                     # print(string + ' ' + offset)
+                except:
+                    if string in TextScripts:
+                        constructedString = ''
+                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                        ordROM = ord(rom.read(1))
+                        num = 0
+                        num2 = 0
+                        try:
+                            while ordROM != 255:
+                                if ordROM in CharMap:
+                                    num2 = 0
+                                    if num > -1:
+                                        constructedString += CharMap[ordROM]
+                                    num = num + 1
+                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM = ord(rom.read(1))
+                                else:
+                                    num = 0
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM2 = rom.read(2)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                                    ordROM3 = rom.read(3)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                                    ordROM5 = rom.read(5)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                                    ordROM_2 = ''
+                                    ordROM_3 = ''
+                                    ordROM_5 = ''
+                                    for ordROM2_1 in list(ordROM2):
+                                        if ordROM2_1 < 16:
+                                            ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
+                                    for ordROM3_1 in list(ordROM3):
+                                        if ordROM3_1 < 16:
+                                            ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
+                                    for ordROM5_1 in list(ordROM5):
+                                        if ordROM5_1 < 16:
+                                            ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
+                                    if num2 > -1:
+                                        if ordROM_2 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                        elif ordROM_3 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                        elif ordROM_5 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                    num2 = num2 + 1
+                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM = ord(rom.read(1))
+                        except:
+                            pass
+                        # print(constructedString)
+                        if constructedString and constructedString[-1] == '$':
+                            text = constructedString[:-1]
+                            text_newline = text.replace('\n', '\\n')
+                            translated_text = ''
+                            if '{' in text:
+                                splitted_text = text_newline.split('{')
+                                for splitted_text_section in splitted_text:
+                                    if '}' in splitted_text_section:
+                                        splitted_text_2 = splitted_text_section.split('}')
+                                        for splitted_text_section_2 in splitted_text_2:
+                                            if splitted_text_section_2 not in SpecialBuffers:
+                                                if ' ' in splitted_text_section_2:
+                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                    translated_text += translate(splitted_text_section_2,"es","auto")
+                                                else:
+                                                    translated_text += '{' + splitted_text_section_2 + '}'
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                            if translated_text != '':
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                            else:
+                                translated_text = translate(text_newline,"es","auto")
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        elif constructedString and constructedString[-1] != '$':
+                            text = constructedString
+                            text_newline = text.replace('\n', '\\n')
+                            translated_text = ''
+                            if '{' in text:
+                                splitted_text = text_newline.split('{')
+                                for splitted_text_section in splitted_text:
+                                    if '}' in splitted_text_section:
+                                        splitted_text_2 = splitted_text_section.split('}')
+                                        for splitted_text_section_2 in splitted_text_2:
+                                            if splitted_text_section_2 not in SpecialBuffers:
+                                                if ' ' in splitted_text_section_2:
+                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                    translated_text += translate(splitted_text_section_2,"es","auto")
+                                                else:
+                                                    translated_text += '{' + splitted_text_section_2 + '}'
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                            if translated_text != '':
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                            else:
+                                translated_text = translate(text_newline,"es","auto")
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # print(string + ' ' + offset)
+                    elif string in JapaneseTextScripts:
+                        constructedString = ''
+                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                        ordROM = ord(rom.read(1))
+                        num = 0
+                        num2 = 0
+                        try:
+                            while ordROM != 255:
+                                if ordROM in CharMap:
+                                    num2 = 0
+                                    if num > -1:
+                                        constructedString += CharMap[ordROM]
+                                    num = num + 1
+                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM = ord(rom.read(1))
+                                else:
+                                    num = 0
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM2 = rom.read(2)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                                    ordROM3 = rom.read(3)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                                    ordROM5 = rom.read(5)
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                                    ordROM_2 = ''
+                                    ordROM_3 = ''
+                                    ordROM_5 = ''
+                                    for ordROM2_1 in list(ordROM2):
+                                        if ordROM2_1 < 16:
+                                            ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
+                                    for ordROM3_1 in list(ordROM3):
+                                        if ordROM3_1 < 16:
+                                            ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
+                                    for ordROM5_1 in list(ordROM5):
+                                        if ordROM5_1 < 16:
+                                            ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
+                                        else:
+                                            ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
+                                    if num2 > -1:
+                                        if ordROM_2 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                        elif ordROM_3 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                        elif ordROM_5 in SpecialBuffers:
+                                            constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                    num2 = num2 + 1
+                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                    ordROM = ord(rom.read(1))
+                        except:
+                            pass
+                        if constructedString and constructedString[-1] == '$':
+                            text = constructedString[:-1]
+                            text_newline = text.replace('\n', '\\n')
+                            translated_text = ''
+                            if '{' in text:
+                                splitted_text = text_newline.split('{')
+                                for splitted_text_section in splitted_text:
+                                    if '}' in splitted_text_section:
+                                        splitted_text_2 = splitted_text_section.split('}')
+                                        for splitted_text_section_2 in splitted_text_2:
+                                            if splitted_text_section_2 not in SpecialBuffers:
+                                                if ' ' in splitted_text_section_2:
+                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                    translated_text += JPTranslate(splitted_text_section_2)
+                                                else:
+                                                    translated_text += '{' + splitted_text_section_2 + '}'
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                            if translated_text != '':
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                            else:
+                                translated_text = JPTranslate(text_newline)
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        elif constructedString and constructedString[-1] != '$':
+                            text = constructedString
+                            text_newline = text.replace('\n', '\\n')
+                            translated_text = ''
+                            if '{' in text:
+                                splitted_text = text_newline.split('{')
+                                for splitted_text_section in splitted_text:
+                                    if '}' in splitted_text_section:
+                                        splitted_text_2 = splitted_text_section.split('}')
+                                        for splitted_text_section_2 in splitted_text_2:
+                                            if splitted_text_section_2 not in SpecialBuffers:
+                                                if ' ' in splitted_text_section_2:
+                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                    translated_text += JPTranslate(splitted_text_section_2)
+                                                else:
+                                                    translated_text += '{' + splitted_text_section_2 + '}'
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                            if translated_text != '':
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                            else:
+                                translated_text = JPTranslate(text_newline)
+                                line_endings = 'npl'
+                                line_endings_store = ''
+                                pos = 0
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                                num = 0
+                                wrapped_text_store = ''
+                                for wrap in wrapped_text:
+                                    if line_endings_store != '':
+                                        try:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                        except:
+                                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    else:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                    num = num + 1
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # print(string + ' ' + offset)

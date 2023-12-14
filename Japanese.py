@@ -168,5 +168,3 @@ JapaneseChars = {'あ': '01',
 Japanese = {}
 for key, value in JapaneseChars.items():
     Japanese[value] = key
-
-print(Japanese)
