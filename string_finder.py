@@ -56258,3 +56258,26 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         if translated_text != '':
                             print('#org @' + symbol[3] + '\n' + translated_text + '\n')
                             # print(string + ' ' + offset)
+                    if constructedString and constructedString[-1] != '$':
+                        text = constructedString
+                        text_newline = text.replace('\n', '\\n')
+                        translated_text = ''
+                        if '{' in text:
+                            splitted_text = text_newline.split('{')
+                            for splitted_text_section in splitted_text:
+                                if '}' in splitted_text_section:
+                                    splitted_text_2 = splitted_text_section.split('}')
+                                    for splitted_text_section_2 in splitted_text_2:
+                                        if splitted_text_section_2 not in SpecialBuffers:
+                                            if ' ' in splitted_text_section_2:
+                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                            if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                translated_text += translate(splitted_text_section_2,"es","auto")
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                                        else:
+                                            translated_text += '{' + splitted_text_section_2 + '}'
+                        if translated_text != '':
+                            print('#org @' + symbol[3] + '\n' + translated_text + '\n')
+                            # print(string + ' ' + offset)

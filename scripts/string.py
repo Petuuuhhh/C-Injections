@@ -652,13 +652,17 @@ def ProcessString(string: str, lineNum: int, maxLength=0, fillWithFF=False) -> s
                         stringToWrite += ("0x" + bufferChar + ", ")
                         strLen += 1
 
-                elif len(bufferChars.split(' ')) > 4:  # Unrecognized buffer
-                    print('Warning: The string buffer "' + bufferChars + '" is not recognized!')
-                    stringToWrite += "0x0, "  # Place whitespace where the buffer should have gone
-                    strLen += 1
-                else:
-                    stringToWrite += ("0x" + bufferChars + ", ")
-                    strLen += 1
+                elif len(bufferChars.split(' ')) > 1:  # Unrecognized buffer
+                    for bufferChar in bufferChars.split(' '):
+                        if bufferChar in SpecialBuffers:
+                            for buffChar in SpecialBuffers[bufferChar]:
+                                stringToWrite += ("0x" + buffChar + ", ")
+                                strLen += 1
+                        else:
+                            # if int(bufferChar, 16) > 255:
+                                # pass # do something
+                            stringToWrite += ("0x" + bufferChar.replace('0x', '') + ", ")
+                            strLen += 1
 
                 bufferChars = ""
             else:

@@ -860,7 +860,7 @@
 [B_OPPONENT_MON1_NAME]apareció!\p
 
 #org @sText_WildPkmnAppearedPause
-[B_OPPONENT_MON1_NAME]¡apareció![PAUSE 127][]
+[B_OPPONENT_MON1_NAME]¡apareció![PAUSE 7F][]
 
 #org @sText_TwoWildPkmnAppeared
 [B_OPPONENT_MON1_NAME]y N[B_OPPONENT_MON2_NAME]apareció!\p
@@ -959,7 +959,7 @@
 [B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM MUS_CAUGHT][\p]
 
 #org @sText_GotchaPkmnCaught2
-[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM MUS_CAUGHT][][PAUSE 127][]
+[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM MUS_CAUGHT][][PAUSE 7F][]
 
 #org @sText_GiveNicknameCaptured
 [B_OPPONENT_MON1_NAME][?]
@@ -1059,9 +1059,6 @@
 
 #org @gText_BattleSwitchWhich
 [PALETTE 5][][COLOR_HIGHLIGHT_SHADOW 13 14 15][Switch\nwhich?]
-
-#org @sText_UnusedColors
-[COLOR DARK_GRAY][][HIGHLIGHT WHITE][][SHADOW LIGHT_GRAY][]
 
 #org @sText_RightArrow2
 [RIGHT_ARROW_2][]
@@ -1461,7 +1458,7 @@
 [STR_VAR_1]se volvió saludable.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MovesPPIncreased
-[STR_VAR_1]['s PP increased.][PAUSE_UNTIL_PRESS][]
+[STR_VAR_1]'s PP increased.[PAUSE_UNTIL_PRESS][]
 
 #org @gText_PkmnElevatedToLvVar2
 [STR_VAR_1]fue elevado a\nLv.[STR_VAR_2].
