@@ -575,7 +575,7 @@ for key, value in SpecialBuffersReverse.items():
 import textwrap
 wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
 from mtranslate import translate
-num = 0
+num3 = 0
 SOURCE_ROM = "BPRE0.gba"
 with open(SOURCE_ROM, 'rb+') as rom:
     for symbol in pokefirered_sym:
@@ -605,31 +605,73 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 else:
                                     translated_text += '{' + splitted_text_section_2 + '}'
                 if translated_text != '':
-                    print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
-                    num = num + 1
+                    line_endings = 'npl'
+                    line_endings_store = ''
+                    pos = 0
+                    for char in translated_text:
+                        if char == '\\':
+                            if translated_text[pos + 1] in line_endings:
+                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                        pos = pos + 1
+                    wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                    num = 0
+                    wrapped_text_store = ''
+                    for wrap in wrapped_text:
+                        if line_endings_store != '':
+                            try:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                            except:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        else:
+                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        wrapped_text_store = wrapped_text_store[:-2]
+                        num = num + 1
+                    print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                    num3 = num3 + 1
                 else:
                     translated_text = translate(text_newline,"es","auto")
-                    print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
-                    num = num + 1
+                    line_endings = 'npl'
+                    line_endings_store = ''
+                    pos = 0
+                    for char in translated_text:
+                        if char == '\\':
+                            if translated_text[pos + 1] in line_endings:
+                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                        pos = pos + 1
+                    wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                    num = 0
+                    wrapped_text_store = ''
+                    for wrap in wrapped_text:
+                        if line_endings_store != '':
+                            try:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                            except:
+                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        else:
+                            wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        wrapped_text_store = wrapped_text_store[:-2]
+                        num = num + 1
+                    print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                    num3 = num3 + 1
                 # print(string + ' ' + offset)
                 # print(string)
             except:
                 if string in TextScripts:
                     constructedString = ''
-                    ordROM = ord(rom.read(1))
                     rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                    ordROM = ord(rom.read(1))
                     num = 0
+                    num2 = 0
                     try:
                         while ordROM != 255:
                             if ordROM in CharMap:
-                                if num > 2:
+                                num2 = 0
+                                if num > -1:
                                     constructedString += CharMap[ordROM]
                                 num = num + 1
                                 offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                # print(constructedString)
                                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                                 ordROM = ord(rom.read(1))
-                                # print(num, constructedString)
                             else:
                                 num = 0
                                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
@@ -657,12 +699,14 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
                                     else:
                                         ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
-                                if ordROM_2 in SpecialBuffers:
-                                    constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
-                                elif ordROM_3 in SpecialBuffers:
-                                    constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
-                                elif ordROM_5 in SpecialBuffers:
-                                    constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                if num2 > -1:
+                                    if ordROM_2 in SpecialBuffers:
+                                        constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                    elif ordROM_3 in SpecialBuffers:
+                                        constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                    elif ordROM_5 in SpecialBuffers:
+                                        constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                num2 = num2 + 1
                                 offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                                 ordROM = ord(rom.read(1))
@@ -690,10 +734,52 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         else:
                                             translated_text += '{' + splitted_text_section_2 + '}'
                         if translated_text != '':
-                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            for char in translated_text:
+                                if char == '\\':
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                pos = pos + 1
+                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            num = 0
+                            wrapped_text_store = ''
+                            for wrap in wrapped_text:
+                                if line_endings_store != '':
+                                    try:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                    except:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                else:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                num = num + 1
+                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
                         else:
                             translated_text = translate(text_newline,"es","auto")
-                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            for char in translated_text:
+                                if char == '\\':
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                pos = pos + 1
+                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            num = 0
+                            wrapped_text_store = ''
+                            for wrap in wrapped_text:
+                                if line_endings_store != '':
+                                    try:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                    except:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                else:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                num = num + 1
+                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     elif constructedString and constructedString[-1] != '$':
                         text = constructedString
                         text_newline = text.replace('\n', '\\n')
@@ -715,9 +801,50 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         else:
                                             translated_text += '{' + splitted_text_section_2 + '}'
                         if translated_text != '':
-                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            for char in translated_text:
+                                if char == '\\':
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                pos = pos + 1
+                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            num = 0
+                            wrapped_text_store = ''
+                            for wrap in wrapped_text:
+                                if line_endings_store != '':
+                                    try:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                    except:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                else:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                num = num + 1
+                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
                         else:
                             translated_text = translate(text_newline,"es","auto")
-                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            for char in translated_text:
+                                if char == '\\':
+                                    if translated_text[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                pos = pos + 1
+                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            num = 0
+                            wrapped_text_store = ''
+                            for wrap in wrapped_text:
+                                if line_endings_store != '':
+                                    try:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                    except:
+                                        wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                else:
+                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                                wrapped_text_store = wrapped_text_store[:-2]
+                                num = num + 1
+                            print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     # print(string + ' ' + offset)
-                    # print(string)
