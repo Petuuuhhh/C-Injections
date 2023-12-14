@@ -56218,7 +56218,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 else:
                                     translated_text += '{' + splitted_text_section_2 + '}'
                 if translated_text != '':
-                    # print(string, translated_text)
+                    # print(string, offset, translated_text)
+                    print('#org @' + symbol[3] + '\n' + translated_text + '\n')
+                    # print(string + ' ' + offset)
+                    num = num + 1
+                else:
+                    translated_text = translate(text_newline,"es","auto")
+                    # print(string, offset, translated_text)
                     print('#org @' + symbol[3] + '\n' + translated_text + '\n')
                     # print(string + ' ' + offset)
                     num = num + 1
