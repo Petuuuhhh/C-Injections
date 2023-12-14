@@ -4539,77 +4539,6 @@ TextScripts = ['CeladonCity_GameCorner_Text_DefeatedGrunt',
 'Pokedude_Text_CantDoubleUpOnStatus',
 'Pokedude_Text_LetMeThrowBall',
 'Pokedude_Text_PickBestKindOfBall',
-'gFieldEffectScriptPointers',
-'gFldEffScript_ExclamationMarkIcon',
-'gFldEffScript_UseCutOnGrass',
-'gFldEffScript_UseCutOnTree',
-'gFldEffScript_Shadow',
-'gFldEffScript_TallGrass',
-'gFldEffScript_Ripple',
-'gFldEffScript_FieldMoveShowMon',
-'gFldEffScript_Ash',
-'gFldEffScript_SurfBlob',
-'gFldEffScript_UseSurf',
-'gFldEffScript_Dust',
-'gFldEffScript_UseSecretPowerCave',
-'gFldEffScript_JumpTallGrass',
-'gFldEffScript_SandFootprints',
-'gFldEffScript_JumpBigSplash',
-'gFldEffScript_Splash',
-'gFldEffScript_JumpSmallSplash',
-'gFldEffScript_LongGrass',
-'gFldEffScript_JumpLongGrass',
-'gFldEffScript_UnusedGrass',
-'gFldEffScript_UnusedGrass2',
-'gFldEffScript_UnusedSand',
-'gFldEffScript_UnusedWaterSurfacing',
-'gFldEffScript_BerryTreeGrowthSparkle',
-'gFldEffScript_DeepSandFootprints',
-'gFldEffScript_PokecenterHeal',
-'gFldEffScript_UseSecretPowerTree',
-'gFldEffScript_UseSecretPowerShrub',
-'gFldEffScript_TreeDisguise',
-'gFldEffScript_MountainDisguise',
-'gFldEffScript_NpcflyOut',
-'gFldEffScript_FlyOut',
-'gFldEffScript_FlyIn',
-'gFldEffScript_QuestionMarkIcon',
-'gFldEffScript_FeetInFlowingWater',
-'gFldEffScript_BikeTireTracks',
-'gFldEffScript_SandDisguise',
-'gFldEffScript_UseRockSmash',
-'gFldEffScript_UseStrength',
-'gFldEffScript_UseDig',
-'gFldEffScript_SandPile',
-'gFldEffScript_ShortGrass',
-'gFldEffScript_HotSpringsWater',
-'gFldEffScript_UseWaterfall',
-'gFldEffScript_UseDive',
-'gFldEffScript_Pokeball',
-'gFldEffScript_XIcon',
-'gFldEffScript_Nop47',
-'gFldEffScript_Nop48',
-'gFldEffScript_PopOutOfAsh',
-'gFldEffScript_LavaridgeGymWarp',
-'gFldEffScript_SweetScent',
-'gFldEffScript_SandPillar',
-'gFldEffScript_Bubbles',
-'gFldEffScript_Sparkle',
-'gFldEffScript_SecretPowerCave',
-'gFldEffScript_SecretPowerTree',
-'gFldEffScript_SecretPowerShrub',
-'gFldEffScript_CutGrass',
-'gFldEffScript_FieldMoveShowMonInit',
-'gFldEffScript_UseFlyAncientTomb',
-'gFldEffScript_PcturnOn',
-'gFldEffScript_HallOfFameRecord',
-'gFldEffScript_UseTeleport',
-'gFldEffScript_SmileyFaceIcon',
-'gFldEffScript_UseVsSeeker',
-'gFldEffScript_DoubleExclMarkIcon',
-'gFldEffScript_MoveDeoxysRock',
-'gFldEffScript_DestroyDeoxysRock',
-'gFldEffScript_PhotoFlash',
 'sString_Dummy',
 'sString_Newline',
 'sText_ShedinjaJpnName',
@@ -65625,6 +65554,8 @@ SpecialBuffers3 = {}
 for key, value in SpecialBuffers2.items():
     SpecialBuffers3[value] = key
 
+import textwrap
+wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
 from mtranslate import translate
 num = 0
 SOURCE_ROM = "BPRE0.gba"
@@ -65633,142 +65564,142 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        if string == 'gFameCheckerFlavorText_Blaine0':
-            if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
-                try:
-                    text = eval(compile(string, '<string>', 'eval'))
-                    text_newline = text.replace('\n', '\\n')
-                    translated_text = ''
-                    if '{' in text:
-                        splitted_text = text_newline.split('{')
-                        for splitted_text_section in splitted_text:
-                            if '}' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split('}')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 not in SpecialBuffers:
-                                        if ' ' in splitted_text_section_2:
-                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                        if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                            translated_text += translate(splitted_text_section_2,"es","auto")
-                                        else:
-                                            translated_text += '{' + splitted_text_section_2 + '}'
+        # if string == 'gFameCheckerFlavorText_Blaine0':
+        if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
+            try:
+                text = eval(compile(string, '<string>', 'eval'))
+                text_newline = text.replace('\n', '\\n')
+                translated_text = ''
+                if '{' in text:
+                    splitted_text = text_newline.split('{')
+                    for splitted_text_section in splitted_text:
+                        if '}' in splitted_text_section:
+                            splitted_text_2 = splitted_text_section.split('}')
+                            for splitted_text_section_2 in splitted_text_2:
+                                if splitted_text_section_2 not in SpecialBuffers:
+                                    if ' ' in splitted_text_section_2:
+                                        splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                        splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                    if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                        translated_text += translate(splitted_text_section_2,"es","auto")
                                     else:
                                         translated_text += '{' + splitted_text_section_2 + '}'
-                    if translated_text != '':
-                        print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                        num = num + 1
-                    else:
-                        translated_text = translate(text_newline,"es","auto")
-                        print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                        num = num + 1
+                                else:
+                                    translated_text += '{' + splitted_text_section_2 + '}'
+                if translated_text != '':
+                    print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                    num = num + 1
+                else:
+                    translated_text = translate(text_newline,"es","auto")
+                    print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                    num = num + 1
+                # print(string + ' ' + offset)
+                # print(string)
+            except:
+                if string in TextScripts:
+                    constructedString = ''
+                    ordROM = ord(rom.read(1))
+                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                    num = 0
+                    try:
+                        while ordROM != 255:
+                            if ordROM in CharMap:
+                                if num > 2:
+                                    constructedString += CharMap[ordROM]
+                                num = num + 1
+                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                # print(constructedString)
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                                # print(num, constructedString)
+                            else:
+                                num = 0
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM2 = rom.read(2)
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                                ordROM3 = rom.read(3)
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                                ordROM5 = rom.read(5)
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                                ordROM_2 = ''
+                                ordROM_3 = ''
+                                ordROM_5 = ''
+                                for ordROM2_1 in list(ordROM2):
+                                    if ordROM2_1 < 16:
+                                        ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
+                                    else:
+                                        ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
+                                for ordROM3_1 in list(ordROM3):
+                                    if ordROM3_1 < 16:
+                                        ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
+                                    else:
+                                        ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
+                                for ordROM5_1 in list(ordROM5):
+                                    if ordROM5_1 < 16:
+                                        ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
+                                    else:
+                                        ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
+                                if ordROM_2 in SpecialBuffers3:
+                                    constructedString += '[' + SpecialBuffers3[ordROM_2] + ']'
+                                elif ordROM_3 in SpecialBuffers3:
+                                    constructedString += '[' + SpecialBuffers3[ordROM_3] + ']'
+                                elif ordROM_5 in SpecialBuffers3:
+                                    constructedString += '[' + SpecialBuffers3[ordROM_5] + ']'
+                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                    except:
+                        pass
+                    # print(constructedString)
+                    if constructedString and constructedString[-1] == '$':
+                        text = constructedString[:-1]
+                        text_newline = text.replace('\n', '\\n')
+                        translated_text = ''
+                        if '{' in text:
+                            splitted_text = text_newline.split('{')
+                            for splitted_text_section in splitted_text:
+                                if '}' in splitted_text_section:
+                                    splitted_text_2 = splitted_text_section.split('}')
+                                    for splitted_text_section_2 in splitted_text_2:
+                                        if splitted_text_section_2 not in SpecialBuffers:
+                                            if ' ' in splitted_text_section_2:
+                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                            if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                translated_text += translate(splitted_text_section_2,"es","auto")
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                                        else:
+                                            translated_text += '{' + splitted_text_section_2 + '}'
+                        if translated_text != '':
+                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                        else:
+                            translated_text = translate(text_newline,"es","auto")
+                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                    elif constructedString and constructedString[-1] != '$':
+                        text = constructedString
+                        text_newline = text.replace('\n', '\\n')
+                        translated_text = ''
+                        if '{' in text:
+                            splitted_text = text_newline.split('{')
+                            for splitted_text_section in splitted_text:
+                                if '}' in splitted_text_section:
+                                    splitted_text_2 = splitted_text_section.split('}')
+                                    for splitted_text_section_2 in splitted_text_2:
+                                        if splitted_text_section_2 not in SpecialBuffers:
+                                            if ' ' in splitted_text_section_2:
+                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                            if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
+                                                translated_text += translate(splitted_text_section_2,"es","auto")
+                                            else:
+                                                translated_text += '{' + splitted_text_section_2 + '}'
+                                        else:
+                                            translated_text += '{' + splitted_text_section_2 + '}'
+                        if translated_text != '':
+                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
+                        else:
+                            translated_text = translate(text_newline,"es","auto")
+                            print('#org @' + symbol[3] + '\n' + str(wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))) + '\n')
                     # print(string + ' ' + offset)
                     # print(string)
-                except:
-                    if string in TextScripts:
-                        constructedString = ''
-                        ordROM = ord(rom.read(1))
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                        num = 0
-                        try:
-                            while ordROM != 255:
-                                if ordROM in CharMap:
-                                    if num > 2:
-                                        constructedString += CharMap[ordROM]
-                                    num = num + 1
-                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                    # print(constructedString)
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                    ordROM = ord(rom.read(1))
-                                    print(num, constructedString)
-                                else:
-                                    num = 0
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                    ordROM2 = rom.read(2)
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
-                                    ordROM3 = rom.read(3)
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
-                                    ordROM5 = rom.read(5)
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
-                                    ordROM_2 = ''
-                                    ordROM_3 = ''
-                                    ordROM_5 = ''
-                                    for ordROM2_1 in list(ordROM2):
-                                        if ordROM2_1 < 16:
-                                            ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
-                                        else:
-                                            ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
-                                    for ordROM3_1 in list(ordROM3):
-                                        if ordROM3_1 < 16:
-                                            ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
-                                        else:
-                                            ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
-                                    for ordROM5_1 in list(ordROM5):
-                                        if ordROM5_1 < 16:
-                                            ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
-                                        else:
-                                            ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
-                                    if ordROM_2 in SpecialBuffers3:
-                                        constructedString += '[' + SpecialBuffers3[ordROM_2] + ']'
-                                    elif ordROM_3 in SpecialBuffers3:
-                                        constructedString += '[' + SpecialBuffers3[ordROM_3] + ']'
-                                    elif ordROM_5 in SpecialBuffers3:
-                                        constructedString += '[' + SpecialBuffers3[ordROM_5] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                                    ordROM = ord(rom.read(1))
-                        except:
-                            pass
-                        # print(constructedString)
-                        if constructedString and constructedString[-1] == '$':
-                            text = constructedString[:-1]
-                            text_newline = text.replace('\n', '\\n')
-                            translated_text = ''
-                            if '{' in text:
-                                splitted_text = text_newline.split('{')
-                                for splitted_text_section in splitted_text:
-                                    if '}' in splitted_text_section:
-                                        splitted_text_2 = splitted_text_section.split('}')
-                                        for splitted_text_section_2 in splitted_text_2:
-                                            if splitted_text_section_2 not in SpecialBuffers:
-                                                if ' ' in splitted_text_section_2:
-                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                    translated_text += translate(splitted_text_section_2,"es","auto")
-                                                else:
-                                                    translated_text += '{' + splitted_text_section_2 + '}'
-                                            else:
-                                                translated_text += '{' + splitted_text_section_2 + '}'
-                            if translated_text != '':
-                                print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                            else:
-                                translated_text = translate(text_newline,"es","auto")
-                                print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                        elif constructedString and constructedString[-1] != '$':
-                            text = constructedString
-                            text_newline = text.replace('\n', '\\n')
-                            translated_text = ''
-                            if '{' in text:
-                                splitted_text = text_newline.split('{')
-                                for splitted_text_section in splitted_text:
-                                    if '}' in splitted_text_section:
-                                        splitted_text_2 = splitted_text_section.split('}')
-                                        for splitted_text_section_2 in splitted_text_2:
-                                            if splitted_text_section_2 not in SpecialBuffers:
-                                                if ' ' in splitted_text_section_2:
-                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                                if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                    translated_text += translate(splitted_text_section_2,"es","auto")
-                                                else:
-                                                    translated_text += '{' + splitted_text_section_2 + '}'
-                                            else:
-                                                translated_text += '{' + splitted_text_section_2 + '}'
-                            if translated_text != '':
-                                print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                            else:
-                                translated_text = translate(text_newline,"es","auto")
-                                print('#org @' + symbol[3] + '\n' + translated_text + '\n')
-                        # print(string + ' ' + offset)
-                        # print(string)
