@@ -624,8 +624,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 wrapped_text_store += wrap.replace('\n', '') + '\\n'
                         else:
                             wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        wrapped_text_store = wrapped_text_store[:-2]
                         num = num + 1
+                    wrapped_text_store = wrapped_text_store[:-2]
                     print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     num3 = num3 + 1
                 else:
@@ -649,8 +649,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 wrapped_text_store += wrap.replace('\n', '') + '\\n'
                         else:
                             wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        wrapped_text_store = wrapped_text_store[:-2]
                         num = num + 1
+                    wrapped_text_store = wrapped_text_store[:-2]
                     print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     num3 = num3 + 1
                 # print(string + ' ' + offset)
@@ -753,8 +753,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         wrapped_text_store += wrap.replace('\n', '') + '\\n'
                                 else:
                                     wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                wrapped_text_store = wrapped_text_store[:-2]
                                 num = num + 1
+                            wrapped_text_store = wrapped_text_store[:-2]
                             print('#org @' + string + '\n' + wrapped_text_store + '\n')
                         else:
                             translated_text = translate(text_newline,"es","auto")
@@ -777,8 +777,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         wrapped_text_store += wrap.replace('\n', '') + '\\n'
                                 else:
                                     wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                wrapped_text_store = wrapped_text_store[:-2]
                                 num = num + 1
+                            wrapped_text_store = wrapped_text_store[:-2]
                             print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     elif constructedString and constructedString[-1] != '$':
                         text = constructedString
@@ -820,8 +820,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         wrapped_text_store += wrap.replace('\n', '') + '\\n'
                                 else:
                                     wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                wrapped_text_store = wrapped_text_store[:-2]
                                 num = num + 1
+                            wrapped_text_store = wrapped_text_store[:-2]
                             print('#org @' + string + '\n' + wrapped_text_store + '\n')
                         else:
                             translated_text = translate(text_newline,"es","auto")
@@ -844,7 +844,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         wrapped_text_store += wrap.replace('\n', '') + '\\n'
                                 else:
                                     wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                                wrapped_text_store = wrapped_text_store[:-2]
                                 num = num + 1
+                            wrapped_text_store = wrapped_text_store[:-2]
                             print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     # print(string + ' ' + offset)
