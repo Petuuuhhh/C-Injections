@@ -65669,16 +65669,20 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         constructedString = ''
                         ordROM = ord(rom.read(1))
                         rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                        num = 0
                         try:
                             while ordROM != 255:
-                                print(offset_actual, ordROM)
                                 if ordROM in CharMap:
-                                    constructedString += CharMap[ordROM]
+                                    if num > 2:
+                                        constructedString += CharMap[ordROM]
+                                    num = num + 1
                                     offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                                     # print(constructedString)
                                     rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                                     ordROM = ord(rom.read(1))
+                                    print(num, constructedString)
                                 else:
+                                    num = 0
                                     rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                                     ordROM2 = rom.read(2)
                                     rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
