@@ -654,7 +654,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     print('#org @' + string + '\n' + wrapped_text_store + '\n')
                     num3 = num3 + 1
                 # print(string + ' ' + offset)
-                # print(string)
             except:
                 if string in TextScripts:
                     constructedString = ''
