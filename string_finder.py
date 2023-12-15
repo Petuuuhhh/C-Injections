@@ -575,7 +575,6 @@ for key, value in SpecialBuffersReverse.items():
 
 import textwrap
 wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
-from mtranslate import translate
 from deep_translator import GoogleTranslator
 num3 = 0
 nineWidths = ['PLAYER', 'RIVAL', 'STR_VAR_1', 'STR_VAR_2', 'STR_VAR_3', 'B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
@@ -605,7 +604,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         # splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                         # splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                         # if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                            # translated_text += translate(splitted_text_section_2,"es","auto")
+                                            # translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                         # else:
                                             # translated_text += '{' + splitted_text_section_2 + '}'
                                 # else:
@@ -669,7 +668,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     # print('#org @' + string + '\n' + wrapped_text + '\n')
                     # num3 = num3 + 1
                 # else:
-                    # translated_text = translate(text_newline,"es","auto")
+                    # translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                     # line_endings = 'npl'
                     # line_endings_store = ''
                     # pos = 0
@@ -800,7 +799,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += translate(splitted_text_section_2,"es","auto")
+                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 width = 39
                                                 widths[widthNum] = width
                                                 widthNum = widthNum + 1
@@ -855,7 +854,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         # wrapped_text_store = wrapped_text_store[:-2]
                         print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
-                        translated_text = translate(text_newline,"es","auto")
+                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
@@ -896,7 +895,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += translate(splitted_text_section_2,"es","auto")
+                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 width = 39
                                                 widths[widthNum] = width
                                                 widthNum = widthNum + 1
@@ -982,7 +981,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         # wrapped_text_store = wrapped_text_store[:-2]
                         print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
-                        translated_text = translate(text_newline,"es","auto")
+                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
