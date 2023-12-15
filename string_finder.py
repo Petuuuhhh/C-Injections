@@ -573,8 +573,6 @@ SpecialBuffers = {}
 for key, value in SpecialBuffersReverse.items():
     SpecialBuffers[value] = key
 
-import textwrap
-wrapper = textwrap.TextWrapper(width=39, subsequent_indent='\n')
 from deep_translator import GoogleTranslator
 num3 = 0
 nineWidths = ['PLAYER', 'RIVAL', 'STR_VAR_1', 'STR_VAR_2', 'STR_VAR_3', 'B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
@@ -713,13 +711,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                elif width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -762,13 +760,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -853,13 +851,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -902,13 +900,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -1030,13 +1028,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -1079,13 +1077,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -1147,13 +1145,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
@@ -1196,13 +1194,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                if width_ == limit and count % 2 == 0:
-                                    wrapped_text = wrapped_text + '\\n'
+                                if width_ >= limit and count % 2 == 0 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\n'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
-                                elif width_ == limit and count % 2 == 1:
-                                    wrapped_text = wrapped_text + '\\p'
+                                if width_ >= limit and count % 2 == 1 and char == ' ':
+                                    wrapped_text = wrapped_text[:-1] + '\\p'
                                     width_ = 0
                                     limit = 39
                                     count = count + 1
