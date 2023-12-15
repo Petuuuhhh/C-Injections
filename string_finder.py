@@ -293,11 +293,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         charIndex = charIndex + len(stringStore) + 1
                                     width_ = width_ + 2
                                 charIndex = charIndex + 1
-                            print(1, string)
+                            # print(1, string)
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             try:
-                                print(2, string)
+                                # print(2, string)
                                 f.write('#org @' + string + '\n' + text_newline + '\n\n')
                             except:
                                 pass
@@ -359,11 +359,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         charIndex = charIndex + len(stringStore) + 1
                                     width_ = width_ + 2
                                 charIndex = charIndex + 1
-                            print(3, string)
+                            # print(3, string)
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             try:
-                                print(4, string)
+                                # print(4, string)
                                 f.write('#org @' + string + '\n' + text_newline + '\n\n')
                             except:
                                 pass
@@ -454,10 +454,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         charIndex = charIndex + len(stringStore) + 1
                                     width_ = width_ + 2
                                 charIndex = charIndex + 1
-                            print(5, string)
+                             #print(5, string)
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
-                            print(6, string)
+                            # print(6, string)
                             f.write('#org @' + string + '\n' + text_newline + '\n\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
@@ -517,11 +517,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         charIndex = charIndex + len(stringStore) + 1
                                     width_ = width_ + 2
                                 charIndex = charIndex + 1
-                            print(7, string)
+                            # print(7, string)
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             try:
-                                print(8, string)
+                                # print(8, string)
                                 f.write('#org @' + string + '\n' + text_newline + '\n\n')
                             except:
                                 pass
