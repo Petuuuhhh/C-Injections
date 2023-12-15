@@ -1,3 +1,231 @@
-#org @gFameCheckerFlavorText_ProfOak0
-[COLOR][SHADOW]Ì¿Qué hace esta persona? \n[COLOR][SHADOW]LABORATORIO DE INVESTIGACIÓN POK\eMON \pROBLE
+#org @ViridianForest_Text_FriendsItchingToBattle
+¡Vine aquí con algunos amigos para cons \neguirnos algunos BUG POK\eMON! ¡Todos e \pstán ansiosos por participar en algunas \n batallas POK\eMON!
+
+#org @ViridianForest_Text_RickIntro
+¡Ey! ¡Tienes POK\eMON! ¡Vamos! ¡Luchemo \ns contra ellos!
+
+#org @ViridianForest_Text_RickDefeat
+¡No! ¡CATERPIE no puede hackearlo!
+
+#org @ViridianForest_Text_RickPostBattle
+¡Ssh! Ahuyentarás a los insectos. En ot \nra ocasión, ¿vale?
+
+#org @ViridianForest_Text_DougIntro
+¡Yo! ¡No puedes improvisar si eres un P \nOK\eMON ENTRENADOR!
+
+#org @ViridianForest_Text_DougDefeat
+¿Eh? ¡Me quedé sin POK\eMON!
+
+#org @ViridianForest_Text_DougPostBattle
+¡Eso apesta totalmente! ¡Voy a atrapar  \nalgunos más fuertes!
+
+#org @ViridianForest_Text_SammyIntro
+¡Oye, espera! ¿Cuál es la prisa? ¿Porqu \ne el apuro?
+
+#org @ViridianForest_Text_SammyDefeat
+¡Te doy! ¡Eres bueno en esto!
+
+#org @ViridianForest_Text_SammyPostBattle
+A veces, puedes encontrar cosas en el s \nuelo. Estoy buscando las cosas que se m \pe cayeron. ¿Me puedes ayudar?
+
+#org @ViridianForest_Text_AnthonyIntro
+¡Puede que sea pequeño, pero no me gust \nará si eres suave conmigo!
+
+#org @ViridianForest_Text_AnthonyDefeat
+Oh, boo. Nada salió bien.
+
+#org @ViridianForest_Text_AnthonyPostBattle
+Perdí parte de mi asignación...
+
+#org @ViridianForest_Text_CharlieIntro
+¿Sabías que POK\eMON evoluciona?
+
+#org @ViridianForest_Text_CharlieDefeat
+¡Oh! ¡Estoy perdido!
+
+#org @ViridianForest_Text_CharliePostBattle
+BUG POK\eMON evoluciona rápidamente. ¡S \non muy divertidos!
+
+#org @ViridianForest_Text_RanOutOfPokeBalls
+Estaba lanzando POK\e BOLAS para\atrapa \nr POK\eMON y se me acabó. Por eso nunca \p puedes tener demasiadas POK\e BOLAS.
+
+#org @ViridianForest_Text_AvoidGrassyAreasWhenWeak
+CONSEJOS PARA EL ENTRENADOR Si tus POK\ \neMON son débiles y quieres evitar batal \plas, ¡manténte alejado de las áreas cub \niertas de hierba!
+
+#org @ViridianForest_Text_UseAntidoteForPoison
+¡Para el veneno, usa ANTÍDOTO! ¡Consígu \nelo en POK\eMON MARTS!
+
+#org @ViridianForest_Text_ContactOakViaPCToRatePokedex
+CONSEJOS PARA EL ENTRENADOR Contacte al \n PROF. OAK a través de una PC para eval \puar tu POK\eDEX.
+
+#org @ViridianForest_Text_CantCatchOwnedMons
+CONSEJOS PARA EL ENTRENADOR No puedes a \ntrapar un POK\eMON que pertenece a otra \p persona. ¡Lanza POK\e BOLAS solo a POK \n\eMON salvajes para atraparlos!
+
+#org @ViridianForest_Text_WeakenMonsBeforeCapture
+CONSEJOS DEL ENTRENADOR ¡Debilita a POK \n\eMON antes de intentar capturarlo! ¡Cu \pando estén sanos, pueden escapar!
+
+#org @ViridianForest_Text_LeavingViridianForest
+DEJANDO EL BOSQUE VIRIDIAN PEWTER CITY  \nADELANTE
+
+#org @MtMoon_1F_Text_MarcosIntro
+¡GUAU! ¡Me sorprendiste! …¡Oh, eres sól \no un niño!
+
+#org @MtMoon_1F_Text_MarcosDefeat
+¡Guau! ¡Sorprendido de nuevo!
+
+#org @MtMoon_1F_Text_MarcosPostBattle
+Los niños como tú no deberían andar por \n aquí en la oscuridad.
+
+#org @MtMoon_1F_Text_JoshIntro
+¿Viniste a explorar la cueva también?
+
+#org @MtMoon_1F_Text_JoshDefeat
+¡Perder apesta! Es tan desagradable.
+
+#org @MtMoon_1F_Text_JoshPostBattle
+He venido hasta aquí para presumir ante \n las chicas.
+
+#org @MtMoon_1F_Text_MiriamIntro
+¡Guau! ¡Es mucho más grande aquí de lo  \nque pensaba!
+
+#org @MtMoon_1F_Text_MiriamDefeat
+¡Oh! ¡Lo perdí!
+
+#org @MtMoon_1F_Text_MiriamPostBattle
+¿Cómo sales de aquí? Es tan grande que  \npuedo perderme.
+
+#org @MtMoon_1F_Text_JovanIntro
+¡Qué! ¡No me acerques sigilosamente!
+
+#org @MtMoon_1F_Text_JovanDefeat
+¡Mi POK\eMON no sirve!
+
+#org @MtMoon_1F_Text_JovanPostBattle
+Tengo que encontrar POK\eMON más fuerte \ns. ¿Dónde podrían estar?
+
+#org @MtMoon_1F_Text_IrisIntro
+¿Qué? Estoy esperando que mis amigos me \n encuentren aquí.
+
+#org @MtMoon_1F_Text_IrisDefeat
+¿Perdí?
+
+#org @MtMoon_1F_Text_IrisPostBattle
+Vine porque escuché que hay algunos fós \niles muy raros aquí.
+
+#org @MtMoon_1F_Text_KentIntro
+Hay hombres sospechosos en la cueva. ¿Y \n tú?
+
+#org @MtMoon_1F_Text_KentDefeat
+¡Me tienes!
+
+#org @MtMoon_1F_Text_KentPostBattle
+¡Los vi! ¡Estoy seguro de que son del T \nEAM ROCKET!
+
+#org @MtMoon_1F_Text_RobbyIntro
+Tienes que atravesar esta cueva para ll \negar a CERULEAN CITY.
+
+#org @MtMoon_1F_Text_RobbyDefeat
+Perdí.
+
+#org @MtMoon_1F_Text_RobbyPostBattle
+¡ZUBAT es difícil! Pero si puedes atrap \nar uno, podrás contar con él.
+
+#org @MtMoon_1F_Text_ZubatIsABloodsucker
+¡Cuidado! ¡ZUBAT es un chupasangre!
+
+#org @MtMoon_1F_Text_BrockHelpsExcavateFossils
+Hola, estoy excavando en busca de fósil \nes aquí bajo MT. LUNA. A veces, BROCK d \pe PEWTER GYM me echa una mano.
+
+#org @MtMoon_B2F_Text_MiguelIntro
+¡Oye, detente! ¡Encontré estos fósiles! \n ¡Ambos son míos!
+
+#org @MtMoon_B2F_Text_MiguelDefeat
+¡Está bien! ¡Lo compartiré!
+
+#org @MtMoon_B2F_Text_WellEachTakeAFossil
+¡Cada uno de nosotros cogeremos un fósi \nl! ¡No seas codicioso!
+
+#org @MtMoon_B2F_Text_ThenThisFossilIsMine
+Muy bien. ¡Entonces este fósil es mío!
+
+#org @MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils
+A lo lejos, en la ISLA CINNABAR, hay un \n LABORATORIO POK\eMON. Investigan fósil \pes en regeneración.
+
+#org @MtMoon_B2F_Text_Grunt1Intro
+¡Nosotros, TEAM ROCKET, encontraremos l \nos fósiles! ¡Revivir a POK\eMON de ello \ps nos hará  ganar enormes riquezas!
+
+#org @MtMoon_B2F_Text_Grunt1Defeat
+¡Urgh! ¡Ahora estoy enojado!
+
+#org @MtMoon_B2F_Text_Grunt1PostBattle
+¡Me hiciste enojar! ¡TEAM ROCKET te pon \ndrá en la lista negra!
+
+#org @MtMoon_B2F_Text_Grunt2Intro
+¡Nosotros, TEAM ROCKET, somos POK\eMON  \ngangsters! ¡Infundimos miedo con nuestr \pa fuerza!
+
+#org @MtMoon_B2F_Text_Grunt2Defeat
+¡Yo lo sople!
+
+#org @MtMoon_B2F_Text_Grunt2PostBattle
+¡Maldita sea! ¡Mis asociados no tolerar \nán esto!
+
+#org @MtMoon_B2F_Text_Grunt3Intro
+¡Estamos haciendo un gran trabajo aquí! \n ¡Piérdete, chico!
+
+#org @MtMoon_B2F_Text_Grunt3Defeat
+Así que eres bueno...
+
+#org @MtMoon_B2F_Text_Grunt3PostBattle
+Si encuentras un fósil, dámelo y ¡lárga \nte!
+
+#org @MtMoon_B2F_Text_Grunt4Intro
+¡Los niños pequeños no deberían jugar c \non los adultos! ¡Podrían ser malas noti \pcias!
+
+#org @MtMoon_B2F_Text_Grunt4Defeat
+¡Estoy furioso!
+
+#org @MtMoon_B2F_Text_Grunt4PostBattle
+POK\eMON vivió aquí mucho antes de que  \nllegara la gente.
+
+#org @MtMoon_B2F_Text_YouWantDomeFossil
+¿Quieres el FÓSIL DOME?
+
+#org @MtMoon_B2F_Text_YouWantHelixFossil
+¿Quieres el FÓSIL HÉLIX?
+
+#org @MtMoon_B2F_Text_ObtainedHelixFossil
+¡Obtuviste el FÓSIL HÉLICE!
+
+#org @MtMoon_B2F_Text_ObtainedDomeFossil
+¡Obtuviste el FÓSIL DEL DOMO!
+
+#org @SSAnne_1F_Corridor_Text_LeStrongSilentType
+¡Bonjour! ¡Soy el camarero de este barc \no! ¡Estaré encantado de servirte cualqu \pier cosa que quieras! … … … ¡Ah! ¡El ti \npo fuerte y silencioso!
+
+#org @SSAnne_1F_Corridor_Text_PassengersAreRestless
+Los pasajeros están inquietos por este  \nlargo viaje. ¡Es posible que los más ab \purridos te desafíen!
+
+#org @SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner
+¡Este barco es un transatlántico de luj \no para ENTRENADORES del mundo! En cada  \ppuerto, organizamos fiestas con ENTRENA \nDORES invitados.
+
+#org @SSAnne_2F_Corridor_Text_RivalIntro
+[B_OPPONENT_MON1_NAME][B_BUFF2]! ¡Imagínate verte aquí! [B_BUFF2], ¿realmente te invitaron? \nEntonces, ¿cómo va tu POK\eDEX? Ya capturé \p4p40 tipos, amigo. Hay diferentes tipos \npos \npor todas partes. Arrástrese por las \páreas con césped y búsquelos con atención.
+
+#org @SSAnne_2F_Corridor_Text_RivalDefeat
+¡Humph! ¡Al menos estás aumentando tu P \nOK\eMON!
+
+#org @SSAnne_2F_Corridor_Text_RivalPostBattle
+[B_OPPONENT_MON1_NAME]: Escuché que había un CUT master a bordo. \n¡Pero era solo un viejo mareado! CUT en \pspsí es realmente útil. Sí, será útil. \nDeberías ir a verlo también. Huela !
+
+#org @SSAnne_3F_Corridor_Text_CaptainTeachesCutToMons
+Nuestro CAPITÁN es un maestro de la esp \nada. Es fantástico usando CUT. ¡Dicen q \pue incluso enseña CUT a POK\eMON!
+
+#org @SSAnne_Deck_Text_ShipDepartingSoon
+Se acabó la fiesta. El barco zarpará pr \nonto.
+
+#org @SSAnne_Deck_Text_ScrubbingDecksHardWork
+¡Uf! ¡Fregar terrazas es un trabajo dur \no!
+
+#org @SSAnne_Deck_Text_FeelSeasick
+Urf... Me siento mal... Me mareé, así q \nue salí para tomar un poco de aire...
 
