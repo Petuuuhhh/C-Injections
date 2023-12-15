@@ -582,7 +582,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        # if string == 'ViridianForest_Text_AnthonyDefeat':
+        if string == '#org @sText_PkmnClamped':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             widths = {}
             width = 39
@@ -801,7 +801,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 try:
                                                     translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                 except:
