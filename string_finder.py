@@ -589,152 +589,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
             widths = {}
             width = 39
             widthNum = 0
-            # try:
-                # text = eval(compile(string, '<string>', 'eval'))
-                # text_newline = text.replace('\n', '\\n')
-                # translated_text = ''
-                # if '{' in text:
-                    # splitted_text = text_newline.split('{')
-                    # for splitted_text_section in splitted_text:
-                        # if '}' in splitted_text_section:
-                            # splitted_text_2 = splitted_text_section.split('}')
-                            # for splitted_text_section_2 in splitted_text_2:
-                                # if splitted_text_section_2 not in SpecialBuffers:
-                                    # if ' ' in splitted_text_section_2:
-                                        # splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                        # splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                        # if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                            # translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                        # else:
-                                            # translated_text += '{' + splitted_text_section_2 + '}'
-                                # else:
-                                    # translated_text += '{' + splitted_text_section_2 + '}'
-                # if translated_text != '':
-                    # line_endings = 'npl'
-                    # line_endings_store = ''
-                    # pos = 0
-                    # for char in translated_text:
-                        # try:
-                            # for char in translated_text:
-                                # if char == '\\':
-                                    # try:
-                                        # if translated_text[pos + 1] in line_endings:
-                                            # line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    # except:
-                                        # pass
-                                # pos = pos + 1
-                        # except:
-                            # pass
-                    # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                    # wrapped_text = ''
-                    # numWidth = 0
-                    # width_ = 0
-                    # actualWidth = 0
-                    # limit = 39
-                    # count = 0
-                    # charIndex = 0
-                    # while charIndex < len(sanitizedText):
-                        # char = sanitizedText[charIndex]
-                        # wrapped_text = wrapped_text + char
-                        # width_ = width_ + 1
-                        # if width_ == limit and count % 2 == 0:
-                            # wrapped_text = wrapped_text + '\\n'
-                            # width_ = 0
-                            # limit = 39
-                            # count = count + 1
-                        # elif width_ == limit and count % 2 == 1:
-                            # wrapped_text = wrapped_text + '\\p'
-                            # width_ = 0
-                            # limit = 39
-                            # count = count + 1
-                        # if char == '[':
-                            # stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                            # wrapped_text = wrapped_text + stringStore + ']'
-                            # if stringStore in nineWidths:
-                                # limit = limit + len(stringStore) + 11
-                                # charIndex = charIndex + len(stringStore) + 1
-                            # else:
-                                # limit = limit + len(stringStore) + 2
-                                # charIndex = charIndex + len(stringStore) + 1
-                        # charIndex = charIndex + 1
-                    # # num = 0
-                    # # wrapped_text_store = ''
-                    # # for wrap in wrapped_text:
-                        # # if line_endings_store != '':
-                            # # try:
-                                # # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            # # except:
-                                # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # # else:
-                            # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # # num = num + 1
-                    # # wrapped_text_store = wrapped_text_store[:-2]
-                    # print('#org @' + string + '\n' + wrapped_text + '\n')
-                    # num3 = num3 + 1
-                # else:
-                    # translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
-                    # line_endings = 'npl'
-                    # line_endings_store = ''
-                    # pos = 0
-                    # try:
-                        # for char in translated_text:
-                            # if char == '\\':
-                                # try:
-                                    # if translated_text[pos + 1] in line_endings:
-                                        # line_endings_store = line_endings_store + translated_text[pos + 1]
-                                # except:
-                                    # pass
-                            # pos = pos + 1
-                    # except:
-                        # pass
-                    # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                    # wrapped_text = ''
-                    # numWidth = 0
-                    # width_ = 0
-                    # actualWidth = 0
-                    # limit = 39
-                    # count = 0
-                    # charIndex = 0
-                    # while charIndex < len(sanitizedText):
-                        # char = sanitizedText[charIndex]
-                        # wrapped_text = wrapped_text + char
-                        # width_ = width_ + 1
-                        # if width_ == limit and count % 2 == 0:
-                            # wrapped_text = wrapped_text + '\\n'
-                            # width_ = 0
-                            # limit = 39
-                            # count = count + 1
-                        # elif width_ == limit and count % 2 == 1:
-                            # wrapped_text = wrapped_text + '\\p'
-                            # width_ = 0
-                            # limit = 39
-                            # count = count + 1
-                        # if char == '[':
-                            # stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                            # wrapped_text = wrapped_text + stringStore + ']'
-                            # if stringStore in nineWidths:
-                                # limit = limit + len(stringStore) + 11
-                                # charIndex = charIndex + len(stringStore) + 1
-                            # else:
-                                # limit = limit + len(stringStore) + 2
-                                # charIndex = charIndex + len(stringStore) + 1
-                        # charIndex = charIndex + 1
-                    # # num = 0
-                    # # wrapped_text_store = ''
-                    # # for wrap in wrapped_text:
-                        # # if line_endings_store != '':
-                            # # try:
-                                # # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            # # except:
-                                # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # # else:
-                            # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # # num = num + 1
-                    # # wrapped_text_store = wrapped_text_store[:-2]
-                    # print('#org @' + string + '\n' + wrapped_text + '\n')
-                    # num3 = num3 + 1
-                # # print(string + ' ' + offset)
-            # except:
             if string in TextScripts:
                 constructedString = ''
                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
@@ -847,22 +701,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -877,22 +750,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 elif constructedString and constructedString[-1] != '$':
                     text = constructedString
                     text_newline = text.replace('\n', '\\n')
@@ -949,53 +841,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -1010,54 +890,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
-                # print(string + ' ' + offset)
             elif string in JapaneseTextScripts:
                 constructedString = ''
                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
@@ -1151,53 +1018,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -1212,53 +1067,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 elif constructedString and constructedString[-1] != '$':
                     text = constructedString
                     text_newline = text.replace('\n', '\\n')
@@ -1292,53 +1135,41 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -1353,51 +1184,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
+                            print('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                        wrapped_text = ''
-                        numWidth = 0
-                        width_ = 0
-                        actualWidth = 0
-                        limit = 39
-                        count = 0
-                        charIndex = 0
-                        while charIndex < len(sanitizedText):
-                            char = sanitizedText[charIndex]
-                            wrapped_text = wrapped_text + char
-                            width_ = width_ + 1
-                            if width_ == limit and count % 2 == 0:
-                                wrapped_text = wrapped_text + '\\n'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            elif width_ == limit and count % 2 == 1:
-                                wrapped_text = wrapped_text + '\\p'
-                                width_ = 0
-                                limit = 39
-                                count = count + 1
-                            if char == '[':
-                                stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                wrapped_text = wrapped_text + stringStore + ']'
-                                if stringStore in nineWidths:
-                                    limit = limit + len(stringStore) + 11
-                                    charIndex = charIndex + len(stringStore) + 1
-                                else:
-                                    limit = limit + len(stringStore) + 2
-                                    charIndex = charIndex + len(stringStore) + 1
-                            charIndex = charIndex + 1
-                        # num = 0
-                        # wrapped_text_store = ''
-                        # for wrap in wrapped_text:
-                            # if line_endings_store != '':
-                                # try:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                # except:
-                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # else:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            # num = num + 1
-                        # wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text + '\n')
-                # print(string + ' ' + offset)
