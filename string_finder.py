@@ -310,7 +310,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 charIndex = charIndex + 1
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            try:
+                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            except:
+                                pass
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -496,5 +499,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 charIndex = charIndex + 1
                             f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            try:
+                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            except:
+                                pass
 f.close()

@@ -9802,3 +9802,1719 @@ Vamos testar esta mensagem! Bem-vindo ao\nseu mundo de Pokémon!
 #org @gFameCheckerFlavorText_Daisy1Portuguese
 ÂÌComo é essa pessoa?ÂÂMas a pessoa que\no POK\eMON mais gosta é DAISY, eu acho.
 
+#org @gFameCheckerFlavorText_Daisy2Portuguese
+ÂÌComo é essa pessoa?ÂÂEla estava cuidando\ngentilmente de POK\eMON... Ela era um anjinho.\pO nome daquela menina... Acho que era DAISY.
+
+#org @gFameCheckerFlavorText_Daisy3Portuguese
+ÂÌFamília e amigos? ÂÂPROF. OAK supostamente\nmora com seus netos, DAISY e
+
+#org @gFameCheckerFlavorText_Daisy4Portuguese
+ÂÌComo é essa pessoa?ÂÂUma garota de PALLET\nTOWN, DAISY, ela gosta de CHÁ todos os\pdias. Ela visita o DEPARTAMENTO CELADON.\nARMAZENE ara comprar um pouco de CHÁ.
+
+#org @gFameCheckerFlavorText_Daisy5Portuguese
+ÂÌHá um boato… ÂÂA Grande Campeã do Spring\nPOK\eMON CONTEST é DAISY OAK da PALLET\pTOWN!
+
+#org @gFameCheckerFlavorText_Brock0Portuguese
+ÂÌO que essa pessoa faz? ÂÂPEWTER CITY\nPOK\eMON GYM LÍDER: BROCK O TREINADOR POK\eMON\psólido como uma rocha!
+
+#org @gFameCheckerFlavorText_Brock1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂMinha força\nde vontade é evidente em mesmo no meu POK\eMON.\pMeus POK\eMON são todos duros como uma\nrocha e têm determinação verdadeira. Isso\pmesmo - meus POK\eMON são todos do tipo\nROCK!
+
+#org @gFameCheckerFlavorText_Brock2Portuguese
+ÂÌComo é essa pessoa?ÂÂNão há muitos TREINADORES\nDE POK\eMON  sérios aqui. Eles são todos\pcomo CAPTADORES DE INSETOS, você sabe,\napenas amadores. Mas o BROCK da PEWTER\pGYM não é assim, nem um pouco.
+
+#org @gFameCheckerFlavorText_Brock3Portuguese
+ÂÌComo é essa pessoa?ÂÂBROCK é legal. Ele\nnão é apenas durão. As pessoas gostam dele\pe o respeitam. Quero me tornar um LÍDER\nDE GINÁSTICA como ele.
+
+#org @gFameCheckerFlavorText_Brock4Portuguese
+ÂÌO que essa pessoa faz? ÂÂOlá, estou escavando\nfósseis aqui em MT. LUA. Às vezes, BROCK\pda PEWTER GYM me dá uma mão.
+
+#org @gFameCheckerFlavorText_Brock5Portuguese
+ÂÌComo é essa pessoa?ÂÂBROCK raramente\nri, mas dizem que não consegue parar se\pcomeçar.
+
+#org @gFameCheckerFlavorText_Misty0Portuguese
+ÂÌO que essa pessoa faz? ÂÂCERULEAN CITY\nPOK\eMON GYM LÍDER: MISTY A sereia moleca!
+
+#org @gFameCheckerFlavorText_Misty1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂMinha política\né uma ofensiva total com POK\eMON do tipo\pÁGUA!
+
+#org @gFameCheckerFlavorText_Misty2Portuguese
+ÂÌComo é essa pessoa?ÂÂMISTY é uma TREINADORA\nque continuará melhorando. Ela não perderá\ppara alguém como você!
+
+#org @gFameCheckerFlavorText_Misty3Portuguese
+ÂÌHá um boato… ÂÂFORMADORES FORTES e POKÉMON\nDE ÁGUA a são vistas comuns por aqui. Dizem\pque MISTY do CERULEAN GYM treina aqui.
+
+#org @gFameCheckerFlavorText_Misty4Portuguese
+ÂÌHá um boato… ÂÂEsta capa é um local famoso\npara encontros. MISTY, o LÍDER DO GYM,\ptem grandes hoesperanças sobre este lugar.
+
+#org @gFameCheckerFlavorText_Misty5Portuguese
+ÂÌHá um boato… Diz-se que ÂÂMISTY adora\nLORELEI da ELITE FOUR.
+
+#org @gFameCheckerFlavorText_LtSurge0Portuguese
+ÂÌO que essa pessoa faz? ÂÂVERMILION CITY\nPOK\eMON GYM LÍDER: LT. SURGE O Relâmpago\pAmericano!
+
+#org @gFameCheckerFlavorText_LtSurge1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂEu te digo,\ngaroto, o POK\eMON elétrico me salvou durante\pa guerra!
+
+#org @gFameCheckerFlavorText_LtSurge2Portuguese
+ÂÌComo é essa pessoa?ÂÂQuando eu estava\nno Exército, LT. SURGE era meu comandante\pestrito. Ele era um capataz duro.
+
+#org @gFameCheckerFlavorText_LtSurge3Portuguese
+ÂÌComo é essa pessoa?ÂLT. SURGE sempre\nfoi famoso por sua natureza cautelosa no\pExército.
+
+#org @gFameCheckerFlavorText_LtSurge4Portuguese
+ÂÌComo é essa pessoa?ÂLT. SURGE instalou\nele mesmo as armadilhas o GINÁSIO. Ele\pmontou fechaduras duplas em todos os lugares.
+
+#org @gFameCheckerFlavorText_LtSurge5Portuguese
+ÂÌHá um boato… ÂLT. Há rumores de que SURGE\nfoi um piloto enquanto morava na América.\pEle usou a eletricidade gerada pelo POK\eMON\npara alimentar seu avião.
+
+#org @gFameCheckerFlavorText_Erika0Portuguese
+ÂÌO que essa pessoa faz? ÂÂCELADON CITY\nPOK\eMON GYM LÍDER: ERIKA A Princesa Amante\pda Natureza!
+
+#org @gFameCheckerFlavorText_Erika1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂSou um estudante\nda arte de arranjar flores. Meus POK\eMON\psão exclusivamente do tipo GRASS.
+
+#org @gFameCheckerFlavorText_Erika2Portuguese
+ÂÌComo é essa pessoa?ÂÂNossa LÍDER ERIKA\npode ser quieta, mas ela é famosa por aqui.
+
+#org @gFameCheckerFlavorText_Erika3Portuguese
+ÂÌComo é essa pessoa?ÂÂSó usamos POK\eMON\ndo tipo GRASS em ossa academia. Por quê?\pTambém os usamos para fazer arranjos de\nflores!
+
+#org @gFameCheckerFlavorText_Erika4Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂEu nunca\ncolecionaria POK\eMON se eles não fossem\patraentes.
+
+#org @gFameCheckerFlavorText_Erika5Portuguese
+ÂÌHá um boato… ÂÂHá rumores de que se você\nder uma olhada no CELADON GYM, muitas vezes\ppoderá ver ERIKA cochilando.
+
+#org @gFameCheckerFlavorText_Koga0Portuguese
+ÂÌO que essa pessoa faz? ÂÂFUCHSIA CITY\nPOK\eMON GYM LÍDER: KOGA O Mestre Ninja\pVenenoso
+
+#org @gFameCheckerFlavorText_Koga1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂDesespero\ncom o horror arrepiante do POISON-type\pPOK\eMON!
+
+#org @gFameCheckerFlavorText_Koga2Portuguese
+ÂÌComo é essa pessoa?ÂÂMesmo tendo perdido,\ncontinuarei treinando de acordo com os\pensinamentos\de KOGA, meu mestre ninja.
+
+#org @gFameCheckerFlavorText_Koga3Portuguese
+ÂÌFamília e amigos? ÂÂMeu pai é o LÍDER\nDO GYM desta cidade. Estou treinando para\pusar POISON POK\eMON\assim como meu pai.
+
+#org @gFameCheckerFlavorText_Koga4Portuguese
+ÂÌHá um boato… Diz-se que ÂÂKOGA tem um\nconhecimento profundo de medicina. Ele\paté prepara remédios para cuidar de seu\nPOK\eMON até a saúde.
+
+#org @gFameCheckerFlavorText_Koga5Portuguese
+ÂÌO que essa pessoa faz? ÂÂA ZONA DE SAFARI\né enorme, não é? O LÍDER DO GYM DO FUCHSIA,\pKOGA,  patrulha o local de vez em quando.\nGraças a ele, podemos jogar aqui kabendo\pque estamos seguros.
+
+#org @gFameCheckerFlavorText_Sabrina0Portuguese
+ÂÌO que essa pessoa faz? ÂÂSAFFRON CITY\nPOK\eMON GYM LÍDER: SABRINA A Mestre do\pPSYCHIC POK\eMON!
+
+#org @gFameCheckerFlavorText_Sabrina1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂVocê conhece\numa garota LÍDER DE GYM SAFFRON CITY? Ela\pusa POK\eMON do tipo PSYCHIC, certo?
+
+#org @gFameCheckerFlavorText_Sabrina2Portuguese
+ÂÌComo é essa pessoa?Tenho poderes psíquicos\ndesde que era criança. Tudo começou quando\puma colher que joguei descuidadamente e\ndobrei.
+
+#org @gFameCheckerFlavorText_Sabrina3Portuguese
+ÂÌComo é essa pessoa?ÂÂEu não gosto de\nlutar, mas se você quiser, eu lhe mostrarei\pmeus poderes!
+
+#org @gFameCheckerFlavorText_Sabrina4Portuguese
+ÂÌHá um boato… As pessoas dizem que SABRINA\npode se comunicar com seu POK\eMON durante\pa batalha sem falar.
+
+#org @gFameCheckerFlavorText_Sabrina5Portuguese
+ÂÌComo é essa pessoa?ÂÂSABRINA acabou de\nacabar com o KARATE MESTRE da porta ao\plado.
+
+#org @gFameCheckerFlavorText_Blaine0Portuguese
+ÂÌO que essa pessoa faz? ÂÂÂÂCINNABAR ISLAND\nPOK\eMON GYM LÍDER: BLAINE O Mestre do\pQuiz Cabeça Quente!
+
+#org @gFameCheckerFlavorText_Blaine1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂMeus POK\eMON\nde fogo estão todos ásperos e prontos com\pcalor intenso! Eles incineram todos os\ndesafiantes!
+
+#org @gFameCheckerFlavorText_Blaine2Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂNosso LÍDER,\nBLAINE, se perdeu nas montanhas, mas bem.\pA noite caiu quando um pássaro de fogo\nPOK\eMON apareceu. Sua luz permitiu que\pBLAINE encontrasse seu caminho para baixo\ncom segurança.
+
+#org @gFameCheckerFlavorText_Blaine3Portuguese
+ÂÌComo é essa pessoa?BLAINE, do CINNABAR\nGYM, é um sujeito estranho. Ele mora na\pilha desde muito antes da construção do\nLAB.
+
+#org @gFameCheckerFlavorText_Blaine4Portuguese
+ÂÌFamília e amigos? ÂÂÉ uma foto de BLAINE\ne MR. FUJI. Eles estão ombro a ombro com\pgrandes sorrisos.
+
+#org @gFameCheckerFlavorText_Blaine5Portuguese
+ÂÌHá um boato… Diz-se que BLAINE remove\nseus óculos escuros apenas quando está\ppensando em novas perguntas para o questionário.
+
+#org @gFameCheckerFlavorText_Lorelei0Portuguese
+ÂÌO que essa pessoa faz? ÂÂEu sou LORELEI\nda ELITE FOUR.
+
+#org @gFameCheckerFlavorText_Lorelei1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂNinguém\npode me vencer quando se trata de POK\eMON\pgelado.
+
+#org @gFameCheckerFlavorText_Lorelei2Portuguese
+ÂÌOnde essa pessoa nasceu?ÂÂTivemos uma\ngrande e poderosa TREINADORA crescendo\pnesta ilha. Aposto que até você a conhece.\nÉ LORELEI da ELITE FOUR!
+
+#org @gFameCheckerFlavorText_Lorelei3Portuguese
+ÂÌComo é essa pessoa?ÂÂConhecida por seu\nestilo de batalha lógico, calculado e legal,\pLORELEI\tem um segredo surpreendente!
+
+#org @gFameCheckerFlavorText_Lorelei4Portuguese
+ÂÌComo é essa pessoa?ÂÂVocê sabia que LORELEI\ntem muitas e muitas bonecas de pelúcia?\pCada vez que ela volta para FOUR ISLAND,\nsua coleção cresce!
+
+#org @gFameCheckerFlavorText_Lorelei5Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂO LAPRAS\nque ela tem, imagino que seja aquele que\pela conheceu quando criança. Acredito que\nfoi na CAVERNA GELADA que ela o pegou.\pTalvez aquele POK\eMON esteja com ela desde\nentão.
+
+#org @gFameCheckerFlavorText_Bruno0Portuguese
+ÂÌO que essa pessoa faz? ÂÂEu sou BRUNO\ndo ELITE FOUR!
+
+#org @gFameCheckerFlavorText_Bruno1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂEu vivi\ne treinei com meu pok\eMON de luta!
+
+#org @gFameCheckerFlavorText_Bruno2Portuguese
+ÂÌComo é essa pessoa?ÂÂBRUNO aparentemente\nse juntou ao ELITE FOUR por causa de sua\pambição ardente de lutar contra os melhores\nTREINADORES.
+
+#org @gFameCheckerFlavorText_Bruno3Portuguese
+ÂÌComo é essa pessoa?ÂÂBRUNO, que está\nno último ano antes de mim, visita o SPA\pde vez em quando. Ele vem para a reabilitação\nde ferimentos, tanto seus quanto de seus\pPOK\eMON.
+
+#org @gFameCheckerFlavorText_Bruno4Portuguese
+ÂÌHá um boato… ÂÂEle é um dos ELITE FOUR.\nSeu nome é BRUNO. Ele foi embora desapontado\pquando descobriu que todos os Rage Candybars\nestavam esgotados.
+
+#org @gFameCheckerFlavorText_Bruno5Portuguese
+ÂÌFamília e amigos? ÂÂAté o BRUNO… Ele\ntreinou com um cara chamado nome de BRAWLY\pantes.
+
+#org @gFameCheckerFlavorText_Agatha0Portuguese
+ÂÌO que essa pessoa faz? ÂÂEu sou AGATHA\nda ELITE FOUR.
+
+#org @gFameCheckerFlavorText_Agatha1Portuguese
+ÂÌTipo favorito de POK\eMON? Os POK\eMON\ntipo GHOST de ÂÂAGATHA são terrivelmente\paterrorizantes em termos de resistência.
+
+#org @gFameCheckerFlavorText_Agatha2Portuguese
+ÂÌComo é essa pessoa?Aquela senhora também\ntem um pavio curto. Não é preciso nada\ppara fazer aquela senhora assustadora gritar.
+
+#org @gFameCheckerFlavorText_Agatha3Portuguese
+ÂÌHá um boato… ÂÂEm sua juventude, AGATHA\ne PROF. OAK eram rivais que disputavam\psupremacia como TREINADORES.
+
+#org @gFameCheckerFlavorText_Agatha4Portuguese
+ÂÌFamília e amigos? Ouvi dizer que OAK\nse interessou muito por você, criança.\pEsse velho idiota já foi durão e de bonito.\nMas isso foi há décadas. Ele é uma sombra\pdo que era antes.
+
+#org @gFameCheckerFlavorText_Agatha5Portuguese
+ÂÌComo é essa pessoa?ÂÂVeja AGATHA, por\nexemplo. Ela estabeleceu um recorde por\pser o membro mais velho da ELITE FOUR.
+
+#org @gFameCheckerFlavorText_Lance0Portuguese
+ÂÌO que essa pessoa faz? ÂÂEu lidero a\nELITE FOUR. Você pode me chamar de LANCE,\po dragão TREINADOR.
+
+#org @gFameCheckerFlavorText_Lance1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂVocê sabe\nque os dragões são POK\eMON míticos. Eles\psão difíceis de capturar e criar, mas seus\npoderes são superiores. Eles são virtualmente\pindestrutíveis. Não há como ser inteligente\ncom eles.
+
+#org @gFameCheckerFlavorText_Lance2Portuguese
+ÂÌComo é essa pessoa?ÂÂEle defende a justiça!\nEle é legal, mas apaixonado! Ele é o maior,\pLANCE!
+
+#org @gFameCheckerFlavorText_Lance3Portuguese
+ÂÌHá um boato… ÂÂTemos um cliente, LANCE,\nque de vez em quando vem. Ele sempre compra\pcapas. Eu me pergunto...Será que ele tem\nmuitas capas idênticas em casa?
+
+#org @gFameCheckerFlavorText_Lance4Portuguese
+ÂÌFamília e amigos? Acredita-se que o avô\nde ÂÂLANCE seja o mais velho de um famoso\pclã de mestres de dragões.
+
+#org @gFameCheckerFlavorText_Lance5Portuguese
+ÂÌFamília e amigos? Pelo que ouvi, LANCE\ntem\um primo que é LÍDER DE GINÁSTICA em\palgum lugar distante.
+
+#org @gFameCheckerFlavorText_Bill0Portuguese
+ÂÌO que essa pessoa faz? ÂÂAfinal, BILL\né mundialmente famoso como POK\eMANIAC.\pEle também inventou o sistema de armazenamento\nPOK\eMON no PC.
+
+#org @gFameCheckerFlavorText_Bill1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂBILL tem\nmuitos POK\eMON! Ele também coleciona itens\praros!
+
+#org @gFameCheckerFlavorText_Bill2Portuguese
+ÂÌComo é essa pessoa?ÂÂEle é meu neto!\nEle sempre gostou de colecionar coisas,\pem quando criança!
+
+#org @gFameCheckerFlavorText_Bill3Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂBILL é um\nPOK\eMANÍACO, então ele adora etodos os\ptipos. Aparentemente, o primeiro que ele\ncapturou foi um ABRA.
+
+#org @gFameCheckerFlavorText_Bill4Portuguese
+ÂÌFamília e amigos? A cidade natal de BILL\né GOLDENROD CITY, onde seus pais ainda\pmoram. Ouvi dizer que é uma cidade bastante\nfestiva e agitada.
+
+#org @gFameCheckerFlavorText_Bill5Portuguese
+ÂÌHá um boato… ÂÂAparentemente, BILL simplesmente\nnão consegue engolir leite.
+
+#org @gFameCheckerFlavorText_MrFuji0Portuguese
+ÂÌO que essa pessoa faz? ÂÂEle é muito\ngentil. Ele cuida de POK\eMON abandonados\pe\órfãos.
+
+#org @gFameCheckerFlavorText_MrFuji1Portuguese
+ÂÌComo é essa pessoa?ÂÂEsse velho marchou\naté osso ESCONDERIJO. Então, ele começou\pa reclamar sobre como TEAM ROCKET está\nabusando do POK\eMON. Então, estamos apenas\pconversando sobre isso como adultos.
+
+#org @gFameCheckerFlavorText_MrFuji2Portuguese
+ÂÌComo é essa pessoa?ÂÂPOK\eMON FAN MAGAZINE\nSorteio mensal do Grande Prêmio! O formulário\pde inscrição está... Gone! Foi recortado.\nAlguém já deve ter se inscrito.
+
+#org @gFameCheckerFlavorText_MrFuji3Portuguese
+ÂÌHá um boato… Ouvi dizer que MR. A FUJI\ntambém não é desta região originalmente.
+
+#org @gFameCheckerFlavorText_MrFuji4Portuguese
+ÂÌFamília e amigos? ÂÂÉ uma foto de BLAINE\ne MR. FUJI. Eles estão ombro a ombro com\pgrandes sorrisos.
+
+#org @gFameCheckerFlavorText_MrFuji5Portuguese
+ÂÌComo é essa pessoa?Editor: O tímido MR.\nFUJI recusou nossos pedidos de entrevista.\pEle é um homem gentil que é adorado e respeitado\nem LAVENDER TOWN.
+
+#org @gFameCheckerFlavorText_Giovanni0Portuguese
+ÂÌO que essa pessoa faz? ÂÂTEAM ROCKET\ncaptura POK\eMON de todo o mundo. Eles\psão ferramentas importantes para manter\nossa empresa criminosa em andamento. Eu\psou o líder, GIOVANNI!
+
+#org @gFameCheckerFlavorText_Giovanni1Portuguese
+ÂÌTipo favorito de POK\eMON? ÂÂAqueles\nbandidos que tomaram conta do nosso prédio...\pO CHEFE deles disse que estava procurando\nPOK\eMON forte.
+
+#org @gFameCheckerFlavorText_Giovanni2Portuguese
+ÂÌComo é essa pessoa?ÂÂO BOSS do TEAM ROCKET\né terrivelmente cruel! Para ele, POK\eMON\psão apenas ferramentas para serem usadas.
+
+#org @gFameCheckerFlavorText_Giovanni3Portuguese
+ÂÌO que essa pessoa faz? ÂÂBem-vindo ao\nmeu esconderijo! Será assim até que eu\ppossa restaurar TEAM ROCKET à sua antiga\nglória.
+
+#org @gFameCheckerFlavorText_Giovanni4Portuguese
+ÂÌO que essa pessoa faz? ÂÂ Surpreenda-me!\nGIOVANNI foi o LÍDER DE GINÁSTICA do VIRIDIAN?
+
+#org @gFameCheckerFlavorText_Giovanni5Portuguese
+ÂÌFamília e amigos? ÂÂVocê... Você não\né filho do GIOVANNI, é? Não, isso não pode\pestar certo. O filho do GIOVANNI é ruivo.
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak0Portuguese
+CIDADE DE PALETES
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak1Portuguese
+LABORATÓRIO DE PESQUISA
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak2Portuguese
+LABORATÓRIO DE PESQUISA
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak3Portuguese
+CIDADE VIRIDIANA
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak4Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak5Portuguese
+LABORATÓRIO DE PESQUISA
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy0Portuguese
+LABORATÓRIO DE PESQUISA
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy1Portuguese
+CIDADE VERMELHÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy2Portuguese
+LABIRINTO DE ÁGUA
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy3Portuguese
+CIDADE VIRIDIANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy4Portuguese
+MANSÃO CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy5Portuguese
+QUATRO ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock0Portuguese
+CIDADE DE ESTANHO
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock1Portuguese
+GINÁSTICA DE ESTANHO
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock2Portuguese
+CIDADE DE ESTANHO
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock3Portuguese
+ROTA 4
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock5Portuguese
+MUSEU DE ESTANHO
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty0Portuguese
+CIDADE CERULEANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty1Portuguese
+GINÁSTICA CERULEAN
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty2Portuguese
+GINÁSTICA CERULEAN
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty3Portuguese
+ILHAS DE ESPUMA DO MAR
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty4Portuguese
+CAPA CERULEANO
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty5Portuguese
+CIDADE CERULEANA
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge0Portuguese
+CIDADE VERMELHÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge1Portuguese
+GINÁSTICA VERMILÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge2Portuguese
+GINÁSTICA VERMILÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge3Portuguese
+GINÁSTICA VERMILÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge4Portuguese
+GINÁSTICA VERMILÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge5Portuguese
+CIDADE VERMELHÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika0Portuguese
+CIDADE DE CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika1Portuguese
+GINÁSTICA CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika2Portuguese
+GINÁSTICA CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika3Portuguese
+GINÁSTICA CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika4Portuguese
+GINÁSTICA CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika5Portuguese
+MANSÃO CELADON
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga0Portuguese
+CIDADE FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga1Portuguese
+GINÁSIO FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga2Portuguese
+GINÁSIO FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga3Portuguese
+CIDADE FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga4Portuguese
+CIDADE FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga5Portuguese
+ZONA SAFÁRI
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina0Portuguese
+CIDADE DO AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina1Portuguese
+TRÊS ILHAS
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina2Portuguese
+GINÁSTICA AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina3Portuguese
+GINÁSTICA AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina4Portuguese
+CIDADE DO AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina5Portuguese
+GINÁSTICA AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine0Portuguese
+ILHA DE CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine1Portuguese
+GINÁSTICA CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine2Portuguese
+GINÁSTICA CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine3Portuguese
+ILHA DE CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine4Portuguese
+GINÁSTICA CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine5Portuguese
+RESORT LINDO
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei0Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei1Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei2Portuguese
+QUATRO ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei3Portuguese
+CINCO ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei4Portuguese
+QUATRO ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei5Portuguese
+QUATRO ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno0Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno1Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno2Portuguese
+CIDADE DO AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno3Portuguese
+SPA HUMANO
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno4Portuguese
+DUAS ILHAS
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno5Portuguese
+Cânion de Sevault
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha0Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha1Portuguese
+PLATÔ ÍNDIGO
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha2Portuguese
+PLATÔ ÍNDIGO
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha3Portuguese
+SETE ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha4Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha5Portuguese
+SEIS ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance0Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance1Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance2Portuguese
+CIDADE DO AÇAFRÃO
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance3Portuguese
+DEPARTAMENTO CELADON.
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance4Portuguese
+PLATÔ ÍNDIGO
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance5Portuguese
+PLATÔ ÍNDIGO
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill0Portuguese
+CIDADE CERULEANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill1Portuguese
+CIDADE CERULEANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill2Portuguese
+CIDADE FÚCSIA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill3Portuguese
+UMA ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill4Portuguese
+UMA ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill5Portuguese
+UMA ILHA
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji0Portuguese
+CIDADE DE LAVANDA
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji1Portuguese
+TORRE POK\eMON
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji2Portuguese
+CIDADE DE LAVANDA
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji3Portuguese
+CIDADE DE LAVANDA
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji4Portuguese
+GINÁSTICA CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji5Portuguese
+ILHA DE CINÁBRO
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni0Portuguese
+ESCONDERIJO DE FOGUETES
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni1Portuguese
+SILPH CO.
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni2Portuguese
+SILPH CO.
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni3Portuguese
+GINÁSTICA VIRIDIANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni4Portuguese
+GINÁSTICA VIRIDIANA
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni5Portuguese
+ARMAZÉM DE FOGUETES
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak2Portuguese
+ASSISTENTE
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak3Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak4Portuguese
+AGATA
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak5Portuguese
+ASSISTENTE
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy0Portuguese
+ASSISTENTE
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy1Portuguese
+MULHER
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy2Portuguese
+HOMEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy3Portuguese
+JORNAL POK\eMON
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy4Portuguese
+VELHA SENHORA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock1Portuguese
+BROCK
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock2Portuguese
+HOMEM JOVEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock3Portuguese
+GAROTO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock4Portuguese
+HOMEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty1Portuguese
+Enevoado
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty2Portuguese
+LUÍS
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty3Portuguese
+HOMEM JOVEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty4Portuguese
+SENHORA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge2Portuguese
+TUCKER
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge3Portuguese
+TUCKER
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge4Portuguese
+DWAYNE
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika1Portuguese
+ÉRIKA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika2Portuguese
+LOLA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika3Portuguese
+Aspirar
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika4Portuguese
+ÉRIKA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga1Portuguese
+KOGA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga2Portuguese
+Kirk
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga3Portuguese
+CHARINA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga4Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga5Portuguese
+HOMEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina1Portuguese
+HOMEM JOVEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina2Portuguese
+SABRINA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina3Portuguese
+SABRINA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina4Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina5Portuguese
+TIRÃO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine0Portuguese
+SINAL
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine1Portuguese
+BLAINE
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine2Portuguese
+DEREK
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine3Portuguese
+MULHER
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine4Portuguese
+FOTO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei0Portuguese
+LORELEI
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei1Portuguese
+LORELEI
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei2Portuguese
+VELHOTE
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei3Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei4Portuguese
+GAROTINHA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei5Portuguese
+VELHA SENHORA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno0Portuguese
+BRUNO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno1Portuguese
+BRUNO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno2Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno3Portuguese
+TRITURADOR
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno4Portuguese
+MULHER
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno5Portuguese
+TRITURADOR
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha0Portuguese
+AGATA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha1Portuguese
+TRITURADOR
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha2Portuguese
+TRITURADOR
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha3Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha4Portuguese
+AGATA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha5Portuguese
+VELHA SENHORA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance0Portuguese
+LANÇA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance1Portuguese
+LANÇA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance2Portuguese
+MULHER
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance3Portuguese
+GAROTINHA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance4Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance5Portuguese
+HOMEM JOVEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill0Portuguese
+[B_OPPONENT_MON1_NAME]É
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill1Portuguese
+MENINO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill2Portuguese
+VELHOTE
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill3Portuguese
+CÉLIO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill4Portuguese
+CÉLIO
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill5Portuguese
+CÉLIO
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji0Portuguese
+GAROTINHA
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji1Portuguese
+EQUIPE FOGUETE
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji2Portuguese
+REVISTA
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji3Portuguese
+HOMEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji4Portuguese
+FOTO
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji5Portuguese
+Olá[SE_M_REFLECT]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni0Portuguese
+GIOVANNI
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni1Portuguese
+CIENTISTA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni2Portuguese
+CIENTISTA
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni3Portuguese
+GIOVANNI
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni4Portuguese
+HOMEM
+
+#org @gFameCheckerFlavorTextOriginObjectName_Giovanni5Portuguese
+GIDEÃO
+
+#org @PokemonJournal_Text_SpecialFeatureBrockPortuguese
+POK\eMON JOURNAL Recurso Especial: PEWTER\nGYM LÍDER BROCK! BROCK raramente ri, mas\pdiz-se que não consegue parar se começar.
+
+#org @PokemonJournal_Text_SpecialFeatureMistyPortuguese
+POK\eMON JOURNAL Recurso Especial: CERULEAN\nGYM LÍDER MISTY! MISTY adora LORELEI o\pELITE FOUR.
+
+#org @PokemonJournal_Text_SpecialFeatureLtSurgePortuguese
+POK\eMON JOURNAL Recurso especial: VERMILION\nGYM LEADER LT. SURTO! LT. Há rumores de\pque SURGE foi um piloto enquanto morava\nna América. Ele usou a eletricidade gerada\ppelo POK\eMON para alimentar seu avião.
+
+#org @PokemonJournal_Text_SpecialFeatureErikaPortuguese
+POK\eMON JOURNAL Recurso especial: CELADON\nGYM LÍDER ERIKA! Há rumores de que se você\pespiar o CELADON GYM, muitas vezes poderá\nver ERIKA cochilando.
+
+#org @PokemonJournal_Text_SpecialFeatureKogaPortuguese
+POK\eMON JOURNAL Recurso Especial: FUCHSIA\nGYM LEADER KOGA! KOGA é conhecido por ter\pum profundo conhecimento de medicina. Ele\naté inventa remédios para cuidar de seu\pPOK\eMON até a saúde.
+
+#org @PokemonJournal_Text_SpecialFeatureSabrinaPortuguese
+POK\eMON JOURNAL Recurso Especial: SAFFRON\nGYM LÍDER SABRINA! As pessoas dizem que\pSABRINA pode se comunicar com seu POK \ndurante a batalha sem falar.
+
+#org @PokemonJournal_Text_SpecialFeatureBlainePortuguese
+POK\eMON JOURNAL Recurso Especial: CINNABAR\nGYM LÍDER BLAINE! Dizem que BLAINE remove\pseus óculos escuros apenas quando está\npensando em novas perguntas para o quiz.
+
+#org @PokemonJournal_Text_SpecialFeatureLoreleiPortuguese
+POK\eMON JOURNAL Recurso especial: LORELEI\ndo ELITE FOUR! Conhecida por seu estilo\pde batalha lógico, calculado e legal, LORELEI\tem\num segredo surpreendente!
+
+#org @PokemonJournal_Text_SpecialFeatureBrunoPortuguese
+POK\eMON JOURNAL Recurso especial: BRUNO\ndo ELITE FOUR! BRUNO aparentemente se juntou\pao ELITE FOUR por sua ambição ardente de\nlutar contra os melhores TREINADORES.
+
+#org @PokemonJournal_Text_SpecialFeatureAgathaPortuguese
+POK\eMON JOURNAL Recurso Especial: AGATHA\ndo ELITE FOUR! Em sua juventude, AGATHA\pe PROF. OAK eram rivais que disputavam\nsupremacia como TREINADORES.
+
+#org @PokemonJournal_Text_SpecialFeatureLancePortuguese
+POK\eMON JOURNAL Recurso Especial: LANCE\nDO ELITE FOUR! LANCE é considerado o avô\pde o mais velho de um famoso clã de dragão\nmestres.
+
+#org @PokemonJournal_Text_SpecialFeatureProfOakPortuguese
+POK\eMON JOURNAL Recurso especial: PROF.\nOAK, o Pesquisador POK\eMON! PROF. OAK\psupostamente mora com seus etos DAISY e\n[B_OPPONENT_MON1_NAME]É.
+
+#org @PokemonJournal_Text_SpecialFeatureDaisyOakPortuguese
+Este é um POK\eMON JOURNAL de anos atrás...\nPOK\eMON JOURNAL CONTEST Special! O Grande\pCampeão do Spring POK\eMON CONTEST é DAISY\nOAK da PALLET TOWN!
+
+#org @PokemonJournal_Text_SpecialFeatureMrFujiPortuguese
+POK\eMON JOURNAL Recurso especial: MR.\nFUJI da POK\eMON HOUSE! Editor: O tímido\pMR. FUJI recusou nossos pedidos de entrevista.\nEle é um homem gentil que é adorado e respeitado\pem LAVENDER TOWN.
+
+#org @PalletTown_Text_HmmIsThatRightPortuguese
+Hmm… Isso mesmo…
+
+#org @PalletTown_Text_OhLookLookPortuguese
+Ah! Olha, olha!
+
+#org @PalletTown_Text_ReadItReadItPortuguese
+Leia, leia!
+
+#org @PalletTown_Text_PressStartToOpenMenuPortuguese
+DICAS DO TREINADOR Pressione START para\nabrir o MENU!
+
+#org @PalletTown_Text_SignsAreUsefulArentTheyPortuguese
+Os sinais são úteis, não são?
+
+#org @PalletTown_Text_LookCopiedTrainerTipsSignPortuguese
+Olhe, olhe! Eu copiei o que estava escrito\nem uma daquelas placas DICAS DO TREINADOR!
+
+#org @PalletTown_Text_PressStartToOpenMenuCopyPortuguese
+DICAS DO TREINADOR! Pressione START para\nabrir o MENU!
+
+#org @CeladonCity_GameCorner_Text_TryPokemonPrinterPortuguese
+É uma IMPRESSORA POK\eMON! Pode colocar\numa impressão do seu POK\eMON o verso do\pseu CARTÃO DE TREINADOR. Custa apenas \$50.\nGostaria de experimentar?
+
+#org @CeladonCity_GameCorner_Text_DontHaveEnoughMoneyPortuguese
+Você não tem dinheiro suficiente.
+
+#org @CeladonCity_GameCorner_Text_ChoosePrintTypePortuguese
+Por favor escolha o tipo de impressão.
+
+#org @CeladonCity_GameCorner_Text_BigSmileForPhotoPortuguese
+Um grande sorriso para a foto, por favor!\nTrês… Dois… Um… Flash!
+
+#org @CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCardPortuguese
+Sua impressão POK\eMON está pronta! Verifique\nseu CARTÃO DE TREINADOR.
+
+#org @FourIsland_House2_Text_WishICouldShowOffStickersPortuguese
+Risadinha... Eu colecionei uma tonelada\nde ADESIVOS. Eu gostaria de poder exibi-los...
+
+#org @FourIsland_House2_Text_GiveYouStickerIfYouBragPortuguese
+Ah, excelente! Você veio ao lugar certo!\nOlha, olha! Ver? Viu? Estes são meus ADESIVOS!\pOlha quantos eu tenho! Aposto que você\nquer alguns. Aposto que quer! Eu darei\pum ADESIVO se você puder me contar algo\nincrível sobre você. O que acontecerá você\pse gaba?
+
+#org @FourIsland_House2_Text_BragAboutSomethingForMePortuguese
+Vanglorie-se de algo para mim. Vou lhe\ndar um ETIQUETA.
+
+#org @FourIsland_House2_Text_BragAboutWhatTodayPortuguese
+Ah, oi! Lá vem o fanfarrão. Do que você\nvai se gabar hoje?
+
+#org @FourIsland_House2_Text_WowHoFLowestPortuguese
+Uau, você entrou no HALL OF FAME. Isso\né muito bom, sim! Vou te dar um desses.
+
+#org @FourIsland_House2_Text_WowHoFLowPortuguese
+Uau, você entrou no HALL DA FAMA com frequência!\nIsso é impressionante, sim! Vou te dar\pum desses.
+
+#org @FourIsland_House2_Text_WowHoFHighPortuguese
+Uau! Você já entrou no HALL OF FAME com\ntanta frequência? Isso é realmente incrível,\psim! Você é o dono da POK\eMON LEAGUE!\nVou te dar um desses.
+
+#org @FourIsland_House2_Text_WowHoFHighestPortuguese
+Sem chance! Você já entrou no HALL OF FAME\ntantas vezes? Você é além de incrível,\psim! É isso, eu tenho que te dar isso.
+
+#org @FourIsland_House2_Text_HoFStickerAppliedPortuguese
+O ADESIVO HALL OF FAME foi aplicado ao\nCARTÃO DE TREINADOR.
+
+#org @FourIsland_House2_Text_ComeBackWithBetterStoryHoFPortuguese
+Hmm… Volte com uma história melhor da próxima\nvez, ok?
+
+#org @FourIsland_House2_Text_LivingLegendHoFPortuguese
+Ah, não, não posso fazer isso. Você é praticamente\numa lenda viva. Não tenho mais nenhum SITCKERS\ppara dar.
+
+#org @FourIsland_House2_Text_WowEggsLowestPortuguese
+Uau, existem OVOS DE POK\eMON? Eu não sabia\ndisso! Isso é muito bom, sim! Vou te dar\pum desses.
+
+#org @FourIsland_House2_Text_WowEggsLowPortuguese
+Você chocou tantos OVOS? Você realmente\ndeve gostar deles! Isso é impressionante,\psim! Vou te dar um desses.
+
+#org @FourIsland_House2_Text_WowEggsHighPortuguese
+Uau! Você chocou um monte de OVOS! Você\né uma máquina de chocar OVOS! Vou te dar\pum desses.
+
+#org @FourIsland_House2_Text_WowEggsHighestPortuguese
+O que... Você chocou tantos OVOS? O que\nestá por trás do seu amor por OVOS? É além\pdo incrível, sim! Você é incrível demais,\neu te digo. É isso, eu tenho que te dar\pisso.
+
+#org @FourIsland_House2_Text_EggStickerAppliedPortuguese
+O EGG STICKER foi aplicado o TRAINER CARD.
+
+#org @FourIsland_House2_Text_ComeBackWithBetterStoryEggsPortuguese
+Hmm… Volte com uma história melhor da próxima\nvez, ok?
+
+#org @FourIsland_House2_Text_LivingLegendEggsPortuguese
+Ah, não, não posso fazer isso. Você é praticamente\numa lenda viva. Não tenho mais nenhum SITCKERS\ppara dar.
+
+#org @FourIsland_House2_Text_WowLinkWinsLowestPortuguese
+Ah, uau, você teve sucesso link batalhando?\nVocê é muito forte, sim! Vou te dar um\pdesses.
+
+#org @FourIsland_House2_Text_WowLinkWinsLowPortuguese
+Você derrotou muito seus amigos link batalhando,\nhein? Você é impressionantemente forte,\psim! Vou te dar um desses.
+
+#org @FourIsland_House2_Text_WowLinkWinsHighPortuguese
+Uau! Você já derrotou seus amigos um número\nassustador de vezes. Você perdeu amigos\ppor causa disso? Vou lhe dar um desses.
+
+#org @FourIsland_House2_Text_WowLinkWinsHighestPortuguese
+O que... Perversamente, uau! Você ganhou\nde forma alucinante muitas vezes! Fico\pdesmaiado pensando como você é durão. Você\né material de pesadelos! É isso, tenho\pque te dar isso.
+
+#org @FourIsland_House2_Text_VictoryStickerAppliedPortuguese
+O ADESIVO DE VITÓRIA foi aplicado o CARTÃO\nDE TREINADOR.
+
+#org @FourIsland_House2_Text_ComeBackWithBetterStoryLinkWinsPortuguese
+Hmm… Volte com uma história melhor da próxima\nvez, ok?
+
+#org @FourIsland_House2_Text_LivingLegendLinkWinsPortuguese
+Ah, não, não posso fazer isso. Você é praticamente\numa lenda viva. Não tenho mais nenhum SITCKERS\ppara dar.
+
+#org @Help_Text_WhatShouldIDoPortuguese
+O que devo fazer nesta situação?
+
+#org @Help_Text_HowDoIDoThisPortuguese
+Como eu faço isso?
+
+#org @Help_Text_WhatDoesThisTermMeanPortuguese
+O que este termo significa?
+
+#org @Help_Text_AboutThisGamePortuguese
+Sobre este jogo
+
+#org @Help_Text_TypeMatchupListPortuguese
+Digite lista de correspondência
+
+#org @Help_Text_ExitPortuguese
+SAÍDA
+
+#org @Help_Text_CancelPortuguese
+CANCELAR
+
+#org @Help_Text_TryDoingItOnYourOwnPortuguese
+Vamos tentar com nosso próprio poder!
+
+#org @Help_Text_DescWhatShouldIDoPortuguese
+Selecione para obter dicas para superar\nsituações desafiadoras.
+
+#org @Help_Text_DescHowDoIDoThisPortuguese
+Instruções detalhadas são fornecidas para\nvárias operações.
+
+#org @Help_Text_DescWhatDoesThisTermMeanPortuguese
+Descrições detalhadas são fornecidas para\ntermos que aparecem no jogo.
+
+#org @Help_Text_DescAboutThisGamePortuguese
+Descrições detalhadas são fornecidas sobre\neste jogo.
+
+#org @Help_Text_DescTypeMatchupListPortuguese
+Os confrontos de tipos e movimentos POK\eMON\nsão listados.
+
+#org @Help_Text_DescExitPortuguese
+Selecione para sair do Sistema de AJUDA.
+
+#org @Help_Text_GreetingsPortuguese
+Saudações! Este é o Sistema de AJUDA. Ligue-me\nquando e onde precisar pressionando o botão\pL ou R. As mensagens de ajuda mudam de\nacordo com a situação, portanto verifique-as\pcom frequência, por favor.
+
+#org @Help_Text_PlayingForFirstTimePortuguese
+Estou jogando pela primeira vez. Ajuda!
+
+#org @Help_Text_WhatShouldIBeDoingPortuguese
+O que eu deveria estar fazendo?
+
+#org @Help_Text_CantGetOutOfRoomPortuguese
+Não consigo sair de um quarto!
+
+#org @Help_Text_CantFindPersonIWantPortuguese
+Não consigo encontrar a pessoa que quero.
+
+#org @Help_Text_TalkedToEveryoneNowWhatPortuguese
+Eu conversei com todo mundo. O que agora?
+
+#org @Help_Text_SomeoneBlockingMyWayPortuguese
+Tem alguém bloqueando meu caminho!
+
+#org @Help_Text_ICantGoOnPortuguese
+Eu não posso continuar!
+
+#org @Help_Text_OutOfThingsToDoPortuguese
+Estou sem coisas para fazer.
+
+#org @Help_Text_WhatHappenedToItemIGotPortuguese
+O que aconteceu com o item que recebi?
+
+#org @Help_Text_WhatAreMyAdventureBasicsPortuguese
+Quais são os princípios básicos da minha\naventura?
+
+#org @Help_Text_HowAreRoadsForestsDifferentPortuguese
+Como as estradas e as florestas são diferentes?
+
+#org @Help_Text_HowAreCavesDifferentPortuguese
+Como as cavernas são diferentes?
+
+#org @Help_Text_HowDoIProgressPortuguese
+Como faço para progredir?
+
+#org @Help_Text_WhenCanIUseItemPortuguese
+Quando posso usar itens?
+
+#org @Help_Text_WhatsABattlePortuguese
+O que é uma batalha?
+
+#org @Help_Text_HowDoIPrepareForBattlePortuguese
+Como me preparo para a batalha?
+
+#org @Help_Text_WhatIsAMonsVitalityPortuguese
+Qual é a vitalidade de um POK\eMON?
+
+#org @Help_Text_MyMonsAreHurtPortuguese
+Meus POK\eMON estão feridos!
+
+#org @Help_Text_WhatIsStatusProblemPortuguese
+O que é um problema de status?
+
+#org @Help_Text_WhatHappensIfAllMyMonsFaintPortuguese
+O que acontece se todos os meus POK\eMON\ndesmaiarem?
+
+#org @Help_Text_CantCatchMonsPortuguese
+Não consigo pegar POK\eMON!
+
+#org @Help_Text_RanOutOfPotionsPortuguese
+Fiquei sem POÇÕES.
+
+#org @Help_Text_CanIBuyPokeBallsPortuguese
+Posso comprar BOLAS POK\e?
+
+#org @Help_Text_WhatsATrainerPortuguese
+O que é um TREINADOR?
+
+#org @Help_Text_HowDoIWinAgainstTrainerPortuguese
+Como posso ganhar contra um TRAINER?
+
+#org @Help_Text_WhereDoMonsAppearPortuguese
+Onde o POK\eMON aparece?
+
+#org @Help_Text_WhatAreMovesPortuguese
+O que são movimentos POK\eMON?
+
+#org @Help_Text_WhatAreHiddenMovesPortuguese
+O que são movimentos ESCONDIDOS?
+
+#org @Help_Text_WhatMovesShouldIUsePortuguese
+Que movimentos devo usar?
+
+#org @Help_Text_WantToAddMoreMovesPortuguese
+Quero adicionar mais movimentos.
+
+#org @Help_Text_WantToMakeMonStrongerPortuguese
+Quero tornar meu POK\eMON mais forte.
+
+#org @Help_Text_FoeMonsTooStrongPortuguese
+O inimigo POK\eMON é muito forte!
+
+#org @Help_Text_WhatDoIDoInCavePortuguese
+O que eu faço em uma caverna?
+
+#org @Help_Text_NothingIWantToKnowPortuguese
+Não há nada que eu queira saber!
+
+#org @Help_Text_WhatsPokemonCenterPortuguese
+O que é um CENTRO POK\eMON?
+
+#org @Help_Text_WhatsPokemonMartPortuguese
+O que é um POK\eMON MART?
+
+#org @Help_Text_WantToEndGamePortuguese
+Eu quero terminar o jogo.
+
+#org @Help_Text_WhatsAMonPortuguese
+O que é um POK\eMON?
+
+#org @Help_Text_WhatIsThatPersonLikePortuguese
+Como é essa pessoa?
+
+#org @Help_Text_WhatDoesHiddenMoveDoPortuguese
+O que um movimento OCULTO faz?
+
+#org @Help_Text_WhatDoIDoInSafariPortuguese
+O que eu faço em um JOGO SAFARI?
+
+#org @Help_Text_WhatAreSafariRulesPortuguese
+Quais são as regras do SAFARI GAME?
+
+#org @Help_Text_WantToEndSafariPortuguese
+Quero acabar com esse JOGO SAFARI!
+
+#org @Help_Text_WhatIsAGymPortuguese
+O que é uma academia?
+
+#org @Help_Text_AnswerPlayingForFirstTimePortuguese
+Você se torna o personagem principal, explorando\no mundo de POK\eMON. Conversando com pessoas\pe resolvendo mistérios, novos caminhos\nse abrirão para você. Esforce-se para alcançar\po objetivo junto com seu maravilhoso POK\eMON.
+
+#org @Help_Text_AnswerWhatShouldIBeDoingPortuguese
+Quando você encontrar outra pessoa,\vá\naté ela e pressione o botão A. Isso fará\pcom que ela fale e interaja com seu personagem.\nVocê também pode examinar vários itens\pe objetos da mesma maneira. Converse com\nas pessoas e verifique as coisas com frequência\ppara obter informações.
+
+#org @Help_Text_AnswerCantGetOutOfRoomPortuguese
+Ç Painel de controle  em direção às escadas\nou à saída para advance.
+
+#org @Help_Text_AnswerCantFindPersonIWantPortuguese
+Isso não é algo com que você deva se preocupar\nmuito. Fale com outras pessoas, verifique\pas placas, verifique as coisas e assim\npor diante. Às vezes, você pode precisar\papenas se mudar para uma nova cidade ou\nlugar.
+
+#org @Help_Text_AnswerTalkedToEveryoneNowWhatPortuguese
+Tente mudar para uma nova estrada, cidade\nou de lugar.
+
+#org @Help_Text_AnswerSomeoneBlockingMyWayPortuguese
+Pode haver algo na cidade\ou dentro de\num prédio que seja a causa. Tente falar\pcom as pessoas na área anovamente. Se houver\num problema que eles precisam resolver,\ptalvez você precise ajudar. Depois, tente\nconversar novamente com a pessoa que está\pbloqueando seu caminho.
+
+#org @Help_Text_AnswerOutOfThingsToDoPortuguese
+Tente ir a lugares que você ainda não visitou.\nAlém disso, verifique tudo que parece suspeito\ppressionando o botão A.
+
+#org @Help_Text_AnswerWhatHappenedToItemIGotPortuguese
+Qualquer item que você receber de outro\npersonagem vai para sua BAG. O item é automaticamente\pclassificado e colocado em um dos três\nbolsos. Para obter instruções sobre o uso\pda BAG, consulte a seção “Como fazer" do\nSistema de AJUDA. Eu faço isso?" cabeçalho.
+
+#org @Help_Text_AnswerWhatAreMyAdventureBasicsPortuguese
+Se POK\eMON forem feridos em batalha, leve-os\npara um CENTRO POK\eMON e faça com que\peles sejam curados pela equipe. Adquira\no hábito de salvar seu jogo e registrar\pseu progresso. Estoque itens de cura em\\nlPOK\eMON MARTS antes de viajar para longe.
+
+#org @Help_Text_AnswerHowAreRoadsForestsDifferentPortuguese
+As florestas são basicamente iguais às\nestradas, mas podem ser como labirintos.\pTodas as florestas têm uma saída, então\nnão\desista se você se perder.
+
+#org @Help_Text_AnswerHowAreCavesDifferentPortuguese
+As cavernas são escuras e perigosas. Wild\nPOK\eMON pode aparecer em qualquer lugar\pneles. Se houver uma emergência, corra\npara um POK\eMON CENTER ou use itens. Novas\pcidades aguardam descobertas além de algumas\ncavernas, então não desista.
+
+#org @Help_Text_AnswerHowDoIProgressPortuguese
+O objetivo do jogo é treinar seu POK\eMON\ne seguir em frente. Você deve coletar informações\pe resolver problemas. Por exemplo, o que\nvocê precisa para contornar um obstáculo?\pO que tiraria essa pessoa que o impede\ndo caminho?
+
+#org @Help_Text_AnswerWhatsABattlePortuguese
+Em uma batalha, POK\eMON tentam reduzir\nenhuma vitalidade do outro, expressa como\pHP. Se o HP de um POK\eMON cair para zero,\nit desmaia e o outro POK\eMON ganha. Ao\pvencer uma batalha, POK\eMON earn EXP.\nPontos, que os ajudam a subir de nível\p(ficar mais fortes).
+
+#org @Help_Text_AnswerHowDoIPrepareForBattlePortuguese
+Primeiro, cure completamente o POK\eMON\ndo seu grupo (o POK\eMON com você) em qualquer\pPOK\eMON CENTER. Você também deve comprar\nitens de cura para emergências em um POK\eMON\pMART.
+
+#org @Help_Text_AnswerWhatIsAMonsVitalityPortuguese
+A vitalidade de um POK\eMON é expressa\nem HP. Se um POK\eMON for ferido em batalha,\po HP será subtraído. Se seu HP cair para\nzero, o POK\eMON desmaia. Cure POK\eMON\pferido ou desmaiado em um POK\eMON CENTER\nou usando itens.
+
+#org @Help_Text_AnswerMyMonsAreHurtPortuguese
+Um POK\eMON CENTER é como uma pousada para\nPOK\eMON. Ele irá curar completamente o\pPOK\eMON de qualquer problema de status\ne restaurar completamente seu HP usando\puma máquina especial. Este serviço é gratuito,\nentão adquira o hábito de curar seu POK\eMON\pcom frequência.
+
+#org @Help_Text_AnswerWhatIsStatusProblemPortuguese
+Um problema de status refere-se a uma doença\nque é infligida a um POK\eMON pelo ataque\pde seu inimigo. Isso inclui queimaduras,\nparalisia, envenenamento, sono e congelamento.\pEles podem ser curados visitando um CENTRO\nPOK\eMON ou usando o item apropriado.
+
+#org @Help_Text_AnswerWhatHappensIfAllMyMonsFaintPortuguese
+Se todos os POK\eMON do seu grupo (todos\nos POK\eMON com você) desmaiarem, você\pperderá algum DINHEIRO e será voltado para\ncasa ou para um POK\eMON CENTER. Para reduzir\pessa chance, visite os POK\eMON CENTERS\ncom frequência. Além disso, adquira o hábito\pde economizar com frequência.
+
+#org @Help_Text_AnswerCantCatchMonsPortuguese
+Se um POK\eMON selvagem escapar de uma\nPOK\e BALL, ele obviamente ainda estará\pagressivo. Tente reduzir seu HP um pouco\nmais e tente enfraquecê-lo com paralisia\pou sono antes de tentar pegá-lo. Se o POK\\nA BOLA balança por um tempo, a pedreira\pestá perto de ser capturada!
+
+#org @Help_Text_AnswerRanOutOfPotionsPortuguese
+Existem lojas, conhecidas como POK\eMON\nMARTS, que vendem itens. Você não encontrará\pPOK\eMON MARTS em estradas, florestas ou\ncavernas. Estoque os itens necessários\penquanto estiver visitando uma cidade com\num POK\eMON MART.
+
+#org @Help_Text_AnswerCanIBuyPokeBallsPortuguese
+Você pode comprar POK\e BALLS em qualquer\nPOK\eMON MART em qualquer cidade. Você\pnão encontrará POK\eMON MARTS em estradas,\nflorestas ou cavernas. Estoque POK\e BALLS\penquanto estiver\ Visitando uma cidade\ncom um POK\eMON MART.
+
+#org @Help_Text_AnswerWhatsATrainerPortuguese
+Um TREINADOR é uma pessoa que cria POK\eMON\natravés de batalhas. TREINADORES irão desafiá-lo\p onde quer que estejam - pode ser em uma\nestrada, em florestas, cavernas, em qualquer\plugar. Se seus olhos se encontrarem, você\nterá que aceitar\ lseu desafio. Por isso\ptem cuidado!
+
+#org @Help_Text_AnswerHowDoIWinAgainstTrainerPortuguese
+Para vencer um TRAINER em batalha, use\nPOK\eMON que tenha vantagens de tipo\amante\po POK\eMON do inimigo. Você também pode\nusar POK\eMON altamente treinado com poder\pavassalador. Superar o POK\eMON do inimigo\né outra tática óbvia.
+
+#org @Help_Text_AnswerWhereDoMonsAppearPortuguese
+O POK\eMON selvagem aparecerá em grama\nalta, ão em estradas e em florestas. Eles\paparecerão em qualquer lugar em cavernas\nescuras. Não há POK\eMON selvagens ou TREINADORES\pnas cidades, então são lugares seguros.
+
+#org @Help_Text_AnswerWhatAreMovesPortuguese
+POK\eMON pode aprender até quatro técnicas\nou movimentos diferentes. Há uma grande\pvariedade de movimentos, incluindo ataques\ne aqueles com efeitos especiais. Os tipos\pde movimentos que podem ser aprendidos\nvariam para cada POK\eMON. Alguns movimentos\ppodem ser aprendidos com máquinas.
+
+#org @Help_Text_AnswerWhatAreHiddenMovesPortuguese
+Movimentos OCULTOS são aqueles que são\nespecialmente importantes para sua aventura.\pPara usar tal movimento fora da batalha,\nabra o MENU “POK\eMON” e faça com que o\pPOK\eMON que conhece o movimento o use.\nUm POK\eMON desmaiado pode usar a movimento\pHIDDEN fora da batalha.
+
+#org @Help_Text_AnswerWhatMovesShouldIUsePortuguese
+Selecione “FIGHT” e o MENU de movimentos\naparecerá. Considere o tipo de matchups\pe use os moves mais eficazes. Você pode\nverificar os efeitos de moves abrindo “POK\eMON,”\pescolhendo um POK\eMON, abrindo “SUMMARY,”\nentão abrindo “POK\eMON SKILLS”.
+
+#org @Help_Text_AnswerWantToAddMoreMovesPortuguese
+O máximo que um POK\eMON pode aprender\nsão quatro movimentos. Eles são aprendidos\pà medida que o POK\eMON sobe de nível.\nTambém pode ser ensinado um movimento usando\puma TM (Máquina Técnica) ou HM (Máquina\nOculta). Há também pessoas que ensinam\pmovimentos.
+
+#org @Help_Text_AnswerWantToMakeMonStrongerPortuguese
+A chave para tornar seu POK\eMON forte\né lutar e vencer com frequência. O EXP.\p(Experiência) Os pontos ganhos ao vencer\nbatalhas são acumulados para aumentar o\pnível do POK\eMON que participou nelas.\nLute com POK\eMON selvagens com frequência\ppara aumentar o nível do seu grupo.
+
+#org @Help_Text_AnswerFoeMonsTooStrongPortuguese
+Se seus inimigos forem muito fortes, tente\naumentar o nível do seu POK\eMON um pouco\pmais. Volte por onde você veio e lute POK\eMON\nselvagem para aumentar o nível do seu grupo.\pVocê também pode lutar contra TREINADORES\ncom quem você não lutou antes.
+
+#org @Help_Text_AnswerWhatDoIDoInCavePortuguese
+Ao contrário de estradas e florestas, POK\eMON\nselvagens podem aparecer em qualquer lugar\pnas cavernas. Se seus POK\eMON forem feridos\nem uma caverna, corra para um CENTRO POK\eMON\pou use itens para curá-los imediatamente.\nÉ muito perigoso forçar a sorte em cavernas.
+
+#org @Help_Text_AnswerNothingIWantToKnowPortuguese
+Confie no seu próprio conhecimento e poder.\nAcredite em si mesmo e encontre o seu caminho!
+
+#org @Help_Text_AnswerWhatsPokemonCenterPortuguese
+Um CENTRO POK\eMON é identificado por seu\ntelhado vermelho e uma placa “P.C”. Cada\pPOK\eMON CENTER oferece serviços como cura\nde POK\eMON e uso gratuito de PC, tornando-o\pessencial para suas viagens. No andar superior\nhá instalações para linkar com amigos e\poutras pessoas.
+
+#org @Help_Text_AnswerWhatsPokemonMartPortuguese
+Um POK\eMON MART é identificado por seu\ntelhado azul e uma placa “MART”. Os itens\ppodem ser comprados e vendidos em qualquer\nPOK\eMON MART. Alguns MARTS carregam itens\pque estão disponíveis apenas em suas cidades.
+
+#org @Help_Text_AnswerWantToEndGamePortuguese
+Você pode encerrar o jogo com segurança\nselecionando "SALVAR" no MENU. Depois de\psalvar, o jogo pode ser desligado com segurança.\nQuando o jogo for ligado novamente, você\ppoderá continuar de onde salvou pela última\nvez.
+
+#org @Help_Text_AnswerWhatsAMonPortuguese
+POK\eMON são seres vivos sobre os quais\nmuitos mistérios ainda permanecem. Você\ppode vê-los na grama, no mar e em cavernas.\nEles parecem obedecer aos desejos dos TREINADORES\pque os capturaram.
+
+#org @Help_Text_AnswerWhatIsThatPersonLikePortuguese
+Use o VERIFICADOR DE FAMA entre os ITENS-CHAVE\nda sua BOLSA. Ele pode lhe dar uma dica,\pentão experimente.
+
+#org @Help_Text_AnswerWhatDoesHiddenMoveDoPortuguese
+Um movimento HIDDEN é ensinado a um POK\eMON\usando\num HM (Hidden Machine). Um movimento HIDDEN\pé importante para ajudar\sua aventura.\nPor exemplo, um deles é usado para iluminar\pcavernas escuras. Outro corta árvores pequenas.\nExiste um para viajar na água e assim por\pdiante.
+
+#org @Help_Text_AnswerWhatDoIDoInSafariPortuguese
+Tente capturar POK\eMON selvagens jogando\nas BOLAS SAFARI especiais. Você também\ppode ficar com qualquer item que encontrar.
+
+#org @Help_Text_AnswerWhatAreSafariRulesPortuguese
+Seu JOGO SAFARI termina quando você percorreu\numa certa distância ou jogou\todas as suas\pBOLAS SAFARI. Abra o MENU para verificar\no número de passos restantes e as BOLAS\pSAFARI.
+
+#org @Help_Text_AnswerWantToEndSafariPortuguese
+Se você quiser encurtar seu SAFARI GAME,\nabra o MENU e selecione “RETIRE” no topo\pda lista.
+
+#org @Help_Text_AnswerWhatIsAGymPortuguese
+POK\eMON GYMS são operados pela POK\eMON\nLEAGUE e são instalações de treinamento\ppara TREINADORES. Eles estão por todo o\npaís, em cidades e vilas. Cada um é liderado\ppor um LÍDER, que é um TREINADOR muito\nqualificado. Vença o LEADER para coletar\pum EMBLEMA.
+
+#org @Help_Text_UsingPokedexPortuguese
+Usando “POK\eDEX”
+
+#org @Help_Text_UsingPokemonPortuguese
+Usando “POK\eMON”
+
+#org @Help_Text_UsingSummaryPortuguese
+Usando “RESUMO”
+
+#org @Help_Text_UsingSwitchPortuguese
+Usando “SWITCH”
+
+#org @Help_Text_UsingItemPortuguese
+Usando “ITEM”
+
+#org @Help_Text_UsingBagPortuguese
+Usando “SACO”
+
+#org @Help_Text_UsingAnItemPortuguese
+Usando um item
+
+#org @Help_Text_UsingKeyItemPortuguese
+Usando um item chave
+
+#org @Help_Text_UsingPokeBallPortuguese
+Usando uma BOLA POK\e
+
+#org @Help_Text_UsingPlayerPortuguese
+Usando “[B_BUFF2]À”
+
+#org @Help_Text_UsingSavePortuguese
+Usando “SALVAR”
+
+#org @Help_Text_UsingOptionPortuguese
+Usando “OPÇÃO”
+
+#org @Help_Text_UsingPotionPortuguese
+Usando uma POÇÃO
+
+#org @Help_Text_UsingTownMapPortuguese
+Usando o MAPA DA CIDADE
+
+#org @Help_Text_UsingTMPortuguese
+Usando uma TM
+
+#org @Help_Text_UsingHMPortuguese
+Usando um HM
+
+#org @Help_Text_UsingMoveOutsideOfBattlePortuguese
+Usando um movimento fora da batalha
+
+#org @Help_Text_RidingBicyclePortuguese
+Andando de BICICLETA
+
+#org @Help_Text_EnteringNamePortuguese
+Inserindo um nome
+
+#org @Help_Text_UsingPCPortuguese
+Usando um PC
+
+#org @Help_Text_UsingBillsPCPortuguese
+Á'S PC"
+
+#org @Help_Text_UsingWithdrawPortuguese
+Usando “RETIRADA”
+
+#org @Help_Text_UsingDepositPortuguese
+Usando “DEPÓSITO”
+
+#org @Help_Text_UsingMovePortuguese
+Usando “MOVE”
+
+#org @Help_Text_MovingItemsPortuguese
+Movendo itens
+
+#org @Help_Text_UsingPlayersPCPortuguese
+Para o PC”
+
+#org @Help_Text_UsingWithdrawItemPortuguese
+Usando “RETIR ITEM”
+
+#org @Help_Text_UsingDepositItemPortuguese
+Usando “ITEM DE DEPÓSITO”
+
+#org @Help_Text_UsingMailboxPortuguese
+Usando “CAIXA DE CORREIO”
+
+#org @Help_Text_UsingProfOaksPCPortuguese
+Usando “PROF. PC DO OAK”
+
+#org @Help_Text_OpeningMenuPortuguese
+Abrindo o MENU
+
+#org @Help_Text_UsingFightPortuguese
+Usando “LUTA”
+
+#org @Help_Text_UsingPokemon2Portuguese
+Oi
+
+#org @Help_Text_UsingShiftPortuguese
+Usando “SHIFT”
+
+#org @Help_Text_UsingSummary2Portuguese
+Usando “RESUMO”
+
+#org @Help_Text_UsingBag2Portuguese
+Usando “SACO”
+
+#org @Help_Text_ReadingPokedexPortuguese
+Lendo o “POK\eDEX”
+
+#org @Help_Text_UsingHomePCPortuguese
+Usando o PC em casa
+
+#org @Help_Text_UsingItemStoragePortuguese
+Usando o sistema de armazenamento de itens
+
+#org @Help_Text_UsingWithdrawItem2Portuguese
+Usando “RETIR ITEM”
+
+#org @Help_Text_UsingDepositItem2Portuguese
+Usando “ITEM DE DEPÓSITO”
+
+#org @Help_Text_UsingMailbox2Portuguese
+Usando a CAIXA DE CORREIO
+
+#org @Help_Text_UsingRunPortuguese
+Usando “EXECUTAR”
+
+#org @Help_Text_RegisterKeyItemPortuguese
+“REGISTRAR” um item fundamental
+
+#org @Help_Text_UsingBallPortuguese
+Usando “BOLA”
+
+#org @Help_Text_UsingBaitPortuguese
+Usando “ISCA”
+
+#org @Help_Text_UsingRockPortuguese
+Usando “ROCHA”
+
+#org @Help_Text_UsingHallOfFamePortuguese
+Usando “HALL DA FAMA”
+
+#org @Help_Text_HowToUsePokedexPortuguese
+Selecione “POK\eDEX” no MENU. Î Escolha\nPOK\eMON usando comandos como  como “POK\eMON\pLIST,”  “HABITATS OF POK\eMON,” e  “SEARCH.”\nÏ Selecione um POK\eMON para obter informações\p detalhadas.
+
+#org @Help_Text_HowToUsePokemonPortuguese
+Selecione “POK\eMON” no MENU. Î Escolha\num POK\eMON no seu grupo. Ï Selecione “RESUMO”,\p“SWITCH”  ou “ITEM”.
+
+#org @Help_Text_HowToUseSummaryPortuguese
+Selecione “RESUMO”. Î Pressione para a\nesquerda ou para a direita noÇ Controle\p Pad para verificar as informações:  “POK\eMON\nINFO”  “POK\eMON SKILLS”  “MOVES CONHECIDOS”
+
+#org @Help_Text_HowToUseSwitchPortuguese
+Escolha o POK\eMON que você deseja  trocar.\nÎ Selecione “TROCAR”. Ï Selecione o POK\eMON\ppara trocar com o  primeiro. O POK\eMON\nà esquerda da tela será o primeiro a sair\pna batalha.
+
+#org @Help_Text_HowToUseItemPortuguese
+Selecione “ITEM”. Î Selecione se você deseja\n“DAR”  um item para o POK\eMON segurar,\p ou “TOMAR” um item que ele esteja segurando.\nUm POK\eMON não pode conter mais que um\pitem!
+
+#org @Help_Text_HowToUseBagPortuguese
+Selecione “BOLSA” no MENU. Î Pressione\npara a esquerda ou para a direita noÇ Controle\p Teclado para verificar os títulos dos\ndados:  “ITEMS”  “KEY ITEMS”  “POK\e BALLS”\p Pressione para cima ou para baixo para\nselecionar um item.
+
+#org @Help_Text_HowToUseKeyItemPortuguese
+Selecione o BOLSO “ITENS PRINCIPAIS”. Î\nPressione para cima ou para baixo noÇ Control\p Teclado para selecionar um item chave.\nÏ Selecione “USE” para usar o item-chave\pselecionado.
+
+#org @Help_Text_HowToUsePokeBallPortuguese
+Ao lutar contra um POK\eMON selvagem, \nselecione o “POK\e BALLS” do BAG  BOLSO.\pÎ Pressione para cima ou para baixo noÇ\nControl  Pad para selecionar uma POK\e\pBALL. Ï Selecione “USE” para lançar a \nPOK\e BALL selecionada.
+
+#org @Help_Text_HowToUsePlayerPortuguese
+Selecione “À” no MENU. Î Seu CARTÃO DE\nTREINADOR é exibido voltado  para cima\pcom informações básicas. Pressione o botão\n A para virar o CARTÃO. Ï Uma variedade\pde dados podem ser encontrados no verso\ndo CARD.
+
+#org @Help_Text_HowToUseSavePortuguese
+Selecione “SALVAR” no MENU. Î Selecione\n“SIM” e seu progresso será  registrado\pno arquivo salvo. Depois que o jogo for\nsalvo, você poderá desligar o jogo. Seu\pjogo pode ser retomado de onde você salvou.
+
+#org @Help_Text_HowToUseOptionPortuguese
+Selecione “OPÇÃO” no MENU. Î Pressione\npara cima ou para baixo noÇ Controle  o\pteclado para selecionar um item opcional\ne, em seguida,  pressione para a esquerda\pou para a direita para alterar as  configurações.\nÏ Selecione “CANCELAR” ou pressione o botão\p B após fazer alterações.
+
+#org @Help_Text_HowToUsePotionPortuguese
+Abra o MENU. Î Pressione para cima ou para\nbaixo noÇ Control  Pad e selecione “BAG”.\pÏ Selecione “POÇÃO” em “ITEMS”  BOLSO.\nÒ Selecione “USAR”. Ó Selecione o POK\eMON\pa ser curado.
+
+#org @Help_Text_HowToUseTownMapPortuguese
+Abra o MENU. Î Pressione para cima ou para\nbaixo noÇ Control  Pad e selecione “BAG”.\pÏ Pressione para a esquerda ou para a direita\npara abrir o BOLSO  “ITENS-CHAVE” e, em\pseguida, pressione  para cima ou para baixo\npara selecionar “MAPA DA CIDADE”.  Ò Selecione\p“USE” para abrir o MAPA DA CIDADE.
+
+#org @Help_Text_HowToUseTMPortuguese
+Abra o MENU. Î Abra o BOLSO “ITENS-CHAVE”\nna  “BOLSA”. Ï “ABRIR” o TM CASE. Ò Selecione\pe “USE” uma TM. Ó Selecione um POK\eMON\nque possa aprender o  movimento no TM.
+
+#org @Help_Text_HowToUseHMPortuguese
+Abra o MENU. Î Abra o BOLSO “ITENS-CHAVE”\nna  “BOLSA”. Ï “ABRIR” o TM CASE. Ò Selecione\pe “USE” um HM. Ó Selecione um POK\eMON\nque possa aprendê-lo. HMs são difíceis\pde remover, então tome cuidado!
+
+#org @Help_Text_HowToUseMoveOutsideOfBattlePortuguese
+Abra o MENU. Selecione "POK\eMON." Ï Selecione\num POK\eMON que conheça um movimento  HM.\pOs movimentos HM utilizáveis  serão mostrados\nem azul. Selecione e  use o movimento desejado\ppara destruir um  obstáculo, voar, surfar,\netc.
+
+#org @Help_Text_HowToRideBicyclePortuguese
+Abra o MENU. Abra o BOLSO  “ITENS-CHAVE”\nna “BOLSA”  e selecione a “BICICLETA”.\pÎ A BICICLETA pode ser conduzida  selecionando\n“USE”. Você também pode  “REGISTRÁ-LO”\ppara uso imediato  pressionando SELECIONAR.
+
+#org @Help_Text_HowToEnterNamePortuguese
+Mova o cursor para a letra desejada  com\noÇ Painel de controle e  pressione o botão\pA para acessá-lo. Î Pressione o botão B\npara fazer backup. Ï Pressione SELECT para\palternar entre  letras maiúsculas e minúsculas.\nÒ Pressione o botão A em “OK”.
+
+#org @Help_Text_HowToUsePCPortuguese
+Vá para qualquer CENTRO POK\eMON, vá até\no PC e pressione o botão A.
+
+#org @Help_Text_HowToUseBillsPCPortuguese
+Selecione “Á'S PC” no PC. Î Selecione um\ndos três principais  itens do MENU para\pacessar o sistema de armazenamento POK\eMON.\nSe você capturar um POK\eMON quando tiver\pseis em seu grupo, o POK\eMON será enviado\nautomaticamente para um CAIXA no Sistema!
+
+#org @Help_Text_HowToUseWithdrawPortuguese
+Selecione um POK\eMON na CAIXA aberta \ncom oÇ Painel de controle. Î Selecione\p“RETIR” para remover o  POK\eMON da CAIXA\ne adicioná-lo ao  seu grupo. Você não pode\pretirar um POK\eMON se\já tiver seis POK\eMON\ncom você!
+
+#org @Help_Text_HowToUseDepositPortuguese
+Selecione um POK\eMON no seu grupo com\n oÇ Painel de controle. Î Selecione “DEPÓSITO”.\pÏ Selecione a CAIXA e pressione o botão\n A para armazenar o POK\eMON. Se você tiver\papenas um POK\eMON com você,  ele não poderá\nser armazenado!
+
+#org @Help_Text_HowToUseMovePortuguese
+Selecione um POK\eMON na CAIXA aberta.\nÎ Pegue o POK\eMON selecionando  “MOVE”\pe mova-o para qualquer lugar com  oÇ Painel\nde controle. Ï Mova o POK\eMON para o nome\pda BOX  e pressione esquerda ou direita\npara movê-lo  para outra BOX.
+
+#org @Help_Text_HowToMoveItemsPortuguese
+POK\eMON levemente mostrado pode ser feito\n para segurar um item selecionando-o e\p pressionando o botão A. Î POK\eMON claramente\nmostrado pode ser feito  para dar o item\pque eles estão segurando para  outro POK\eMON,\nou devolver o item  para o BAG com o Botão\pA.
+
+#org @Help_Text_HowToUsePlayersPCPortuguese
+Selecione “À's PC” no PC. Î Selecione “Armazenamento\nde itens” ou  “CAIXA DE CORREIO”. Você\ppode armazenar itens em seu próprio PC\nse sua BOLSA estiver cheia. Você também\ppode retirar itens armazenados no seu PC.
+
+#org @Help_Text_HowToUseWithdrawItemPortuguese
+Selecione “RETIR ITEM”. Î Selecione o item\na ser retirado. Ï O item pode ser retirado\pe  colocado no BOLSO DE ITENS da BAG. \nTambém pode ser dado diretamente a um \pPOK\eMON para segurar.
+
+#org @Help_Text_HowToUseDepositItemPortuguese
+Selecione “ITEM DE DEPÓSITO”. Î Selecione\no item no BAG a ser  depositado usando\poÇ Painel de controle. Ï Se houver mais\nde um   item a ser depositado, insira a\p quantidade com oÇ Painel de controle,\n e pressione o botão A.
+
+#org @Help_Text_HowToUseMailboxPortuguese
+Selecione “À'S PC” no PC. Î Selecione “MAILBOX”\npara ler MAIL ou  fazer um POK\eMON segurar\pMAIL.
+
+#org @Help_Text_HowToUseProfOaksPCPortuguese
+Selecione “PROF. OAK'S PC” no PC. Î PROF.\nOAK avaliará seu  POK\eDEX. Suas avaliações\pdevem lhe dar dicas para capturar mais\nPOK\eMON!
+
+#org @Help_Text_HowToOpenMenuPortuguese
+Pressione INICIAR. Î O MENU será aberto\nà direita. Ï Dependendo da situação, o\pMENU  pode apresentar títulos diferentes.\nO MENU não abrirá em certas\situações como\pao falar, fazer alguma coisa, lutar, etc.
+
+#org @Help_Text_HowToUseFightPortuguese
+Selecione “LUTA”. Î Selecione um dos movimentos\nmostrados, e esse movimento será usado!
+
+#org @Help_Text_HowToUsePokemon2Portuguese
+Selecione “POK\eMON”. Î Selecione o POK\eMON\nno seu grupo  que você deseja usar. Ï Se\pvocê tiver dois ou mais POK\eMON  com você,\neles podem ser trocados  selecionando “SHIFT”.\pVerifique os dados POK\eMON  selecionando\n“SUMMARY”.
+
+#org @Help_Text_HowToUseShiftPortuguese
+Selecione o POK\eMON a ser enviado. Î Selecione\n“SHIFT”. Ï O POK\eMON selecionado trocará\p de lugar com o POK\eMON na batalha!
+
+#org @Help_Text_HowToUseSummary2Portuguese
+Selecione “RESUMO”. Î Pressione para a\nesquerda ou para a direita noÇ Controle\p Pad para verificar as informações:  “POK\eMON\nINFO”  “POK\eMON SKILLS”  “MOVES CONHECIDOS”
+
+#org @Help_Text_HowToUseBag2Portuguese
+Selecione “BOLSA”. Î Pressione para a esquerda\nou para a direita noÇ Controle  Teclado\ppara verificar os títulos dos dados:  “ITEMS”\n “KEY ITEMS”  “POK\e BALLS”  Pressione\ppara cima ou para baixo para selecionar\num item.
+
+#org @Help_Text_HowToReadPokedexPortuguese
+Os POK\eMON que você capturou são  identificados\npor uma marca POK\e BALL na  lista POK\eDEX.\pÎ Um POK\eMON capturado fornecerá uma \ngrande quantidade de dados. Ï Selecione\p“AREA” para exibir o MAPA DA CIDADE com\no(s) habitat(s) do POK\eMON.
+
+#org @Help_Text_HowToUseHomePCPortuguese
+Vá até o PC em casa e pressione  o botão\nA. Î O PC será ligado. Ï Selecione “ARMAZENAMENTO\pDE ITEM” ou  “CAIXA DE CORREIO”.
+
+#org @Help_Text_HowToUseItemStoragePortuguese
+Selecione “RETIR ITEM” para retirar  um\nitem armazenado em seu PC. Î Selecione\p“DEPÓSITO ITEM” para colocar   um item\nda sua BAG no seu PC.
+
+#org @Help_Text_HowToUseWithdrawItem2Portuguese
+Selecione “RETIR ITEM”. Î Selecione o item\na ser retirado. Ï O item pode ser retirado\pe  colocado no BOLSO DE ITENS da BAG. \nTambém pode ser dado diretamente a um \pPOK\eMON para segurar.
+
+#org @Help_Text_HowToUseDepositItem2Portuguese
+Selecione “ITEM DE DEPÓSITO”. Î Selecione\no item no BAG a ser  depositado usando\poÇ Painel de controle. Ï Se não houver\nnada no BAG, este  comando não poderá ser\pusado!
+
+#org @Help_Text_HowToUseMailbox2Portuguese
+Selecione MAIL pelo nome para lê-lo ou\n faça um POK\eMON segurá-lo.
+
+#org @Help_Text_HowToUseRunPortuguese
+Você pode “RUN” de um POK\eMON selvagem.\nÎ Sua chance de escapar aumenta  se seu\pPOK\eMON em batalha for rápido.
+
+#org @Help_Text_HowToRegisterKeyItemPortuguese
+Abra o BOLSO “ITENS PRINCIPAIS”. Î Selecione\no item chave e selecione  “REGISTRAR”.
+
+#org @Help_Text_HowToUseBallPortuguese
+Selecione para lançar a POK\e  BOLA especial\nusada apenas na ZONA SAFARI. Quando POK\eMON\pselvagens aparecerem, jogue muitas oSAFARI\nBALLS para pegá-los!
+
+#org @Help_Text_HowToUseBaitPortuguese
+Selecione para jogar a comida especial\n usada apenas na ZONA SAFARI. É comida\pPOK\eMON enrolada em uma bola para facilitar\na alimentação. Quando BAIT é lançado, o\pPOK\eMON selvagem pode ser atraído por\nele e não pode fugir!
+
+#org @Help_Text_HowToUseRockPortuguese
+Selecione para atirar uma pedra  no chão\nna ZONA SAFARI. Atirar uma pedra em um\pPOK\eMON pode  fazer com que ele fuja,\nmas fica mais fácil pegá-lo!
+
+#org @Help_Text_HowToUseHallOfFamePortuguese
+Selecione “HALL OF FAME” no PC. Î Os POK\eMON\nque entraram no  HALL OF FAME podem ser\pexaminados.
+
+#org @Help_Text_HPPortuguese
+HP
+
+#org @Help_Text_EXPPortuguese
+ÛEXP. Pontos
+
+#org @Help_Text_MovesPortuguese
+MOVIMENTOS
+
+#org @Help_Text_AttackPortuguese
+ATAQUE
+
+#org @Help_Text_DefensePortuguese
+DEFESA
+
+#org @Help_Text_SpeedPortuguese
+VELOCIDADE
+
+#org @Help_Text_LevelPortuguese
+e
+
+#org @Help_Text_TypePortuguese
+TIPO
+
+#org @Help_Text_OTPortuguese
+Antigo Testamento
+
+#org @Help_Text_ItemPortuguese
+ITEM
+
+#org @Help_Text_AbilityPortuguese
+HABILIDADE
+
+#org @Help_Text_MoneyPortuguese
+DINHEIRO
+
+#org @Help_Text_MoveTypePortuguese
+TIPO DE MOVIMENTO
+
+#org @Help_Text_NaturePortuguese
+NATUREZA
+
+#org @Help_Text_IDNoPortuguese
+Nº de identificação
+
+#org @Help_Text_PPPortuguese
+PP
+
+#org @Help_Text_PowerPortuguese
+PODER
+
+#org @Help_Text_AccuracyPortuguese
+PRECISÃO
+
+#org @Help_Text_FNTPortuguese
+FNT
+
+#org @Help_Text_ItemsPortuguese
+UNID
+
+#org @Help_Text_KeyItemsPortuguese
+ITENS CHAVE
+
+#org @Help_Text_PokeBallsPortuguese
+fogo
+
+#org @Help_Text_PokedexPortuguese
+fogo
+
+#org @Help_Text_PlayTimePortuguese
+TEMPO DE JOGO
+
+#org @Help_Text_BadgesPortuguese
+DISTINTIVOS
+
+#org @Help_Text_TextSpeedPortuguese
+VELOCIDADE DO TEXTO
+
+#org @Help_Text_BattleScenePortuguese
+CENA DE BATALHA
+
+#org @Help_Text_BattleStylePortuguese
+ESTILO DE BATALHA
+
+#org @Help_Text_SoundPortuguese
+SOM
+
+#org @Help_Text_ButtonModePortuguese
+MODO DE BOTÃO
+
+#org @Help_Text_FramePortuguese
+QUADRO
+
+#org @Help_Text_Cancel2Portuguese
+CANCELAR
+
+#org @Help_Text_TMPortuguese
+MT
+
+#org @Help_Text_HMPortuguese
+HM
+
+#org @Help_Text_HMMovePortuguese
+HM MOVE
+
+#org @Help_Text_EvolutionPortuguese
+EVOLUÇÃO
+
+#org @Help_Text_StatusProblemPortuguese
+PROBLEMA DE ESTADO
+
+#org @Help_Text_PokemonPortuguese
+fogo
+
+#org @Help_Text_IDNo2Portuguese
+Nº de identificação
+
+#org @Help_Text_Money2Portuguese
+DINHEIRO
+
+#org @Help_Text_Badges2Portuguese
+DISTINTIVOS
+
+#org @Help_Text_DefineHPPortuguese
+HP indica a vitalidade de um POK\eMON.\nSe o HP de um POK\eMON cair para zero,\pele desmaia e é incapaz de lutar. Portanto,\na chave na batalha é tentar reduzir o HP\pdo inimigo a zero. Se o seu POK\eMON estão\nferidos, restaure seu HP em um POK\eMON\pCENTER ou use itens.
+
+#org @Help_Text_DefineEXPPortuguese
+EXP. Pontos significa “Pontos de Experiência”.\nPOK\eMON ganha EXP. Pontos participando\pde vitórias em batalhas. Quando um POK\eMON\nacumula EXP suficiente. Pontos, sobe de\pnível. A EXP. Barra\indica EXP acumulada.\nPontos. Ele retorna a zero ao subir de\pnível.
+
+#org @Help_Text_DefineMovesPortuguese
+POK\eMON pode aprender até quatro movimentos\ndiferentes. Existem muitos tipos de movimentos,\pincluindo ataques e aqueles com efeitos\nespeciais. Os tipos de movimentos que podem\pser aprendidos variam para cada POK eMON.\nAlguns movimentos podem ser aprendidos\pcom itens.
+
+#org @Help_Text_DefineDefensePortuguese
+DEFESA indica a resistência que um POK\eMON\ntem contra ataques físicos. Quanto maior\pesta estatística, menor o dano sustido\npelo golpe físico de um inimigo.
+
+#org @Help_Text_DefineSpAtkPortuguese
+SP. ATK (Ataque Especial) indica o poder\nde um movimento de ataque especial. Quanto\pmaior esta estatística, mais poderoso o\nmovimento de ataque especial. É aplicado\ppara os seguintes tipos de movimentos:\nFOGO, ÁGUA, ELÉTRICO, GRAMA,\ ICE, PSYCHIC,\pDRAGON e DARK.
+
+#org @Help_Text_DefineSpDefPortuguese
+SP. DEF (Defesa Especial) indica a resistência\nque um POK\eMON tem contra ataques especiais.\pQuanto maior esta estatística, menor o\ndano sustido pelo ataque especial de um\pinimigo.
+
+#org @Help_Text_DefineSpeedPortuguese
+SPEED indica a agilidade de um POK\eMON.\nSe esta estatística exceder a batalha do\pinimigo, o POK\eMON pode fazer um movimento\nantes de seu oponente mais lento.
+
