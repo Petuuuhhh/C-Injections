@@ -8737,9 +8737,7 @@ TextScripts = ['ViridianForest_Text_FriendsItchingToBattle',
 'gText_MysteryGiftSentOver',
 'gText_MysteryGiftFullParty',
 'gText_MysteryGiftNewTrainer',
-'gText_MysteryGiftCantBeUsed']
-
-JapaneseTextScripts = [
+'gText_MysteryGiftCantBeUsed',
 'SafariZone_Text_WelcomeToSafariZone',
 'SafariZone_Text_WelcomeFirstTime',
 'SafariZone_Text_ComeInAndEnjoy',
@@ -8794,8 +8792,7 @@ JapaneseTextScripts = [
 'SootopolisCity_Text_WhatKindOfWishInYourName',
 'SootopolisCity_Text_LikeSeasonBornIn',
 'SootopolisCity_Text_ThenILoveAutumn',
-'SootopolisCity_Text_OhDoesntMatter',
-]
+'SootopolisCity_Text_OhDoesntMatter']
 
 sText_TaskOver = "TASK OVER\nタスクがオ-バ-しました";
 sText_Slash = "/";

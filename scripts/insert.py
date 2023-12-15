@@ -518,7 +518,8 @@ def main():
             with open(REPOINT_YAK, 'r') as repointList:
                 definesDict = {}
                 conditionals = []
-                for line in repointList:
+                for line_index in tqdm(range(len(repointList))):
+                    line = repointList[line_index]
                     if TryProcessFileInclusion(line, definesDict):
                         continue
                     if TryProcessConditionalCompilation(line, definesDict, conditionals):
