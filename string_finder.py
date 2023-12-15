@@ -654,19 +654,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 # limit = limit + len(stringStore) + 2
                                 # charIndex = charIndex + len(stringStore) + 1
                         # charIndex = charIndex + 1
-                    # num = 0
-                    # wrapped_text_store = ''
-                    # for wrap in wrapped_text:
-                        # if line_endings_store != '':
-                            # try:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            # except:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # else:
-                            # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # num = num + 1
-                    # wrapped_text_store = wrapped_text_store[:-2]
-                    # print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                    # # num = 0
+                    # # wrapped_text_store = ''
+                    # # for wrap in wrapped_text:
+                        # # if line_endings_store != '':
+                            # # try:
+                                # # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                            # # except:
+                                # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        # # else:
+                            # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        # # num = num + 1
+                    # # wrapped_text_store = wrapped_text_store[:-2]
+                    # print('#org @' + string + '\n' + wrapped_text + '\n')
                     # num3 = num3 + 1
                 # else:
                     # translated_text = translate(text_newline,"es","auto")
@@ -713,19 +713,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 # limit = limit + len(stringStore) + 2
                                 # charIndex = charIndex + len(stringStore) + 1
                         # charIndex = charIndex + 1
-                    # num = 0
-                    # wrapped_text_store = ''
-                    # for wrap in wrapped_text:
-                        # if line_endings_store != '':
-                            # try:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                            # except:
-                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # else:
-                            # wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                        # num = num + 1
-                    # wrapped_text_store = wrapped_text_store[:-2]
-                    # print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                    # # num = 0
+                    # # wrapped_text_store = ''
+                    # # for wrap in wrapped_text:
+                        # # if line_endings_store != '':
+                            # # try:
+                                # # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                            # # except:
+                                # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        # # else:
+                            # # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                        # # num = num + 1
+                    # # wrapped_text_store = wrapped_text_store[:-2]
+                    # print('#org @' + string + '\n' + wrapped_text + '\n')
                     # num3 = num3 + 1
                 # # print(string + ' ' + offset)
             # except:
@@ -841,19 +841,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     pass
                             pos = pos + 1
                         wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = translate(text_newline,"es","auto")
                         line_endings = 'npl'
@@ -868,19 +868,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     pass
                             pos = pos + 1
                         wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 elif constructedString and constructedString[-1] != '$':
                     text = constructedString
                     text_newline = text.replace('\n', '\\n')
@@ -1026,19 +1026,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = limit + len(stringStore) + 2
                                     charIndex = charIndex + len(stringStore) + 1
                             charIndex = charIndex + 1
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 # print(string + ' ' + offset)
             elif string in JapaneseTextScripts:
                 constructedString = ''
@@ -1164,19 +1164,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = limit + len(stringStore) + 2
                                     charIndex = charIndex + len(stringStore) + 1
                             charIndex = charIndex + 1
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
@@ -1222,19 +1222,19 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = limit + len(stringStore) + 2
                                     charIndex = charIndex + len(stringStore) + 1
                             charIndex = charIndex + 1
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 elif constructedString and constructedString[-1] != '$':
                     text = constructedString
                     text_newline = text.replace('\n', '\\n')
@@ -1299,21 +1299,20 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = limit + len(stringStore) + 2
                                     charIndex = charIndex + len(stringStore) + 1
                             charIndex = charIndex + 1
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                     else:
-                        print(text_newline)
                         translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                         line_endings = 'npl'
                         line_endings_store = ''
@@ -1358,17 +1357,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = limit + len(stringStore) + 2
                                     charIndex = charIndex + len(stringStore) + 1
                             charIndex = charIndex + 1
-                        num = 0
-                        wrapped_text_store = ''
-                        for wrap in wrapped_text:
-                            if line_endings_store != '':
-                                try:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
-                                except:
-                                    wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            else:
-                                wrapped_text_store += wrap.replace('\n', '') + '\\n'
-                            num = num + 1
-                        wrapped_text_store = wrapped_text_store[:-2]
-                        print('#org @' + string + '\n' + wrapped_text_store + '\n')
+                        # num = 0
+                        # wrapped_text_store = ''
+                        # for wrap in wrapped_text:
+                            # if line_endings_store != '':
+                                # try:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\' + line_endings_store[num]
+                                # except:
+                                    # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # else:
+                                # wrapped_text_store += wrap.replace('\n', '') + '\\n'
+                            # num = num + 1
+                        # wrapped_text_store = wrapped_text_store[:-2]
+                        print('#org @' + string + '\n' + wrapped_text + '\n')
                 # print(string + ' ' + offset)
