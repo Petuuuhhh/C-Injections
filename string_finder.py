@@ -261,13 +261,27 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     char = sanitizedText[charIndex]
                                     wrapped_text = wrapped_text + char
                                     width_ = width_ + 1
-                                    if width_ >= limit and count % 2 == 0 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\n'
+                                    if width_ >= limit and count % 2 == 0:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\n'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
-                                    elif width_ >= limit and count % 2 == 1 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\p'
+                                    elif width_ >= limit and count % 2 == 1:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\p'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
@@ -275,11 +289,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                         wrapped_text = wrapped_text + stringStore + ']'
                                         if stringStore in nineWidths:
-                                            limit = limit + len(stringStore) + 11
+                                            limit = limit + 9
                                             charIndex = charIndex + len(stringStore) + 1
                                         else:
-                                            limit = limit + len(stringStore) + 2
                                             charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
                                     charIndex = charIndex + 1
                                 print(1, string)
                                 f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
@@ -315,13 +329,27 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     char = sanitizedText[charIndex]
                                     wrapped_text = wrapped_text + char
                                     width_ = width_ + 1
-                                    if width_ >= limit and count % 2 == 0 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\n'
+                                    if width_ >= limit and count % 2 == 0:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\n'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
-                                    if width_ >= limit and count % 2 == 1 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\p'
+                                    elif width_ >= limit and count % 2 == 1:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\p'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
@@ -329,11 +357,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                         wrapped_text = wrapped_text + stringStore + ']'
                                         if stringStore in nineWidths:
-                                            limit = limit + len(stringStore) + 11
+                                            limit = limit + 9
                                             charIndex = charIndex + len(stringStore) + 1
                                         else:
-                                            limit = limit + len(stringStore) + 2
                                             charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
                                     charIndex = charIndex + 1
                                 print(3, string)
                                 f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
@@ -363,7 +391,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     except:
                                                         pass
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
-                                            print(constructedString.split('[')[0], constructedString.split(']')[1])
                                             if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
                                             elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
@@ -393,17 +420,32 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 limit = 39
                                 count = 0
                                 charIndex = 0
+                                newCharIndex = 0
+                                wrapped_text_store = ''
                                 while charIndex < len(sanitizedText):
                                     char = sanitizedText[charIndex]
                                     wrapped_text = wrapped_text + char
                                     width_ = width_ + 1
-                                    if width_ >= limit and count % 2 == 0 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\n'
+                                    if width_ >= limit and count % 2 == 0:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                # print(wrapped_text[newCharIndex:].split(' ')[text_index])
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
-                                    if width_ >= limit and count % 2 == 1 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\p'
+                                    elif width_ >= limit and count % 2 == 1:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
@@ -411,11 +453,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                         wrapped_text = wrapped_text + stringStore + ']'
                                         if stringStore in nineWidths:
-                                            limit = limit + len(stringStore) + 11
+                                            limit = limit + 9
                                             charIndex = charIndex + len(stringStore) + 1
                                         else:
-                                            limit = limit + len(stringStore) + 2
                                             charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
                                     charIndex = charIndex + 1
                                 print(5, string)
                                 f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
@@ -448,13 +490,27 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     char = sanitizedText[charIndex]
                                     wrapped_text = wrapped_text + char
                                     width_ = width_ + 1
-                                    if width_ >= limit and count % 2 == 0 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\n'
+                                    if width_ >= limit and count % 2 == 0:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\n'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
-                                    if width_ >= limit and count % 2 == 1 and char == ' ':
-                                        wrapped_text = wrapped_text[:-1] + '\\p'
+                                    elif width_ >= limit and count % 2 == 1:
+                                        wrapped_text_store = ''
+                                        for text_index in range(len(wrapped_text.split(' '))):
+                                            if text_index != len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text.split(' ')[text_index]
+                                        wrapped_text_store = wrapped_text_store + '\\p'
+                                        wrapped_text = wrapped_text_store
                                         width_ = 0
                                         limit = 39
                                         count = count + 1
@@ -462,11 +518,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                         wrapped_text = wrapped_text + stringStore + ']'
                                         if stringStore in nineWidths:
-                                            limit = limit + len(stringStore) + 11
+                                            limit = limit + 9
                                             charIndex = charIndex + len(stringStore) + 1
                                         else:
-                                            limit = limit + len(stringStore) + 2
                                             charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
                                     charIndex = charIndex + 1
                                 print(7, string)
                                 f.write('#org @' + string + '\n' + wrapped_text + '\n\n')

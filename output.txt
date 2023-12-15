@@ -1,3 +1,3 @@
 #org @gFameCheckerFlavorText_ProfOak0
-[COLOR][SHADOW]Ì¿Qué hace esta persona? [COLOR][SHADOW]LABORATORIO DE INVESTIGACIÓN POK\eMON ROBLE
+[COLOR][SHADOW]Ì¿Qué hace esta persona? \n[COLOR][SHADOW]LABORATORIO DE INVESTIGACIÓN POK\eMON \pROBLE
 
