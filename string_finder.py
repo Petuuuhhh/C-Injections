@@ -170,20 +170,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                             translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                         except:
                                                             pass
-                                                elif splitted_text_section_2 in SpecialBuffersReverse:
-                                                    if constructedString.split('[')[0] == '':
-                                                        translated_text += '[' + splitted_text_section_2 + '] '
-                                                    elif constructedString.split(']')[0] == '':
-                                                        translated_text += ' [' + splitted_text_section_2 + ']'
-                                                    else:
-                                                        translated_text += ' [' + splitted_text_section_2 + '] '
                                             elif splitted_text_section_2 in SpecialBuffersReverse:
-                                                if constructedString.split('[')[0] == '':
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                     translated_text += '[' + splitted_text_section_2 + '] '
-                                                elif constructedString.split(']')[0] == '':
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
                                                     translated_text += ' [' + splitted_text_section_2 + ']'
-                                                else:
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
                                                     translated_text += ' [' + splitted_text_section_2 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_section_2 + ']'
                         else:
                             translated_text = constructedString
                     except:
@@ -202,21 +197,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                         translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                     except:
                                                         pass
-                                                elif splitted_text_section_2 in SpecialBuffersReverse:
-                                                    if constructedString.split('[')[0] == '':
-                                                        translated_text += '[' + splitted_text_section_2 + '] '
-                                                    elif constructedString.split(']')[0] == '':
-                                                        translated_text += ' [' + splitted_text_section_2 + ']'
-                                                    else:
-                                                        translated_text += ' [' + splitted_text_section_2 + '] '
-                                                    translated_text += ' [' + splitted_text_section_2 + '] '
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '':
+                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
-                                            elif constructedString.split(']')[0] == '':
+                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + ']'
-                                            else:
+                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + '] '
+                                            else:
+                                                translated_text += '[' + splitted_text_section_2 + ']'
                         else:
                             translated_text = constructedString
                     constructedString = translated_text
@@ -239,12 +228,14 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     except:
                                                         pass
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '':
+                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
-                                            elif constructedString.split(']')[0] == '':
+                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + ']'
-                                            else:
+                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + '] '
+                                            else:
+                                                translated_text += '[' + splitted_text_section_2 + ']'
                         if translated_text != '':
                             line_endings = 'npl'
                             line_endings_store = ''
@@ -372,12 +363,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     except:
                                                         pass
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '':
+                                            print(constructedString.split('[')[0], constructedString.split(']')[1])
+                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
-                                            elif constructedString.split(']')[0] == '':
+                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + ']'
-                                            else:
+                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
                                                 translated_text += ' [' + splitted_text_section_2 + '] '
+                                            else:
+                                                translated_text += '[' + splitted_text_section_2 + ']'
                         if translated_text != '':
                             line_endings = 'npl'
                             line_endings_store = ''
