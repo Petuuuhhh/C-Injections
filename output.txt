@@ -1,6 +1,3 @@
-#org @ViridianForest_Text_FriendsItchingToBattle
-¡Vine aquí con algunos amigos para\nconsguirnos algunos BUG POK\eMON! ¡Todos\petán ansiosos por participar en\nalgunas batallas POK\eMON!
-
-#org @ViridianForest_Text_RickIntro
-¡Ey! ¡Tienes POK\eMON! ¡Vamos!\n¡Luchemos contra ellos!
+#org @SSAnne_2F_Corridor_Text_RivalDefeat
+¡Humph! ¡Al menos estás aumentando tu\nPOK\eMON!
 
