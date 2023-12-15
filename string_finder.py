@@ -17,7 +17,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        if string == 'SSAnne_2F_Corridor_Text_RivalIntro' or string == 'SSAnne_2F_Corridor_Text_RivalDefeat':
+        if string == 'SSAnne_2F_Corridor_Text_RivalPostBattle':
             if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
                 if string in TextScripts:
                     constructedString = ''
@@ -461,9 +461,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 print(5, string)
                                 f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                             except:
-                                print(6, string)
                                 try:
-                                    print(8, string)
+                                    print(6, string)
                                     f.write('#org @' + string + '\n' + text_newline + '\n\n')
                                 except:
                                     pass

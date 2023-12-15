@@ -1,6 +1,3 @@
-#org @SSAnne_2F_Corridor_Text_RivalIntro
-[B_OPPONENT_MON1_NAME][B_BUFF2]! ¡Imagínate verte aquí! [B_BUFF2], ¿realmente te invitaron?\nEntones, ¿cómo va tu POK\eDEX? Ya capturé\p4 tipos, amigo. Hay diferentes tipos\npo todas partes. Arrástrese por las\páreas con césped y búsquelos con atención.
-
-#org @SSAnne_2F_Corridor_Text_RivalDefeat
-¡Humph! ¡Al menos estás aumentando tu\nPOK\eMON!
+#org @SSAnne_2F_Corridor_Text_RivalPostBattle
+[B_OPPONENT_MON1_NAME]: Escuché que había un CUT master a bordo.\n¡Pro era solo un viejo mareado! CUT en\ps es realmente útil. Sí, será útil.\nDeberías ir a verlo también. Huela !
 
