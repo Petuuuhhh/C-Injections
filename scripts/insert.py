@@ -6,7 +6,6 @@ import shutil
 import sys
 from datetime import datetime
 import _io
-from tqdm import tqdm
 
 OFFSET_TO_PUT = 0x900000
 SOURCE_ROM = "BPRE0.gba"
@@ -519,8 +518,7 @@ def main():
             with open(REPOINT_YAK, 'r') as repointList:
                 definesDict = {}
                 conditionals = []
-                for line_index in tqdm(range(len(repointList))):
-                    line = repointList[line_index]
+                for line in repointList:
                     if TryProcessFileInclusion(line, definesDict):
                         continue
                     if TryProcessConditionalCompilation(line, definesDict, conditionals):

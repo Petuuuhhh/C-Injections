@@ -11390,7 +11390,7 @@ Seleccione “SALÓN DE LA FAMA” en la PC.\nÎ Se pueden examinar los POK\eMON
 caballos de fuerza
 
 #org @Help_Text_EXP
-ÛEXP. Puntos
+EXP. Puntos
 
 #org @Help_Text_Moves
 SE MUEVE
@@ -16996,9 +16996,6 @@ JOVEN
 #org @sEasyChatWord_Ugly
 FEO
 
-#org @sText_UnusedColors
-AiAiVaya
-
 #org @sText_Trainer1LoseText
 [B_TRAINER1_LOSE_TEXT]ô
 
@@ -17609,7 +17606,7 @@ Oh hecho Œ somnoliento!
 ¡Un aroma relajante flotó a través del\nárea!
 
 #org @sText_ItemsCantBeUsedNow
-Los elementos no se pueden usar ahora.[PAUSA]Ë
+Los elementos no se pueden usar ahora.[PAUSE]Ë
 
 #org @sText_ForXCommaYZ
 tiene
@@ -18323,10 +18320,10 @@ ROBLE: ¡Hm! ¡Excelente! Si ganas, ganarás\nun premio en metálico y ¡tu POK\
 Tonterías
 
 #org @gText_BattleMenu
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔFIGHT[CLEAR_TO]ÛBAG POK\eMON[CLEAR_TO]ÛRUN
+[PALETA][COLOR_HIGHLIGHT_SHADOW]FIGHT[CLEAR_TO]BAG POK\eMON[CLEAR_TO]ÛRUN
 
 #org @gText_SafariZoneMenu
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔBALL[CLEAR_TO]ÛBAIT ROCA[CLEAR_TO]ÛRUN
+[PALETA][COLOR_HIGHLIGHT_SHADOW]BALL[CLEAR_TO]BAIT ROCA[CLEAR_TO]ÛRUN
 
 #org @gText_MoveInterfacePP
 PÁGINAS
@@ -18335,19 +18332,19 @@ PÁGINAS
 TIPO/
 
 #org @gText_MoveInterfaceDynamicColors
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔ
+[PALETA][COLOR_HIGHLIGHT_SHADOW]
 
 #org @gText_WhichMoveToForget_Unused
 Oh¿Quieres que Esseson olvide sus movimientos?
 
 #org @gText_BattleYesNoChoice
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔSí No
+[PALETA][COLOR_HIGHLIGHT_SHADOW]Sí No
 
 #org @gText_BattleSwitchWhich
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔ¿Cambiar cuál?
+[PALETA][COLOR_HIGHLIGHT_SHADOW]¿Cambiar cuál?
 
 #org @sText_UnusedColors
-[PALETA]ÈÈ[COLOR_HIGHLIGHT_SHADOW]ÇÒÓÔ
+[PALETA][COLOR_HIGHLIGHT_SHADOW]
 
 #org @sText_RightArrow2
 [RIGHT_ARROW_2]
@@ -18884,7 +18881,7 @@ REGISTRO
 DAR
 
 #org @gMenuText_Confirm
-ÍÛÁ
+CONFIRMAR
 
 #org @gOtherText_Walk
 CAMINAR
@@ -19160,7 +19157,7 @@ El contenedor está lleno.
 Además de ese, ¿qué otro poder puedes tener?
 
 #org @gText_ThrowInPremierBall
-1Í ÈÌ ÏÛÈÊÒ!
+[PAUSE_UNTIL_PRESS]
 
 #org @gText_OhNoICantBuyThat
 ¿A? Oh, no. No puedo creer eso.
@@ -20210,7 +20207,7 @@ RESULTADOS DE LA BATALLA DE À
 A la izquierda:D:
 
 #org @gString_BattleRecords_ColumnHeaders
-GANAR[CLEAR_TO]ÛPERDER[CLEAR_TO]ÛSORTEAR
+GANAR[CLEAR_TO]PERDER[CLEAR_TO]SORTEAR
 
 #org @gFameCheckerText_FameCheckerWillBeClosed
 El FAME CHECKER estará cerrado.
@@ -20966,7 +20963,7 @@ BATALLAS DE ENLACE
 BATALLAS DE CABLE DE ENLACE
 
 #org @gText_WinLossRatio
-W:[CLEAR_TO]ÛL:
+W:[CLEAR_TO]L:
 
 #org @gText_PokemonTrades
 POK\eMON TRADES
@@ -21047,7 +21044,7 @@ TIPO
 Este
 
 #org @gText_ResetRTCConfirmCancel
-ÍÛÁ B
+RTC A B
 
 #org @gText_PresentTime
 Genzai no tiene tiempo de juego
@@ -21698,7 +21695,7 @@ ALGUIEN
 AYUDA
 
 #org @gString_HelpSystem_ClearTo8
-[CLEAR_TO]ÛË
+[CLEAR_TO]
 
 #org @gText_SpaceTimes3
 veces)
@@ -22127,7 +22124,7 @@ Thomas Hertzog Kathy Huguenard Mika Kurosawa\n
 Comprobación del código Braille      
 
 #org @gCreditsString_National_Federation_of_the_Blind_Patricia_A_Maurer_Japan_Braille_Library_European_Blind_Union
-ÛÛde los ciegos Patricia A. Maurer Biblioteca\nBraille de Japón Unión Europea de Ciegos\p
+De los ciegos Patricia A. Maurer Biblioteca\nBraille de Japón Unión Europea de Ciegos\p
 
 #org @gCreditsString_Braille_Code_Check_3
 Comprobación del código Braille     
@@ -22412,10 +22409,10 @@ tiene un olvidoEn aprendido
 Comunicación en espera... Esperando que\notro jugador elija.
 
 #org @gText_BattleWasRefused
-La batalla fue rechazada.[PAUSA]Ë
+La batalla fue rechazada.[PAUSE]Ë
 
 #org @gText_RefusedBattle
-Rechazó la batalla.[PAUSA]Ë
+Rechazó la batalla.[PAUSE]Ë
 
 #org @gFameCheckerText_MainScreenUI
 SELECCIÓNSELECCIONARDE ACUERDO
@@ -22616,13 +22613,13 @@ ENVIAR
 SACUDIDA
 
 #org @gText_DelAllCancelOk
-DEL. TODO[CLEAR_TO]ÛCANCELAR[CLEAR_TO]Û3OK
+DEL. TODO[CLEAR_TO]CANCELAR[CLEAR_TO]OK
 
 #org @sText_Akito
 akito
 
 #org @sText_Underscore
-[BAJO SUBRAYADO]Ì
+[UNDERSCORE]
 
 #org @sText_Clear17
 [CLARA]ÙÙ
@@ -22793,7 +22790,7 @@ La respuesta de Á sobre el comercio...
 Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.
 
 #org @sText_CommunicatingWithPlayer
-Comunicándose con [B_COPY_VAR_1]Á[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ. [PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA ]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.[PAUSA ]ËÔ.[PAUSA]ËÔ.[PAUSA]ËÔ.
+Comunicándose con [B_COPY_VAR_1]Á[PAUSE].[PAUSE].[PAUSE]. [PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE ].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE].[PAUSE ].[PAUSE].[PAUSE].
 
 #org @sText_PleaseWaitAWhile
 Maldición.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.
@@ -22823,7 +22820,7 @@ Maldición.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda.Mierda
 ¿Quieres hacer algo de nuevo?
 
 #org @sText_SomebodyHasContactedYou
-Alguien se ha puesto en contacto contigo.[PAUSA]Ë
+Alguien se ha puesto en contacto contigo.[PAUSE]Ë
 
 #org @sText_PlayerHasContactedYou
 Á se ha puesto en contacto contigo.
@@ -22901,25 +22898,25 @@ Como introducción, te mostraré mi TARJETA\nDE ENTRENADOR.
 ¡Es charla! ¡Está bien, espera un minuto!
 
 #org @sText_DoneWaitingBattleMale
-¡Gracias por esperar! ¡Empecemos nuestra\nbatalla![PAUSA]Ë
+¡Gracias por esperar! ¡Empecemos nuestra\nbatalla![PAUSE]Ë
 
 #org @sText_DoneWaitingChatMale
-¡Muy bien! ¡Charlemos![PAUSA]Ë
+¡Muy bien! ¡Charlemos![PAUSE]Ë
 
 #org @sText_DoneWaitingBattleFemale
-¡Perdón por hacerte esperar! ¡Empecemos![PAUSA]Ë
+¡Perdón por hacerte esperar! ¡Empecemos![PAUSE]Ë
 
 #org @sText_DoneWaitingChatFemale
-¡Perdón por hacerte esperar! Charlemos.[PAUSA]Ë
+¡Perdón por hacerte esperar! Charlemos.[PAUSE]Ë
 
 #org @sText_TradeWillBeStarted
-Se iniciará la operación.[PAUSA]Ë
+Se iniciará la operación.[PAUSE]Ë
 
 #org @sText_BattleWillBeStarted
-La batalla comenzará.[PAUSA]Ë
+La batalla comenzará.[PAUSE]Ë
 
 #org @sText_EnteringChat
-Entrando al chat…[PAUSA]Ë
+Entrando al chat…[PAUSE]Ë
 
 #org @sText_BattleDeclinedMale
 ¡Lo siento! Mi POK\eMON no parece  encontrarse\nmuy bien en este momento. Déjame luchar\pcontigo en otro momento. 
@@ -23180,7 +23177,7 @@ SALIDA
 INFORMACIÓN
 
 #org @gText_UR_NameWantedOfferLv
-NOMBRE[CLEAR_TO]ÛBUSCADO[CLEAR_TO]ÛOFERTA[CLEAR_TO]ÛLLV.
+NOMBRE[CLEAR_TO]ÛBUSCADO[CLEAR_TO]OFERTA[CLEAR_TO]LV.
 
 #org @gText_UR_SingleBattle
 BATALLA ÚNICA
@@ -23240,19 +23237,19 @@ Es una TARJETA NORMAL.
 uke
 
 #org @sText_GladToMeetYouMale
-À: ¡Me alegro de haberte conocido![PAUSA]Ë
+À: ¡Me alegro de haberte conocido![PAUSE]Ë
 
 #org @sText_GladToMeetYouFemale
-À: ¡Encantado de conocerte![PAUSA]Ë
+À: ¡Encantado de conocerte![PAUSE]Ë
 
 #org @gText_UR_FinishedCheckingPlayersTrainerCard
-Terminé de verificar la TARJETA DE ENTRENADOR.[PAUSA]Ë
+Terminé de verificar la TARJETA DE ENTRENADOR.[PAUSE]Ë
 
 #org @sText_CanceledReadingCard
 Cancelada la lectura de la Tarjeta.
 
 #org @sText_ClearTo18
-[CLEAR_TO]ÛÚ
+[CLEAR_TO]
 
 #org @sText_SingleSpace
 

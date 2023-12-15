@@ -3079,3 +3079,1743 @@ Tudo bem, chega! Partiremos como você queria!\nFicaremos felizes em ver o fim de
 #org @ThreeIsland_Text_PaxtonPostBattlePortuguese
 Humph! Sim, continue andando com essas\nsementes de feno!
 
+#org @ThreeIsland_Text_ThankYouOhYourMonGotHurtPortuguese
+Obrigado! Aqueles capangas não eram nada\nalém de problemas sérios. Oh, olhe, seu\pPOK\eMON foi ferido or minha causa.
+
+#org @ThreeIsland_Text_GivenFullRestorePortuguese
+À foi dada a RESTAURAÇÃO COMPLETA.
+
+#org @ThreeIsland_Text_OhYourBagIsFullPortuguese
+Ah? Sua BOLSA está cheia.
+
+#org @ThreeIsland_Text_YouveGotImpressiveMonsPortuguese
+Você tem um POK\eMON realmente impressionante\ncom você.
+
+#org @ThreeIsland_Text_LostelleWentOffTowardsBondBridgePortuguese
+Seria fantástico se alguém forte como você\nmorasse aqui. Espero que pelo menos você\pfique aqui  por algum tempo. …me desculpe?\nVocê está procurando por LOSTELLE? LOSTELLE\ppartiu em direção a BOND BRIDGE há um tempo\natrás.
+
+#org @ThreeIsland_Text_WouldntWantToSeeBikersHereAgainPortuguese
+A ILHA TRÊS é na verdade a mais populosa\ndas ilhas aqui. Mesmo assim, poderia ser\pmenos sonolenta. Mas eu não gostaria de\nver capangas como aqueles MOTOCICLISTAS\paqui novamente.
+
+#org @ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGamePortuguese
+Vou treinar meu DODUO na BERRY FOREST.\nQuando ele evoluir, vou jogar uma partida\pem TWO ISLAND.
+
+#org @ThreeIsland_Text_DoduoPortuguese
+DODUO: Gigiih!
+
+#org @FourIsland_Text_IslandSignPortuguese
+QUATRO ILHAS A Ilha Quente e Azul de Floe
+
+#org @FourIsland_Text_LoreleiHasReturnedPortuguese
+LORELEI voltou. Ela achou a vida na cidade\nmuito estressante, eu me pergunto?
+
+#org @FourIsland_Text_LoreleiMetLaprasAsChildPortuguese
+LORELEI voltou. O LAPRAS que ela tem, imagino\nque\seja aquele que ela conheceu quando\pcriança. Acredito que foi na CAVERNA GELADA\nque ela o pegou. Talvez aquele POK\eMON\ptenha estado com ela desde então.
+
+#org @FourIsland_Text_RivalAlreadyGotEggBeSmellingYaPortuguese
+É: Hey! À! O que você está fazendo aqui\nnas SEVII ILHAS? Você deveria parar de\pme copiar, você sabe? De qualquer forma,\neu já tenho meu POK\eMON EGG, então terminei\pcom esta ilha. Heh, Aposto que você nem\nsabe sobre OVOS POK\eMON. Você nunca preencherá\pseu POK\eDEX NACIONAL dessa maneira. A\npropósito, vi alguém que nós dois conhecemos\pnesta ilha. Por que não? você não vai dar\numa olhada se isso te deixa curioso? Eu\pnão tenho tempo a perder. Estou cheirando\nvocê!
+
+#org @FourIsland_Text_LoreleiHasLotsOfStuffedDollsPortuguese
+Ah, você me encontrou! Por favor, não conte\nà LORELEI. Você sabia que LORELEI tem muitas\pe muitas bonecas de pelúcia? Cada vez que\nela volta para FOUR ISLAND, sua coleção\pcresce!
+
+#org @FourIsland_Text_MadeSlushieUsingIcefallCaveIcePortuguese
+Ooh, frio! Eu fiz uma raspadinha usando\ngelo que raspiei dentro da CAVERNA GELADA.\pEstá frio e saboroso!
+
+#org @FourIsland_Text_LoreleisHousePortuguese
+CASA DE LORELEI
+
+#org @FiveIsland_Text_IslandSignPortuguese
+CINCO ILHA Ilha Chrono: para onde o tempo\nvai
+
+#org @FiveIsland_Text_WeirdBuildingInMeadowPortuguese
+Ah, isso fede. Eu queria brincar o PRADO.\nMas eles construíram uma construção estranha\pele, então não posso brincar lá.
+
+#org @FiveIsland_Text_BeenGettingBusierAroundHerePortuguese
+Ultimamente tem ficado mais movimentado\npor aqui. Também não tenho pescado muitos\ppeixes bons ultimamente.
+
+#org @Text_SwordsDanceTeachPortuguese
+Poucas pessoas vêm aqui. Se eu treinar\naqui, estou convencido de que ficarei cada\pvez mais forte. Sim, cada vez mais forte...\nVocê gostaria de aprender um movimento\pcomo esse? É DANÇA DE ESPADAS.
+
+#org @Text_SwordsDanceDeclinedPortuguese
+Bem, tudo bem também.
+
+#org @Text_SwordsDanceWhichMonPortuguese
+Tudo bem, escolha qual POK\eMON devo ensiná-lo.
+
+#org @Text_SwordsDanceTaughtPortuguese
+Se ao menos pudéssemos continuar ficando\ncada vez mais fortes, não é?
+
+#org @SevenIsland_Text_IslandSignPortuguese
+SETE ILHA Missão Ilha do Infinito
+
+#org @SevenIsland_Text_IslandsMadeInSevenDaysPortuguese
+Estas ilhas são chamadas de SEVII ILHAS\nporque são sete. …Ou pelo menos é isso\pque os jovens acreditam. A verdade é que\nestas ilhas têm esse nome porque dizem\pque foram feitas em sete dias .
+
+#org @SevenIsland_Text_IslandVirtuallyUntouchedPortuguese
+Esta ilha foi deixada praticamente intocada\nem seu estado natural. Pode ser um pouco\pdifícil caminhar por causa disso.
+
+#org @SixIsland_Text_IslandSignPortuguese
+ILHA SEIS Ilha da Fortuna da Sabedoria\nIdosa
+
+#org @SixIsland_Text_ThatWayToWaterPathRuinValleyPortuguese
+Continue por este caminho e você chegará\no CAMINHO DA ÁGUA. Continue nele e você\pchegará o VALE RUIN.
+
+#org @SixIsland_Text_SkyAtNightIsFantasticPortuguese
+Quando você está tão longe da cidade, o\ncéu à noite é fantástico.
+
+#org @Route1_Text_WorkAtPokeMartTakeSamplePortuguese
+Olá! Eu trabalho em um POK\eMON MART. Faz\nparte de uma rede conveniente que vende\ptodos os tipos de itens. Por favor, visite-nos\nem VIRIDIAN CITY. Eu sei, vou lhe dar uma\pamostra. Aqui está ir!
+
+#org @Route1_Text_ComeSeeUsIfYouNeedPokeBallsPortuguese
+Por favor, venha nos ver se precisar de\nPOK\e BOLAS para capturar POK\eMON.
+
+#org @Route1_Text_PutPotionAwayPortuguese
+À guarde a POÇÃO no BOLSO DE ITENS DA BOLSA.
+
+#org @Route1_Text_CanJumpFromLedgesPortuguese
+Vê aquelas saliências ao longo da estrada?\nÉ um pouco assustador, mas você pode pular\pdelas. Você pode voltar para PALLET TOWN\nmais rápido dessa forma.
+
+#org @Route1_Text_RouteSignPortuguese
+ROTA 1 CIDADE DE PALETES - CIDADE DE VIRIDIANA
+
+#org @Route2_Text_RouteSignPortuguese
+ROTA 2 CIDADE DE VIRIDIANA - CIDADE DE\nESTANHO
+
+#org @Route2_Text_DiglettsCavePortuguese
+CAVERNA DE DIGLETT
+
+#org @Route3_Text_TunnelFromCeruleanTiringPortuguese
+Uau… É melhor eu descansar… Groan… Esse\ntúnel de CERULEAN exige muito de você!
+
+#org @Route3_Text_ColtonIntroPortuguese
+Ei! Eu vi você na FLORESTA VIRIDIAN!
+
+#org @Route3_Text_ColtonDefeatPortuguese
+Você me bateu de novo!
+
+#org @Route3_Text_ColtonPostBattlePortuguese
+Existem outros tipos de POK\eMON além daqueles\nque você encontra nas florestas.
+
+#org @Route3_Text_BenDefeatPortuguese
+Eu não acredito!
+
+#org @Route3_Text_BenPostBattlePortuguese
+Você está usando um PC do POK\eMON CENTER\npara armazenar seu POK\eMON? Cada CAIXA\ppode conter até 30 POK\eMON.
+
+#org @Route3_Text_JaniceIntroPortuguese
+Com licença! Você olhou para mim, não foi?
+
+#org @Route3_Text_JaniceDefeatPortuguese
+Você é mau!
+
+#org @Route3_Text_JanicePostBattlePortuguese
+Você não deveria ficar olhando se do não\nquiser lutar!
+
+#org @Route3_Text_GregIntroPortuguese
+Você é um TREINADOR? Vamos começar agora\nmesmo!
+
+#org @Route3_Text_GregDefeatPortuguese
+Se eu tivesse um novo POK\eMON, eu teria\nganhado!
+
+#org @Route3_Text_GregPostBattlePortuguese
+Se uma CAIXA POK\eMON no PC ficar cheia,\nbasta mudar para outra CAIXA.
+
+#org @Route3_Text_SallyIntroPortuguese
+Esse olhar que você me deu… É tão intrigante!
+
+#org @Route3_Text_SallyDefeatPortuguese
+Seja legal!
+
+#org @Route3_Text_SallyPostBattlePortuguese
+Você pode evitar batalhas não deixando\nque os TREINADORES vejam você.
+
+#org @Route3_Text_CalvinIntroPortuguese
+Ei! Você não está usando shorts! O que\nhá de errado com você?
+
+#org @Route3_Text_CalvinPostBattlePortuguese
+Sempre uso shorts, mesmo o inverno. Essa\né a minha política.
+
+#org @Route3_Text_JamesIntroPortuguese
+Vou lutar com você com o POK\eMON que acabei\nde capturar.
+
+#org @Route3_Text_JamesDefeatPortuguese
+Feito como o jantar!
+
+#org @Route3_Text_JamesPostBattlePortuguese
+POK\eMON treinados são mais fortes que\nos selvagens.
+
+#org @Route3_Text_RobinIntroPortuguese
+Eek! Você me tocou?
+
+#org @Route3_Text_RobinDefeatPortuguese
+É isso?
+
+#org @Route3_Text_RobinPostBattlePortuguese
+A ROTA 4 fica no sopé da MT. LUA.
+
+#org @Route3_Text_RouteSignPortuguese
+ROTA 3 MT. LUA À FRENTE
+
+#org @Route4_Text_TrippedOverGeodudePortuguese
+Ai! Tropecei em um POK\eMON rochoso, GEODUDE!
+
+#org @Route4_Text_CrissyIntroPortuguese
+Eu vim para MT. MOON em busca de cogumelo\nPOK\eMON.
+
+#org @Route4_Text_CrissyDefeatPortuguese
+Afinal de contas eu fiz para pegá-los!
+
+#org @Route4_Text_CrissyPostBattlePortuguese
+Talvez não haja mais cogumelos aqui. Acho\nque peguei todos.
+
+#org @Route4_Text_MtMoonEntrancePortuguese
+MT. LUA Entrada do Túnel
+
+#org @Route4_Text_RouteSignPortuguese
+ROTA 4 MT. LUA - CIDADE CERULEAN
+
+#org @Text_MegaPunchTeachPortuguese
+Um soco de ferocidade estrondosa! Cheio\nde poder destrutivo! Quando as fichas caem,\pMEGA PUNCH é o ataque final! Você concorda,\nsim? Agora! Deixe-me ensiná-lo ao seu POK\eMON!
+
+#org @Text_MegaPunchDeclinedPortuguese
+Você estará de volta quando entender o\nvalor do MEGA PUNCH.
+
+#org @Text_MegaPunchWhichMonPortuguese
+Tudo bem! Qual POK\eMON aprenderá isso?
+
+#org @Text_MegaPunchTaughtPortuguese
+Agora, somos camaradas no jeito de socar!\nVocê deveria ir antes que seja visto pelo\ptolo equivocado que treina\apenas seus\nchutes bobos ali.
+
+#org @Text_MegaKickTeachPortuguese
+Um chute de ferocidade brutal! Cheio de\npoder destrutivo! Quando você vai direto\pao assunto, MEGA KICK é o ataque final!\nVocê não concorda? Ok! Vou ensiná-lo ao\pseu POK\eMON !
+
+#org @Text_MegaKickDeclinedPortuguese
+Você voltará rastejando quando perceber\no valor do MEGA KICK.
+
+#org @Text_MegaKickWhichMonPortuguese
+Tudo bem! Qual POK\eMON quer aprender?
+
+#org @Text_MegaKickTaughtPortuguese
+Agora, somos almas gêmeas o jeito de chutar!\nVocê deveria correr antes que seja visto\ppelo idiota iludido que treina\apenas socos\nsimples ali.
+
+#org @Route4_Text_PeopleLikeAndRespectBrockPortuguese
+Uau, esse é o BOULDERBADGE! Você comprou\ndo BROCK, não foi? BROCK é legal. Ele não\pé apenas durão. As pessoas gostam dele\ne o respeitam. Quero me tornar um LÍDER\pDE GINÁSTICA como ele.
+
+#org @Route5_Text_UndergroundPathSignPortuguese
+CAMINHO SUBTERRÂNEO CIDADE DE CERULEAN\n- CIDADE DE VERMILION
+
+#org @Route6_Text_RickyIntroPortuguese
+Quem está aí? Pare de nos ouvir!
+
+#org @Route6_Text_RickyDefeatPortuguese
+Eu simplesmente não consigo vencer!
+
+#org @Route6_Text_RickyPostBattlePortuguese
+Sussurro… Sussurro…
+
+#org @Route6_Text_NancyIntroPortuguese
+Com licença! Esta é uma conversa privada!
+
+#org @Route6_Text_NancyDefeatPortuguese
+Ugh! Eu odeio perder.
+
+#org @Route6_Text_NancyPostBattlePortuguese
+Sussurro… Sussurro…
+
+#org @Route6_Text_KeigoIntroPortuguese
+Não há muitos bugs aqui.
+
+#org @Route6_Text_KeigoDefeatPortuguese
+Não! Você está brincando!
+
+#org @Route6_Text_KeigoPostBattlePortuguese
+Eu gosto de insetos, então vou voltar para\nVIRIDIAN FOREST.
+
+#org @Route6_Text_JeffIntroPortuguese
+Hein? Você quer falar comigo?
+
+#org @Route6_Text_JeffDefeatPortuguese
+Isso fede... Não consegui vencer seu desafio...
+
+#org @Route6_Text_JeffPostBattlePortuguese
+Eu deveria trazer mais POK\eMON comigo.\nVou me sentir mais seguro assim.
+
+#org @Route6_Text_IsabelleIntroPortuguese
+Eu? Bem, ok. Eu vou jogar!
+
+#org @Route6_Text_IsabelleDefeatPortuguese
+As coisas simplesmente não funcionaram…
+
+#org @Route6_Text_IsabellePostBattlePortuguese
+Quero ficar mais forte. Qual é o seu segredo?
+
+#org @Route6_Text_ElijahIntroPortuguese
+Nunca vi você por aí. Você está bem?
+
+#org @Route6_Text_ElijahDefeatPortuguese
+Você é bom demais!
+
+#org @Route6_Text_ElijahPostBattlePortuguese
+Meu POK\eMON está fraco? Ou sou apenas\nruim? O que você acha?
+
+#org @Route6_Text_UndergroundPathSignPortuguese
+CAMINHO SUBTERRÂNEO CIDADE DE CERULEAN\n- CIDADE DE VERMILION
+
+#org @Route7_Text_UndergroundPathSignPortuguese
+CAMINHO SUBTERRÂNEO CIDADE DE CELADON -\nCIDADE DE LAVANDA
+
+#org @Route8_Text_AidanIntroPortuguese
+Você parece bem no POK\eMON, mas como\é\nsua nota em química?
+
+#org @Route8_Text_AidanDefeatPortuguese
+Ai! Colapso!
+
+#org @Route8_Text_AidanPostBattlePortuguese
+Eu sou melhor na escola do que isso!
+
+#org @Route8_Text_StanIntroPortuguese
+Tudo bem! Vamos jogar!
+
+#org @Route8_Text_StanDefeatPortuguese
+Droga! Atrapalhou!
+
+#org @Route8_Text_StanPostBattlePortuguese
+As coisas não funcionaram hoje.
+
+#org @Route8_Text_GlennIntroPortuguese
+Você deve estar informado. Você precisa\nde estratégia para vencer!
+
+#org @Route8_Text_GlennDefeatPortuguese
+Não é lógico!
+
+#org @Route8_Text_GlennPostBattlePortuguese
+Vá com GRIMER primeiro…e… …e…depois…
+
+#org @Route8_Text_PaigeIntroPortuguese
+Eu gosto do NIDORAN, então eu coleciono\neles!
+
+#org @Route8_Text_PaigeDefeatPortuguese
+Por quê? Por quê??
+
+#org @Route8_Text_PaigePostBattlePortuguese
+Quando os POK\eMON crescem, eles ficam\nfeios! Eles não deveriam evoluir.
+
+#org @Route8_Text_LeslieIntroPortuguese
+A escola é divertida, mas POK\eMON também.
+
+#org @Route8_Text_LeslieDefeatPortuguese
+Você deixou claro para mim que eu deveria\ncontinuar na escola.
+
+#org @Route8_Text_LesliePostBattlePortuguese
+Eu estava pensando em tomar um pouco de\nar fresco para variar, mas… Estamos presos\paqui por causa dos portões do SAFFRON.
+
+#org @Route8_Text_AndreaIntroPortuguese
+MEOWTH é tão fofo, miau, miau, miau!
+
+#org @Route8_Text_AndreaDefeatPortuguese
+Oh meu Deus!
+
+#org @Route8_Text_AndreaPostBattlePortuguese
+Acho que PIDGEY e RATTATA também são fofos!
+
+#org @Route8_Text_MeganIntroPortuguese
+Devemos parecer bobos parados aqui assim.
+
+#org @Route8_Text_MeganDefeatPortuguese
+Veja o que você fez com meu pobre e fofo\nPOK\eMON!
+
+#org @Route8_Text_MeganPostBattlePortuguese
+O porteiro do SAFFRON não nos deixa passar.\nSei que ele está fazendo seu trabalho,\pmas acho que ele é mau.
+
+#org @Route8_Text_RichIntroPortuguese
+Eu sou um cara divagante e gamer!
+
+#org @Route8_Text_RichDefeatPortuguese
+Perdi a grande chance!
+
+#org @Route8_Text_RichPostBattlePortuguese
+Jogar e POK\eMON é como comer amendoins!\nEu simplesmente não consigo parar!
+
+#org @Route8_Text_JuliaIntroPortuguese
+O que é um POK\eMON fofo, redondo e fofo?
+
+#org @Route8_Text_JuliaDefeatPortuguese
+Pare! Não seja tão cruel com minha CLEFAIRY!
+
+#org @Route8_Text_JuliaPostBattlePortuguese
+Eu li que CLEFAIRY evolui quando\é exposto\na uma PEDRA DA LUA. Li isso em um POK\eMON\pJOURNAL. Será que é verdade?
+
+#org @Route8_Text_UndergroundPathSignPortuguese
+CAMINHO SUBTERRÂNEO CIDADE DE CELADON -\nCIDADE DE LAVANDA
+
+#org @Route8_Text_EliIntroPortuguese
+ELI: Twin power é fantástico. Você sabia?
+
+#org @Route8_Text_EliDefeatPortuguese
+ELI: Mas… Usamos nosso poder gêmeo…
+
+#org @Route8_Text_EliPostBattlePortuguese
+ELI: Peguei meu POK\eMON com ANNE!
+
+#org @Route8_Text_EliNotEnoughMonsPortuguese
+ELI: Não podemos lutar se você não tiver\ndois POK\eMON.
+
+#org @Route8_Text_AnneIntroPortuguese
+ANNE: Vamos chocá-lo com nosso poder gêmeo!
+
+#org @Route8_Text_AnneDefeatPortuguese
+ANNE: Nosso poder gêmeo…
+
+#org @Route8_Text_AnnePostBattlePortuguese
+ANNE: Estou aumentando POK\eMON com ELI.
+
+#org @Route8_Text_AnneNotEnoughMonsPortuguese
+ANA: Oi, oi! Vamos lutar! Mas traga dois\nPOK\eMON.
+
+#org @Route8_Text_RicardoIntroPortuguese
+Minha moto está com problemas, cara.
+
+#org @Route8_Text_RicardoDefeatPortuguese
+Ah, cara. Eu não gosto disso.
+
+#org @Route8_Text_RicardoPostBattlePortuguese
+A grama ficou presa nos meus raios, cara.
+
+#org @Route8_Text_JarenIntroPortuguese
+Abram o caminho ou vou atropelar você do!
+
+#org @Route8_Text_JarenDefeatPortuguese
+Você é sério, garoto?
+
+#org @Route8_Text_JarenPostBattlePortuguese
+Não pense que você é todo especial e apenas\npor causa disso.
+
+#org @Route9_Text_AliciaIntroPortuguese
+Você tem POK\eMON com você! Você é meu!
+
+#org @Route9_Text_AliciaDefeatPortuguese
+Você me enganou…
+
+#org @Route9_Text_AliciaPostBattlePortuguese
+O túnel que está subindo está escuro por\ndentro. Você precisará do FLASH para passar\ppor lá.
+
+#org @Route9_Text_ChrisIntroPortuguese
+Quem está andando aí com aqueles POK\eMON\nlindos?
+
+#org @Route9_Text_ChrisDefeatPortuguese
+Apague como uma luz!
+
+#org @Route9_Text_ChrisPostBattlePortuguese
+Continue caminhando!
+
+#org @Route9_Text_DrewIntroPortuguese
+Vou pegar o ROCK TUNNEL para go até LAVENDER…
+
+#org @Route9_Text_DrewDefeatPortuguese
+Não consigo medir…
+
+#org @Route9_Text_DrewPostBattlePortuguese
+Você também vai para o ROCK TUNNEL?
+
+#org @Route9_Text_CaitlinIntroPortuguese
+Não se atreva a me patrocinar!
+
+#org @Route9_Text_CaitlinDefeatPortuguese
+Não! Você é demais.
+
+#org @Route9_Text_CaitlinPostBattlePortuguese
+Você obviamente é talentoso. Boa sorte\npara você!
+
+#org @Route9_Text_JeremyIntroPortuguese
+Bwahaha! Ótimo! Fiquei entediado, hein!
+
+#org @Route9_Text_JeremyDefeatPortuguese
+Continue assim, hein! Oh, espere. Estou\nsem POK\eMON!
+
+#org @Route9_Text_JeremyPostBattlePortuguese
+Você com certeza teve coragem de me enfrentar,\nnão é?
+
+#org @Route9_Text_BriceIntroPortuguese
+Hahaha! Você não é um pouco durão!
+
+#org @Route9_Text_BriceDefeatPortuguese
+O que é isso?
+
+#org @Route9_Text_BricePostBattlePortuguese
+Hahaha! Crianças deveriam ser durões!
+
+#org @Route9_Text_BrentIntroPortuguese
+Eu acordava cedo todos os dias para levantar\nmeu POK\eMON dos casulos!
+
+#org @Route9_Text_BrentDefeatPortuguese
+O QUÊ? Que total perda de tempo!
+
+#org @Route9_Text_BrentPostBattlePortuguese
+Eu tenho que coletar mais do que insetos\npara ficar mais forte...
+
+#org @Route9_Text_AlanIntroPortuguese
+Hahahaha! Pode vir!
+
+#org @Route9_Text_AlanDefeatPortuguese
+Hahahaha! Você me venceu de forma justa!
+
+#org @Route9_Text_AlanPostBattlePortuguese
+Hahahaha! Nós, caras corajosos, sempre\nrimos!
+
+#org @Route9_Text_ConnerIntroPortuguese
+Vai, meu super BUG POK\eMON!
+
+#org @Route9_Text_ConnerDefeatPortuguese
+Meus erros…
+
+#org @Route9_Text_ConnerPostBattlePortuguese
+Se você não gosta de BUG POK\eMON, você\nme incomoda!
+
+#org @Route9_Text_RouteSignPortuguese
+ROTA 9 CIDADE DE CERULEAN - TÚNEL DE ROCHA
+
+#org @Route10_Text_MarkIntroPortuguese
+Uau, você veio até aqui? Talvez você também\nseja um POK\eMANIAC? Quer ver minha coleção?
+
+#org @Route10_Text_MarkDefeatPortuguese
+Humph. Não estou com raiva!
+
+#org @Route10_Text_MarkPostBattlePortuguese
+Tenho mais POK\eMON raros em casa!
+
+#org @Route10_Text_ClarkDefeatPortuguese
+Ha-haha! Não estou rindo! Ha-febre do feno!\nHaha-ha-choo!
+
+#org @Route10_Text_ClarkPostBattlePortuguese
+Haha-ha-choo! Ha-choo! Bufa! Choramingo!
+
+#org @Route10_Text_HermanIntroPortuguese
+Olá, garoto! Quer ver meu POK\eMON?
+
+#org @Route10_Text_HermanDefeatPortuguese
+Ah, não! Meu POK\eMON!
+
+#org @Route10_Text_HermanPostBattlePortuguese
+Eu não gosto de você. Não gosto de ninguém\nmais do que eu!
+
+#org @Route10_Text_HeidiIntroPortuguese
+Já estive em uma POK\eMON GYM a algumas\nvezes. …Mas eu sempre perco.
+
+#org @Route10_Text_HeidiDefeatPortuguese
+Ohh! Depois de todo o meu treinamento!
+
+#org @Route10_Text_HeidiPostBattlePortuguese
+Notei alguns POK\eMANIACS rondando. Você\npode imaginar? Eles? Aqui nas montanhas?
+
+#org @Route10_Text_TrentIntroPortuguese
+Ah! Esse ar da montanha é uma delícia!
+
+#org @Route10_Text_TrentDefeatPortuguese
+Isso clareou minha cabeça!
+
+#org @Route10_Text_TrentPostBattlePortuguese
+Sinto-me inchado com o ar da montanha!
+
+#org @Route10_Text_CarolIntroPortuguese
+Estou me sentindo um pouco tonto. Faz algum\ntempo que não caminho.
+
+#org @Route10_Text_CarolDefeatPortuguese
+Estou muito cansado. Eu não estava preparado\npara isso.
+
+#org @Route10_Text_CarolPostBattlePortuguese
+Os POK\eMON aqui nas montanhas são tão\ngrossos... Eu gostaria que houvesse POK\eMON\prosa com um padrão floral!
+
+#org @Route10_Text_RockTunnelDetourToLavenderPortuguese
+TÚNEL DE ROCHA Desvio para LAVENDER TOWN
+
+#org @Route10_Text_RockTunnelPortuguese
+TÚNEL DE ROCHA
+
+#org @Route10_Text_PowerPlantPortuguese
+USINA ELÉTRICA
+
+#org @Route11_Text_HugoIntroPortuguese
+Ganhar, perder ou empatar!
+
+#org @Route11_Text_HugoDefeatPortuguese
+Atcha! Não fui do meu jeito!
+
+#org @Route11_Text_HugoPostBattlePortuguese
+POK\eMON é vida! E viver é jogar!
+
+#org @Route11_Text_JasperIntroPortuguese
+Competição! Não me canso!
+
+#org @Route11_Text_JasperDefeatPortuguese
+Eu tive uma chance!
+
+#org @Route11_Text_JasperPostBattlePortuguese
+Você não pode ser um covarde no mundo oPOK\eMON!
+
+#org @Route11_Text_EddieIntroPortuguese
+Vamos, mas não trapaceie!
+
+#org @Route11_Text_EddieDefeatPortuguese
+Hein? Isso não está certo!
+
+#org @Route11_Text_EddiePostBattlePortuguese
+Fiz o meu melhor. Não me arrependo.
+
+#org @Route11_Text_BraxtonIntroPortuguese
+Cuidado! Estou instalando alguns cabos!
+
+#org @Route11_Text_BraxtonDefeatPortuguese
+Isso foi elétrico!
+
+#org @Route11_Text_BraxtonPostBattlePortuguese
+Divulgue para economizar energia!
+
+#org @Route11_Text_DillonIntroPortuguese
+Acabei de me tornar um TREINADOR. Mas acho\nque posso vencer.
+
+#org @Route11_Text_DillonDefeatPortuguese
+Meu POK\eMON não conseguiu vencer... Eles\nnão cresceram o suficiente?
+
+#org @Route11_Text_DillonPostBattlePortuguese
+E agora? Deixe-me em paz!
+
+#org @Route11_Text_DirkIntroPortuguese
+Fwahaha! Eu nunca perdi!
+
+#org @Route11_Text_DirkDefeatPortuguese
+Minha primeira derrota!
+
+#org @Route11_Text_DirkPostBattlePortuguese
+Você teve sorte, só isso.
+
+#org @Route11_Text_DarianIntroPortuguese
+Eu nunca ganhei antes...
+
+#org @Route11_Text_DarianDefeatPortuguese
+Eu previ isso chegando…
+
+#org @Route11_Text_DarianPostBattlePortuguese
+Tive azar, como sempre.
+
+#org @Route11_Text_YasuIntroPortuguese
+Sou o melhor da minha turma. Treino todas\nas manhãs.
+
+#org @Route11_Text_YasuDefeatPortuguese
+Droga! Meu POK\eMON precisa ser mais forte!
+
+#org @Route11_Text_YasuPostBattlePortuguese
+Há um POK\eMON gordo que desce das montanhas.\nAposto que seria forte se você ca capturá-lo.
+
+#org @Route11_Text_BernieIntroPortuguese
+Cuidado com fios energizados!
+
+#org @Route11_Text_BernieDefeatPortuguese
+Uau! Sua vela de ignição!
+
+#org @Route11_Text_BerniePostBattlePortuguese
+Bem, é melhor voltar ao trabalho.
+
+#org @Route11_Text_DaveIntroPortuguese
+Eu levantei meu POK\eMON com cuidado. Eles\njá devem estar prontos!
+
+#org @Route11_Text_DaveDefeatPortuguese
+Tchau! Obrigado e até logo!
+
+#org @Route11_Text_DavePostBattlePortuguese
+Tch… É melhor eu encontrar os mais fortes!
+
+#org @Route11_Text_DiglettsCavePortuguese
+CAVERNA DE DIGLETT
+
+#org @Route12_Text_MonSprawledOutInSlumberPortuguese
+Um POK\eMON está estendido em\um sono profundo\ne confortável.
+
+#org @Text_SnorlaxWokeUpPortuguese
+SNORLAX acordou! Ele atacou com uma raiva\nmal-humorada!
+
+#org @Text_SnorlaxReturnedToMountainsPortuguese
+SNORLAX se acalmou. Deu um grande bocejo…\nE voltou para as montanhas.
+
+#org @Text_WantToUsePokeFlutePortuguese
+Quer usar a flauta POK\e?
+
+#org @Text_PlayedPokeFlutePortuguese
+À tocou FLAUTA POK\e.
+
+#org @Route12_Text_NedIntroPortuguese
+Sim! Tive uma mordida aqui!
+
+#org @Route12_Text_NedDefeatPortuguese
+Tch! Só uma fritadinha…
+
+#org @Route12_Text_NedPostBattlePortuguese
+Espere! Minha linha está presa!
+
+#org @Route12_Text_ChipIntroPortuguese
+Seja paciente. Pescar é um jogo de espera.
+
+#org @Route12_Text_ChipDefeatPortuguese
+Esse escapou!
+
+#org @Route12_Text_ChipPostBattlePortuguese
+Com um ROD melhor, eu poderia capturar\nPOK\eMON melhor…
+
+#org @Route12_Text_JustinIntroPortuguese
+Estou procurando uma PEDRA DA LUA. Você\nencontrou uma?
+
+#org @Route12_Text_JustinDefeatPortuguese
+Ah!
+
+#org @Route12_Text_JustinPostBattlePortuguese
+Eu poderia ter feito meu POK\eMON evoluir\ncom uma MOON STONE. Eu teria vencido então,\paposto.
+
+#org @Route12_Text_LucaIntroPortuguese
+Eletricidade é minha especialidade. Mas\nnão sei nada sobre POK\eMON o mar.
+
+#org @Route12_Text_LucaDefeatPortuguese
+Desconectado!
+
+#org @Route12_Text_LucaPostBattlePortuguese
+A água conduz eletricidade, então você\ndeve atacar o POK\eMON do mar.
+
+#org @Route12_Text_HankIntroPortuguese
+O TOLO DE PESCA versus POK\eMON KID!
+
+#org @Route12_Text_HankDefeatPortuguese
+Toque demais!
+
+#org @Route12_Text_HankPostBattlePortuguese
+Acho que você consegue ser bom no que gosta.\nBem, você me venceu no POK\eMON, mas não\ppode me superar na pesca.
+
+#org @Route12_Text_ElliotIntroPortuguese
+Adoro pescar, não me entenda mal. Mas seria\nmelhor se eu também tivesse mais trabalho.
+
+#org @Route12_Text_ElliotDefeatPortuguese
+Não é fácil…
+
+#org @Route12_Text_ElliotPostBattlePortuguese
+Está tudo bem. Perder não me incomoda mais.
+
+#org @Route12_Text_AndrewIntroPortuguese
+O que está pegando? Você nunca sabe o que\npode quepegar!
+
+#org @Route12_Text_AndrewDefeatPortuguese
+Perdi!
+
+#org @Route12_Text_AndrewPostBattlePortuguese
+O quê, MAGIKARP? Eu os pego o tempo todo,\nclaro. Mas, cara, eles são fracos.
+
+#org @Route12_Text_RouteSignPortuguese
+ROTA 12  Norte até LAVANDA
+
+#org @Route12_Text_SportfishingAreaPortuguese
+ZONA DE PESCA ESPORTIVA
+
+#org @Route12_Text_JesIntroPortuguese
+JES: Se eu ganhar, vou pedir o GIA em casamento.
+
+#org @Route12_Text_JesDefeatPortuguese
+JES: Ah, por favor, por que você não nos\ndeixou vencer?
+
+#org @Route12_Text_JesPostBattlePortuguese
+JES: Ah, GIA, me perdoe, meu amor!
+
+#org @Route12_Text_JesNotEnoughMonsPortuguese
+JES: GIA e eu estaremos juntos para sempre.\nNão lutaremos a menos que você tenha dois\pPOK\eMON próprios.
+
+#org @Route12_Text_GiaIntroPortuguese
+GIA: Ei, JES… Se ganharmos, eu me caso\ncom você!
+
+#org @Route12_Text_GiaDefeatPortuguese
+GIA: Ah, mas por quê?
+
+#org @Route12_Text_GiaPostBattlePortuguese
+GIA: JES, seu bobo! Você estragou tudo!
+
+#org @Route12_Text_GiaNotEnoughMonsPortuguese
+GIA: Não suporto lutar sem meu JES! Você\nnão tem mais um POK\eMON?
+
+#org @Route13_Text_SebastianIntroPortuguese
+Meu pássaro POK\eMON quer batalhar com\nvocê!
+
+#org @Route13_Text_SebastianDefeatPortuguese
+Meu combo PIDGEY e PIDGEOTTO perdeu?
+
+#org @Route13_Text_SebastianPostBattlePortuguese
+Meus POK\eMON parecem felizes, apesar de\nterem perdido.
+
+#org @Route13_Text_SusieIntroPortuguese
+Disseram-me que sou bom para uma criança.
+
+#org @Route13_Text_SusieDefeatPortuguese
+Ah! Eu perdi!
+
+#org @Route13_Text_SusiePostBattlePortuguese
+Quero me tornar um bom TREINADOR. Vou treinar\nbastante, apenas observe.
+
+#org @Route13_Text_ValerieIntroPortuguese
+Uau! Seus EMBLEMAS são muito legais!
+
+#org @Route13_Text_ValerieDefeatPortuguese
+Insuficiente!
+
+#org @Route13_Text_ValeriePostBattlePortuguese
+Você recebeu aqueles EMBLEMAS dos LÍDERES\nDE GYM. Eu sei!
+
+#org @Route13_Text_GwenIntroPortuguese
+Meu lindo POK\eMON deseja conhecê-lo.
+
+#org @Route13_Text_GwenDefeatPortuguese
+Muito bem! Você ganhou totalmente!
+
+#org @Route13_Text_GwenPostBattlePortuguese
+Você tem que fazer batalha POK\eMON ara\nfortalecê-los.
+
+#org @Route13_Text_AlmaIntroPortuguese
+Encontrei CARBOS em uma caverna uma vez\nenquanto estava explorando.
+
+#org @Route13_Text_AlmaDefeatPortuguese
+Que pena! Eu simplesmente errei!
+
+#org @Route13_Text_AlmaPostBattlePortuguese
+CARBOS aumentou a VELOCIDADE do meu POK\eMON.
+
+#org @Route13_Text_PerryIntroPortuguese
+Não vou perder. Não quando o vento sopra\nna minha direção!
+
+#org @Route13_Text_PerryDefeatPortuguese
+O vento mudou!
+
+#org @Route13_Text_PerryPostBattlePortuguese
+Estou exausto. Acho que vou VOAR para casa.
+
+#org @Route13_Text_LolaIntroPortuguese
+Claro, vou brincar com você, querido.
+
+#org @Route13_Text_LolaDefeatPortuguese
+Oh! Seu animalzinho!
+
+#org @Route13_Text_LolaPostBattlePortuguese
+Eu me pergunto o que é mais forte, POK\eMON\nmasculino ou feminino?
+
+#org @Route13_Text_SheilaIntroPortuguese
+Você quer lutar contra algum POK\eMON comigo?
+
+#org @Route13_Text_SheilaDefeatPortuguese
+Já acabou?
+
+#org @Route13_Text_SheilaPostBattlePortuguese
+Na verdade, não sei nada sobre POK\eMON.\nOs que eu uso... Eu os escolhi pela aparência!
+
+#org @Route13_Text_JaredIntroPortuguese
+O que você está olhando?
+
+#org @Route13_Text_JaredDefeatPortuguese
+Droga! Engrenagens desmontadas!
+
+#org @Route13_Text_JaredPostBattlePortuguese
+Se perder!
+
+#org @Route13_Text_RobertIntroPortuguese
+Eu sempre uso bird POK\eMON. Dediquei-me\na eles.
+
+#org @Route13_Text_RobertDefeatPortuguese
+Fora do poder!
+
+#org @Route13_Text_RobertPostBattlePortuguese
+Eu gostaria de poder voar como PIDGEY e\nPIDGEOTTO…
+
+#org @Route13_Text_LookToLeftOfThatPostPortuguese
+DICAS DO TREINADOR Olha, olha! Olhe para\na esquerda desse post!
+
+#org @Route13_Text_SelectToSwitchItemsPortuguese
+DICAS DO TREINADOR Use SELECT para alternar\nitens na janela ITEMS.
+
+#org @Route13_Text_RouteSignPortuguese
+ROTA 13 Norte até PONTE DO SILÊNCIO
+
+#org @Route14_Text_CarterIntroPortuguese
+Você precisa usar TMs para ensinar bons\nmovimentos ao POK\eMON.
+
+#org @Route14_Text_CarterDefeatPortuguese
+Ainda não é bom o suficiente.
+
+#org @Route14_Text_CarterPostBattlePortuguese
+Você tem alguns HMs, certo? POK\eMON não\nconsegue esquecer esses movimentos facilmente.
+
+#org @Route14_Text_MitchIntroPortuguese
+Meu pássaro POK\eMON deve estar pronto\npara a batalha.
+
+#org @Route14_Text_MitchDefeatPortuguese
+Ainda não está pronto!
+
+#org @Route14_Text_MitchPostBattlePortuguese
+Meu pássaro POK\eMON precisa aprender movimentos\nmelhores.
+
+#org @Route14_Text_BeckIntroPortuguese
+Eles têm TMs à venda no CELADON DEPT. STORE.\nTMs não são realmente raros, mas poucas\ppessoas têm HMs.
+
+#org @Route14_Text_BeckDefeatPortuguese
+Ah, que chatice!
+
+#org @Route14_Text_BeckPostBattlePortuguese
+Tente ensinar ao POK\eMON um movimento\ndo mesmo tipo que ele. Isso aparentemente\paumenta o poder o movimento.
+
+#org @Route14_Text_MarlonIntroPortuguese
+Você ensinou seu pássaro POK\eMON como\nVOAR? Você será capaz de voar com ele o\pcéu!
+
+#org @Route14_Text_MarlonDefeatPortuguese
+Abatido em chamas!
+
+#org @Route14_Text_MarlonPostBattlePortuguese
+Bird POK\eMON é meu verdadeiro amor. Não\nquero criar mais nada.
+
+#org @Route14_Text_DonaldIntroPortuguese
+Você já ouviu a lenda das miragens aladas?
+
+#org @Route14_Text_DonaldDefeatPortuguese
+Por quê? Por que eu perdi?
+
+#org @Route14_Text_DonaldPostBattlePortuguese
+Bem, as miragens aladas são o pássaro lendário\nPOK\eMON. Existem três deles: ARTICUNO,\pZAPDOS e MOLTRES.
+
+#org @Route14_Text_BennyIntroPortuguese
+Não gosto disso, mas tudo bem. Vamos!
+
+#org @Route14_Text_BennyDefeatPortuguese
+Eu sabia!
+
+#org @Route14_Text_BennyPostBattlePortuguese
+Ganhar, perder... É insignificante ebaixo\ndeste céu enorme.
+
+#org @Route14_Text_LukasIntroPortuguese
+Vamos, vamos. Vamos, vamos, vamos!
+
+#org @Route14_Text_LukasDefeatPortuguese
+Arrg! Perdido! Se perder!
+
+#org @Route14_Text_LukasPostBattlePortuguese
+O que, o que, o que? O que você ainda quer?
+
+#org @Route14_Text_IsaacIntroPortuguese
+Preciso gastar algum tempo. Cale a boca\ne lute.
+
+#org @Route14_Text_IsaacDefeatPortuguese
+O quê? Você!?
+
+#org @Route14_Text_IsaacPostBattlePortuguese
+Aumentar POK\eMON é uma chatice, cara.
+
+#org @Route14_Text_GeraldIntroPortuguese
+Viemos até aqui por causa dos espaços abertos.
+
+#org @Route14_Text_GeraldDefeatPortuguese
+Destrua!
+
+#org @Route14_Text_GeraldPostBattlePortuguese
+Que legal que você deixou seu POK\eMON\ntão forte. Talvez esteja certo! E você\psabe disso!
+
+#org @Route14_Text_MalikIntroPortuguese
+Batalha POK\eMON? Legal! Estrondo!
+
+#org @Route14_Text_MalikDefeatPortuguese
+Deslumbrado!
+
+#org @Route14_Text_MalikPostBattlePortuguese
+Você sabe quem venceria, você e eu um contra\num!
+
+#org @Route14_Text_RouteSignPortuguese
+ROTA 14 Oeste para a CIDADE DE FÚCSIA
+
+#org @Route14_Text_KiriIntroPortuguese
+KIRI: JAN, vamos tentar muito, muito mesmo\njuntos.
+
+#org @Route14_Text_KiriDefeatPortuguese
+KIRI: Choramingo… Perdemos, não foi?
+
+#org @Route14_Text_KiriPostBattlePortuguese
+KIRI: Perdemos por minha causa?
+
+#org @Route14_Text_KiriNotEnoughMonsPortuguese
+KIRI: Podemos lutar se você tiver dois\nPOK\eMON.
+
+#org @Route14_Text_JanIntroPortuguese
+JAN: KIRI, aqui vamos nós! Temos que nos\nesforçar!
+
+#org @Route14_Text_JanDefeatPortuguese
+JAN: Eeeeh! Não é justo!
+
+#org @Route14_Text_JanPostBattlePortuguese
+JAN: KIRI, não chore! Vamos nos esforçar\nmais da próxima vez.
+
+#org @Route14_Text_JanNotEnoughMonsPortuguese
+JAN: Você quer lutar? Você não tem POK\eMON\nsuficiente.
+
+#org @Route15_Text_KindraIntroPortuguese
+Acabei de receber alguns POK\eMON em negociações.\nPosso testá-los com você?
+
+#org @Route15_Text_KindraDefeatPortuguese
+Não esta bom o suficiente!
+
+#org @Route15_Text_KindraPostBattlePortuguese
+Você não pode alterar o apelido de nenhum\nPOK\eMON obtido em uma troca. Somente o\pTREINADOR Original pode alterar o apelido.
+
+#org @Route15_Text_BeckyIntroPortuguese
+Você parece gentil, então acho que posso\nvencer você. Vou tentar!
+
+#org @Route15_Text_BeckyDefeatPortuguese
+Não, errado!
+
+#org @Route15_Text_BeckyPostBattlePortuguese
+Tenho medo de MOTOCICLISTAS. Eles parecem\ntão feios e malvados!
+
+#org @Route15_Text_EdwinIntroPortuguese
+Quando assobio, posso invocar o pássaro\nPOK\eMON.
+
+#org @Route15_Text_EdwinDefeatPortuguese
+Ai! Isso é trágico!
+
+#org @Route15_Text_EdwinPostBattlePortuguese
+Talvez eu não esteja preparado para batalhas.\nAcho que não sou o tipo certo.
+
+#org @Route15_Text_ChesterIntroPortuguese
+Hum? Meus pássaros estão tremendo! Você\né bom, não é?
+
+#org @Route15_Text_ChesterDefeatPortuguese
+Assim como pensei!
+
+#org @Route15_Text_ChesterPostBattlePortuguese
+Isso é tão óbvio que você deveria saber\nisso, mas… Movimentos como EARTHQUAKE e\pFISSURE não têm efeito no POK\eMON dos\npássaros.
+
+#org @Route15_Text_GraceIntroPortuguese
+Ah, você é uma gracinha! Tão parecido com\num querido POK\eMON!
+
+#org @Route15_Text_GraceDefeatPortuguese
+Você também parecia tão fofo!
+
+#org @Route15_Text_GracePostBattlePortuguese
+Eu te perdôo. Eu aguento. Já sou uma menina\ncrescida.
+
+#org @Route15_Text_OliviaIntroPortuguese
+Eu crio POK\eMON para proteção porque moro\nsozinho.
+
+#org @Route15_Text_OliviaDefeatPortuguese
+POK\eMON não é sobre ganhar ou perder para\nmim.
+
+#org @Route15_Text_OliviaPostBattlePortuguese
+Adoro que meu POK\eMON me cumprimente quando\nchego em casa. É tão reconfortante.
+
+#org @Route15_Text_ErnestIntroPortuguese
+Ei, garoto! Vamos! Acabei de tirar isso\nde um perdedor!
+
+#org @Route15_Text_ErnestDefeatPortuguese
+Por que não?
+
+#org @Route15_Text_ErnestPostBattlePortuguese
+A vida é muito curta. É legal viver como\num fora da lei. EQUIPE ROCKET REGRAS!
+
+#org @Route15_Text_AlexIntroPortuguese
+Desembolse todo o seu dinheiro quando perder\npara mim, garoto!
+
+#org @Route15_Text_AlexDefeatPortuguese
+Isso não pode ser verdade!
+
+#org @Route15_Text_AlexPostBattlePortuguese
+Eu só estava brincando sobre o dinheiro.\nNão me leve tão a sério.
+
+#org @Route15_Text_CeliaIntroPortuguese
+O que é legal e está acontecendo? Negociação\nde POK\eMON!
+
+#org @Route15_Text_CeliaDefeatPortuguese
+Eu disse comércio!
+
+#org @Route15_Text_CeliaPostBattlePortuguese
+Eu troco POK\eMON com meus amigos o tempo\ntodo.
+
+#org @Route15_Text_YazminIntroPortuguese
+Quer brincar com meu POK\eMON?
+
+#org @Route15_Text_YazminDefeatPortuguese
+Eu estava muito impaciente!
+
+#org @Route15_Text_YazminPostBattlePortuguese
+Vou treinar com pessoas mais fracas.
+
+#org @Route15_Text_RouteSignPortuguese
+ROTA 15 Oeste para a CIDADE DE FÚCSIA
+
+#org @Route15_Text_MyaIntroPortuguese
+MYA: Você é perfeito. Me ajuda a treinar\nmeu irmão mais novo?
+
+#org @Route15_Text_MyaDefeatPortuguese
+MYA: RON, você tem que se concentrar! Concentre-se\nno que está fazendo!
+
+#org @Route15_Text_MyaPostBattlePortuguese
+MYA: Ok, vamos aumentar. Vou adicionar\nao nosso menu de treinamento!
+
+#org @Route15_Text_MyaNotEnoughMonsPortuguese
+MYA: Você quer nos desafiar? Mas você precisará\nde dois POK\eMON.
+
+#org @Route15_Text_RonIntroPortuguese
+RON: Minha irmã fica assustada quando perdemos.
+
+#org @Route15_Text_RonDefeatPortuguese
+RON: Ah, não, não... Mana, me desculpe!
+
+#org @Route15_Text_RonPostBattlePortuguese
+RON: Oh, caramba... Eu gostaria de ter\numa irmã legal...
+
+#org @Route15_Text_RonNotEnoughMonsPortuguese
+RON: Você queria batalhar comigo e com\nminha irmã? Você precisa de dois POK\eMON,\pentão.
+
+#org @Route16_Text_LaoIntroPortuguese
+O que você quer?
+
+#org @Route16_Text_LaoDefeatPortuguese
+Não ouse rir!
+
+#org @Route16_Text_LaoPostBattlePortuguese
+Gostamos de ficar aqui. O que isso importa\npara você?
+
+#org @Route16_Text_KojiIntroPortuguese
+Bela BICICLETA! Entregue-a!
+
+#org @Route16_Text_KojiDefeatPortuguese
+Suprimir!
+
+#org @Route16_Text_KojiPostBattlePortuguese
+Esqueça, quem precisa da sua BICICLETA!
+
+#org @Route16_Text_LukeIntroPortuguese
+Saia e brinque, ratinho!
+
+#org @Route16_Text_LukeDefeatPortuguese
+Seu ratinho!
+
+#org @Route16_Text_LukePostBattlePortuguese
+Eu odeio perder! Saia da minha frente!
+
+#org @Route16_Text_HideoIntroPortuguese
+Ei, você acabou de me bater!
+
+#org @Route16_Text_HideoDefeatPortuguese
+Kaboom!
+
+#org @Route16_Text_HideoPostBattlePortuguese
+Estaremos sempre por aqui, mesmo que você\nnão goste. Você pode desviar para VERMILION\pde FUCHSIA seguindo ao longo da costa.
+
+#org @Route16_Text_CamronIntroPortuguese
+Estou com fome e malvado! Preciso de um\nsaco de pancadas!
+
+#org @Route16_Text_CamronDefeatPortuguese
+Mau Mau Mau!
+
+#org @Route16_Text_CamronPostBattlePortuguese
+Se vou ter POK\eMON, eles podem muito bem\nser ferozes. Eu os usaria para deixar meus\pinimigos em farrapos.
+
+#org @Route16_Text_RubenIntroPortuguese
+Olá! Vamos nos divertir!
+
+#org @Route16_Text_RubenDefeatPortuguese
+Não me deixe bravo!
+
+#org @Route16_Text_RubenPostBattlePortuguese
+Eu me divirto assediando as pessoas com\nmeu POK\eMON fedorento. Eles são ótimos\ppara assustar as pessoas. E mordem também.
+
+#org @Route16_Text_MonSprawledOutInSlumberPortuguese
+Um POK\eMON está estendido em\um sono profundo\ne confortável.
+
+#org @Route16_Text_CyclingRoadSignPortuguese
+Aproveite a descida! ESTRADA DE CICLISMO
+
+#org @Route16_Text_RouteSignPortuguese
+ROTA 16 CIDADE DE CELADON - CIDADE FÚCSIA
+
+#org @Route16_Text_JedIntroPortuguese
+JED: Nosso amor não tem limites. Estamos\napaixonados e demonstramos isso!
+
+#org @Route16_Text_JedDefeatPortuguese
+JED: Ah, não! Meu amor me viu como um perdedor!
+
+#org @Route16_Text_JedPostBattlePortuguese
+JED: Ouça, LEA. Você precisa se concentrar\nmenos em mim.
+
+#org @Route16_Text_JedNotEnoughMonsPortuguese
+JED: Você tem apenas um POK\eMON? Não há\namor em seu coração?
+
+#org @Route16_Text_LeaIntroPortuguese
+LEA: Às vezes, a intensidade do osso amor\nme assusta.
+
+#org @Route16_Text_LeaDefeatPortuguese
+LÉA: Ah! Mas JED parece legal mesmo perdido!
+
+#org @Route16_Text_LeaPostBattlePortuguese
+LEA: Ehehe, me desculpe. JED é tão legal.
+
+#org @Route16_Text_LeaNotEnoughMonsPortuguese
+LEA: Ah, você não tem dois POK\eMON com\nvocê? Não se sente solitário para você\pou seu POK\eMON?
+
+#org @Route17_Text_RaulIntroPortuguese
+Não há como ficar rico rapidamente lutando\ncontra crianças.
+
+#org @Route17_Text_RaulDefeatPortuguese
+Queimado!
+
+#org @Route17_Text_RaulPostBattlePortuguese
+Você pode encontrar coisas boas por aí\nna CYCLING ROAD. Ganhe um bom dinheiro\pem pegá-las e vendê-las.
+
+#org @Route17_Text_IsaiahIntroPortuguese
+Estou muito orgulhoso do meu corpo, garoto.\nVamos!
+
+#org @Route17_Text_IsaiahDefeatPortuguese
+Uau!
+
+#org @Route17_Text_IsaiahPostBattlePortuguese
+Eu poderia te dar uma pancada na barriga\nde daqui!
+
+#org @Route17_Text_VirgilIntroPortuguese
+Você está indo para FÚCSIA?
+
+#org @Route17_Text_VirgilDefeatPortuguese
+Bate e queima!
+
+#org @Route17_Text_VirgilPostBattlePortuguese
+Adoro correr ladeira abaixo!
+
+#org @Route17_Text_BillyIntroPortuguese
+Somos MOTOCICLISTAS! Nós governamos as\nestradas, cara!
+
+#org @Route17_Text_BillyDefeatPortuguese
+Defumado!
+
+#org @Route17_Text_BillyPostBattlePortuguese
+Você está procurando aventura?
+
+#org @Route17_Text_NikolasIntroPortuguese
+Deixe o VOLTORB eletrizar você!
+
+#org @Route17_Text_NikolasDefeatPortuguese
+Aterrado!
+
+#org @Route17_Text_NikolasPostBattlePortuguese
+Comprei meu VOLTORB na CENTRAL DE ENERGIA\nabandonada.
+
+#org @Route17_Text_ZeekIntroPortuguese
+Aumentei o nível do meu POK eMON, mas ele\nnão evolui. Por que?
+
+#org @Route17_Text_ZeekDefeatPortuguese
+Por que você!
+
+#org @Route17_Text_ZeekPostBattlePortuguese
+Talvez alguns POK\eMON precisem do elemento\nSTONES para evoluir.
+
+#org @Route17_Text_JamalIntroPortuguese
+Preciso de um pouco de exercício!
+
+#org @Route17_Text_JamalDefeatPortuguese
+Uau! Bom treino!
+
+#org @Route17_Text_JamalPostBattlePortuguese
+Tenho certeza que perdi peso lá!
+
+#org @Route17_Text_CoreyIntroPortuguese
+Seja um rebelde!
+
+#org @Route17_Text_CoreyDefeatPortuguese
+Aaargh!
+
+#org @Route17_Text_CoreyPostBattlePortuguese
+Esteja pronto para lutar por suas crenças!
+
+#org @Route17_Text_JaxonIntroPortuguese
+Bela BICICLETA! Como está?
+
+#org @Route17_Text_JaxonDefeatPortuguese
+Atirar!
+
+#org @Route17_Text_JaxonPostBattlePortuguese
+A inclinação dificulta a direção.
+
+#org @Route17_Text_WilliamIntroPortuguese
+Desaparece, garoto! Estou exausto!
+
+#org @Route17_Text_WilliamDefeatPortuguese
+Você está satisfeito?
+
+#org @Route17_Text_WilliamPostBattlePortuguese
+Eu preciso pegar alguns z's!
+
+#org @Route17_Text_WatchOutForDiscardedItemsPortuguese
+É um aviso. Cuidado com itens descartados.
+
+#org @Route17_Text_SameSpeciesGrowDifferentRatesPortuguese
+DICAS DO TREINADOR Todos os POK\eMON são\núnicos. Mesmo POK\eMON da mesma espécie\pe nível crescem em taxas diferentes.
+
+#org @Route17_Text_PressBToStayInPlacePortuguese
+DICAS DO TREINADOR Pressione o botão B\npara permanecer no lugar enquanto estiver\pem um declive.
+
+#org @Route17_Text_RouteSignPortuguese
+ROTA 17 CIDADE DE CELADON - CIDADE FÚCSIA
+
+#org @Route17_Text_DontThrowGameThrowBallsPortuguese
+É um aviso! Não jogue o jogo, jogue POK\e\nBOLAS!
+
+#org @Route17_Text_CyclingRoadSignPortuguese
+ESTRADA DE CICLISMO A inclinação termina\naqui!
+
+#org @Route18_Text_WiltonIntroPortuguese
+Eu sempre verifico cada área gramada em\nbusca de novos POK\eMON.
+
+#org @Route18_Text_WiltonDefeatPortuguese
+Tchau!
+
+#org @Route18_Text_WiltonPostBattlePortuguese
+Eu gostaria de ter uma BICICLETA!
+
+#org @Route18_Text_RamiroIntroPortuguese
+Kurukkoo! O que você acha do meu canto\nde pássaro?
+
+#org @Route18_Text_RamiroDefeatPortuguese
+Eu tive que incomodar você!
+
+#org @Route18_Text_RamiroPostBattlePortuguese
+Eu coleciono POK\eMON do mar nos fins de\nsemana porque o mar está muito próximo.
+
+#org @Route18_Text_JacobIntroPortuguese
+Este é o meu território! Saia daqui!
+
+#org @Route18_Text_JacobDefeatPortuguese
+Droga!
+
+#org @Route18_Text_JacobPostBattlePortuguese
+Esta é minha área favorita para capturar\nPOK\eMON.
+
+#org @Route18_Text_RouteSignPortuguese
+ROTA 18 CIDADE DE CELADON - CIDADE FÚCSIA
+
+#org @Route18_Text_CyclingRoadSignPortuguese
+ESTRADA DE CICLISMO Não são permitidos\npedestres!
+
+#org @Route19_Text_RichardIntroPortuguese
+Preciso me exercitar e me aquecer antes\nde sair para nadar.
+
+#org @Route19_Text_RichardDefeatPortuguese
+Tudo aquecido!
+
+#org @Route19_Text_RichardPostBattlePortuguese
+Obrigado, garoto! Estou pronto para nadar.
+
+#org @Route19_Text_ReeceIntroPortuguese
+Espere! Calma! Você terá um ataque cardíaco!
+
+#org @Route19_Text_ReeceDefeatPortuguese
+Ooh! Isso está frio!
+
+#org @Route19_Text_ReecePostBattlePortuguese
+Cuidado com o TENTACOOL. Eles picam muito.
+
+#org @Route19_Text_MatthewIntroPortuguese
+Adoro nadar! E você?
+
+#org @Route19_Text_MatthewDefeatPortuguese
+Queda de barriga!
+
+#org @Route19_Text_MatthewPostBattlePortuguese
+Posso vencer até mesmo POK\eMON  marinhos\nna natação.
+
+#org @Route19_Text_DouglasIntroPortuguese
+O que há além do horizonte?
+
+#org @Route19_Text_DouglasDefeatPortuguese
+Glub!
+
+#org @Route19_Text_DouglasPostBattlePortuguese
+Vejo algumas ilhas além!
+
+#org @Route19_Text_DavidIntroPortuguese
+Tentei mergulhar no POK\eMON, mas não consegui.
+
+#org @Route19_Text_DavidDefeatPortuguese
+Ajuda!
+
+#org @Route19_Text_DavidPostBattlePortuguese
+Eu acho que você tem que pescar POK\eMON\ndo mar.
+
+#org @Route19_Text_TonyIntroPortuguese
+Olho para o mar para esquecer todas as\ncoisas ruins que aconteceram.
+
+#org @Route19_Text_TonyDefeatPortuguese
+Uau! Traumático!
+
+#org @Route19_Text_TonyPostBattlePortuguese
+Estou olhando para o mar para esquecer\no mal que aconteceu!
+
+#org @Route19_Text_AnyaIntroPortuguese
+Ah, adorei seu passeio! Posso ficar com\nele se ganhar?
+
+#org @Route19_Text_AnyaDefeatPortuguese
+Oh! Eu perdi!
+
+#org @Route19_Text_AnyaPostBattlePortuguese
+Ainda falta muito para SEAFOAM ISLANDS…\nQuero voltar para FÚCSIA…
+
+#org @Route19_Text_AliceIntroPortuguese
+Nadar é ótimo! Queimaduras solares, não!
+
+#org @Route19_Text_AliceDefeatPortuguese
+Chocante!
+
+#org @Route19_Text_AlicePostBattlePortuguese
+Meu namorado queria nadar até SEAFOAM ISLANDS.
+
+#org @Route19_Text_AxleIntroPortuguese
+Ai, aí! Essas águas são traiçoeiras!
+
+#org @Route19_Text_AxleDefeatPortuguese
+Uau! Perigoso!
+
+#org @Route19_Text_AxlePostBattlePortuguese
+M-minhas pernas! Eles ficaram com cãibras!\nGlub, glub…
+
+#org @Route19_Text_ConnieIntroPortuguese
+Nadei aqui com meus amigos… Estou cansado…
+
+#org @Route19_Text_ConnieDefeatPortuguese
+Estou exausta…
+
+#org @Route19_Text_ConniePostBattlePortuguese
+Se eu fosse montar um POK\eMON no o mar,\neu gostaria de um LAPRAS. LAPRAS é tão\pgrande que aposto que me manteria seco\nna água.
+
+#org @Route19_Text_RouteSignPortuguese
+ROTA MARÍTIMA 19 CIDADE FÚCSIA - ILHAS\nSEAFOAM
+
+#org @Route19_Text_LiaIntroPortuguese
+LIA: Estou cuidando do meu irmão. Ele acabou\nde se tornar um TREINADOR.
+
+#org @Route19_Text_LiaDefeatPortuguese
+LIA: Isso não é jeito de tratar meu irmão\nmais novo!
+
+#org @Route19_Text_LiaPostBattlePortuguese
+LIA: Você tem um irmão mais novo? Espero\nque você esteja lhe ensinando todo tipo\pde coisas.
+
+#org @Route19_Text_LiaNotEnoughMonsPortuguese
+LIA: Quero lutar junto com meu irmão mais\nnovo. Você não tem dois POK\eMON?
+
+#org @Route19_Text_LucIntroPortuguese
+LUC: Minha irmã mais velha me ensinou a\nnadar e treinar POK\eMON.
+
+#org @Route19_Text_LucDefeatPortuguese
+LUC: Nossa! Alguém mais durão que minha\nirmã mais velha!
+
+#org @Route19_Text_LucPostBattlePortuguese
+LUC: Minha irmã mais velha é forte e legal.\nEu acho ela incrível!
+
+#org @Route19_Text_LucNotEnoughMonsPortuguese
+LUC: Eu não quero se não puder lutar com\nvocê com minha irmã mais velha. Você não\ptem dois POK\eMON?
+
+#org @Route20_Text_BarryIntroPortuguese
+A água é rasa aqui. Há muitas pessoas nadando.
+
+#org @Route20_Text_BarryDefeatPortuguese
+Respingo!
+
+#org @Route20_Text_BarryPostBattlePortuguese
+Eu gostaria de poder montar meu POK\eMON.\nAposto que você não está cansado.
+
+#org @Route20_Text_ShirleyIntroPortuguese
+SEAFOAM é um refúgio tranquilo. Estou de\nférias aqui.
+
+#org @Route20_Text_ShirleyDefeatPortuguese
+Pare com isso!
+
+#org @Route20_Text_ShirleyPostBattlePortuguese
+Há uma enorme caverna esta ilha.
+
+#org @Route20_Text_TiffanyIntroPortuguese
+Adoro flutuar com os peixes aqui entre\nas ondas.
+
+#org @Route20_Text_TiffanyDefeatPortuguese
+Uau!
+
+#org @Route20_Text_TiffanyPostBattlePortuguese
+Quer flutuar comigo?
+
+#org @Route20_Text_IreneIntroPortuguese
+Você também está de férias?
+
+#org @Route20_Text_IreneDefeatPortuguese
+Sem piedade!
+
+#org @Route20_Text_IrenePostBattlePortuguese
+SEAFOAM costumava ser uma única ilha o\npassado distante.
+
+#org @Route20_Text_DeanIntroPortuguese
+Confira meu físico forte!
+
+#org @Route20_Text_DeanDefeatPortuguese
+Fraco!
+
+#org @Route20_Text_DeanPostBattlePortuguese
+Eu deveria estar fortalecendo meu POK\eMON,\nnão eu!
+
+#org @Route20_Text_DarrinIntroPortuguese
+Por que você está montando um POK\eMON?\nVocê não sabe nadar?
+
+#org @Route20_Text_DarrinDefeatPortuguese
+Ai! Torpedeado!
+
+#org @Route20_Text_DarrinPostBattlePortuguese
+Montar um POK\eMON com certeza parece divertido!
+
+#org @Route20_Text_RogerIntroPortuguese
+Eu montei meu pássaro POK\eMON aqui.
+
+#org @Route20_Text_RogerDefeatPortuguese
+Ah, não! Agora, o que devo fazer?
+
+#org @Route20_Text_RogerPostBattlePortuguese
+Meus pássaros estão exaustos. Eles não\npodem me VOAR de volta!
+
+#org @Route20_Text_NoraIntroPortuguese
+Meu namorado me deu pérolas grandes.
+
+#org @Route20_Text_NoraDefeatPortuguese
+Ah, não! Minhas pérolas estavam neles!
+
+#org @Route20_Text_NoraPostBattlePortuguese
+Minhas pérolas crescerão dentro do CLOYSTER?
+
+#org @Route20_Text_MissyIntroPortuguese
+Nadei da ILHA DE CINNABAR até aqui. Não\nfoi fácil, eu lhe garanto.
+
+#org @Route20_Text_MissyDefeatPortuguese
+Estou tão decepcionado!
+
+#org @Route20_Text_MissyPostBattlePortuguese
+POK\eMON assumiram uma a mansão abandonada\nem CINNABAR. Eles a chamam de MANSÃO POK\eMON\pagora.
+
+#org @Route20_Text_MelissaIntroPortuguese
+CINNABAR, no oeste, tem um LABORATÓRIO\npara POK\eMON. Meu pai trabalha lá.
+
+#org @Route20_Text_MelissaDefeatPortuguese
+Espere! Você deveria esperar!
+
+#org @Route20_Text_MelissaPostBattlePortuguese
+CINNABAR é uma ilha vulcânica. Ouvi dizer\nque ela surgiu do mar quando um vulcão\pentrou em erupção.
+
+#org @Route20_Text_SeafoamIslandsPortuguese
+ILHAS DE ESPUMA DO MAR
+
+#org @Route20_Text_MistyTrainsHerePortuguese
+TREINADORES FORTES e POK\eMON DE ÁGUA e\nsão visões comuns por aqui. Dizem que MISTY\pdo CERULEAN GYM treina aqui.
+
+#org @Route21_North_Text_RonaldIntroPortuguese
+Quer saber se os peixes estão mordendo?
+
+#org @Route21_North_Text_RonaldDefeatPortuguese
+Droga!
+
+#org @Route21_North_Text_RonaldPostBattlePortuguese
+Não consigo pegar nada de bom. Nenhum POK\eMON\nbom disponível!
+
+#org @Route21_North_Text_WadeIntroPortuguese
+Consegui uma grande conquista! Quer tentar?
+
+#org @Route21_North_Text_WadeDefeatPortuguese
+Heheh, MAGIKARP simplesmente não chega\na nota, não é?
+
+#org @Route21_North_Text_WadePostBattlePortuguese
+Parece que só pego MAGIKARP!
+
+#org @Route21_North_Text_SpencerIntroPortuguese
+O mar limpa meu corpo e alma!
+
+#org @Route21_North_Text_SpencerDefeatPortuguese
+Sim!
+
+#org @Route21_North_Text_SpencerPostBattlePortuguese
+O mar é ótimo e tudo, mas também gosto\ndas montanhas.
+
+#org @Route21_North_Text_CueBallIntroPortuguese
+Até eu venho ao Yoyogi de vez em quando!
+
+#org @Route21_North_Text_CueBallPostBattlePortuguese
+Parece divertido? É tão barulhento, tão\ngrande!
+
+#org @Route21_South_Text_JackIntroPortuguese
+Peguei meu POK\eMON no mar.
+
+#org @Route21_South_Text_JackDefeatPortuguese
+Mergulhador!! Abaixo!!
+
+#org @Route21_South_Text_JackPostBattlePortuguese
+Onde você pegou seu POK\eMON?
+
+#org @Route21_South_Text_JeromeIntroPortuguese
+No momento, estou em uma competição de\ntriatlo.
+
+#org @Route21_South_Text_JeromePostBattlePortuguese
+Estou exausto! Mas ainda tenho corrida\nde bicicleta e maratona!
+
+#org @Route21_South_Text_RolandIntroPortuguese
+Ahh! Sinta o sol e o vento!
+
+#org @Route21_South_Text_RolandDefeatPortuguese
+Uau! Estou perdido!
+
+#org @Route21_South_Text_RolandPostBattlePortuguese
+Estou queimado de sol até ficar crocante!
+
+#org @Route21_South_Text_ClaudeIntroPortuguese
+Ei, não assuste os peixes!
+
+#org @Route21_South_Text_ClaudeDefeatPortuguese
+Desculpe! Estou muito frustrado por não\npegar nada.
+
+#org @Route21_South_Text_ClaudePostBattlePortuguese
+Nossa, eu não peguei nada. Este lugar poderia\nrealmente ser uma iscina gigante ou algo\passim?
+
+#org @Route21_South_Text_NolanIntroPortuguese
+Faça-me companhia até eu conseguir um sucesso.
+
+#org @Route21_South_Text_NolanDefeatPortuguese
+Isso queimou algum tempo.
+
+#org @Route21_South_Text_NolanPostBattlePortuguese
+Ah, espere! Recebi uma mordida! Sim!
+
+#org @Route21_North_Text_LilIntroPortuguese
+LIL: Hein? Uma batalha? IAN, você não consegue\nfazer isso sozinho?
+
+#org @Route21_North_Text_LilDefeatPortuguese
+LIL: Ah, viu? Perdemos. Feliz agora?
+
+#org @Route21_North_Text_LilPostBattlePortuguese
+LIL: Estou cansada. Já não podemos ir para\ncasa?
+
+#org @Route21_North_Text_LilNotEnoughMonsPortuguese
+LIL: Hein? Uma batalha? Não posso me dar\nao trabalho de fazer isso sozinho. Traga\pdois POK\eMON, certo?
+
+#org @Route21_North_Text_IanIntroPortuguese
+IAN: Minha irmã não faz exercícios suficientes,\nentão eu a fiz vir.
+
+#org @Route21_North_Text_IanDefeatPortuguese
+IAN: Ah, mana! Controle-se!
+
+#org @Route21_North_Text_IanPostBattlePortuguese
+IAN: Vamos, mana! Você não vai perder peso\nassim!
+
+#org @Route21_North_Text_IanNotEnoughMonsPortuguese
+IAN: Queremos uma batalha dois contra dois.\nEntão você pode trazer dois POK\eMON?
+
+#org @Route22_Text_EarlyRivalIntroPortuguese
+É: Hey!À! Você está indo para a LIGA POK\eMON?\nEsqueça isso! Você provavelmente não tem\pnenhum DINHOS, não é? O guarda não vai\ndeixar você passar sem eles. A propósito\p, seu POK\eMON ficou amais forte?
+
+#org @Route22_Text_EarlyRivalDefeatPortuguese
+Awww! Você teve sorte!
+
+#org @Route22_Text_EarlyRivalPostBattlePortuguese
+Ouvi dizer que a POK eMON LEAGUE está cheia\nde TREINADORES durões. Tenho que descobrir\pcomo  ultrapassá-los. Você deveria parar\nde perder tempo e seguir em frente!
+
+#org @Route22_Text_RivalShouldCatchSomeMonsPortuguese
+? Por que você tem Pokémon Hikimo? Seria\nótimo se eu pudesse pegar você também!
+
+#org @Route22_Text_LateRivalIntroPortuguese
+É: What?À! Que surpresa ver você aqui!\nEntão você está indo para a LIGA POK\eMON\p? Você coletou todos os EMBLEMAS também?\nQue legal! Então eu vou te chicotear,À,\pcomo aquecimento para a LIGA POK\eMON!\nVamos!
+
+#org @Route22_Text_LateRivalDefeatPortuguese
+O quê!? Eu fui simplesmente descuidado,\nvocê!
+
+#org @Route22_Text_LateRivalPostBattlePortuguese
+À, você precisa de mais prática. Mas ei,\nvocê sabe disso! Estou fora daqui. Cheire\pvocê!
+
+#org @Route22_Text_LateRivalVictoryPortuguese
+HahahahahaAh! Então ela está tentando o\nseu melhor! Minha namorada é tão boa quanto\pminha namoradaAh, ela ainda está muito\nlonge! Vamos treinar mais! Ahaha!
+
+#org @Route22_Text_LeagueGateSignPortuguese
+LIGA POK\eMON Portão Frontal
+
+#org @Route23_Text_VictoryRoadGateSignPortuguese
+PORTÃO DA ESTRADA DA VITÓRIA - LIGA POK\eMON
+
+#org @Route24_Text_JustEarnedFabulousPrizePortuguese
+Parabéns! Você venceu nossos cinco TREINADORES\ndo concurso! Você acabou de ganhar um prêmio\pfabuloso!
+
+#org @Route24_Text_ReceivedNuggetFromMysteryTrainerPortuguese
+À recebeu um NUGGET do misterioso TRAINER!
+
+#org @Route24_Text_YouDontHaveAnyRoomPortuguese
+Você não tem espaço!
+
+#org @Route24_Text_JoinTeamRocketPortuguese
+A propósito, você gostaria de se juntar\nao TEAM ROCKET? Somos um grupo de criminosos\pprofissionais especializados em POK\eMON!\nQuer entrar? Tem certeza? Venha, junte-se\pa nós! I' estou dizendo para você se juntar!\n…Ok, você precisa ser convencido! Vou fazer\puma oferta que você não pode recusar!
+
+#org @Route24_Text_RocketDefeatPortuguese
+Arrgh! Você é bom!
+
+#org @Route24_Text_YoudBecomeTopRocketLeaderPortuguese
+Com sua habilidade, você se tornaria um\nlíder máximo do TEAM ROCKET. Vamos, pense\pna oportunidade! Não desperdice essa chance.
+
+#org @Route24_Text_ShaneIntroPortuguese
+Eu vi sua façanha da grama!
+
+#org @Route24_Text_ShaneDefeatPortuguese
+Eu pensei que não!
+
+#org @Route24_Text_ShanePostBattlePortuguese
+Escondi-me porque as pessoas na ponte me\nassustaram.
+
+#org @Route24_Text_EthanIntroPortuguese
+OK! Eu sou o número 5! Vou pisotear você!
+
+#org @Route24_Text_EthanDefeatPortuguese
+Uau! Demais!
+
+#org @Route24_Text_EthanPostBattlePortuguese
+Eu fiz o meu melhor. Eu não estou arrependido!
+
+#org @Route24_Text_ReliIntroPortuguese
+Eu sou o número 4! Está cansado?
+
+#org @Route24_Text_ReliDefeatPortuguese
+Eu também perdi!
+
+#org @Route24_Text_ReliPostBattlePortuguese
+Fiz o meu melhor, então não me arrependo!
+
+#org @Route24_Text_TimmyIntroPortuguese
+Aqui está o número 3! Não serei fácil!
+
+#org @Route24_Text_TimmyDefeatPortuguese
+Ai! Pisado!
+
+#org @Route24_Text_TimmyPostBattlePortuguese
+Eu fiz o meu melhor. Eu não estou arrependido!
+
+#org @Route24_Text_AliIntroPortuguese
+Eu sou o segundo! Agora é sério!
+
+#org @Route24_Text_AliDefeatPortuguese
+Como eu poderia perder?
+
+#org @Route24_Text_AliPostBattlePortuguese
+Eu fiz o meu melhor. Eu não estou arrependido!
+
+#org @Route24_Text_CaleIntroPortuguese
+As pessoas chamam isso de PONTE NUGGET!\nVença cinco TREINADORES e ganhe\um prêmio\pfabuloso! Acha que tem o que é preciso?
+
+#org @Route24_Text_CaleDefeatPortuguese
+Uau! Coisa boa!
+
+#org @Route24_Text_CalePostBattlePortuguese
+Eu fiz o meu melhor. Eu não estou arrependido!
+
+#org @Route25_Text_JoeyIntroPortuguese
+TREINADORES locais vêm aqui para praticar.
+
+#org @Route25_Text_JoeyDefeatPortuguese
+Você é decente.
+
+#org @Route25_Text_JoeyPostBattlePortuguese
+Todos os POK\eMON têm pontos fracos. Mesmo\nos mais fortes. É por isso que é melhor\pcriar POK\eMON de tipos diferentes.
+
