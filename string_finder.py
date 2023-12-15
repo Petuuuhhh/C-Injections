@@ -622,7 +622,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 # except:
                                     # pass
                             # pos = pos + 1
-                        # wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                        # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                        # wrapped_text = ''
+                        # numWidth = 0
+                        # width_ = 0
+                        # actualWidth = 0
+                        # limit = 39
+                        # count = 0
+                        # charIndex = 0
+                        # while charIndex < len(sanitizedText):
+                            # char = sanitizedText[charIndex]
+                            # wrapped_text = wrapped_text + char
+                            # width_ = width_ + 1
+                            # if width_ == limit and count % 2 == 0:
+                                # wrapped_text = wrapped_text + '\\n'
+                                # width_ = 0
+                                # limit = 39
+                                # count = count + 1
+                            # elif width_ == limit and count % 2 == 1:
+                                # wrapped_text = wrapped_text + '\\p'
+                                # width_ = 0
+                                # limit = 39
+                                # count = count + 1
+                            # if char == '[':
+                                # stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                # wrapped_text = wrapped_text + stringStore + ']'
+                                # if stringStore in nineWidths:
+                                    # limit = limit + len(stringStore) + 11
+                                    # charIndex = charIndex + len(stringStore) + 1
+                                # else:
+                                    # limit = limit + len(stringStore) + 2
+                                    # charIndex = charIndex + len(stringStore) + 1
+                            # charIndex = charIndex + 1
                         # num = 0
                         # wrapped_text_store = ''
                         # for wrap in wrapped_text:
@@ -650,7 +681,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 # except:
                                     # pass
                             # pos = pos + 1
-                        # wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                        # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                        # wrapped_text = ''
+                        # numWidth = 0
+                        # width_ = 0
+                        # actualWidth = 0
+                        # limit = 39
+                        # count = 0
+                        # charIndex = 0
+                        # while charIndex < len(sanitizedText):
+                            # char = sanitizedText[charIndex]
+                            # wrapped_text = wrapped_text + char
+                            # width_ = width_ + 1
+                            # if width_ == limit and count % 2 == 0:
+                                # wrapped_text = wrapped_text + '\\n'
+                                # width_ = 0
+                                # limit = 39
+                                # count = count + 1
+                            # elif width_ == limit and count % 2 == 1:
+                                # wrapped_text = wrapped_text + '\\p'
+                                # width_ = 0
+                                # limit = 39
+                                # count = count + 1
+                            # if char == '[':
+                                # stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                # wrapped_text = wrapped_text + stringStore + ']'
+                                # if stringStore in nineWidths:
+                                    # limit = limit + len(stringStore) + 11
+                                    # charIndex = charIndex + len(stringStore) + 1
+                                # else:
+                                    # limit = limit + len(stringStore) + 2
+                                    # charIndex = charIndex + len(stringStore) + 1
+                            # charIndex = charIndex + 1
                         # num = 0
                         # wrapped_text_store = ''
                         # for wrap in wrapped_text:
@@ -874,7 +936,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            # wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
                             sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                             wrapped_text = ''
                             numWidth = 0
@@ -885,7 +946,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             charIndex = 0
                             while charIndex < len(sanitizedText):
                                 char = sanitizedText[charIndex]
-                                print(char, charIndex, limit)
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
                                 if width_ == limit and count % 2 == 0:
@@ -934,7 +994,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
                             num = 0
                             wrapped_text_store = ''
                             for wrap in wrapped_text:
@@ -1041,7 +1132,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
                             num = 0
                             wrapped_text_store = ''
                             for wrap in wrapped_text:
@@ -1068,7 +1190,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
                             num = 0
                             wrapped_text_store = ''
                             for wrap in wrapped_text:
@@ -1114,7 +1267,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
                             num = 0
                             wrapped_text_store = ''
                             for wrap in wrapped_text:
@@ -1142,7 +1326,38 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     except:
                                         pass
                                 pos = pos + 1
-                            wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            wrapped_text = ''
+                            numWidth = 0
+                            width_ = 0
+                            actualWidth = 0
+                            limit = 39
+                            count = 0
+                            charIndex = 0
+                            while charIndex < len(sanitizedText):
+                                char = sanitizedText[charIndex]
+                                wrapped_text = wrapped_text + char
+                                width_ = width_ + 1
+                                if width_ == limit and count % 2 == 0:
+                                    wrapped_text = wrapped_text + '\\n'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                elif width_ == limit and count % 2 == 1:
+                                    wrapped_text = wrapped_text + '\\p'
+                                    width_ = 0
+                                    limit = 39
+                                    count = count + 1
+                                if char == '[':
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                    wrapped_text = wrapped_text + stringStore + ']'
+                                    if stringStore in nineWidths:
+                                        limit = limit + len(stringStore) + 11
+                                        charIndex = charIndex + len(stringStore) + 1
+                                    else:
+                                        limit = limit + len(stringStore) + 2
+                                        charIndex = charIndex + len(stringStore) + 1
+                                charIndex = charIndex + 1
                             num = 0
                             wrapped_text_store = ''
                             for wrap in wrapped_text:
