@@ -6487,3 +6487,879 @@ Tienes que enfrentarte a otros ENTRENADORES\npara ver lo bueno que eres realment
 #org @CeruleanCity_Gym_Text_LuisPostBattle
 MISTY es una ENTRENADORA que seguirá mejorando.\n¡No perderá contra alguien como tú!
 
+#org @CeruleanCity_Gym_Text_GymGuyAdvice
+¡Yo! ¡Campeón en ciernes! ¡Déjame darte\nun consejo! La LÍDER, MISTY, es una profesional\pque usa POK\eMON de tipo AGUA. Puedes drenar\ntoda su agua con POK\eMON de tipo HIERBA\p. O, ¡puedes usar POK\eMON de tipo ELÉCTRICO\ny eliminarlos!
+
+#org @CeruleanCity_Gym_Text_WeMakePrettyGoodTeam
+¡Venceste a MISTY! ¿Ves, qué te dije? ¡Tú\ny yo, chico, formamos un darn-buen equipo!
+
+#org @CeruleanCity_Gym_Text_GymStatue
+CERULEAN POK\eMON GYM LÍDER: MISTY ENTRENADORES\nGANADORES: [B_OPPONENT_MON1_NAME]É
+
+#org @CeruleanCity_Gym_Text_GymStatuePlayerWon
+Y,
+
+#org @CeruleanCity_BikeShop_Text_WelcomeToBikeShop
+¡Hola! Bienvenido a nuestra TIENDA DE BICICLETAS.\n¡Tenemos justo la BICICLETA para ti! !
+
+#org @CeruleanCity_BikeShop_Text_SorryYouCantAffordIt
+¡Lo siento! ¡No puedes permitírtelo!
+
+#org @CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo
+Oh, eso es... ¡UN CUPÓN PARA BICICLETA!\n¡Está bien! ¡Aquí tienes!
+
+#org @CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle
+À cambié el BONO BICICLETA por una BICICLETA.
+
+#org @CeruleanCity_BikeShop_Text_ThankYouComeAgain
+¡Gracias! ¡Vuelve alguna vez!
+
+#org @CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle
+¿Qué te parece tu nueva BICICLETA? ¿Te\ngusta cómo se conduce? ¡Puedes llevarla\pen CICLISMO ROAD e incluso en cuevas!
+
+#org @CeruleanCity_BikeShop_Text_MakeRoomForBicycle
+¡Será mejor que hagas espacio para tu BICICLETA!
+
+#org @CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe
+Una simple bicicleta urbana me basta .\nDespués de todo, en una bicicleta de montaña\pno se puede poner la cesta de la compra.
+
+#org @CeruleanCity_BikeShop_Text_BikesCoolButExpensive
+¡Estas bicicletas son geniales, pero muy\ncaras!
+
+#org @CeruleanCity_BikeShop_Text_WowYourBikeIsCool
+Vaya. ¡Tu BICICLETA es realmente genial!
+
+#org @CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket
+¡Por fin Hatsubai! ¡La mejor plegadora\nde Alemania!
+
+#org @CeruleanCity_BikeShop_Text_ShinyNewBicycle
+¡Una BICICLETA nueva y brillante!
+
+#org @CeruleanCity_Mart_Text_RepelWorksOnWeakMons
+REPEL no solo mantiene alejados a los insectos,\ntambién funciona con POK\eMON débiles.\pColoca tu POK\eMON más fuerte a la izquierda\nde la LISTA de POK\eMON. Si tu primer POK\eMON\pes fuerte, el efecto de REPEL se potencia\n.
+
+#org @CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy
+¿Conoces RARE CANDY? No lo venden en las\ntiendas. Creo que hace que POK\eMON crezca\pmuy rápidamente y de repente.
+
+#org @CeruleanCity_House4_Text_NothingEntertaining
+Suspiro... Demasiado tiempo, muy poco que\nhacer... ¿No pasa nada entretenido en ninguna\pparte?
+
+#org @CeruleanCity_House4_Text_NewNewsInformativeHaveThis
+¡Ah! ¡Un nuevo informe de noticias! Hmm…\n¡Ya veo! ¡Eso fue muy informativo! Te aplaudo\ppor interesarte en las noticias a tu temprana\nedad. Como agradecimiento por compartir\plas noticias conmigo, Quiero que tengas\nesto.
+
+#org @CeruleanCity_House4_Text_IncredibleNewsHaveBerries
+¡Oh, oh! E-este informe de noticias! Hmm…\n¡Increíble! ¡Qué noticia tan increíble!\p¡No había visto una noticia tan increíble\nen mucho tiempo! Gracias por compartir\pesta fantástica  noticias. ¡Come un montón\nde BAYAS!
+
+#org @CeruleanCity_House4_Text_WishCouldShareNewsWithOthers
+Parece una pena no compartir esta noticia\ncon otras personas... Me gustaría poder\pcontárselo a alguien... Que otros sepan\nla noticia...
+
+#org @CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis
+Ah, ¿has difundido la noticia por mí? Las\nbuenas noticias valen la pena cuando a\ptodo tipo de personas las comparten. Como\nagradecimiento por difundir la noticia,\p¡toma esto!
+
+#org @CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries
+¿Has difundido la noticia un poco más?\n¡Magnífico! Esa noticia debe estar  encantada\pde que se difunda así. ¡Sí, de hecho! Considera\nesto como una muestra de aprecio de mi\pparte y de la noticia. Lo haré darte más\nBAYAS que normalmente.
+
+#org @CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews
+Me estoy divirtiendo mucho con todo tipo\nde novedades. ¡Sí, estoy satisfecho! No\pme aburriré por un tiempo.
+
+#org @CeruleanCity_House4_Text_YourBerryPouchIsFull
+¿Mmm? Tu BOLSA DE BAYAS está llena. Mi\nregalo aún no se ha entregado.
+
+#org @CeruleanCity_House1_Text_AnyInterestInBerries
+Preparo una variedad de medicinas con BAYAS\nEN POLVO. Usando un buen POLVO DE BAYAS,\ppuedo hacer cualquier tipo de medicina.\nAhora dime, ¿tienes algún interés en LAS\pBAYAS?
+
+#org @CeruleanCity_House1_Text_HaveJustTheThing
+¡Ah bueno! Entonces tengo lo que necesitas\npara ti.
+
+#org @CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner
+Hay algo nuevo en el segundo piso de los\nCENTROS POK\eMON, en la ESQUINA DIRECTA.\pInstalaron una máquina adaptador inalámbrico\npara triturar BAYAS. Aquí es donde entras\ptú. Tengo un favor que pedirte, uno que\n Sólo puedo confiártelo a ti. ¿Podrías\pprepararme POLVO DE BAYAS usando esa máquina?\nNo lo olvides, la máquina está en la ESQUINA\pDIRECTA de los CENTROS POK\eMON. Prepararé\nmedicinas para ti si  tráeme un poco de\pPOLVO DE BAYAS. No lo olvides, tritura\nlas BAYAS en POLVO DE BAYAS y tráemelo.
+
+#org @CeruleanCity_House1_Text_WhyMustYouLieNoBerries
+¿Por qué debes mentirme? ¿Cuántas BAYAS\ntienes? ¡Ni una!
+
+#org @CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings
+¿No te interesan las BAYAS? Joven, es importante\ninteresarse por todo tipo de cosas.
+
+#org @CeruleanCity_House1_Text_HaveYouBroughtBerryPowder
+¡Ejem! ¿Me has traído POLVO DE BAYAS?
+
+#org @CeruleanCity_House5_Text_ExchangeWithWhat
+¿Con qué te gustaría  excambiarlo?
+
+#org @CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem
+Bien, ¿cambiarás tu BERRY POWDER por una\n[B_COPY_VAR_1]Á?
+
+#org @CeruleanCity_House1_Text_DontHaveEnoughBerryPowder
+¿Mmm? No tienes suficiente BAYAS EN POLVO.
+
+#org @CeruleanCity_House1_Text_TradeMoreBerryPowder
+De hecho, este es un excelente POLVO DE\nBAYAS. Será una medicina excelente. ¿Le\pgustaría cambiar más POLVO DE BAYAS por\notra cosa?
+
+#org @CeruleanCity_House1_Text_HopeToSeeYouAgain
+Entonces está bien. Espero volver a verte.
+
+#org @CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder
+Ven a verme si quieres intercambiar tu\nPOLVO DE BAYAS.
+
+#org @LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney
+¡TEAM ROCKET hará cualquier cosa por  el\ndinero! ¡No hay trabajo demasiado sucio,\pninguna acción  demasiado atroz, ningún\ncrimen demasiado perverso!
+
+#org @LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets
+Vi a la madre de CUBONE intentando\escapar\ndel TEAM ROCKET. La mataron intentando\pescapar...
+
+#org @LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls
+Ya sabes cómo la especie CUBONE lleva calaveras,\n¿verdad? La gente pagará mucho por una.
+
+#org @LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere
+Me mudé recientemente a esta ciudad. He\noído que MR. FUJI tampoco es originario\pde estas partes.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo
+Eso es extraño, señor. FUJI no está aquí.\n¿Adónde fue?
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother
+SEÑOR. FUJI había estado orando solo por\nla madre de CUBONE.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons
+Esto es realmente MR. La casa de FUJI.\nEs muy amable. Cuida de POK\eMON abandonados\py huérfanos.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug
+¡Hace tanto calor! POK\eMON es tan agradable\nde abrazar.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_Nidorino
+NIDORINO: ¡Gaoo!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_Psyduck
+PSYDUCK: ¡Guapo!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis
+À… Tu misión POK\eDEX es una que requiere\nuna gran dedicación. Sin un profundo amor\ppor POK\eMON, tu misión puede fracasar.\nNo estoy seguro de si esto te ayudará,\ppero me gustaría que lo hicieras. para\ntenerlo.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji
+À recibí una FLAUTA POK\e de MR. FUJI.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute
+Al escuchar la FLAUTA POK\e, el POK\eMON\ndormido se despertará. Intenta usarlo en\pPOK\eMON que sean obstáculos dormidos.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis
+¡Debes hacer espacio para esto!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou
+SEÑOR. FUJI: ¿Te ha ayudado mi POK\e FLUTE\n?
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped
+POK\eMON FAN MAGAZINE ¡Sorteo del gran\npremio mensual! El formulario de solicitud\pestá... ¡Desapareció! Ha sido recortado.\nAlguien debe haber presentado ya su solicitud.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf
+Las revistas POK\eMON se alinean en el\nestante. POK\eMON INSIDER… POK\eMON FAN…
+
+#org @LavenderTown_House1_Text_Cubone
+CUBÓN: ¡Kyarugoo!
+
+#org @LavenderTown_House1_Text_RocketsKilledCubonesMother
+¡Esos horribles ROCKETS! ¡No merecen piedad!\nLa pobre madre de CUBONE... Murió tratando\pde escapar del TEAM ROCKET.
+
+#org @LavenderTown_House1_Text_GhostOfPokemonTowerIsGone
+¡El fantasma de POK\eMON TOWER se ha ido!\n¡Alguien debe haber calmado su espíritu\pinquieto!
+
+#org @LavenderTown_House2_Text_WantMeToRateNicknames
+¡Hola, hola! ¡Soy el EVALUADOR DE NOMBRES\noficial! ¿Quieres que califique los apodos\pde tu POK\eMON?
+
+#org @LavenderTown_House2_Text_CritiqueWhichMonsNickname
+¿Qué apodo de POK\eMON debería criticar?
+
+#org @LavenderTown_House2_Text_GiveItANicerName
+Á, ¿verdad? ¡Ese es un apodo decente! Pero,\n¿te gustaría que le pusiera un nombre mejor?\p¿Qué te parece?
+
+#org @LavenderTown_House2_Text_WhatShallNewNicknameBe
+Ah bueno. Entonces, ¿cuál será el nuevo\napodo?
+
+#org @LavenderTown_House2_Text_FromNowOnShallBeKnownAsName
+¡Á! ¡Es un nombre mejor que antes! ¡Qué\nsuerte para ti!
+
+#org @LavenderTown_House2_Text_ISeeComeVisitAgain
+Ya veo. Vuelve a visitarnos.
+
+#org @LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName
+¡Á! No se ve diferente de antes y, sin\nembargo, ¡esto es muy superior! ¡Qué suerte\ppara ti!
+
+#org @LavenderTown_House2_Text_TrulyImpeccableName
+Á, ¿verdad? ¡Ese es un nombre realmente\nimpecable! Cuida bien de
+
+#org @LavenderTown_House2_Text_ThatIsMerelyAnEgg
+Ahora, ahora. ¡Eso es simplemente un HUEVO!
+
+#org @LavenderTown_Mart_Text_SearchingForStatRaiseItems
+Estoy buscando elementos que aumenten las\nestadísticas de POK\eMON. Son efectivos\pen el transcurso de una sola batalla. X\nATAQUE, X DEFENSA, X VELOCIDAD y X ESPECIAL\pson lo que busco. . ¿Sabes dónde puedo\nconseguirlos?
+
+#org @LavenderTown_Mart_Text_DidYouBuyRevives
+¿Compraste algunos REVIVES? ¡Reviven a\ncualquier POK\eMON desmayado!
+
+#org @LavenderTown_Mart_Text_TrainerDuosCanChallengeYou
+A veces, un dúo de ENTRENADOR te desafiará\ncon dos POK\eMON a misma vez. Si eso sucede,\ptambién tendrás que enviar  dos POK\eMON\na la batalla.
+
+#org @LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000
+¡Durante este tiempo, expanda su Yamaoku-ken-no-tama!\nNo es algo que pueda usar, pero cuando\plo probé, fue increíble.
+
+#org @VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish
+¡Soy el GURU DE LA PESCA! ¡Simplemente\nme encanta pescar! No puedo soportar estar\psin él. Dime, ¿te gusta pescar?
+
+#org @VermilionCity_House1_Text_TakeThisAndFish
+¡Grandioso! Me gusta tu estilo. Creo que\npodemos ser amigos. ¡Toma esto y pesca,\pjoven amigo!
+
+#org @VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru
+À recibí una VIEJA CAÑA del FISHING GURU.
+
+#org @VermilionCity_House1_Text_FishingIsAWayOfLife
+¡La pesca es una forma de vida! Es como\nla mejor poesía. Desde los mares hasta\plos ríos, sal y desembarca el grande, amigo\nmío.
+
+#org @VermilionCity_House1_Text_OhThatsSoDisappointing
+Oh... Eso es tan decepcionante...
+
+#org @VermilionCity_House1_Text_HowAreTheFishBiting
+À! ¿Cómo pican los peces?
+
+#org @VermilionCity_House1_Text_NoRoomForNiceGift
+¡Oh, no! ¡Tenía un bonito regalo para ti,\npero no tienes espacio para él!
+
+#org @VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild
+Incluso si son del mismo nivel, POK\eMON\npuede tener estadísticas y habilidades\pmuy diferentes. Un POK\eMON criado por\nun ENTRENADOR es más fuerte que uno en\pestado salvaje.
+
+#org @VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking
+¡Mi POK\eMON fue envenenado! ¡Se desmayó\nmientras caminábamos!
+
+#org @VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes
+Es cierto que un POK\eMON de mayor nivel\nserá más poderoso... Pero todos los POK\eMON\ptendrán puntos débiles contra tipos específicos.\nPor lo tanto, no parece haber ningún POK\eMON\puniversalmente fuerte.
+
+#org @VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain
+La necesidad de pelear con alguien con\nquien te has enredado antes... ¿Alguna\pvez has sentido ese impulso? Estoy seguro\nde que sí. Yo también quería pelear con\pciertas personas una y otra vez. Entonces,'\nLos he estado regalando. ¡Por favor, llévate\puno!
+
+#org @VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches
+Usa ese dispositivo y encontrarás ENTRENADORES\nbuscando una revancha. Sin embargo, debes\pcargar su batería para usarlo.
+
+#org @VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker
+¿Cómo se usa VS SEEKER? No hay nada que\nhacer. Úsalo como bip-bip-bip, y Los ENTRENADORES\pa tu alrededor lo notarán. Si algún ENTRENADOR\nquiere una revancha, te lo hará saber inmediatamente.\pCargar su batería y úsala mientras estás\nen la carretera.
+
+#org @VermilionCity_PokemonFanClub_Text_AdmirePikachusTail
+¿No admirarás la adorable cola de mi PIKACHU?
+
+#org @VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute
+¡Humph! ¡Mi PIKACHU es dos veces más lindo\nque ese!
+
+#org @VermilionCity_PokemonFanClub_Text_AdoreMySeel
+¡Simplemente adoro mi SEEL! ¡Es tan adorable!\n¡Chirría, "Kyuuuh", cuando lo abrazo!
+
+#org @VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive
+¡Dios mío! Mi SEEL es mucho más atractivo.\nPor el doble, diría yo.
+
+#org @VermilionCity_PokemonFanClub_Text_Pikachu
+PIKACHU: ¡Chu!¡Pikachu!
+
+#org @VermilionCity_PokemonFanClub_Text_Seel
+SEEL: ¡Kyuoo!
+
+#org @VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons
+¡Presido el club de fans de POK\eMON! ¡Recaudo\nmás de cien POK\eMON! ¡Soy muy quisquilloso\pcuando se trata de POK\eMON! ¡Seguramente\nlo soy! Entonces… ¿Viniste a visitarnos\ppara conocer mi POK\eMON?
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmansStory
+¡Bien! ¡Entonces escucha! Mi RAPIDASH favorito...\nEs...lindo...encantador...inteligente...\p además...increíble...¿tú lo crees?...\noh sí...es...impresionante... amablemente...¡me\pencanta! Abrázalo...cuando …durmiendo…cálido\ny tierno…espectacular… deslumbrante… …¡Ups!\p¡Mira la hora! ¡Te entretuve demasiado!\n¡Gracias por escucharme! ¡Quiero que tengas\pesto!
+
+#org @VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman
+À recibí un BONO PARA BICICLETA del PRESIDENTE.
+
+#org @VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher
+Lleva ese CUPÓN DE BICICLETA a la TIENDA\nDE BICICLETAS en CERULEAN CITY. ¡Cámbialo\ppor una BICICLETA gratis! No te preocupes,\nmi FEAROW  favorito me llevará en VUELO\pa cualquier lugar al que necesite ir. Así\nque no tengo necesidad para una BICICLETA.\p¡Espero que te guste el ciclismo!
+
+#org @VermilionCity_PokemonFanClub_Text_ComeBackToHearStory
+Oh. ¡Vuelve cuando quieras escuchar mi\nhistoria!
+
+#org @VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain
+À! ¿Viniste a verme por mi POK\eMON otra\nvez? ¿No? ¡Qué lástima!
+
+#org @VermilionCity_PokemonFanClub_Text_MakeRoomForThis
+¡Haz espacio para esto!
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon
+Nuestro PRESIDENTE habla mucho sobre POK\eMON.
+
+#org @VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers
+¡Escuchemos todos cortésmente a otros ENTRENADORES!
+
+#org @VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack
+¡Si alguien se jacta, que se jacte de vuelta!
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons
+Nuestro PRESIDENTE realmente adora su POK\eMON.\nPero creo que la persona que más le gusta\pa POK\eMON es DAISY.
+
+#org @VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon
+Á? ¿Quieres cambiarlo por mi 
+
+#org @VermilionCity_House2_Text_ThatsTooBad
+Eso es muy malo.
+
+#org @VermilionCity_House2_Text_ThisIsNoMon
+Á. Si consigues uno, ¡cámbialo por mí!
+
+#org @VermilionCity_House2_Text_ThankYou
+¡Gracias!
+
+#org @VermilionCity_House2_Text_HowIsMyOldMon
+Â? Mi¡Á está muy bien!
+
+#org @VermilionCity_Mart_Text_TeamRocketAreWickedPeople
+Hay personas malvadas que usarán POK\eMON\npara actos criminales. TEAM ROCKET trafica\pcon POK\eMON raros, por ejemplo. También\nabandonan POK\eMON que consideran impopulares\po inútiles. Ese es el tipo de cosas horribles.\ngente ellos son, TEAM ROCKET.
+
+#org @VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer
+Creo que POK\eMON puede ser bueno o malo.\nDepende del ENTRENADOR.
+
+#org @VermilionCity_Gym_Text_LtSurgeIntro
+¡Hey chico! ¿Qué crees que estás\haciendo\naquí? ¡No vivirás mucho en combate! ¡No\pcon tu insignificante poder! Te lo digo,\nniño, ¡el POK\eMON eléctrico me salvó durante\pla guerra! Me electrocutaron enemigos en\nparálisis! ¡Lo mismo que haré contigo![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @VermilionCity_Gym_Text_LtSurgePostBattle
+¡Un pequeño consejo, chico! ¡La electricidad\nes poderosa! ¡Pero es inútil contra POK\eMON\ptipo TIERRA!
+
+#org @VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis
+¡El THUNDERBADGE aumenta la VELOCIDAD de\ntu POK\eMON! ¡También permite que tu POK\eMON\pVUELE a la velocidad del rayo en cualquier\nmomento, niño! ¡Eres especial, niño! ¡Toma\pesto!
+
+#org @VermilionCity_Gym_Text_ReceivedTM34FromLtSurge
+À recibí TM34 de LT. AUMENTO.
+
+#org @VermilionCity_Gym_Text_ExplainTM34
+¡TM34 contiene ONDA DE CHOQUE! ¡Enséñesela\na un POK\eMON ELÉCTRICO!
+
+#org @VermilionCity_Gym_Text_MakeRoomInYourBag
+¡Oye, chico, haz espacio en tu BOLSA!
+
+#org @VermilionCity_Gym_Text_LtSurgeDefeat
+¡Eso sí que es una sorpresa! ¡Eres auténtico,\nchico! Bien, entonces, ¡toma la THUNDERBADGE!
+
+#org @VermilionCity_Gym_Text_TuckerIntro
+Cuando estaba en el ejército, LT. SURGE\nera mi estricto CO. Era un capataz duro.
+
+#org @VermilionCity_Gym_Text_TuckerDefeat
+¡Para! ¡Eres muy bueno!
+
+#org @VermilionCity_Gym_Text_TuckerPostBattle
+No es fácil abrir esa puerta. LT. SURGE\nsiempre fue famoso por su carácter cauteloso\pen el ejército.
+
+#org @VermilionCity_Gym_Text_BailyIntro
+¡Soy liviano, pero soy bueno con la electricidad!\nPor eso me uní a este GYM.
+
+#org @VermilionCity_Gym_Text_BailyDefeat
+¡Frito!
+
+#org @VermilionCity_Gym_Text_BailyPostBattle
+¡Está bien, hablaré! LT. SURGE dijo que\nescondió los interruptores de las puertas\pdentro de algo.
+
+#org @VermilionCity_Gym_Text_DwayneIntro
+¡Éste no es lugar para niños! ¡Ni siquiera\nsi eres bueno!
+
+#org @VermilionCity_Gym_Text_DwayneDefeat
+¡Guau! ¡Me sorprendió!
+
+#org @VermilionCity_Gym_Text_DwaynePostBattle
+LT. SURGE instaló las trampas en el GYM\nél mismo. Colocó cerraduras dobles en todas\ppartes. Déjame darte una pista. Cuando\nabres la primera cerradura, la segunda\pcerradura está justo al lado.
+
+#org @VermilionCity_Gym_Text_GymGuyAdvice
+¡Yo! ¡Campeón en ciernes! LT. SURGE tiene\nun apodo. ¡La gente se refiere a él como\pel Relámpago americano! Es un experto en\nPOK\eMON eléctrico. Los POK\eMON de tipo\pPÁJARO/AGUA no combinan bien con los de\ntipo ELÉCTRICO. Cuidado también con la\pparálisis . LT. SURGE es muy cauteloso.\nEstá encerrado, por lo que no será fácil\pllegar hasta él.
+
+#org @VermilionCity_Gym_Text_GymGuyPostVictory
+¡Uf! ¡Ese fósforo fue eléctrico!
+
+#org @VermilionCity_Gym_Text_GymStatue
+VERMILION POK\eMON GYM LÍDER: LT. SURGE\nENTRENADORES GANADORES: [B_OPPONENT_MON1_NAME]É
+
+#org @VermilionCity_Gym_Text_GymStatuePlayerWon
+Y,
+
+#org @VermilionCity_Gym_Text_NopeOnlyTrashHere
+¡No! Aquí solo hay basura.
+
+#org @VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened
+¡Ey! ¡Hay un interruptor debajo de la papelera!\n¡Enciéndelo! ¡Se abrió la primera cerradura\peléctrica!
+
+#org @VermilionCity_Gym_Text_AnotherSwitchInTrash
+Oxidado...! ¡Ups! ¡Tenía su interruptor\nen el bote de basura otra vez! ¡Vamos a\pintentarlo! ...Hacer clic.
+
+#org @VermilionCity_Gym_Text_SecondLockOpened
+¡Se abrió la segunda cerradura eléctrica!\n¡Se abrió la puerta motorizada!
+
+#org @VermilionCity_Gym_Text_OnlyTrashLocksWereReset
+¡No! Aquí solo hay basura. ¡Oye! ¡Se reiniciaron\nlas cerraduras eléctricas!
+
+#org @VermilionCity_House3_Text_PidgeyFlyLetterToSaffron
+Voy a hacer que mi PIDGEY vuele una carta\na SAFFRON en el norte.
+
+#org @VermilionCity_House3_Text_Pidgey
+PIDGEY: ¡Kurukkoo!
+
+#org @VermilionCity_House3_Text_DearPippiLetter
+Querida PIPPI: Espero verte pronto. Escuché\nque SAFFRON tiene problemas con TEAM ROCKET.\pVERMILION parece estar a salvo.
+
+#org @VermilionCity_House3_Text_SendMyPidgeyToUnionRoom
+Quiero intercambiar MAIL con todo tipo\nde personas. Envío mi PIDGEY a UNION ROOM\ppara intercambiar MAIL por mí.
+
+#org @CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore
+¡Hola! Bienvenido al DEPARTAMENTO DE CELADON.\nTIENDA. El tablero de la derecha describe\pel diseño de la tienda.
+
+#org @CeladonCity_DepartmentStore_1F_Text_FloorDescriptions
+1PISO: MOSTRADOR DE SERVICIO 2P: MERCADO\nDE ENTRENADORES 3P: TIENDA DE JUEGOS DE\pTV 4F: REGALOS DEL SABI 5P: DROGUERIA PLAZA\nEN LA AZOTEA: MÁQUINAS EXPENDEDORAS
+
+#org @CeladonCity_DepartmentStore_1F_Text_ServiceCounter
+1F: MOSTRADOR DE SERVICIO
+
+#org @CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel
+SUPER REPEL mantiene a los POK\eMON débiles\na raya... Hmm, es un REPEL más poderoso.
+
+#org @CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings
+Para salidas largas, conviene comprar REVIVE.
+
+#org @CeladonCity_DepartmentStore_2F_Text_FloorSign
+¡Artículos de primera calidad para ENTRENADORES!\n2F: MERCADO DE ENTRENADORES
+
+#org @CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes
+Tenemos un cliente, LANCE, que viene de\nvez en cuando. Siempre compra capas. Me\ppregunto… ¿Tiene muchas capas idénticas\nen casa?
+
+#org @CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer
+Los POK\eMON capturados se registran con\nun número de identificación y el OT. OT\psignifica "ENTRENADOR original": el ENTRENADOR\nque lo atrapó primero.
+
+#org @CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter
+¡Muy bien! ¡Mi amigo me va a cambiar su\nKANGASKHAN por mi HAUNTER!
+
+#org @CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade
+¡Vamos, HAUNTER! ¡Me encanta HAUNTER! ¡Los\ncolecciono! ¿Eh? ¡HAUNTER se convirtió\pen un POK\eMON diferente mientras lo intercambiaban!
+
+#org @CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID
+Puedes identificar los POK\eMON que obtienes\nen las operaciones por sus números de identificación.
+
+#org @CeladonCity_DepartmentStore_3F_Text_ItsSuperNES
+Es una Super NES.
+
+#org @CeladonCity_DepartmentStore_3F_Text_AnRPG
+¡Un juego de rol! ¡No hay tiempo para eso!
+
+#org @CeladonCity_DepartmentStore_3F_Text_SportsGame
+¡Un juego de deportes! ¡A papá le gustará!
+
+#org @CeladonCity_DepartmentStore_3F_Text_PuzzleGame
+¡Un juego de rompecabezas! ¡Parece adictivo!
+
+#org @CeladonCity_DepartmentStore_3F_Text_FightingGame
+¡Un juego de lucha! ¡Parece difícil!
+
+#org @CeladonCity_DepartmentStore_3F_Text_TVGameShop
+3F: TIENDA DE JUEGOS DE TV
+
+#org @CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon
+¡Rojo y Verde! ¡Ambos son POK\eMON!
+
+#org @Text_CounterTeach
+¡Oh, hola! Finalmente terminé POK\eMON.\n¿Aún no has terminado? ¿Qué tal si te enseño\pun buen movimiento? El movimiento que tengo\nen mente es CONTADOR. No es como en el\pque me estoy apoyando, ¡fíjate!
+
+#org @Text_CounterDeclined
+¿No estás interesado? Ven a verme si cambias\nde opinión.
+
+#org @Text_CounterWhichMon
+¿A qué POK\eMON debería enseñar COUNTER?
+
+#org @Text_CounterTaught
+¿Estás usando ese movimiento CONTRATO que\nte enseñé a tu POK\eMON?
+
+#org @CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent
+Le voy a regalar un novia. Supongo que\nserá una MUÑECA POK . Es lo popular.
+
+#org @CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll
+Escuché algo útil. Si aparece un POK\eMON\nsalvaje, puedes distraerlo con una MUÑECA\pPOK\e. Puedes huir mientras el POK\eMON\nsalvaje está distraído.
+
+#org @CeladonCity_DepartmentStore_4F_Text_FloorSign
+¡Exprésate con regalos! 4F: REGALOS DEL\nHOMBRE MAGIO ¡Especial Evolución! ¡Element\pSTONES ya a la venta!
+
+#org @CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers
+Los potenciadores de estadísticas de POK\eMON\nsolo se pueden comprar aquí. HP UP aumenta\pel HP base de un POK\eMON. CALCIUM aumenta\nel SP base. ATK stat de un POK\eMON. ZINC\paumenta el SP base. Estadística DEF de\nun POK\eMON. CARBOS mejora la stat base\pde VELOCIDAD.
+
+#org @CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers
+Estoy aquí para mejorar las estadísticas\nde POK\eMON. PROTEÍNA aumenta el poder\pde ATAQUE base. IRON aumenta la estación\nde DEFENSA base.
+
+#org @CeladonCity_DepartmentStore_5F_Text_Drugstore
+5F: DROGUERIA
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink
+ÉÁ¿Darle de beber?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink
+¿Darle qué bebida?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis
+¡Yay! ¡AGUA DULCE! ¡Gracias! ¡Puedes recibir\nesto de mí!
+
+#org @Text_ReceivedItemFromLittleGirl
+Recibi un de la niña.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM16
+TM16 contiene PANTALLA LIGERA. Es un movimiento\nque debilita el poder de los ataques especiales\pde tu enemigo.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis
+¡Yay! SODA POP! ¡Gracias! ¡Puedes recibir\nesto de mí!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM20
+TM20 contiene SAFEGUARD. Es un movimiento\nque evita problemas de estado entre tus\pPOK\eMON.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis
+¡Yay! ¡LEMONADA! ¡Gracias! ¡Puedes recibir\nesto de mí!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM33
+TM33 contiene REFLECT. Es un movimiento\nque debilita el poder de los ataques físicos\pde tu enemigo.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis
+¡No tienes espacio para esto!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll
+¡No, gracias! ¡Después de todo, no tengo\nsed!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature
+Mi hermana es ENTRENADORA, créanlo no no.\n¡Pero es tan inmadura que me vuelve loco!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink
+¡Tengo sed! ¡Quiero algo de beber!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_FloorSign
+PLAZA EN LA AZOTEA: MÁQUINAS EXPENDEDORAS
+
+#org @CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave
+¡Una máquina expendedora! ¿Qué tiene?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney
+¡Vaya, no hay suficiente dinero!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut
+¡Á salió!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff
+¡Ya no hay lugar para cosas!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NotThirsty
+¡No tengo sed!
+
+#org @CeladonCity_Condominiums_1F_Text_Meowth
+MEOWTH: ¡Miau!
+
+#org @CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead
+No deberías gastar todo tu dinero o en\nbebidas. Prueba esto en su lugar.
+
+#org @CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea
+Nada supera la sed como un TÉ caliente.\nRealmente es lo mejor.
+
+#org @CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany
+Mi querido POK\eMON, hazme compañía. ¡MEOWTH\nincluso trae dinero a casa!
+
+#org @CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea
+Oh, hola, querida. ¿Disfrutaste mi TÉ?\nPor cierto, querida. ¿Por casualidad eres\pde PALLET TOWN? Una chica de PALLET TOWN,\nDAISY, ella disfruta del TÉ todos los días.\pElla visita el DEPARTAMENTO DE CELADON.\nTIENDA para comprar TÉ.
+
+#org @CeladonCity_Condominiums_1F_Text_Clefairy
+CLEFAIRY: ¡Pi pippippi!
+
+#org @CeladonCity_Condominiums_1F_Text_Nidoran
+NIDORAN: ¡Por qué qué!
+
+#org @CeladonCity_Condominiums_1F_Text_ManagersSuite
+MANSIÓN CELADON Suite del Gerente
+
+#org @CeladonCity_Condominiums_2F_Text_GameFreakMeetingRoom
+Sala de reuniones GAME FREAK
+
+#org @CeladonCity_Condominiums_3F_Text_ImTheProgrammer
+¿Yo? ¡Soy el programador!
+
+#org @CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist
+¡Soy el artista gráfico! ¡Te dibujé!
+
+#org @CeladonCity_Condominiums_3F_Text_IWroteTheStory
+¡Yo escribí la historia! ¿No es linda ERIKA?\n¡A mí también me gusta mucho MISTY! ¡Ah,\py SABRINA, me gusta!
+
+#org @CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex
+¿Es así? ¡Soy el diseñador del juego! Llenar\ntu POK\eDEX es difícil, ¡pero no renuncies!\pCuando termines, ¡ven a contarme!
+
+#org @CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations
+¡Guau! ¡Excelente! ¡Completaste tu POK\eDEX!\n¡Felicitaciones! …
+
+#org @CeladonCity_Condominiums_3F_Text_ItsTheGameProgram
+¡Es el programa del juego! ¡Jugar con it\npodría arruinar el juego!
+
+#org @CeladonCity_Condominiums_3F_Text_SomeonesPlayingGame
+¡Alguien está jugando en lugar de trabajar!
+
+#org @CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding
+¡Es el guión! ¡Mejor no mires el final!
+
+#org @CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom
+Sala de desarrollo GAME FREAK
+
+#org @CeladonCity_Condominiums_Roof_Text_IKnowEverything
+¡LO SE TODO!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow
+No hay nada que no sepa, como lo escribí\nen la pizarra. ¡Sé sobre el mundo de POK\eMON\pen tu GAME BOY ADVANCE! ¡Reúnete con tus\namigos y disfruta intercambiando POK\eMON!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee
+À obtenido en EEVEE!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull
+Está lleno de Pokémon. Cambia la caja.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture
+Conferencia POK\eMON Jugar con el adaptador\ninalámbrico
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading
+¿Qué título quieres leer?
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub
+El CLUB INALÁMBRICO POK\eMON está arriba\nen cualquier CENTRO POK\eMON. Visita uno\ppara conectarte con amigos usando tu adaptador\ninalámbrico.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner
+Para vincularte solo con un amigo, ve a\nel ESQUINA DIRECTA. Es el mostrador correcto\pen el POK\eMON WIRELESS CLUB. Ve al ESQUINA\nDE COMERCIO o al COLOSEO con tu amigo.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom
+Para vincularte y comunicarte con cualquier\npersona, ve a UNION ROOM. Es el mostrador\pizquierdo del POK\eMON WIRELESS CLUB. Ve\na UNION ROOM y disfruta conociendo a otros\pENTRENADORES.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs
+Es un folleto sobre MT. … … Hay cincuenta\nMT en total. También hay siete HM que se\ppueden usar repetidamente. SILPH CO.
+
+#org @CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons
+UNA FLAUTA POK\e despierta POK\eMON dormido.\nYa lo sabes. Lo hace con un sonido que\psólo ellos pueden oír.
+
+#org @CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia
+Viajé hasta aquí desde FUCSIA. Es un viaje\ncuesta arriba en CYCLING ROAD, así que\pestoy agotado.
+
+#org @CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBike
+¡Si tuviera una BICI, iría a CYCLING ROAD!
+
+#org @CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor
+¡Bienvenido! Puedes cambiar tus MONEDAS\npor fabulosos premios al lado.
+
+#org @CeladonCity_GameCorner_Text_WelcomeBuySomeCoins
+¡Bienvenido a ROCKET GAME CORNER! ¿Necesitas\nalgunas MONEDAS del juego? ¿Te gustaría\pcomprar algunas?
+
+#org @CeladonCity_GameCorner_Text_ComePlaySometime
+¿No? ¡Por favor, ven a jugar alguna vez!
+
+#org @CeladonCity_GameCorner_Text_SorryDontHaveCoinCase
+Oh, lo siento. No tienes estuche para monedas.
+
+#org @CeladonCity_GameCorner_Text_CoinCaseIsFull
+¡Ups! Tu MONEDERA está llena.
+
+#org @CeladonCity_GameCorner_Text_CantAffordCoins
+No puedes permitirte las MONEDAS.
+
+#org @CeladonCity_GameCorner_Text_HereAreYourCoins
+Gracias. ¡Aquí están tus MONEDAS!
+
+#org @CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace
+Mantén esto en secreto. Se rumorea que\neste lugar está dirigido por TEAM ROCKET.
+
+#org @CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds
+Creo que estas máquinas tienen  probabilidades\ndiferentes.
+
+#org @CeladonCity_GameCorner_Text_DoYouWantToPlay
+Niño, ¿quieres jugar?
+
+#org @CeladonCity_GameCorner_Text_Received10CoinsFromMan
+À recibió 10 MONEDAS del hombre.
+
+#org @CeladonCity_GameCorner_Text_DontNeedMyCoins
+¡No necesitas mis MONEDAS!
+
+#org @CeladonCity_GameCorner_Text_WinsComeAndGo
+Las victorias parecen ir y venir. Nada\nes seguro.
+
+#org @CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck
+Estos juegos de tragamonedas... Ganas o\npierdes, es sólo cuestión de suerte.
+
+#org @CeladonCity_GameCorner_Text_GymGuyAdvice
+¡Oye! ¡Tienes mejores cosas que hacer,\ncampeón en ciernes! La LÍDER de CELADON\pGYM es ERIKA. Ella es una usuaria de POK\eMON\nde tipo GRASS y es una con la naturaleza.\pPuede parecer dócil debido a  su arreglo\nfloral... ¡Pero ella no es alguien que\pdeba tomarse a la ligera!
+
+#org @CeladonCity_GameCorner_Text_RareMonsForCoins
+Ofrecen POK\eMON raros que se pueden cambiar\npor tus MONEDAS. ¡Pero parece que no puedo\pganar!
+
+#org @CeladonCity_GameCorner_Text_SoEasyToGetHooked
+¡Los juegos dan miedo! ¡Es muy fácil engancharse!
+
+#org @CeladonCity_GameCorner_Text_WantSomeCoins
+¿Qué pasa? ¿Quieres algunas MONEDAS?
+
+#org @CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy
+À recibí 20 MONEDAS del buen chico.
+
+#org @CeladonCity_GameCorner_Text_YouHaveLotsOfCoins
+¡Tienes muchas MONEDAS!
+
+#org @CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant
+¡Maldito! ¡Necesito más MONEDAS para el\nPOK\eMON que quiero!
+
+#org @CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo
+¿Hey que? ¡Me estás despistando! Aquí tienes\nalgunas MONEDAS, ¡así que listo!
+
+#org @CeladonCity_GameCorner_Text_Received20CoinsFromMan
+À recibió 20 MONEDAS del hombre.
+
+#org @CeladonCity_GameCorner_Text_YouveGotPlentyCoins
+¡Tienes muchas monedas propias!
+
+#org @CeladonCity_GameCorner_Text_WatchReelsClosely
+El truco consiste en observar los carretes\nde cerca.
+
+#org @CeladonCity_GameCorner_Text_GruntIntro
+¡Estoy guardando este cartel! ¡Vete o si\nno!
+
+#org @CeladonCity_GameCorner_Text_GruntDefeat
+¡Maldita sea!
+
+#org @CeladonCity_GameCorner_Text_GruntPostBattle
+¡Es posible que se descubra el escondite\ndel TEAM ROCKET! ¡Será mejor que se lo\pdiga al JEFE!
+
+#org @CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt
+¡Oye! ¿¡Un interruptor detrás del cartel!\n¡Vamos a presionarlo!
+
+#org @CeladonCity_GameCorner_Text_CoinCaseIsRequired
+Se requiere UN CAJA DE MONEDAS...
+
+#org @CeladonCity_GameCorner_Text_DontHaveCoinCase
+¡Ups! ¡No tienes el CAJA PARA MONEDAS!
+
+#org @CeladonCity_GameCorner_Text_SlotMachineWantToPlay
+¡Una máquina tragamonedas! ¿Quieres jugar?
+
+#org @CeladonCity_GameCorner_Text_OutOfOrder
+FUERA DE SERVICIO Esto está roto.
+
+#org @CeladonCity_GameCorner_Text_OutToLunch
+SALIR A ALMORZAR Esto está reservado.
+
+#org @CeladonCity_GameCorner_Text_SomeonesKeys
+¡Las llaves de alguien! Volverán.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon
+¡Me encanta ese PORYGON! ¡Pero es difícil\nganar en las tragamonedas!
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday
+¡Jajaja! ¡Lo he ganado hoy! Si tan solo\ntodos los días fueran así...
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired
+Se requiere UN CAJA DE MONEDAS...
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes
+Cambiamos tus MONEDAS por premios.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize
+¿Qué premio te gustaría?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo
+aquí estás
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize
+Entonces, ¿quieres el [B_COPY_VAR_1]Á?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM
+¿Es lo que quieres?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins
+Lo sentimos, necesitarás más MONEDAS que\nesa.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom
+Okyaku-san, no puedo soportarlo más.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen
+Veo
+
+#org @CeladonCity_Gym_Text_ErikaIntro
+Hola... Hace buen tiempo, ¿no? Es tan agradable...\n...Oh, cielos... Debo haberme quedado dormido.\pBienvenido. Mi nombre es ERIKA. Soy la\nLÍDER de CELADON GYM. Soy estudiante del\parte de arreglos florales. Mis POK\eMON\nson únicamente del tipo GRASS. …Oh, yo'\pLo siento, no tenía idea de que querías\ndesafiarme. Muy bien, pero no perderé.[PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @CeladonCity_Gym_Text_ErikaDefeat
+¡Oh! Admito la derrota. Eres extraordinariamente\nfuerte. Debo conferirte la INSIGNIA ARCO\pIRIS.
+
+#org @CeladonCity_Gym_Text_ErikaPostBattle
+¿Estás catalogando POK\eMON? Debo decir\nque estoy impresionado. Nunca coleccionaría\pPOK\eMON si no fueran atractivos.
+
+#org @CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis
+El RAINBOWBADGE hará POK\eMON hasta Lv.\n50 obedece. También permite a POK\eMON\pusar FUERZA dentro y fuera de la batalla.\nPor favor, llévalo también contigo.
+
+#org @CeladonCity_Gym_Text_ReceivedTM19FromErika
+À recibí TM19 de ERIKA.
+
+#org @CeladonCity_Gym_Text_ExplainTM19
+TM19 contiene GIGA DRAIN. La mitad del\ndaño que inflige se drena para curar tu\pPOK\eMON. ¿No estarías de acuerdo en que\nes un movimiento maravilloso?
+
+#org @CeladonCity_Gym_Text_ShouldMakeRoomForThis
+Deberías dejar espacio para esto.
+
+#org @CeladonCity_Gym_Text_KayIntro
+Debería hablarte de este GIMNASIO. ¡Aquí\nsólo se permiten mujeres de verdad !
+
+#org @CeladonCity_Gym_Text_KayDefeat
+¡Eres demasiado rudo!
+
+#org @CeladonCity_Gym_Text_KayPostBattle
+¡Bleaah! ¡Espero que ERIKA te aniquile!
+
+#org @CeladonCity_Gym_Text_BridgetIntro
+Oh, bienvenido. Me estaba aburriendo.
+
+#org @CeladonCity_Gym_Text_BridgetDefeat
+¡Mi maquillaje!
+
+#org @CeladonCity_Gym_Text_BridgetPostBattle
+Los POK\eMON de tipo HIERBA son resistentes\ncontra los de tipo AGUA. También tienen\pventaja sobre los POK\eMON de tipo ROCA\ny TIERRA.
+
+#org @CeladonCity_Gym_Text_TinaIntro
+…¿No estabas echando un vistazo aquí\antes?
+
+#org @CeladonCity_Gym_Text_TinaDefeat
+¡Eres una revelación!
+
+#org @CeladonCity_Gym_Text_TinaPostBattle
+Oh, estabas mirando a ERIKA... No me estabas\nmirando...
+
+#org @CeladonCity_Gym_Text_TamiaIntro
+¡Mira, mira! ¡Mira mi POK\eMON! Me gustan\nlos de tipo HIERBA. Me gusta que son fáciles\pde criar.
+
+#org @CeladonCity_Gym_Text_TamiaDefeat
+¡No!
+
+#org @CeladonCity_Gym_Text_TamiaPostBattle
+Solo usamos POK\eMON tipo GRASS en  nuestro\nGIMNASIO. ¿Por qué? ¡También los usamos\ppara hacer arreglos florales!
+
+#org @CeladonCity_Gym_Text_LisaIntro
+¡Oh, oye! ¡Aquí no nos gustan los POK\eMON\nde tipo BUG o FUEGO!
+
+#org @CeladonCity_Gym_Text_LisaDefeat
+¡Oh! ¡Tú!
+
+#org @CeladonCity_Gym_Text_LisaPostBattle
+Nuestra LÍDER ERIKA puede ser tranquila,\npero es famosa por aquí.
+
+#org @CeladonCity_Gym_Text_LoriIntro
+Encantado de conocerte. Mi pasatiempo es\nel entrenamiento POK\eMON.
+
+#org @CeladonCity_Gym_Text_LoriDefeat
+¡Oh! ¡Espléndido!
+
+#org @CeladonCity_Gym_Text_LoriPostBattle
+Tengo una cita a ciegas próximamente. Tengo\nque aprender a ser cortés, especialmente\psi tengo que luchar.
+
+#org @CeladonCity_Gym_Text_MaryIntro
+¡Bienvenido a CELADON GYM! Será mejor que\nno subestimes a las amables damas que hay\paquí.
+
+#org @CeladonCity_Gym_Text_MaryDefeat
+¡Oh! ¡Golpeado!
+
+#org @CeladonCity_Gym_Text_MaryPostBattle
+No traje mi mejor POK\eMON. ¡Espera hasta\nla próxima!
+
+#org @CeladonCity_Gym_Text_GymStatue
+CELADON POK\eMON GYM LÍDER: ERIKA ENTRENADORES\nGANADORES: [B_OPPONENT_MON1_NAME]É
+
+#org @CeladonCity_Gym_Text_GymStatuePlayerWon
+Y,
+
+#org @CeladonCity_Restaurant_Text_TakingBreakRightNow
+¡Hola! Lo sentimos, pero estamos tomando\nun descanso en este momento.
+

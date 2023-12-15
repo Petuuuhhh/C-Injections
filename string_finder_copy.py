@@ -10,7 +10,7 @@ nineWidths = ['B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2',
 SOURCE_ROM = "BPRE0.gba"
 num3 = 0
 
-f = open("output_pt-br.txt", "w")
+f = open("output_pt.txt", "w")
 with open(SOURCE_ROM, 'rb+') as rom:
     for symbol_index in tqdm(range(len(pokefirered_sym))):
         symbol = pokefirered_sym[symbol_index]
@@ -164,7 +164,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
                                                 try:
-                                                    translated_text += GoogleTranslator(source='auto', target='pt-br').translate(splitted_text_section_2)
+                                                    translated_text += GoogleTranslator(source='auto', target='pt').translate(splitted_text_section_2)
                                                 except:
                                                     pass
                                             elif splitted_text_section_2 in SpecialBuffers:
@@ -237,7 +237,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         except:
                             pass
                     else:
-                        translated_text = GoogleTranslator(source='auto', target='pt-br').translate(text_newline)
+                        translated_text = GoogleTranslator(source='auto', target='pt').translate(text_newline)
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
@@ -301,7 +301,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
                                                 try:
-                                                    translated_text += GoogleTranslator(source='auto', target='pt-br').translate(splitted_text_section_2)
+                                                    translated_text += GoogleTranslator(source='auto', target='pt').translate(splitted_text_section_2)
                                                 except:
                                                     pass
                                             elif splitted_text_section_2 in SpecialBuffers:
@@ -374,7 +374,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         except:
                             pass
                     else:
-                        translated_text = GoogleTranslator(source='auto', target='pt-br').translate(text_newline)
+                        translated_text = GoogleTranslator(source='auto', target='pt').translate(text_newline)
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
