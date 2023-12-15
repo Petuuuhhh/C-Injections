@@ -875,7 +875,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         pass
                                 pos = pos + 1
                             # wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
-                            sanitizedText = translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', '')
+                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                             wrapped_text = ''
                             numWidth = 0
                             width_ = 0
@@ -885,6 +885,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             charIndex = 0
                             while charIndex < len(sanitizedText):
                                 char = sanitizedText[charIndex]
+                                print(char, charIndex, limit)
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
                                 if width_ == limit and count % 2 == 0:
@@ -901,13 +902,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                     wrapped_text = wrapped_text + stringStore + ']'
                                     if stringStore in nineWidths:
-                                        limit = limit + len(stringStore) + 9
+                                        limit = limit + len(stringStore) + 11
                                         charIndex = charIndex + len(stringStore) + 1
                                     else:
-                                        limit = limit + len(stringStore)
+                                        limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                                print(char, charIndex, limit)
                             # num = 0
                             # wrapped_text_store = ''
                             # for wrap in wrapped_text:
