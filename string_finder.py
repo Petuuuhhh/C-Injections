@@ -11,7 +11,7 @@ num3 = 0
 
 f = open("output.txt", "w")
 with open(SOURCE_ROM, 'rb+') as rom:
-    for symbol_index in range(len(pokefirered_sym)):
+    for symbol_index in tqdm(range(len(pokefirered_sym))):
         symbol = pokefirered_sym[symbol_index]
         string = symbol[3]
         offset = symbol[0][2:]
