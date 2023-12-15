@@ -1,0 +1,3933 @@
+#org @SSAnne_2F_Corridor_Text_RivalVictory
+[B_BUFF2]¡Ah...! ¿Estás haciendo funayi? ¡Estaría mejor si entrenara\nmás su cuerpo!
+
+#org @SilphCo_1F_Text_DestroyedWontBeFixedForWhile
+Si está estropeado, probablemente no se\nestropee...
+
+#org @SilphCo_7F_Text_OhNo
+Ah... no puedo soportarlo más.
+
+#org @SilphCo_7F_Text_SavedAtLast
+¡Gracias por ayudarme!
+
+#org @SilphCo_7F_Text_RivalVictory
+[B_OPPONENT_MON1_NAME]Oye, tú... Con una casa como ésta, no puedo decir que soy nuevo.
+
+#org @PokemonMansion_Text_PressSecretSwitchJP
+¡Hay un interruptor secreto! ¿Le gustaría\nprobarlo?
+
+#org @PokemonMansion_Text_GaveUpOnPressingSwitch
+Me rendí en ello
+
+#org @SafariZone_Center_Text_RestHouse
+[SE_M_CHARGE][]
+
+#org @SafariZone_Center_Text_CenterArea
+[SE_M_MOONLIGHT][]
+
+#org @SafariZone_East_Text_RestHouse
+[SE_M_CHARGE][]
+
+#org @SafariZone_North_Text_RestHouse
+[SE_M_CHARGE][]
+
+#org @SafariZone_North_Text_Area2
+[SE_M_SWAGGER2][]
+
+#org @SafariZone_West_Text_RestHouse
+[SE_M_CHARGE][]
+
+#org @PokemonLeague_ChampionsRoom_Text_Victory
+[B_BUFF2]¡No quiero ser el tipo de persona que regala a los cangrejos!\n¡Mamá! Pokémon Azúcar[B_OPPONENT_MON1_NAME]¡Ha trabajado tan duro para mantenerse al día con\pel cielo! ¡Alabado sea y envíalo! ¡Ja!\n¡Jajaja!
+
+#org @PokemonTower_2F_Text_RivalVictory
+[B_OPPONENT_MON1_NAME]¡Kaaaaa...! ¡Está realmente jodido! ¡Eso es tan cool! Hazlo mejor y hazlo\nmejor
+
+#org @Text_ExplosionTeachJP
+Si esta cosa explotara, no tendríamos ni\nuna sola palabra... ¡BURUBURU! Da miedo,\ppero también da bastante miedo, pero ¿te\ngustaría intentar recordarlo?
+
+#org @Text_ExplosionDeclinedJP
+Sí, pensé que daba miedo, Bulbul.
+
+#org @Text_ExplosionWhichMonJP
+¡Es tan fuerte! Entonces, ¿qué Pokémon\ndeberías elegir?
+
+#org @Text_ExplosionTaughtJP
+¡Es una emoción increíble tener un gran\nfuego bajo tu paraguas!
+
+#org @TrainerTower_Text_XMinYZSec
+[B_COPY_VAR_1]Sí.[B_COPY_VAR_2]Oh.[B_COPY_VAR_3][Eh.]
+
+#org @PalletTown_Text_PlayersHouse
+[B_BUFF2][A][SE_M_SKY_UPPERCUT][]
+
+#org @PalletTown_Text_RivalsHouse
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][]
+
+#org @PewterCity_Text_DefeatedBrockYouCanHaveTreasure
+¡Oh mi! La insignia de gimnasio de esa\nnovia... ¡¿Consiguió ese increíble Takeshi?!\p¡Te daré el tesoro de mi novia porque está\nteniendo problemas!
+
+#org @PewterCity_Text_BerriesInsideUseCarefully
+Algunos de ellos están llenos de árboles,\n¡así que úsalos con cuidado!
+
+#org @PewterCity_Text_MonsWillUseHeldBerriesOnTheirOwn
+Si le das un árbol a tu Pokémon, lo usará\ncuando esté peleando. Es útil para cosas\pcomo rascarse y envenenarse, ¿no?
+
+#org @CeruleanCity_Text_RivalVictory
+¡No importa qué! ¡Porque soy una remolacha\nazucarera!
+
+#org @LavenderTown_Text_VolunteerPokemonHouse
+[SE_M_MOONLIGHT]Hola[SE_M_REFLECT][]
+
+#org @VermilionCity_Text_VermilionHarbor
+[SE_M_REFLECT][]
+
+#org @CeladonCity_Text_MansionSign
+[SE_M_REFLECT][]
+
+#org @FuchsiaCity_Text_SafariGameSign
+[SE_M_PETAL_DANCE]¡Ey!
+
+#org @CinnabarIsland_Text_PokemonLab
+[SE_M_REFLECT][]
+
+#org @SaffronCity_Text_FightingDojo
+[SE_M_PSYBEAM2][]
+
+#org @SaffronCity_Text_MrPsychicsHouse
+[SE_M_CHARM][]
+
+#org @OneIsland_Text_ReturnToCinnabar
+¿Vas a volver a Glentown?
+
+#org @ThreeIsland_Text_Biker3Defeat
+…………………………
+
+#org @FourIsland_Text_LoreleisHouse
+[SE_M_CHARM][]
+
+#org @Route2_Text_DiglettsCave
+[SE_M_CHARM][]
+
+#org @Route4_Text_MtMoonEntrance
+[SE_M_GRASSWHISTLE][]
+
+#org @Route10_Text_ClarkPostBattle
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+
+#org @Route10_Text_RockTunnel
+[SE_M_MINIMIZE][]
+
+#org @Route10_Text_PowerPlant
+[SE_M_MOONLIGHT][]
+
+#org @Route11_Text_DiglettsCave
+[SE_M_CHARM][]
+
+#org @Route12_Text_SportfishingArea
+[SE_M_PSYBEAM2][]
+
+#org @Route14_Text_MalikIntro
+[SE_M_REFLECT]
+
+#org @Route20_Text_SeafoamIslands
+[SE_M_SWIFT][]
+
+#org @Route21_North_Text_CueBallIntro
+¡Incluso yo vengo a Yoyogi de vez en cuando!
+
+#org @Route21_North_Text_CueBallPostBattle
+¿Parece divertido? ¡Es tan ruidoso, tan\ngrande!
+
+#org @Route22_Text_RivalShouldCatchSomeMons
+[B_OPPONENT_MON1_NAME]? ¿Por qué tienes Pokémon Hikimo? ¡Sería genial si pudiera atraparte\na ti también!
+
+#org @Route22_Text_LateRivalVictory
+[B_OPPONENT_MON1_NAME]Jajajajaja[B_BUFF2]¡Ah! ¡Así que ella está haciendo lo mejor que puede! Mi novia es tan buena como\nmi novia.[B_BUFF2]¡Ah, todavía está muy lejos! ¡Entrenemos más! ¡Jajaja!
+
+#org @ThreeIsland_BondBridge_Text_AlexisIntro
+[SE_M_SWORDS_DANCE]! ¡fuego!
+
+#org @FiveIsland_ResortGorgeous_Text_SelphysHouse
+[SE_M_CHARM][]
+
+#org @FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg
+Oye, viniste a buscarme un huevo.
+
+#org @FiveIsland_Meadow_Text_DoorNeedsTwoPasswords
+Parece que necesito una contraseña para\nabrir la puerta.
+
+#org @SevenIsland_TrainerTower_Text_LooksLikeTrainerTowerIsClosed
+Parece que no puedo entrar a la torre de\nentrenamiento en este momento...
+
+#org @SevenIsland_TrainerTower_Text_TrainerTowerIsOpenLetsGoIn
+¡La torre de entrenadores está abierta!\n¡Entremos ahora mismo!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak
+[B_OPPONENT_MON1_NAME][SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_1][SE_M_SPIT_UP]
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGramps
+[B_OPPONENT_MON1_NAME]o[SE_M_HYPER_BEAM2][!]
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_1][SE_M_SPIT_UP]
+
+#org @PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_CHARM][.]
+
+#org @PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded
+[B_BUFF2]ah[SE_M_SKY_UPPERCUT]Hola[SE_M_REVERSAL][SE_M_SKY_UPPERCUT][!]
+
+#org @ViridianCity_House_Text_SpearowNameSpeary
+[SE_M_HYPER_BEAM2][]
+
+#org @ViridianCity_Gym_Text_GymStatuePlayerWon
+[SE_M_REFLECT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @PewterCity_Museum_1F_Text_PleaseGoAround
+Por favor ve allí.
+
+#org @PewterCity_Museum_1F_Text_SpaceShuttle
+[SE_M_BATON_PASS][]
+
+#org @PewterCity_Gym_Text_GymStatuePlayerWon
+[SE_M_MOONLIGHT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @CeruleanCity_Gym_Text_GymStatuePlayerWon
+[SE_M_REFLECT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket
+¡Por fin Hatsubai! ¡La mejor plegadora\nde Alemania!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_TRI_ATTACK]Hola[SE_M_SPIT_UP]
+
+#org @LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000
+¡Durante este tiempo, expanda su Yamaoku-ken-no-tama!\nNo es algo que pueda usar, pero cuando\plo probé, fue increíble.
+
+#org @VermilionCity_Gym_Text_AnotherSwitchInTrash
+Oxidado...! ¡Ups! ¡Tenía su interruptor\nen el bote de basura otra vez! ¡Vamos a\pintentarlo! ...Hacer clic.
+
+#org @CeladonCity_DepartmentStore_5F_Text_Drugstore
+[SE_M_HYPER_BEAM2][]
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull
+Está lleno de Pokémon. Cambia la caja.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo
+aquí estás
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom
+Okyaku-san, no puedo soportarlo más.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OhFineThen
+Veo
+
+#org @CeladonCity_Gym_Text_GymStatuePlayerWon
+[SE_M_REFLECT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @Text_ItsABuddhistAltar
+Es un golpe...
+
+#org @FuchsiaCity_Gym_Text_GymStatuePlayerWon
+[SE_M_SWAGGER2][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff
+¡Hay tantas cosas!
+
+#org @CinnabarIsland_Gym_Text_GymStatuePlayerWon
+[SE_M_MOONLIGHT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign
+[SE_M_REFLECT][SE_M_MOONLIGHT][SE_M_SNORE][]
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP
+¡Tardará un rato! ¡Sería genial si pudieras\npasear un poco!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon
+¡Hay tantos Pokémon que no puedo esperar!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_TooMuchInBag
+¡Hay tantas motsuga!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJP
+[B_BUFF2]¡Aaaah! ¡Hola! ¿Te gustan los Pokémon?[B_BUFF2]No te lo pregunto a ti, sino a ti.[B_BUFF2]Ah… ¡qué diablos!\n¡Qué tipo tan extraño! Hija imitadora...\p¿Qué? ¿No imitar a alguien? ¡Porque soy\nun imitador!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP
+[B_BUFF2]¡Oh hola! ¿Te gustan los Pokémon?[B_BUFF2]No soy ella ni yo, ella te lo está preguntando,\npero ella lo es.[B_BUFF2]¡Oh... qué diablos! ¡Qué cosa tan extraña!\pChica imitadora... ¿Qué? ¿No imitar a alguien?\n¡Porque me estás imitando!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_HuhCantSee
+? No puedo verlo...
+
+#org @SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2
+[B_BUFF2]Ajá, recibí[B_COPY_VAR_1]de Karate Daiou!
+
+#org @SaffronCity_Dojo_Text_FightingDojo
+[SE_M_PSYBEAM2][]
+
+#org @SaffronCity_Gym_Text_ReceivedTM04FromSabrina
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_SING][.]
+
+#org @SaffronCity_Gym_Text_GymStatuePlayerWon
+[SE_M_REFLECT][SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_PSYBEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][B_BUFF2][]
+
+#org @Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours
+¿Quieres echar un vistazo?
+
+#org @Route5_PokemonDayCare_Text_CantAcceptMonWithHM
+Es una pena, pero no puedo deshacerme de\nPokémon con movimientos Hiden.
+
+#org @Route11_EastEntrance_1F_Text_BagIsFull
+[B_BUFF2][Ah][B_PLAYER_MON1_NAME]Parece que tu bolso está lleno.
+
+#org @SevenIsland_House_Room1_Text_StrVar1_1
+[B_COPY_VAR_1][]
+
+#org @SevenIsland_House_Room1_Text_StrVar1_2
+[B_COPY_VAR_1][]
+
+#org @SevenIsland_House_Room1_Text_StrVar1_3
+[B_COPY_VAR_1][]
+
+#org @FourIsland_House1_Text_FatMan
+¡Eso es todo! ¡Eres tan memorable!
+
+#org @JPText_BodySlamTeach
+¡Eso es todo! ¿Cuál caerá frente a ella?\nTe apoyas en tu novia y sientes que la\pvas a aplastar. En cambio, se apoya en\nel Pokémon de tu novia y va a morir.
+
+#org @JPText_BodySlamDeclined
+¡Ven de nuevo muchacho!
+
+#org @JPText_BodySlamWhichMon
+¿A qué Pokémon te gustaría enseñárselo?
+
+#org @JPText_BodySlamTaught
+¡Booyó!
+
+#org @FiveIsland_House1_JPText_HusbandWentOffFishing
+Buenas noches, ¡no hace falta que te despidas\nde las guarniciones! Bueno, ella y su marido\pfueron a pescar, pero me pregunto si está\nbien que ella lo haga.
+
+#org @Text_PutItemAway
+[B_BUFF2]ah[SE_M_STAT_INCREASE][SE_M_BATON_PASS][B_COPY_VAR_2]Ud.[SE_M_DIVE][SE_M_BATON_PASS][B_COPY_VAR_3][Eh.]
+
+#org @Text_FoundOneItem
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_2][Uh!]
+
+#org @Text_FoundXCoins
+[B_BUFF2]ah[B_COPY_VAR_1]Sí[B_COPY_VAR_2][Uh!]
+
+#org @Text_FoundXItems
+[B_BUFF2]ah[B_COPY_VAR_1]Sí[B_COPY_VAR_2][Yes!]
+
+#org @Text_MakingPreparations
+¡Es Junbichu!
+
+#org @Text_LinkWasCanceled
+La matrícula ha sido cancelada.
+
+#org @gText_PkmnFainted3
+[B_COPY_VAR_1]Sí...
+
+#org @Text_UsedSurf
+[B_COPY_VAR_1]Sí[SE_M_ENCORE2][!]
+
+#org @Text_DoorOpenedFarAway
+Era como si una puerta se hubiera abierto\nen alguna parte...
+
+#org @Text_BigHoleInTheWall
+¡Hay un gran agujero en la pared!
+
+#org @Text_HandedOverItem
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_YAWN][B_COPY_VAR_1]Sí.
+
+#org @Text_IdLikeToSeeRequest
+[B_COPY_VAR_2]A mí también me gustaría ver eso.[B_COPY_VAR_1]Sí[B_COPY_VAR_3]Eh,[B_COPY_VAR_2]A mí también me gustaría ver eso.
+
+#org @Text_ThankYouForShowingMe
+[B_COPY_VAR_1]No,[B_COPY_VAR_3]Eh[B_COPY_VAR_2]¡Oh! ¡Gracias y nos vemos de nuevo!
+
+#org @Text_ThatsNotRight
+¡Eso es diferente!
+
+#org @Text_TheDoorIsClosed
+La puerta está cerrada...
+
+#org @Text_PlayerObtainedTheMon
+[B_BUFF2]ah[SE_M_BATON_PASS][B_COPY_VAR_1][Yes!]
+
+#org @Text_MonSentToBoxInPC
+[B_COPY_VAR_2]en la caja de mi computadora[B_COPY_VAR_1]y[SE_M_BELLY_DRUM][!]
+
+#org @Text_TheresBedLetsRest
+Hay una cama... descansemos.
+
+#org @Text_FoundTMHMContainsMove
+[B_BUFF2]ah[SE_M_ENCORE2][SE_M_TRI_ATTACK][B_COPY_VAR_2]¡Puaj![SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][B_COPY_VAR_1]Sí.
+
+#org @Text_WhereDoYouWantToGo
+¡Buen trabajo! ¿A donde quieres ir?
+
+#org @PokedexRating_Text_SeenXOwnedY
+[SE_M_BATON_PASS][SE_M_STAT_INCREASE][SE_M_MILK_DRINK][SE_M_SKY_UPPERCUT][SE_M_BATON_PASS][SE_M_DIVE][SE_M_YAWN][SE_M_REVERSAL][B_COPY_VAR_1]Hola[SE_M_REFLECT][SE_M_DIVE][B_COPY_VAR_2]Uhí[SE_M_REFLECT][FONT]Kai.[SE_M_SKY_UPPERCUT][]
+
+#org @PokedexRating_Text_NationalDexSeenXOwnedY
+[SE_M_ENCORE2][SE_M_YAWN][SE_M_SKETCH][SE_M_REVERSAL][B_COPY_VAR_1][SE_M_REFLECT][SE_M_DIVE][B_COPY_VAR_2][SE_M_REFLECT][.]
+
+#org @Braille_Text_Up
+Ganado
+
+#org @Braille_Text_Down
+sanonhi
+
+#org @Braille_Text_Right
+Hekasosuho
+
+#org @Braille_Text_Left
+Próximo
+
+#org @Braille_Text_Cut
+Woohoo
+
+#org @Braille_Text_ABC
+A mí
+
+#org @Braille_Text_GHI
+sosuka
+
+#org @Braille_Text_MNO
+Pegarlo
+
+#org @Braille_Text_TUV
+Houyuu
+
+#org @Braille_Text_DEF
+gritar
+
+#org @Braille_Text_JKL
+Cuatro
+
+#org @Braille_Text_PQRS
+numaheni
+
+#org @Braille_Text_Comma
+imagen
+
+#org @Braille_Text_Everything
+Kyukehegohosukahiso
+
+#org @Braille_Text_HasMeaning1
+Suani Tekeahikahiso
+
+#org @Braille_Text_Existence
+Keokai Hokehiuke
+
+#org @Braille_Text_HasMeaning2
+Suani Tekeahikahiso
+
+#org @Braille_Text_BeingAlive
+Okekahiso Anakayuke
+
+#org @Braille_Text_HasMeaning3
+Suani Tekeahikahiso
+
+#org @Braille_Text_HaveDreams
+Suake a Saheke
+
+#org @Braille_Text_UsePower
+Unike Nunonkehewa
+
+#org @Braille_Text_LetTheTwo
+Nakeho Hosuke Hon
+
+#org @Braille_Text_Glittering
+Hay una sonrisa en mi cara
+
+#org @Braille_Text_Stones
+Nihonohikeni
+
+#org @Braille_Text_OneInRed
+un número hexadecimal
+
+#org @Braille_Text_OneInBlue
+Nohike Kahi Onauke
+
+#org @Braille_Text_ConnectThe
+Uno Hihike Uho Hosuke
+
+#org @Braille_Text_Past
+Nuanihowa
+
+#org @Braille_Text_TwoFriends
+Sólo un poco de luz del sol
+
+#org @Braille_Text_Sharing
+Es una cuestión de rutina
+
+#org @Braille_Text_PowerOpen
+Desde Nunonke hasta Nonukehi
+
+#org @Braille_Text_AWindowTo
+Anka Hisanon Hono
+
+#org @Braille_Text_ANewWorld
+Ah que pena
+
+#org @Braille_Text_ThatGlows
+Hosuaho Sonanonniwa
+
+#org @Braille_Text_TheNext
+Hosuke Hikeho
+
+#org @Braille_Text_WorldWaits
+Nnohenasa Nakahoni
+
+#org @Braille_Text_ForYou
+Ir al cine
+
+#org @Text_TestMsg
+¡Probemos este mensaje! ¡Bienvenido a su\nmundo de Pokémon!
+
+#org @gFameCheckerFlavorText_ProfOak0
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][COLOR]Ai[SHADOW]Vaya[SE_M_MINIMIZE]Hola[SE_M_REFLECT][SE_M_SOLAR_BEAM][]
+
+#org @gFameCheckerFlavorText_ProfOak3
+[COLOR]Oscuro[SHADOW]uke[SE_M_TEETER_DANCE][SE_M_ENCORE2][COLOR]Ai[SHADOW]Guau.[SE_M_MINIMIZE][SE_M_TEETER_DANCE][SE_M_SKY_UPPERCUT][SE_M_ATTRACT2][SE_M_SWORDS_DANCE][SE_M_ACID_ARMOR][SE_M_ENCORE2][B_OPPONENT_MON1_NAME][?]
+
+#org @gFameCheckerFlavorText_Daisy3
+[COLOR]Oscuro[SHADOW]uke[SE_M_TEETER_DANCE][SE_M_ENCORE2][COLOR]Ai[SHADOW]Guau.[SE_M_MINIMIZE][SE_M_TEETER_DANCE][SE_M_SKY_UPPERCUT][SE_M_ATTRACT2][SE_M_SWORDS_DANCE][SE_M_ACID_ARMOR][SE_M_ENCORE2][B_OPPONENT_MON1_NAME][?]
+
+#org @gFameCheckerFlavorText_Brock1
+[COLOR]Oscuro[SHADOW]uke[SE_M_BATON_PASS][SE_M_ENCORE2][SE_M_MILK_DRINK]¿H?[FONT]Cambiar[COLOR]Ai[SHADOW]Vaya[SE_M_TEETER_DANCE][SE_M_ENCORE2][SE_M_YAWN][SE_M_SKY_UPPERCUT][SE_M_DIVE][SE_M_DIVE][SE_M_TEETER_DANCE]Hola.[SE_M_TEETER_DANCE][SE_M_REFLECT][SE_M_BATON_PASS][SE_M_GRASSWHISTLE][SE_M_SAND_TOMB][SE_M_ENCORE2][SE_M_BATON_PASS][SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_STAT_INCREASE][SE_M_TEETER_DANCE][SE_M_REFLECT][SE_M_BATON_PASS][SE_M_BATON_PASS][SE_M_MINIMIZE][!]
+
+#org @gFameCheckerFlavorText_Misty1
+[COLOR]Oscuro[SHADOW]uke[SE_M_BATON_PASS][SE_M_ENCORE2][SE_M_MILK_DRINK]¿H?[Font]Como[color]Ai[Shadow]Vaya[SE_M_TEETER_DANCE][SE_M_TEETER_DANCE][SE_M_SKY_UPPERCUT][SE_M_BATON_PASS]¡Hola!
+
+#org @gFameCheckerFlavorText_Misty4
+[COLOR]Y[SHADOW]uke[SE_M_SKY_UPPERCUT][SE_M_TRI_ATTACK][SE_M_SKY_UPPERCUT][SE_M_BATON_PASS][SE_M_SWORDS_DANCE][SE_M_BATON_PASS][SE_M_SWIFT][SE_M_SWORDS_DANCE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][.]
+
+#org @gFameCheckerFlavorText_Misty5
+[COLOR]Y[SHADOW]uke[SE_M_SKY_UPPERCUT][SE_M_TRI_ATTACK][SE_M_MILK_DRINK][SE_M_BATON_PASS][SE_M_BRICK_BREAK][.]
+
+#org @gFameCheckerFlavorText_LtSurge0
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][COLOR]Ai[SHADOW]Vaya[SE_M_REFLECT][SE_M_ACID_ARMOR]Hola[SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_BATON_PASS][SE_M_ATTRACT][!]
+
+#org @gFameCheckerFlavorText_LtSurge3
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][FONT][Kae][COLOR][Ai][SHADOW]Guau.[SE_M_BRICK_BREAK][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_BATON_PASS][SE_M_DIVE][SE_M_BATON_PASS][.]
+
+#org @gFameCheckerFlavorText_Erika2
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][FONT]Como[COLOR]Ai[SHADOW]Vaya[SE_M_YAWN][SE_M_MOONLIGHT][SE_M_SWAGGER2][SE_M_STAT_INCREASE][SE_M_BATON_PASS][SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT]SE_M_ SKY_UPPERCUT[SE_M_ENCORE2][.]
+
+#org @gFameCheckerFlavorText_Koga0
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][COLOR]Ai[SHADOW]Ud.[SE_M_SWAGGER2][SE_M_ACID_ARMOR]Hola[SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_BATON_PASS][SE_M_SKY_UPPERCUT][SE_M_TRI_ATTACK][]
+
+#org @gFameCheckerFlavorText_Sabrina0
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][COLOR]Ai[SHADOW]Ud.[SE_M_REFLECT][SE_M_ACID_ARMOR]Hola[SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_BATON_PASS][SE_M_YAWN][SE_M_MILK_DRINK][SE_M_CONFUSE_RAY]¡Hola!
+
+#org @gFameCheckerFlavorText_Blaine0
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][COLOR]Ai[SHADOW]Vaya[SE_M_MOONLIGHT][SE_M_SNORE]Hola[SE_M_REFLECT][SE_M_HYPER_BEAM2][SE_M_BATON_PASS][SE_M_ENCORE2][SE_M_STAT_DECREASE][!]
+
+#org @gFameCheckerFlavorText_Agatha1
+[COLOR]Oscuro[SHADOW]uke[SE_M_BATON_PASS][SE_M_ENCORE2][SE_M_MILK_DRINK]¿H?[FONT]Cambiar[COLOR]Ai[SHADOW]Vaya[SE_M_SKY_UPPERCUT][SE_M_BATON_PASS]Hola[SE_M_REFLECT][SE_M_TEETER_DANCE][SE_M_ATTRACT][SE_M_DIVE][.]
+
+#org @gFameCheckerFlavorText_Agatha5
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][FONT]Como[COLOR]Ai[SHADOW]Vaya[SE_M_BATON_PASS][SE_M_SWORDS_DANCE][SE_M_YAWN][SE_M_BATON_PASS][SE_M_STAT_INCREASE][SE_M_TRI_ATTACK][SE_M_ENCORE2][SE_M_YAWN][SE_M_ATTRACT][SE_M_YAWN][SE_M_BRICK_BREAK][SE_M_MOONLIGHT][.]
+
+#org @gFameCheckerFlavorText_Lance5
+[COLOR]Oscuro[SHADOW]uke[SE_M_TEETER_DANCE][SE_M_ENCORE2][FONT]kae[COLOR]Ai[SHADOW]Vaya[SE_M_SPIT_UP][SE_M_STAT_INCREASE][SE_M_BATON_PASS][SE_M_SWORDS_DANCE][SE_M_BRICK_BREAK][SE_M_TRI_ATTACK][SE_M_DIVE]SE_M_SKY _UPPERCUT[SE_M_TRI_ATTACK][SE_M_SWIFT][SE_M_BATON_PASS][SE_M_YAWN][.]
+
+#org @gFameCheckerFlavorText_Bill5
+[COLOR]Oscuro[SHADOW]uke[SE_M_SKY_UPPERCUT][SE_M_TRI_ATTACK][FONT]kae[COLOR]Ai[SHADOW]Ud.[SE_M_SWORDS_DANCE][SE_M_SKETCH][SE_M_TEETER_DANCE][SE_M_ATTRACT2]SE_M _TUMBA_ARENA[SE_M_STAT_INCREASE][.]
+
+#org @gFameCheckerFlavorText_MrFuji3
+[COLOR]Oscuro[SHADOW]uke[SE_M_SKY_UPPERCUT][SE_M_TRI_ATTACK][FONT]kae[COLOR]Ai[SHADOW]Ud.[SE_M_PETAL_DANCE][SE_M_YAWN][SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_STAT_INCREASE][SE_M_BATON_PASS][SE_M_SKY_UPPERCUT][SE_M_SWORDS_DANCE][.]
+
+#org @gFameCheckerFlavorText_Giovanni1
+[COLOR]Oscuro[SHADOW]uke[SE_M_BATON_PASS][SE_M_ENCORE2][SE_M_MILK_DRINK]¿H?[FONT]kae[COLOR]Ai[SHADOW]Vaya[SE_M_BATON_PASS][SE_M_SKY_UPPERCUT][SE_M_STAT_INCREASE][SE_M_SAND_TOMB][SE_M_YAWN][SE_M_YAWN][SE_M_CHARM]SE_M_ENC ORE2[SE_M_BATON_PASS][SE_M_SKY_UPPERCUT][SE_M_ATTRACT][SE_M_ATTRACT]
+
+#org @gFameCheckerFlavorText_Giovanni4
+[COLOR]Oscuro[SHADOW]uke[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_M_DIVE][FONT]Cambiar[COLOR]Ai[SHADOW]Vaya[SE_M_HAIL][SE_M_BATON_PASS][SE_M_PETAL_DANCE][SE_M_SKY_UPPERCUT][SE_M_SWIFT][SE_M_MOONLIGHT][SE_M_MILK_DRINK][?]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak0
+[SE_M_CHARGE][]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak1
+[SE_M_SOLAR_BEAM][]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak2
+[SE_M_SOLAR_BEAM][]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_ProfOak5
+[SE_M_SOLAR_BEAM][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy0
+[SE_M_SOLAR_BEAM][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy2
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Daisy5
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock0
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock1
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock2
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock3
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Brock5
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty3
+[SE_M_SWIFT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Misty5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_LtSurge5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Erika5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga0
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga1
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga2
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga3
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga4
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Koga5
+[SE_M_PETAL_DANCE][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina1
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Sabrina5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine0
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine1
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine2
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine3
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine4
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Blaine5
+[SE_M_CHARGE][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei2
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei3
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei4
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lorelei5
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno3
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno4
+[SE_M_BARRIER][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bruno5
+[SE_M_CHARGE][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha1
+[SE_M_BARRIER][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha2
+[SE_M_BARRIER][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Agatha5
+[SE_M_REVERSAL][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance4
+[SE_M_BARRIER][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Lance5
+[SE_M_BARRIER][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill0
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill2
+[SE_M_SWAGGER2][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill3
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill4
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Bill5
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji0
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji1
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji2
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji3
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji4
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_MrFuji5
+[SE_M_MOONLIGHT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni0
+[SE_M_CHARGE][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginLocation_Giovanni5
+[SE_M_CHARGE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_ProfOak3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy4
+[SE_M_SNORE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Daisy5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock2
+[SE_M_PSYBEAM2][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Brock5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty3
+[SE_M_PSYBEAM2][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Misty5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_LtSurge5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Erika5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Koga4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina1
+[SE_M_PSYBEAM2][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Sabrina4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Blaine5
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei2
+[SE_M_SNORE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei4
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lorelei5
+[SE_M_SNORE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bruno2
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha3
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Agatha5
+[SE_M_SNORE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance3
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance4
+[SE_M_REFLECT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Lance5
+[SE_M_PSYBEAM2][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill0
+[B_OPPONENT_MON1_NAME][?]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill1
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_Bill2
+[SE_M_SNORE][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji0
+[SE_M_BRICK_BREAK][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji1
+[SE_M_SWIFT][]
+
+#org @gFameCheckerFlavorTextOriginObjectName_MrFuji5
+[SE_M_REFLECT][]
+
+#org @Help_Text_TryDoingItOnYourOwn
+¡Intentémoslo con nuestro propio poder!
+
+#org @Help_Text_UsingPokedex
+[SE_M_ATTRACT]Hola
+
+#org @Help_Text_UsingPokemon
+[SE_M_ATTRACT]Hola
+
+#org @Help_Text_UsingSummary
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingSwitch
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingItem
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingBag
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingSave
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingOption
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingWithdraw
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingDeposit
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingMove
+[SE_M_ATTRACT][]
+
+#org @Help_Text_MovingItems
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingMailbox
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingFight
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingPokemon2
+[SE_M_ATTRACT]Hola
+
+#org @Help_Text_UsingShift
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingSummary2
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingBag2
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingRun
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingBall
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingBait
+[SE_M_ATTRACT][]
+
+#org @Help_Text_UsingRock
+[SE_M_ATTRACT][]
+
+#org @Help_Text_EXP
+[LEFT_PAREN][RIGHT_PAREN]y
+
+#org @Help_Text_Level
+[LEFT_PAREN]y[RIGHT_PAREN][]
+
+#org @Help_Text_MoveType
+[SE_M_BRICK_BREAK][]
+
+#org @Help_Text_KeyItems
+[SE_M_ACID_ARMOR][]
+
+#org @Help_Text_PokeBalls
+fuego
+
+#org @Help_Text_Pokedex
+fuego
+
+#org @Help_Text_PlayTime
+[SE_M_ACID_ARMOR][]
+
+#org @Help_Text_TextSpeed
+[SE_M_CHARGE][]
+
+#org @Help_Text_BattleScene
+[SE_M_BRICK_BREAK][]
+
+#org @Help_Text_BattleStyle
+[SE_M_BRICK_BREAK][]
+
+#org @Help_Text_ButtonMode
+[SE_M_REFLECT][]
+
+#org @Help_Text_HMMove
+[SE_M_SWIFT][]
+
+#org @Help_Text_StatusProblem
+[SE_M_CHARM][]
+
+#org @Help_Text_Pokemon
+fuego
+
+#org @Help_Text_TheGame
+[SE_M_BATON_PASS][]
+
+#org @Help_Text_WirelessAdapter
+[SE_M_SKY_UPPERCUT][]
+
+#org @CableClub_Text_CloseThisMenu
+finalizar
+
+#org @CableClub_Text_OkayToSaveProgress
+Antes de comenzar, me gustaría escribir\nun informe. ¿Está bien?
+
+#org @RecordCorner_Text_ThanksForComing
+Muchas gracias.
+
+#org @CableClub_Text_Hello
+¡Hola!
+
+#org @CableClub_Text_PleaseWait
+Por favor, espere un momento
+
+#org @CableClub_Text_CanMixRecords
+Te contamos cómo jugar en el club inalámbrico.
+
+#org @CableClub_Text_WhichBattleMode
+¿Qué elección te gustaría hacer?
+
+#org @CableClub_Text_ReturnsToPreviousStep
+retroceder un paso
+
+#org @CableClub_Text_OhExcuseMe
+Ah... ¡Okyaku-sama!
+
+#org @Text_LeavingDoComeAgain
+¿Podrás llamar hoy? ¡Aquí vamos de nuevo!
+
+#org @Text_RetryFromStartPlease
+Inténtelo de nuevo desde el principio.
+
+#org @Text_MonUsedMove
+[B_COPY_VAR_1]Sí[SE_M_ENCORE2][B_COPY_VAR_2]¡Puaj!
+
+#org @Text_MonUsedWaterfall
+[B_COPY_VAR_1]Sí[SE_M_ENCORE2][.]
+
+#org @Text_MonUsedDive
+[B_COPY_VAR_1]Sí[SE_M_ENCORE2][.]
+
+#org @DayCare_Text_SeeWifeIfYouWantToPickUpMon
+Si quieres adoptar un Pokémon, ve con Granny\ny espera.
+
+#org @DayCare_Text_TakeBackWhichMon
+¿Qué Pokémon te gustaría adoptar?
+
+#org @SafariZone_Text_WelcomeToSafariZone
+¡Bienvenidos a la Zona Safari! Aquí puede\ncrear Pokémon que son difíciles de ver\pen Hoenn en su forma natural, ¡y también\npuede atrapar Pokémon respondiendo a las\pacciones del entrenador Pokémon! ¡Ven y\ndisfruta de la zona safari!
+
+#org @SafariZone_Text_WelcomeFirstTime
+¡Bienvenidos a la Zona Safari! ¿Es esta\nsu primera vez en la Zona Safari?
+
+#org @SafariZone_Text_ComeInAndEnjoy
+¡Ven y disfruta de la zona safari!
+
+#org @SafariZone_Text_FirstTimeInfo
+En la zona de safari, puedes usar esta\nbola de safari para atrapar Pokémon. Hay\pun paseo y un juego donde puedes utilizar\nla pelota safari. ¡Disfruta de la zona\pde safari!
+
+#org @SafariZone_Text_WouldYouLikeToPlay
+¡Bienvenidos a la Zona Safari! ¡Atrapemos\na los Pokémon! ¿Te gustaría jugar un juego\pde safari?
+
+#org @SafariZone_Text_PlayAnotherTime
+Si es así, ¡ven a visitarnos la próxima\nvez!
+
+#org @SafariZone_Text_NotEnoughMoney
+¡No tengo suficiente dinero!
+
+#org @SafariZone_Text_ThatWillBe500Please
+Pues bien, comémoslo.
+
+#org @SafariZone_Text_HereAreYourSafariBalls
+¡Ahora disfruta del safari ball!
+
+#org @SafariZone_Text_Received30SafariBalls
+[B_BUFF2]¡Ajá, recibí la pelota de safari!
+
+#org @SafariZone_Text_PleaseEnjoyYourself
+Te avisaremos cuando llegue el momento,\n¡así que espéralo con ansias! Pues bien,\p¡vamos!
+
+#org @SafariZone_Text_YouNeedPokeblockCase
+¡a! No tienes un caso Pollock contigo,\n¿verdad? La Zona Safari será aún más divertida\psi usas Pollock, ¡así que asegúrate de\nllevar tu estuche Pollock contigo!
+
+#org @SafariZone_South_Text_StillHaveTimeExit
+Aún queda tiempo, pero ¿quieres salir de\nla Zona Safari?
+
+#org @SafariZone_South_Text_EnjoyTheRestOfYourAdventure
+¡Por favor continúa disfrutando!
+
+#org @SafariZone_South_Text_ExitEarlyThankYouForPlaying
+Bien, echaré un vistazo a las bolas de\nsafari restantes. Gracias por tu duro trabajo.\pNos vemos pronto.
+
+#org @SafariZone_South_Text_GoodLuck
+Pues bien, ¡bienvenido! Si tiene algo que\ndecir, por favor cántame con su voz.
+
+#org @SafariZone_South_Text_Boy
+¿Sabías? Cuando pone a Pollock en su caja,\nlos Pokémon se reúnen y ¡ella viene!
+
+#org @SafariZone_South_Text_Man
+Quería ir antes, pero olvidé traer el tren...\n¡Creo que probablemente haya un Pokémon\praro por ahí!
+
+#org @SafariZone_Southwest_Text_Woman
+Hay ocasiones en las que le lanzas un Pollock\na un Pokémon y no le importa. ¿Los Pokémon\ptienen gustos y disgustos?
+
+#org @SafariZone_Northwest_Text_Man
+Oye... finalmente llegué hasta aquí, pero\nestoy agotado y no me queda energía para\patrapar ningún Pokémon.
+
+#org @SafariZone_North_Text_Fisherman
+Vine aquí a buscar el Pokémon Agua que\nno está en Hoenn... ¿Sabes dónde está el\pPokémon Agua?
+
+#org @SafariZone_North_Text_Man
+¡Atrapa muchos Pokémon raros aquí y diviértete\ncon tus amigos!
+
+#org @SafariZone_South_Text_Youngster
+Antes de darme cuenta, el Pollock que había\npuesto en la caja de Pollock había desaparecido...\pNo sé, ¿tal vez un Pokémon se lo había\ncomido por dentro?
+
+#org @Route121_SafariZoneEntrance_Text_TrainerTip
+¡Un adulto en la zona safari! Si lanza\nun Pollock a un Pokémon que era Pokémon,\p¡será menos probable que lo derroten!
+
+#org @SafariZone_Southwest_Text_RestHouseSign
+Si te sientes cansado, ¡tómate un breve\ndescanso! El Kyuukeijo de todos
+
+#org @SafariZone_RestHouse_Text_Youngster
+No tengo un Pollock, pero he atrapado muchos\nPokémon, ¡y puedo atrapar bastantes simplemente\pacercándome a ellos y lanzándoles la pelota!
+
+#org @SafariZone_RestHouse_Text_PsychicM
+Si usas Pollock, parece ser un poco más\ndifícil escapar de lo habitual, por lo\pque puede que no sea tan malo si lo usas\ncon un Pokémon del que es difícil escapar.
+
+#org @SafariZone_RestHouse_Text_FatMan
+Es como si pusieras a Pollock en el área\nde Pollock y atraparas Pokémon, todos los\pPokémon se reunirían.
+
+#org @SootopolisCity_Text_PleaseShowMeBigMon
+[B_COPY_VAR_1]¡Tengo un gran día! ¿sí? Tú[B_COPY_VAR_1]¿tener una novia? ¡Tómate un momento para mostrarle tu novia\na tu tío!
+
+#org @SootopolisCity_Text_GrandMonThanksForShowingMe
+[B_COPY_VAR_1]! Gracias por mostrarme esto. Por favor, llévate esto contigo.
+
+#org @SootopolisCity_Text_ReceivedOneItem
+[B_BUFF2]Ajá[B_COPY_VAR_2]¡Lo tengo!
+
+#org @SootopolisCity_Text_HuhBagIsCrammedFull
+¿Está ahí? Tienes muchas cosas pegajosas.
+
+#org @SootopolisCity_Text_IveSeenBiggerMonThanThisOne
+[B_COPY_VAR_1]que esto.
+
+#org @SootopolisCity_Text_QuiteSomethingButNotMon
+[B_COPY_VAR_1]¡No es bueno!
+
+#org @SootopolisCity_Text_TooBadDontHaveBigMon
+[B_COPY_VAR_1]¿No lo tienes? eso es realmente grande[B_COPY_VAR_1]Deja que te enseñe.
+
+#org @SootopolisCity_Text_BiggestMonPlayersXCmColossus
+[B_COPY_VAR_1]¡Sí![B_COPY_VAR_2]Uno[B_COPY_VAR_3]Eno chico!
+
+#org @Text_DadLetterArrivedForYouPlayer
+[B_BUFF2]¡Ah! ¡Bien hecho![B_BUFF2]Su melena le fue entregada.
+
+#org @Text_DadPassForShipNeverSeenBefore
+Papá, este es un boleto para un barco que\nnunca había visto antes... Creo que sería\puna buena idea ir a Minamo.
+
+#org @Text_FerryToSlateportOhThatPass
+Kaina Iki Renrakusen... ¡Oh! ¡Su boleto\nes...!
+
+#org @Text_YoureOneWhoBroughtOddPass
+¿Eres tú quien trajo el billete raro? Dices\nque está aquí, está haciendo lo que está\phaciendo, es una niña, es una niña... está\nahí, qué está pasando con ella, nadie sabe\pqué está pasando con ella... hmm... Está\nemocionada. ¡Sobre la vida funanori! ¡Vamos,\pNorina!
+
+#org @Text_NothingHereSailBackToLilycove
+Aquí no hay nada, es una isla estúpida...\n¿Debería volver a Minamo?
+
+#org @Text_SailHomeWeWill
+¡Bueno! ¿Quieres rana?
+
+#org @Text_AsYouLikeThen
+Sí, me gusta, pero está bien.
+
+#org @SouthernIsland_Interior_Text_Sign
+Cada sueño es un sueño más, y no debemos\nolvidarlo...
+
+#org @SouthernIsland_Exterior_Text_Sign
+Desearía que las cosas confusas que recuerdo\nquedaran grabadas en mi corazón...
+
+#org @PetalburgCity_Gym_Text_GiveEnigmaBerry
+[B_BUFF2]¡Ah! ¡Le voy a dar un regalo porque le hizo un hongo poco\ncomún!
+
+#org @Route104_Text_PlantBerriesInSoilTakeThis
+Las setas que crecen en los nidos esponjosos\nson patatas muy bonitas. En la misma maceta\pse planta solo un hongo. Así es como llamamos\na Reigi. Toma, dividámoslo.
+
+#org @Route104_Text_TrainersOftenMakeMonHoldBerries
+Pareces un entrenador, ¿verdad? La entrenadora\ndice que a menudo le da hongos a los Pokémon\py que depende de ti si los alimenta o los\nusa.
+
+#org @Route111_Text_WateredPlantsEveryDayTakeBerry
+Siempre di agua y crecieron muchas flores,\n¡y luego cultivé muchos árboles! ¡Sí! Te\pdoy esto
+
+#org @Route111_Text_TryToMakeRedPokeblock
+[B_COPY_VAR_1]¡Buena suerte, en mi opinión!
+
+#org @Route111_Text_WhatColorBerriesToLookForToday
+Me pregunto qué color de hongos buscaremos\nhoy.
+
+#org @Route114_Text_GatheringBerriesForContest
+Estoy recopilando materiales para ganar\nel Concurso Pokémon, así que si quieres,\p¡compartiré algunos contigo!
+
+#org @Route114_Text_GoodLuckToYouToo
+¡Haz lo mejor que puedas también!
+
+#org @Route114_Text_WhatBerriesShouldIPlantToday
+¿Qué tipo de setas comeré hoy? ¿Y de qué\ncolor haré abadejo? Es divertido tener\pque decidir.
+
+#org @Route120_Text_PokeblocksExpressionOfLove
+Al agitar el estuche sale un Pollock...y\nun Pokémon que lo atrapa y se lo come...este\pes Ai, ¿no?
+
+#org @Route120_Text_YouUnderstandTakeThis
+¡Sí Sí! Después de todo, aquellos que entienden\nentenderán, así que te daré esto.
+
+#org @Route120_Text_OwnImpressionsImportantTakeThis
+Así es...pero te diré que es importante\nsentirse diferente.
+
+#org @Route120_Text_BerryIsRareRaiseItWithCare
+Aparentemente, ese árbol es raro, ¡así\nque cuídalo!
+
+#org @Route120_Text_IllGetMoreBerriesFromBerryMaster
+Consigamos algo de Kimi Meijin nuevamente.
+
+#org @LilycoveCity_Text_BerrySuitsYou
+Al fin y al cabo, así como a mí me sienta\nbien el traje, a mí me sienta bien el frío\pdel mar, y a ti parece que te sienta bien\nla madera... Me pregunto por qué.
+
+#org @LilycoveCity_Text_BecauseYoureTrainer
+Después de todo, ¡eso es porque eres el\nentrenador!
+
+#org @LilycoveCity_Text_PokeblocksSuitPokemon
+Después de todo, así como la simplicidad\nme conviene, Pollock se adapta a Pokémon.
+
+#org @Route123_BerryMastersHouse_Text_YoureDeservingOfBerry
+Me llamo "Kinomi Meijin", creceré como\nun árbol y enrollaré mi cuello para poder\pdisfrutar de la belleza del mundo, ¡y también\nla compartiré contigo!
+
+#org @Route123_BerryMastersHouse_Text_WhyBeStingyTakeAnother
+Allá vamos, ¡una cosa más!
+
+#org @Route123_BerryMastersHouse_Text_VisitPrettyPetalFlowerShop
+¡Hagamos florecer algunas flores en la\nfloristería llamada Santoka, que se encuentra\pcerca de Kanazumi!
+
+#org @Route123_BerryMastersHouse_Text_DoneForToday
+¡Hoy se acabó, así que volvamos al mundo\ny dejemos que las flores florezcan!
+
+#org @Route123_BerryMastersHouse_Text_HeardAGoodSayingLately
+La forma en que el anciano criaba a sus\nhijos era un gran problema en el mundo.\p¿Nunca has oído a alguien decir algo agradable\nsobre ti en un lugar importante?
+
+#org @Route123_BerryMastersHouse_Text_InspirationalTakeThis
+¡Vaya! Muy lindas palabras! Por favor,\nllévate esto contigo.
+
+#org @Route123_BerryMastersHouse_Text_GoodSayingTakeThis
+¡Vaya! Es una palabra muy buena, ya sabes,\nél es importante, así que llévate esto\pcontigo.
+
+#org @Route123_BerryMastersHouse_Text_JoyNeverGoesOutOfMyLife
+¡Los niños y los niños serán más grandes\nque el anciano y se divertirán!
+
+#org @Route104_PrettyPetalFlowerShop_Text_ThisIsPrettyPetalFlowerShop
+¡Hola! ¡Esta es Santouka, una floristería\nque reparte flores por su mundo!
+
+#org @Route104_PrettyPetalFlowerShop_Text_LearnAboutBerries
+[B_BUFF2][A][B_PLAYER_MON1_NAME]¿Quieres saber sobre Okinomi?
+
+#org @Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries
+[B_BUFF2][A][B_PLAYER_MON1_NAME]¡Uno! ¡Es un nombre muy bonito![B_BUFF2][Ah][B_PLAYER_MON1_NAME]¿Quieres saber sobre las setas de tu novia?
+
+#org @Route104_PrettyPetalFlowerShop_Text_BerriesExplanation
+[B_BUFF2][A][B_PLAYER_MON1_NAME]¡Llena sólo tus pensamientos y deja que sus flores crezcan en el mundo!
+
+#org @Route104_PrettyPetalFlowerShop_Text_FlowersBringHappiness
+Buenos días, me haces sentir muy feliz.
+
+#org @Route104_PrettyPetalFlowerShop_Text_YouCanHaveThis
+¡Hola! Bueno, cuanto más se lava, más lo\nlimpia. Cuanto más se lava, más lo limpia.\pCuanto más se lava, más lo limpia. Cuanto\nmás se lava, más quiere lavarse. Se convirtió\pen lo que ¿ella tiene razón? te daré esto
+
+#org @Route104_PrettyPetalFlowerShop_Text_WailmerPailExplanation
+¡Cada vez que los hongos crezcan, dales\nagua en la regadera! Además, si dejas sola\pa Nekinomi durante mucho tiempo, se caerá,\n¡pero luego aparecerá una nueva ola y ella\pvendrá! ¡Eso es increíble! La novia del\nser vivo siente poder, ¿verdad?
+
+#org @Route104_PrettyPetalFlowerShop_Text_ImGrowingFlowers
+¡Cuidemos a nuestras hermanas mayores y\nhagamos todo lo posible para hacerlas cantar!\p¡Te doy esto!
+
+#org @Route104_PrettyPetalFlowerShop_Text_MachineMixesBerries
+Puedes llenar hongos para hacerlos más\ngrandes y hacerlos más grandes, y puedes\pdárselos a Pokémon, pero aparentemente\nsi mezclas algunos hongos, enloquecerá\pa Pokémon. Quiero que también sea divertido.
+
+#org @SootopolisCity_Text_GiveYouThisBerryToo
+[B_COPY_VAR_1]¡También te daré el hongo favorito de Kiri!
+
+#org @SootopolisCity_Text_WhatKindOfWishInYourName
+[B_COPY_VAR_1]¿Qué tipo de deseos contiene el nombre de Ino?
+
+#org @SootopolisCity_Text_LikeSeasonBornIn
+Haru Natsu Aki Fuyu Si naces de Haru, te\nagradará Haru, pero si naces de Natsu,\p¿te agradará Natsu?
+
+#org @SootopolisCity_Text_ThenILoveAutumn
+[B_COPY_VAR_1]¿Cuándo prefieres?
+
+#org @SootopolisCity_Text_OhDoesntMatter
+Ya veo... ¿no estás feliz? Hay tantas cosas\nque quiero saber.
+
+#org @Text_NothingButPokemonBooks
+Lo único que destaca es el Pokémon.
+
+#org @Route21_North_Text_CueBallRematchIntro
+Hoy también fui a Oyogi.
+
+#org @ThreeIsland_BondBridge_Text_AlexisRematchIntro
+[SE_M_SWORDS_DANCE]! ¡fuego!
+
+#org @Test_Text_WelcomeToWorldOfPokemon
+¡Probemos este mensaje! ¡Bienvenido a su\nmundo de Pokémon!
+
+#org @Test_Text_ThisIsASignpost
+¡Probemos este mensaje! Kanban
+
+#org @Test_Text_ThisIsACoordEvent
+¡Probemos este mensaje! Este es su evento\npara Zahyo Check.
+
+#org @gText_SaveFailed2
+Hice muchas paradas...
+
+#org @gOtherText_NewName
+[SE_M_WATERFALL][]
+
+#org @sMagnetPullDescription
+[SE_M_SKY_UPPERCUT][SE_M_BATON_PASS]Hola.
+
+#org @gStatusConditionString_PoisonJpn
+Veneno
+
+#org @gStatusConditionString_SleepJpn
+Dormir
+
+#org @gStatusConditionString_ParalysisJpn
+Parálisis
+
+#org @gStatusConditionString_BurnJpn
+Quemar
+
+#org @gStatusConditionString_IceJpn
+Hielo
+
+#org @gStatusConditionString_ConfusionJpn
+Konran
+
+#org @sJapaneseEggNickname
+huevo
+
+#org @sText_HealthboxNickname
+[HIGHLIGHT]Bien
+
+#org @sText_ClrWhtHltTranspShdwDrkGry
+[COLOR]Oh[HIGHLIGHT]I[SHADOW]interfaz de usuario
+
+#org @sText_TaskOver
+[SE_M_MINIMIZE]Tarea superada
+
+#org @sBerryDescriptionPart1_Cheri
+Muy lindo Hanaga Saku.
+
+#org @sBerryDescriptionPart2_Cheri
+Mi cara está muy seca.
+
+#org @sBerryDescriptionPart1_Chesto
+Todo sobre el exterior, el agua, el interior,
+
+#org @sBerryDescriptionPart2_Chesto
+Duro. No importa dónde coma, se muestra\nreacia.
+
+#org @sBerryDescriptionPart1_Pecha
+Muy dulce y delicioso.
+
+#org @sBerryDescriptionPart2_Pecha
+Es suave, por lo que es complicado cuando\ngolpea.
+
+#org @sBerryDescriptionPart1_Rawst
+Cuando las hojas están enrolladas durante\nmucho tiempo,
+
+#org @sBerryDescriptionPart2_Rawst
+Parece que el agua está muy amarga.
+
+#org @sBerryDescriptionPart1_Aspear
+Hay mucha agua dentro del agua dura.
+
+#org @sBerryDescriptionPart2_Aspear
+Incluye una gran cantidad de Bastante ácido.
+
+#org @sBerryDescriptionPart1_Leppa
+Es un poco mejor comparado con Kurabo,\netc.
+
+#org @sBerryDescriptionPart2_Leppa
+Tarde. Cuanto más pequeña es, más deliciosa\nes.
+
+#org @sBerryDescriptionPart1_Oran
+Una misteriosa mezcla de varios jureles.
+
+#org @sBerryDescriptionPart2_Oran
+Se necesita un día para pulirlo.
+
+#org @sBerryDescriptionPart1_Persim
+Amo a Taiyou. Cuando llega a Hini
+
+#org @sBerryDescriptionPart2_Persim
+Los colores se vuelven cada vez más vivos.
+
+#org @sBerryDescriptionPart1_Lum
+Se necesita un tiempo para desarrollarse,\npero es importante.
+
+#org @sBerryDescriptionPart2_Lum
+Cuando lo cultives, puede volverse brillante.
+
+#org @sBerryDescriptionPart1_Sitrus
+Oren es como un hermano.
+
+#org @sBerryDescriptionPart2_Sitrus
+Es grande y tiene jurel.
+
+#org @sBerryDescriptionPart1_Figy
+Algunas de las formas parecen restos de\ncomida.
+
+#org @sBerryDescriptionPart2_Figy
+Mi cuerpo está obstruido.
+
+#org @sBerryDescriptionPart1_Wiki
+Las verrugas que te rodean son Pokémon.
+
+#org @sBerryDescriptionPart2_Wiki
+Se dice que fue hecho para que fuera más\nfácil de sostener.
+
+#org @sBerryDescriptionPart1_Mago
+Cuanto más grande se vuelve, mejor se ve.
+
+#org @sBerryDescriptionPart2_Mago
+Es tan dulce y delicioso que se derrite.
+
+#org @sBerryDescriptionPart1_Aguav
+Flores de tamaño pequeño y luces brillantes.
+
+#org @sBerryDescriptionPart2_Aguav
+Un árbol raro que la gente ni siquiera\nintenta conservar.
+
+#org @sBerryDescriptionPart1_Iapapa
+Setas ácidas muy grandes.
+
+#org @sBerryDescriptionPart2_Iapapa
+Tarda mucho en crecer, aunque sea pequeño.
+
+#org @sBerryDescriptionPart1_Razz
+El color rojo queda un poco seco al comerlo.
+
+#org @sBerryDescriptionPart2_Razz
+Crece rápidamente, así que tómate unos\nminutos para pulirlo.
+
+#org @sBerryDescriptionPart1_Bluk
+El río es azul y amarillo, pero cuando\nlo como,
+
+#org @sBerryDescriptionPart2_Bluk
+El interior de mi boca se vuelve negro.
+
+#org @sBerryDescriptionPart1_Nanab
+Me echaron del mundo, así que
+
+#org @sBerryDescriptionPart2_Nanab
+Mi nombre es Naná. Dulce.
+
+#org @sBerryDescriptionPart1_Wepear
+Pequeñas flores blancas. Nigasato
+
+#org @sBerryDescriptionPart2_Wepear
+Ají con un toque amargo.
+
+#org @sBerryDescriptionPart1_Pinap
+Hace frío y frío, y hace frío.
+
+#org @sBerryDescriptionPart2_Pinap
+El mío por dentro está amargo.
+
+#org @sBerryDescriptionPart1_Pomeg
+No importa cuanta agua te dé, no importa\ncuanta agua te dé,
+
+#org @sBerryDescriptionPart2_Pomeg
+Incluso si lo hubiera, sólo usaría uno.
+
+#org @sBerryDescriptionPart1_Kelpsy
+Una rara forma felina
+
+#org @sBerryDescriptionPart2_Kelpsy
+Shurui. Ella escribe una flor muy grande.
+
+#org @sBerryDescriptionPart1_Qualot
+Me encanta el agua. dulces para siempre
+
+#org @sBerryDescriptionPart2_Qualot
+Incluso si es duro, sigue siendo fuerte.
+
+#org @sBerryDescriptionPart1_Hondew
+Es muy interesante y hay muchas cosas que\nhacer.
+
+#org @sBerryDescriptionPart2_Hondew
+No puedo hacerlo. muy deliciosa.
+
+#org @sBerryDescriptionPart1_Grepa
+De la suavidad y forma redonda.
+
+#org @sBerryDescriptionPart2_Grepa
+Es tan amargo que ni siquiera puedo comerlo.
+
+#org @sBerryDescriptionPart1_Tamato
+Está tan seco que tus labios se curvan.
+
+#org @sBerryDescriptionPart2_Tamato
+Se necesita un tiempo para crecer.
+
+#org @sBerryDescriptionPart1_Cornn
+Ha estado floreciendo durante mucho tiempo.\nmucho
+
+#org @sBerryDescriptionPart2_Cornn
+Hay ocasiones en las que no puedes pulirlo\na menos que lo laves.
+
+#org @sBerryDescriptionPart1_Magost
+El jurel tiene muy buen equilibrio.
+
+#org @sBerryDescriptionPart2_Magost
+Árbol de alumbre.
+
+#org @sBerryDescriptionPart1_Rabuta
+Hay muchas lesiones, lo cual es raro.
+
+#org @sBerryDescriptionPart2_Rabuta
+Shurui. Quite bitter.
+
+#org @sBerryDescriptionPart1_Nomel
+Bastante amargo. Cuando te comes la boca
+
+#org @sBerryDescriptionPart2_Nomel
+Otros jureles dejarán de crecer.
+
+#org @sBerryDescriptionPart1_Spelon
+Cuando me enojaba, estaba extremadamente\ncansado.
+
+#org @sBerryDescriptionPart2_Spelon
+Incluso las verrugas tienen erupciones.
+
+#org @sBerryDescriptionPart1_Pamtre
+El mar surge flotando de la nada.
+
+#org @sBerryDescriptionPart2_Pamtre
+Parece estar creciendo en algún lugar del\nmundo.
+
+#org @sBerryDescriptionPart1_Watmel
+Muy grandes, algunos de más de un centímetro.
+
+#org @sBerryDescriptionPart2_Watmel
+Fue rechazado. Es extremadamente dulce.
+
+#org @sBerryDescriptionPart1_Durin
+Me sentí mal con solo mirarlo. ella también\nes amarga
+
+#org @sBerryDescriptionPart2_Durin
+Nadie lo ha comido nunca tal cual.
+
+#org @sBerryDescriptionPart1_Belue
+Es suave y se ve delicioso, pero es ridículamente\ndelicioso.
+
+#org @sBerryDescriptionPart2_Belue
+Agrio. Le lleva mucho tiempo criarla.
+
+#org @sBerryDescriptionPart1_Liechi
+Las semillas del misterio. Chiira solo\ntiene su mar
+
+#org @sBerryDescriptionPart2_Liechi
+Corre el rumor de que Chikara va a morir.
+
+#org @sBerryDescriptionPart1_Ganlon
+Las semillas del misterio. Sólo Ryuga tiene\nnovia.
+
+#org @sBerryDescriptionPart2_Ganlon
+Corre el rumor de que Chikara va a morir.
+
+#org @sBerryDescriptionPart1_Salac
+Las semillas del misterio. Sólo para Kamura,\nella es Sorano.
+
+#org @sBerryDescriptionPart2_Salac
+Corre el rumor de que Chikara va a morir.
+
+#org @sBerryDescriptionPart1_Petaya
+Las semillas del misterio. Solo para Yatapi\nel es todo
+
+#org @sBerryDescriptionPart2_Petaya
+Se dice que el poder de los seres vivos\nsobrevivirá.
+
+#org @sBerryDescriptionPart1_Apicot
+Madera misteriosa, misteriosa. Qué es
+
+#org @sBerryDescriptionPart2_Apicot
+No sé si va a pasar ni qué puedo hacer\nal respecto.
+
+#org @sBerryDescriptionPart1_Lansat
+Se dice que es sólo un manjar. Esta cosa
+
+#org @sBerryDescriptionPart2_Lansat
+Al parecer te hace muy feliz.
+
+#org @sBerryDescriptionPart1_Starf
+Porque el poder es demasiado fuerte
+
+#org @sBerryDescriptionPart2_Starf
+Es sólo una ilusión que deseché en el fin\ndel mundo.
+
+#org @sBerryDescriptionPart1_Enigma
+Shoutai Fumeino Kinomi.
+
+#org @sBerryDescriptionPart2_Enigma
+Parece tener el poder de una estrella.
+
+#org @sEasyChatWord_Pokenav
+fuego
+
+#org @sEasyChatWord_Pokemon
+fuego
+
+#org @sEasyChatWord_Pokedex
+fuego
+
+#org @sEasyChatWord_ThickFat
+[SE_M_MINIMIZE][]
+
+#org @sEasyChatWord_RainDish
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_ArenaTrap
+[SE_M_SWAGGER2][]
+
+#org @sEasyChatWord_RockHead
+[SE_M_MINIMIZE][]
+
+#org @sEasyChatWord_AirLock
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_HyperCutter
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_ShadowTag
+[SE_M_WATERFALL][]
+
+#org @sEasyChatWord_SpeedBoost
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_BattleArmor
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_SuctionCups
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_ClearBody
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_RoughSkin
+[SE_M_SOLAR_BEAM][]
+
+#org @sEasyChatWord_ShellArmor
+[SE_M_SKETCH][]
+
+#org @sEasyChatWord_NaturalCure
+[SE_M_SKETCH][]
+
+#org @sEasyChatWord_MagnetPull
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_WhiteSmoke
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_SwiftSwim
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_SandStream
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_SandVeil
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_KeenEye
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_InnerFocus
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_ShedSkin
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_HugePower
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_VoltAbsorb
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_WaterAbsorb
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_SereneGrace
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_PoisonPoint
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_RunAway
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_StickyHold
+[SE_M_ACID_ARMOR][]
+
+#org @sEasyChatWord_CloudNine
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_EarlyBird
+[SE_M_ACID_ARMOR][]
+
+#org @sEasyChatWord_MarvelScale
+[SE_M_SKETCH][]
+
+#org @sEasyChatWord_WonderGuard
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_LiquidOoze
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_ColorChange
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_EffectSpore
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_Pkrs
+cormorán
+
+#org @sEasyChatWord_FlameBody
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_OwnTempo
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_MagmaArmor
+[SE_M_SWAGGER2][]
+
+#org @sEasyChatWord_WaterVeil
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_CuteCharm
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_FlashFire
+[SE_M_SOLAR_BEAM][]
+
+#org @sEasyChatWord_VitalSpirit
+[SE_M_SKETCH][]
+
+#org @sEasyChatWord_PurePower
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ShieldDust
+[SE_M_SNORE][]
+
+#org @sEasyChatWord_MatchUp
+[SE_M_SOLAR_BEAM][]
+
+#org @sEasyChatWord_CantWin
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_CanWin
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_NoMatch
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_TrumpCard
+[SE_M_DETECT][]
+
+#org @sEasyChatWord_TakeThat
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ComeOn
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_TooStrong
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_GoEasy
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_GiveUp
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_TooWeak
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_HereGoes
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_HowDo
+[SE_M_WATERFALL][]
+
+#org @sEasyChatWord_GiveMe
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_HeyThere
+[SE_M_SWORDS_DANCE][]
+
+#org @sEasyChatWord_ThankYou
+[SE_M_MINIMIZE][]
+
+#org @sEasyChatWord_IveArrived
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_SeeYa
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ExcuseMe
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_WellThen
+[SE_M_SWORDS_DANCE][]
+
+#org @sEasyChatWord_GoAhead
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_YeahYeah
+[SE_M_SWORDS_DANCE][]
+
+#org @sEasyChatWord_MeetYou
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_ComeOver
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_CountOn
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_IWas
+[SE_M_PETAL_DANCE][]
+
+#org @sEasyChatWord_ToMe
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_IAm
+[SE_M_PETAL_DANCE][]
+
+#org @sEasyChatWord_WhoWas
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_ToWhom
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_WhoIs
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_TheyWere
+[SE_M_ACID_ARMOR][]
+
+#org @sEasyChatWord_ToThem
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_ToUs
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_SheWas
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ToHer
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_SheIs
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_OhYeah
+[SE_M_SWORDS_DANCE][]
+
+#org @sEasyChatWord_OhDear
+[SE_M_SWORDS_DANCE][]
+
+#org @sEasyChatWord_NotVery
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_ALot
+[SE_M_SWAGGER2][]
+
+#org @sEasyChatWord_ALittle
+[SE_M_SWAGGER2][]
+
+#org @sEasyChatWord_EvenSo
+[SE_M_REFLECT][]
+
+#org @sEasyChatWord_MustBe
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_ForNow
+[SE_M_MOONLIGHT][]
+
+#org @sEasyChatWord_AsIf
+[SE_M_CHARM][]
+
+#org @sEasyChatWord_TooLate
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_LikelyTo
+[SE_M_ACID_ARMOR][]
+
+#org @sEasyChatWord_BelongsTo
+[SE_M_CHARM][]
+
+#org @sEasyChatWord_GoHome
+[SE_M_BARRIER][]
+
+#org @sEasyChatWord_AllRight
+[SE_M_SKETCH][]
+
+#org @sEasyChatWord_UpsideDown
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_WakeUp
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_WakesUp
+[SE_M_CHARM][]
+
+#org @sEasyChatWord_ChildsPlay
+[SE_M_CHARM][]
+
+#org @sEasyChatWord_PlushDoll
+[SE_M_SOLAR_BEAM][]
+
+#org @sEasyChatWord_TheseWere
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ThoseAre
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ThoseWere
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_ThatWas
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_BattleTower
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_BattleRoom
+[SE_M_BRICK_BREAK][]
+
+#org @sEasyChatWord_SecretBase
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_POKEBLOCK
+Okakikuke
+
+#org @sEasyChatWord_AvantGarde
+[SE_M_CHARGE][]
+
+#org @sEasyChatWord_MuchObliged
+[SE_M_SOLAR_BEAM][]
+
+#org @sEasyChatWord_1HitKOExcl
+[SE_M_CHARGE][!]
+
+#org @sEasyChatWord_HipAnd
+[SE_M_DETECT][]
+
+#org @sEasyChatWord_SmellYa
+[SE_M_SKETCH][]
+
+#org @sText_UnusedColors
+[COLOR]Ai[HIGHLIGHT]Ai[SHADOW]Vaya
+
+#org @sText_Trainer2LoseText
+[B_TRAINER2_LOSE_TEXT][]
+
+#org @sText_Trainer1RecallPkmn1
+[B_TRAINER1_NAME][SE_M_HYPER_BEAM2][B_OPPONENT_MON1_NAME]o[SE_M_SWORDS_DANCE][SE_M_BATON_PASS][!]
+
+#org @sText_Trainer1WinText
+[B_TRAINER1_WIN_TEXT][Yu]
+
+#org @sText_Trainer1RecallBoth
+[B_TRAINER1_NAME][SE_M_HYPER_BEAM2][B_OPPONENT_MON1_NAME]o[B_OPPONENT_MON2_NAME][SE_M_SWORDS_DANCE][SE_M_BATON_PASS][!]
+
+#org @sText_Trainer2WinText
+[B_TRAINER2_WIN_TEXT][Ah]
+
+#org @sText_ABoosted
+[SE_M_TRI_ATTACK][]
+
+#org @sText_PkmnGrewToLv
+[SE_DEOXYS_MOVE][SE_M_HAIL][B_BUFF2]¡Ah![WAIT_SE][]
+
+#org @sText_StopLearningMove
+[PAUSE]kumi[SE_M_TWISTER][B_BUFF2]Ah?
+
+#org @sText_PlayerWhiteout2
+[B_PLAYER_NAME]también[SE_M_ENCORE2][PAUSE_UNTIL_PRESS][ke]
+
+#org @sText_PkmnWasDefrostedBy
+[B_ATK_NAME_WITH_PREFIX]Entonces[SE_M_ENCORE2][SE_M_TEETER_DANCE][B_CURRENT_MOVE][!]
+
+#org @sText_PkmnRaisedSpDef
+[B_ATK_PREFIX2][SE_M_SKY_UPPERCUT][B_CURRENT_MOVE]y[SE_M_ENCORE2]
+
+#org @sText_PkmnRaisedDef
+[B_ATK_PREFIX2][SE_M_SKY_UPPERCUT][B_CURRENT_MOVE]y[SE_M_ENCORE2][!]
+
+#org @sText_PkmnObtainedX2
+[B_DEF_NAME_WITH_PREFIX]t[B_BUFF2][Ah.]
+
+#org @sText_PkmnObtainedXYObtainedZ
+[B_ATK_NAME_WITH_PREFIX]Entonces[SE_DEOXYS_MOVE][B_DEF_NAME_WITH_PREFIX]t[B_BUFF2][Ah.]
+
+#org @sText_PkmnSealedOpponentMove
+[B_ATK_NAME_WITH_PREFIX]Entonces[SE_M_ENCORE2][SE_M_SKY_UPPERCUT]¡Hermana!
+
+#org @sText_XFoundOneY
+[B_ATK_NAME_WITH_PREFIX]Entonces[SE_M_BATON_PASS][B_LAST_ITEM][!]
+
+#org @sText_PkmnUsedXToGetPumped
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]a[B_LAST_ITEM][SE_M_EARTHQUAKE][!]
+
+#org @sText_PkmnsXMadeYUseless
+[B_DEF_NAME_WITH_PREFIX][SE_M_SKY_UPPERCUT][B_DEF_ABILITY][SE_M_BATON_PASS][B_CURRENT_MOVE][!]
+
+#org @sText_PkmnsXBlocksY
+[B_DEF_NAME_WITH_PREFIX][SE_M_SKY_UPPERCUT][B_DEF_ABILITY][SE_M_SKY_UPPERCUT][B_CURRENT_MOVE][!]
+
+#org @sText_PkmnsXMadeYIneffective
+[B_DEF_NAME_WITH_PREFIX][SE_M_SKY_UPPERCUT][B_DEF_ABILITY][SE_M_BATON_PASS][B_CURRENT_MOVE][!]
+
+#org @sText_StatSharply
+[SE_M_TEETER_DANCE][]
+
+#org @sText_StatHarshly
+[SE_M_TEETER_DANCE][]
+
+#org @sText_123Poof
+[PAUSE]Maldición[SE_M_SWORDS_DANCE][PAUSE]Maldición[SE_M_SWORDS_DANCE][PAUSE]Maldición...[PAUSE]Maldición...[PAUSE]Maldición...[PAUSE]Maldición[PLAY_SE]¡Frente a!
+
+#org @sText_GotAwaySafely
+[PLAY_SE]a nosotros[SE_M_STAT_INCREASE][SE_M_TEETER_DANCE][!]
+
+#org @sText_PkmnFledUsingIts
+[PLAY_SE]a[B_ATK_NAME_WITH_PREFIX]a[SE_M_ATTRACT]a[SE_M_SKY_UPPERCUT]a[B_LAST_ITEM][!]
+
+#org @sText_PkmnFledUsing
+[PLAY_SE]Nosotros[B_ATK_NAME_WITH_PREFIX]Eso es[SE_M_ATTRACT][B_ATK_ABILITY][!]
+
+#org @sText_WildPkmnFled
+[PLAY_SE]a nosotros[SE_M_ENCORE2][SE_DEOXYS_MOVE][!]
+
+#org @sText_WildFled
+[PLAY_SE]Vemos[B_LINK_OPPONENT1_NAME][!]
+
+#org @sText_TwoWildFled
+[PLAY_SE]Ver[B_LINK_OPPONENT1_NAME][B_LINK_OPPONENT2_NAME][!]
+
+#org @sText_EnemyAboutToSwitchPkmn
+[B_TRAINER1_CLASS]A[B_TRAINER1_NAME][SE_M_STAT_INCREASE][SE_M_EARTHQUAKE][SE_M_BATON_PASS][B_BUFF2]Ah.[SE_M_GRASSWHISTLE][B_PLAYER_NAME]¿también?
+
+#org @sText_PkmnWatchingCarefully
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][!]
+
+#org @sText_PkmnIsAngry
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][!]
+
+#org @sText_PkmnIsEating
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][!]
+
+#org @sText_WildPkmnAppeared
+[SE_M_ENCORE2][B_OPPONENT_MON1_NAME][?!]
+
+#org @sText_WildPkmnAppeared2
+[SE_M_ENCORE2][B_OPPONENT_MON1_NAME][?!]
+
+#org @sText_WildPkmnAppearedPause
+[SE_M_ENCORE2][B_OPPONENT_MON1_NAME][PAUSE][]
+
+#org @sText_TwoWildPkmnAppeared
+[SE_M_ENCORE2][B_OPPONENT_MON1_NAME]o[B_OPPONENT_MON2_NAME][!]
+
+#org @sText_Trainer1SentOutPkmn
+[B_TRAINER1_CLASS]A[B_TRAINER1_NAME][SE_M_STAT_INCREASE][B_OPPONENT_MON1_NAME][PAUSE]Venir
+
+#org @sText_Trainer1SentOutTwoPkmn
+[B_TRAINER1_CLASS]Ir a[B_TRAINER1_NAME][SE_M_STAT_INCREASE][B_OPPONENT_MON1_NAME]o[SE_M_ENCORE2][B_OPPONENT_MON2_NAME][PAUSE]Venir
+
+#org @sText_LinkTrainerSentOutPkmn
+[B_LINK_OPPONENT1_NAME]Mirar[SE_M_STAT_INCREASE][B_OPPONENT_MON1_NAME][!]
+
+#org @sText_LinkTrainerSentOutTwoPkmn
+[B_LINK_OPPONENT1_NAME]Mirar[SE_M_STAT_INCREASE][B_OPPONENT_MON1_NAME]o[SE_M_ENCORE2][B_OPPONENT_MON2_NAME][!]
+
+#org @sText_GoTwoPkmn
+[B_PLAYER_MON1_NAME]Oh[B_PLAYER_MON2_NAME]¡Vamos!
+
+#org @sText_WildPkmnPrefix
+[SE_M_ENCORE2][]
+
+#org @sText_FoePkmnPrefix
+[SE_M_BATON_PASS][]
+
+#org @sText_AttackerUsedX
+[B_ATK_NAME_WITH_PREFIX]Entonces[B_BUFF2][A]
+
+#org @sText_PlayerUsedItem
+[B_PLAYER_NAME]es también[B_LAST_ITEM][!]
+
+#org @sText_PokedudeUsedItem
+[SE_M_BATON_PASS]Hola[SE_M_BRICK_BREAK]A[B_LAST_ITEM][!]
+
+#org @sText_Trainer1UsedItem
+[B_TRAINER1_CLASS]A[B_TRAINER1_NAME][SE_M_ENCORE2]A[B_LAST_ITEM][!]
+
+#org @sText_ItDodgedBall2
+¡Me esquivaron! ¡Ella no podrá atrapar\neste!
+
+#org @sText_GotchaPkmnCaught
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][WAIT_SE][Ko][PLAY_BGM][Sasia]
+
+#org @sText_GotchaPkmnCaught2
+[B_OPPONENT_MON1_NAME]o[SE_M_SKY_UPPERCUT][WAIT_SE][Ko][PLAY_BGM][Sasia][PAUSE][Kwa]
+
+#org @sText_EnigmaBerry
+[SE_M_SWAGGER2][]
+
+#org @sText_PlayedThe
+[B_PLAYER_NAME]es también[SE_M_ENCORE2][B_LAST_ITEM][.]
+
+#org @gText_CongratsPkmnEvolved
+[SE_M_YAWN][B_COPY_VAR_1]Sí[SE_M_ENCORE2][SE_M_EARTHQUAKE][B_COPY_VAR_2]¡Sí![WAIT_SE][]
+
+#org @gText_PkmnStoppedEvolving
+[B_COPY_VAR_1]Sí[SE_M_ENCORE2][!]
+
+#org @gText_LinkStandby
+[PAUSE]Tonterías[SE_M_SAND_TOMB][]
+
+#org @gText_BattleMenu
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][Esuseso][CLEAR_TO][Tegihi][CLEAR_TO][Tegi]
+
+#org @gText_SafariZoneMenu
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][Esuseso][CLEAR_TO][Tegi][CLEAR_TO][Tegi]
+
+#org @gText_MoveInterfacePP
+[SE_M_DETECT][]
+
+#org @gText_MoveInterfaceDynamicColors
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][Esuseso]
+
+#org @gText_WhichMoveToForget_Unused
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW]¿Quieres que Esseson olvide sus movimientos?
+
+#org @gText_BattleYesNoChoice
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][Esuseso]
+
+#org @gText_BattleSwitchWhich
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][What?]
+
+#org @sText_UnusedColors
+[PALETTE]Oh[COLOR_HIGHLIGHT_SHADOW][Esuseso]
+
+#org @sText_RightArrow2
+[RIGHT_ARROW_2][]
+
+#org @sText_Plus
+[PLUS][Eh]
+
+#org @sText_MaxHP
+[FONT]o[FONT][]
+
+#org @sText_Attack
+[SE_M_MINIMIZE][]
+
+#org @gText_SafariBalls
+[HIGHLIGHT]Bien[SE_M_PETAL_DANCE][]
+
+#org @gText_HighlightRed_Left
+[HIGHLIGHT]Bien[SE_M_HYPER_BEAM2][]
+
+#org @gText_HighlightRed
+[HIGHLIGHT]Bien
+
+#org @gText_BattleTowerBan_Space
+
+
+#org @gText_BadEgg
+[SE_M_ENCORE2][]
+
+#org @gText_Win
+[HIGHLIGHT][]
+
+#org @gText_Loss
+[HIGHLIGHT][]
+
+#org @gText_Draw
+[HIGHLIGHT][]
+
+#org @gText_TimeBoard
+[SE_M_BRICK_BREAK][]
+
+#org @gText_ClearTime
+[SE_M_MOONLIGHT][]
+
+#org @gText_XMinYZSec
+[B_COPY_VAR_1]Sí.[B_COPY_VAR_2]Oh.[B_COPY_VAR_3][Eh.]
+
+#org @sText_Trainer1Fled
+[PLAY_SE]A[B_TRAINER1_CLASS]fu[B_TRAINER1_NAME][!]
+
+#org @sJPText_TatakauWaza
+ŒŒÉÂ
+
+#org @sJPText_Iryoku
+Iryoku
+
+#org @sJPText_Meichuu
+Meichuu
+
+#org @sText_100
+100
+
+#org @sText_Player
+[HIGHLIGHT]Buen jugador
+
+#org @sText_Sama
+[HIGHLIGHT][Isama]
+
+#org @sText_Hoenn
+[HIGHLIGHT]En Hoenn
+
+#org @sText_National
+[HIGHLIGHT]Izenkoku
+
+#org @sText_CertifiesPokedexComplete
+[HIGHLIGHT]Nos gustaría honrar al gran maestro que hizo que\nla Pokédex fuera tan exitosa.
+
+#org @sText_GameFreak
+[COLOR]Ai[HIGHLIGHT]Soy un fanático de los juegos
+
+#org @sText_Empty
+[COLOR]Ai[HIGHLIGHT]I
+
+#org @gText_MenuPokemon
+fuego
+
+#org @gText_NewGame
+[SE_M_WATERFALL][]
+
+#org @gTextJP_Options
+Cambia tu vida
+
+#org @gUnusedText_MysteryGift
+[SE_M_ACID_ARMOR][]
+
+#org @gText_MysteryGift
+[SE_M_ACID_ARMOR][]
+
+#org @gText_UpdatingSaveExternalData
+Espere un momento mientras preparo un informe\nbasado en los datos.
+
+#org @gText_SaveFileUpdated
+¡El informe ha sido publicado!
+
+#org @gText_SaveFileUpdatedSwapBackup
+¡El informe ha sido publicado! No puedo\nmantenerme al día con todos los informes\pque tiene que escribir, ¡así que por favor\ndame un cartucho de respaldo! Para obtener\pmás información, comuníquese con el Centro\nde servicio de Nintendo.
+
+#org @gText_FailedUpdateSwapBackup
+¡El informe tiene muchos detalles! ¡Utilice\nun cartucho de respaldo! Para obtener más\pinformación, comuníquese con el Centro\nde servicio de Nintendo.
+
+#org @gTextJP_InternalBatteryHasRunDry
+No habrá ningún evento que le indique al\nrobot que ya no se está moviendo, pero\ppodrás continuar jugando.
+
+#org @gText_PlayerUnused
+Shujinko
+
+#org @gText_PokedexUnused
+enciclopedia pokemon
+
+#org @gText_BadgesUnused
+insignias que tienes
+
+#org @gText_AButton
+botón
+
+#org @gText_BButton
+botón
+
+#org @gText_RButton
+botón
+
+#org @gText_LButton
+botón
+
+#org @gText_ControlPad
+botón
+
+#org @gText_LButtonRButton
+botón botón
+
+#org @gText_PickOk
+[DPAD_UPDOWN]Koerabu[A_BUTTON]Keitei
+
+#org @gText_ABUTTONNext
+[A_BUTTON][]
+
+#org @gText_ABUTTONExit
+[A_BUTTON][]
+
+#org @gText_PokemonHabitats
+[COLOR]aso[SHADOW]Estás en problemas[SE_M_REFLECT][]
+
+#org @gText_DexCategory_GrasslandPkmn
+[SE_M_ENCORE2]Hola
+
+#org @gText_DexCategory_ForestPkmn
+[SE_M_STAT_INCREASE]h
+
+#org @gText_DexCategory_WatersEdgePkmn
+[SE_M_BATON_PASS]Hola
+
+#org @gText_DexCategory_SeaPkmn
+[SE_M_TRI_ATTACK]h
+
+#org @gText_DexCategory_CavePkmn
+[SE_M_BATON_PASS][]
+
+#org @gText_DexCategory_MountainPkmn
+[SE_M_DIVE]Hola
+
+#org @gText_DexCategory_RoughTerrainPkmn
+[SE_M_DIVE]h
+
+#org @gText_DexCategory_UrbanPkmn
+[SE_M_DIVE]Hola
+
+#org @gText_DexCategory_RarePkmn
+[SE_M_BATON_PASS][]
+
+#org @gText_Search
+[COLOR]aso[SHADOW]Usar
+
+#org @gText_NumericalMode
+[SE_M_SKETCH][]
+
+#org @gText_PokedexOther
+[COLOR]aso[SHADOW]Usar
+
+#org @gTextJP_HowToUsePokedex
+Cómo utilizar la enciclopedia
+
+#org @gText_ClosePokedex
+[SE_M_BRICK_BREAK]Hola
+
+#org @gText_TypeMode
+[SE_M_BRICK_BREAK][]
+
+#org @gText_LightestMode
+[SE_M_CHARGE][]
+
+#org @gText_SmallestMode
+[SE_M_CHARGE][]
+
+#org @gText_PokemonList
+[COLOR]aso[SHADOW]Estás en problemas[SE_M_REFLECT][]
+
+#org @gText_PokemonListNoColor
+[SE_M_REFLECT][]
+
+#org @gText_PokedexPokemon
+fuego
+
+#org @gText_PokedexQuotationMark
+"
+
+#org @gText_Cry
+[START_BUTTON][Eh]
+
+#org @gText_Next
+[A_BUTTON][]
+
+#org @gText_AreaUnknown
+[SE_M_SWAGGER2][]
+
+#org @gText_PokedexNo
+[NO][]
+
+#org @gText_HOFDexRating
+[B_COPY_VAR_1]! El pokemon que atrapé[B_COPY_VAR_2]! ¡Columbine es la Pokédex Hyoka de una madeja! ¿Cuál es aguileña?
+
+#org @gText_HOFDexSaving
+¡Estoy escribiendo el informe hasta ahora!\nPor favor no cortes las judías verdes.
+
+#org @gText_BirchInTrouble
+[HIGHLIGHT]Yo asi[COLOR]¡Ah, la madeja de aguileña está en apuros! ¡Enviemos\nun Pokémon para ayudarlo!
+
+#org @gText_ConfirmStarterChoice
+[HIGHLIGHT]Lo es[COLOR]Ah, ¿quieres este Pokémon?
+
+#org @gSaveStatName_Pokedex
+fuego
+
+#org @gText_FlyToWhere
+¿Adónde quieres volar?
+
+#org @gMenuText_Confirm
+ÍÛÁ
+
+#org @gText_Lv
+[LV_2][]
+
+#org @gText_NumberClear01
+[NO]kú[CLEAR]chía
+
+#org @gText_Plus
+[PLUS][Eh]
+
+#org @gText_Escape3
+[ESCAPE][]
+
+#org @gText_IDNumber2
+[ID][ki][NO][ku]
+
+#org @gText_PokeSum_PP
+[PP][?]
+
+#org @gText_MenuPokedex
+fuego
+
+#org @gText_MenuPlayer
+[B_BUFF2][A]
+
+#org @gText_MenuSafariStats
+[B_COPY_VAR_1]Sí[B_COPY_VAR_2]Sí[SE_M_CHARM][B_COPY_VAR_3]Sí
+
+#org @gText_TimesStrVar1
+[B_COPY_VAR_1][]
+
+#org @gText_Coins
+[B_COPY_VAR_1][]
+
+#org @gText_PokeBalls2
+fuego
+
+#org @gText_KeyItems2
+[SE_M_ACID_ARMOR][]
+
+#org @gText_DepositItem
+[SE_M_CHARGE][]
+
+#org @gText_CloseBag
+[SE_M_BRICK_BREAK][]
+
+#org @gText_Var1IsSelected
+[B_COPY_VAR_1]Sí.
+
+#org @gText_DepositHowManyStrVars1
+[SE_M_STAT_INCREASE][SE_M_HAIL][B_COPY_VAR_1]¿Sí?
+
+#org @gText_CoinCase
+[SE_M_YAWN][B_COPY_VAR_1][PAUSE_UNTIL_PRESS][]
+
+#org @gText_BootedUpTM
+¿Qué pasó con la máquina?
+
+#org @gText_BootedUpHM
+¿Qué pasó con la máquina Hiden?
+
+#org @gText_TMHMContainedVar1
+[B_COPY_VAR_1]¡Fueron regañados![B_COPY_VAR_1]¿Quieres que tu Pokémon aprenda el significado?
+
+#org @gText_PlayerUsedVar2
+[B_BUFF2]ah[SE_M_ENCORE2][B_COPY_VAR_2]Oh.[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PowderQty
+[SE_M_MOONLIGHT][SE_M_HYPER_BEAM2][B_COPY_VAR_1][PAUSE_UNTIL_PRESS][]
+
+#org @gText_PokeFluteAwakenedMon
+[SE_M_BATON_PASS]Hola[SE_M_BRICK_BREAK][SE_M_ENCORE2]Hola.[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_TMCase
+[SE_M_SWIFT][]
+
+#org @gText_FontSmall
+[FONT][?]
+
+#org @gText_FontNormal
+[FONT]Kai
+
+#org @gText_EmptySpace
+
+
+#org @gText_BerryPouch
+[SE_M_ACID_ARMOR][]
+
+#org @gText_Var1IsItThatllBeVar2
+[B_COPY_VAR_1]¡Genial![B_COPY_VAR_2]Oh[SE_M_FAINT_ATTACK]¿Pero está bien?
+
+#org @gText_YouWantedVar1ThatllBeVar2
+[B_COPY_VAR_1]¡Genial![B_COPY_VAR_2]Oh,[SE_M_FAINT_ATTACK]¿Pero tienes alguna pregunta?
+
+#org @gText_ThankYouIllSendItHome
+¡Muchas gracias! ¡Lo guardaré en mi computadora!
+
+#org @gText_ThanksIllSendItHome
+¡Muchas gracias! ¡Por favor envíalo a tu\ncomputadora!
+
+#org @gText_SpaceForVar1Full
+[B_COPY_VAR_1]El contenedor está lleno.[PAUSE_UNTIL_PRESS][]
+
+#org @gText_CanIHelpWithAnythingElse
+Además de ese, ¿qué otro poder puedes tener?
+
+#org @gText_ThrowInPremierBall
+[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PokedollarVar1
+[B_COPY_VAR_1][]
+
+#org @gText_SendOut
+[SE_M_SNORE][]
+
+#org @gText_Moves
+Técnicas útiles
+
+#org @gText_NoEntry
+[SE_M_BARRIER][]
+
+#org @gText_PauseUntilPress
+[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnCantSwitchOut
+[B_COPY_VAR_1]Sí[SE_M_STAT_INCREASE][SE_M_BATON_PASS][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnAlreadyInBattle
+[B_COPY_VAR_1]Sí[SE_M_SKY_UPPERCUT][SE_M_DIVE][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnNotHolding
+[B_COPY_VAR_1]Sí[SE_M_STAT_INCREASE][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_ReceivedItemFromPkmn
+[SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_2][SE_M_SPIT_UP][B_COPY_VAR_1]Sí.[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_SwitchedPkmnItem
+[SE_M_BATON_PASS][B_COPY_VAR_2][SE_M_SKY_UPPERCUT][SE_M_DIVE][SE_M_ENCORE2][SE_M_ATTRACT2][SE_M_BATON_PASS][B_COPY_VAR_1][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnLearnedMove3
+[B_COPY_VAR_1]Sí[B_COPY_VAR_2]¡Puaj!
+
+#org @gText_12PoofForgotMove
+[SE_M_SWORDS_DANCE][PAUSE]Maldición[SE_M_SWORDS_DANCE][PAUSE]Maldición...[PAUSE]Maldición...[PAUSE]Maldición...[PAUSE]Maldición[PLAY_SE]¡Frente a![B_COPY_VAR_1]Sí[SE_M_STAT_INCREASE][SE_M_HAIL][SE_M_BATON_PASS][B_COPY_VAR_2]Sí. . . .[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnAlreadyKnows
+[B_COPY_VAR_1]Sí[SE_M_TEETER_DANCE][B_COPY_VAR_2]Sí.[PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnHPRestoredByVar2
+[B_COPY_VAR_1][SE_M_SKY_UPPERCUT][SE_M_DETECT][SE_M_SKY_UPPERCUT][SE_M_TEETER_DANCE][B_COPY_VAR_2][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnWokeUp2
+[B_COPY_VAR_1]Sí[SE_M_BATON_PASS][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnRegainhedHealth
+[B_COPY_VAR_1]¡Recuperé mi salud![PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnBecameHealthy
+[B_COPY_VAR_1]Sí[SE_M_BATON_PASS][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_MovesPPIncreased
+[B_COPY_VAR_1][SE_M_SKY_UPPERCUT][SE_M_DETECT][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_PkmnBaseVar2StatIncreased
+[B_COPY_VAR_1][SE_M_SKY_UPPERCUT][SE_M_BATON_PASS][B_COPY_VAR_2][SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT][PAUSE_UNTIL_PRESS][ke]
+
+#org @gText_NotAble
+[SE_M_CHARGE][]
+
+#org @gText_DiveUnderwater
+Suichuni Moguru
+
+#org @gText_ItemEffect_SpAtk_Unused
+ÑËÂ
+
+#org @gText_ItemEffect_SpDef_Unused
+ÑËÂ
+
+#org @gText_TurnOff
+[SE_M_REFLECT][]
+
+#org @gText_Decoration
+Luchando
+
+#org @gText_ItemStorage
+[SE_M_SWIFT][]
+
+#org @gText_DepositItem2
+[SE_M_CHARGE][]
+
+#org @gText_WithdrawItem2
+[SE_M_WATERFALL][]
+
+#org @gText_TossItem
+Tirar artículos
+
+#org @gText_ThrowAwayItemsInPC
+Deseche los elementos almacenados en su\ncomputadora.
+
+#org @gText_WithdrewQuantItem
+[SE_M_HAIL][B_COPY_VAR_2][B_COPY_VAR_1]Lo lamento.
+
+#org @gText_Participate
+unirse
+
+#org @gText_SawIt
+Sierra
+
+#org @gText_NotYet
+desde ahora
+
+#org @gText_Info4
+explicación
+
+#org @gText_SingleBattle
+[SE_M_BRICK_BREAK][]
+
+#org @gText_DoubleBattle
+[SE_M_BRICK_BREAK][]
+
+#org @gText_MultiBattle
+[SE_M_PETAL_DANCE][]
+
+#org @gText_FreshWater_200
+[SE_M_SOLAR_BEAM][CLEAR_TO]Hizo[FONT][]
+
+#org @gText_SodaPop_300
+[SE_M_SWAGGER2][CLEAR_TO]Hizo[FONT][?]
+
+#org @gText_Lemonade_350
+[CLEAR_TO][teki][FONT][ka]
+
+#org @gText_50Coins_1000
+[FONT]o[SE_M_MIST][CLEAR_TO][]
+
+#org @gText_500Coins_10000
+[FONT]o[SE_M_MIST][CLEAR_TO][]
+
+#org @gText_RedShard
+[SE_M_SNORE][]
+
+#org @gText_YellowShard
+[SE_M_WATERFALL][]
+
+#org @gText_BlueShard
+[SE_M_BRICK_BREAK][]
+
+#org @gText_GreenShard
+[SE_M_REFLECT][]
+
+#org @gText_Tm13_4000Coins
+[CLEAR_TO][tebu][FONT]el[SE_M_MIST][]
+
+#org @gText_Tm23_3500Coins
+[CLEAR_TO][tebu][FONT]el[SE_M_MIST][]
+
+#org @gText_Tm24_4000Coins
+[CLEAR_TO][tebu][FONT]el[SE_M_MIST][]
+
+#org @gText_Tm30_4500Coins
+[CLEAR_TO][tebu][FONT]el[SE_M_MIST][]
+
+#org @gText_Tm35_4000Coins
+[CLEAR_TO][tebu][FONT]el[SE_M_MIST][]
+
+#org @gText_KeyItems
+[SE_M_ACID_ARMOR][]
+
+#org @gText_PokeBalls
+fuego
+
+#org @gText_TMsAndHMs
+[SE_M_SKY_UPPERCUT][]
+
+#org @gText_SomeoneSPc
+[SE_M_CHARM][]
+
+#org @gText_BillSPc
+[SE_M_CHARM][]
+
+#org @gText_SPc
+[B_BUFF2][A][SE_M_SKY_UPPERCUT][]
+
+#org @gText_LogOff
+[SE_M_PSYBEAM2][]
+
+#org @gText_ProfOakSPc
+[SE_M_SKY_UPPERCUT][]
+
+#org @gText_FreshWater
+[SE_M_SOLAR_BEAM][]
+
+#org @gText_SodaPop
+[SE_M_SWAGGER2][]
+
+#org @gText_Bicycle_Price
+[CLEAR_TO][tebe][FONT][ka]
+
+#org @gText_NoThanks
+[SE_M_BARRIER][]
+
+#org @gText_Abra_180Coins
+[CLEAR_TO]teo[FONT]o[SE_M_MIST][]
+
+#org @gText_Clefairy_500Coins
+[CLEAR_TO]teo[FONT]o[SE_M_MIST][]
+
+#org @gText_Dratini_2800Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_MIST][]
+
+#org @gText_Scyther_5500Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_MIST][]
+
+#org @gText_Porygon_9999Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_SELF_DESTRUCT][]
+
+#org @gText_Abra_120Coins
+[CLEAR_TO]teo[FONT]o[SE_M_MIST][]
+
+#org @gText_Clefairy_750Coins
+[CLEAR_TO]teo[FONT]o[SE_M_MIST][]
+
+#org @gText_Pinsir_2500Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_MIST][]
+
+#org @gText_Dratini_4600Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_MIST][]
+
+#org @gText_Porygon_6500Coins
+[CLEAR_TO][tepa][FONT]el[SE_M_MIST][]
+
+#org @gText_NoThanks_2
+[SE_M_BARRIER][]
+
+#org @gText_HelixFossil
+[SE_M_REVERSAL][]
+
+#org @gText_DomeFossil
+[SE_M_BRICK_BREAK][]
+
+#org @gText_OldAmber
+[SE_M_SNORE][]
+
+#org @gText_TradeCenter
+[SE_M_BRICK_BREAK][]
+
+#org @gText_ItemsPocket
+[SE_M_CHARM][]
+
+#org @gText_PokeBallsPocket
+[SE_M_CHARM][]
+
+#org @gText_TmCase
+[SE_M_SWIFT][]
+
+#org @gText_BerryPouch_2
+[SE_M_ACID_ARMOR][]
+
+#org @gText_OneIsland
+[SE_M_BRICK_BREAK][]
+
+#org @gText_TwoIsland
+[SE_M_BARRIER][]
+
+#org @gText_ThreeIsland
+[SE_M_BRICK_BREAK][]
+
+#org @gText_FourIsland
+[SE_M_MOONLIGHT][]
+
+#org @gText_FiveIsland
+[SE_M_BRICK_BREAK][]
+
+#org @gText_SixIsland
+[SE_M_REVERSAL][]
+
+#org @gText_SevenIsland
+[SE_M_REFLECT][]
+
+#org @gText_BerryCrush
+[SE_M_ACID_ARMOR][]
+
+#org @gText_ListenToExplanation
+Escucha los susurros
+
+#org @gText_PokemonJump
+[SE_M_REFLECT][]
+
+#org @gText_2Tinymushrooms
+[SE_M_BIND][]
+
+#org @gText_SeviiIslands
+[SE_M_PETAL_DANCE][]
+
+#org @gText_NavelRock
+[SE_M_SKETCH][]
+
+#org @gText_BirthIsland
+[SE_M_SOLAR_BEAM][]
+
+#org @gText_Charcoal_1000Coins
+[CLEAR_TO]tte[FONT][SE_M_MIST][]
+
+#org @gText_SmokeBall_800Coins
+[SE_M_BRICK_BREAK][CLEAR_TO]tuve que[FONT]o[SE_M_MIST][]
+
+#org @gText_BecomeLeader
+[SE_M_BRICK_BREAK][]
+
+#org @gText_JoinGroup
+[SE_M_REFLECT][]
+
+#org @gText_99TimesPlus
+Kaijou
+
+#org @gText_1MinutePlus
+Castigo
+
+#org @gText_SpaceSeconds
+virar
+
+#org @gText_SpaceTimes
+mariscos
+
+#org @gText_BigGuy
+[SE_M_ATTRACT][]
+
+#org @gText_BigGirl
+[SE_M_ATTRACT][]
+
+#org @gText_NowOn
+[SE_M_HAIL][]
+
+#org @gText_DirectCorner
+[SE_M_CHARGE][]
+
+#org @gText_UnionRoom
+[SE_M_REFLECT][]
+
+#org @gText_Energypowder_50
+[CLEAR_TO]teya[FONT][?]
+
+#org @gText_EnergyRoot_80
+[SE_M_ACID_ARMOR][CLEAR_TO]teya[FONT][?]
+
+#org @gText_HealPowder_50
+[SE_M_SKETCH][CLEAR_TO]teya[FONT][?]
+
+#org @gText_Protein_1000
+[CLEAR_TO][Tena][FONT][?]
+
+#org @gText_Iron_1000
+[CLEAR_TO][Tena][FONT][?]
+
+#org @gText_Carbos_1000
+[CLEAR_TO][Tena][FONT][?]
+
+#org @gText_Calcium_1000
+[CLEAR_TO][Tena][FONT][?]
+
+#org @gText_Zinc_1000
+[CLEAR_TO][Tena][FONT][?]
+
+#org @gString_BattleRecords_ColumnHeaders
+[CLEAR_TO][Tee][CLEAR_TO][Teta]
+
+#org @gFameCheckerText_ClearTextbox
+[SE_POKE_JUMP_SUCCESS][]
+
+#org @gText_ExitUnused
+detener
+
+#org @gText_FourEllipsesExclamation
+……………………!
+
+#org @gPCText_Scenery1
+[SE_M_ACID_ARMOR][]
+
+#org @gPCText_Scenery2
+[SE_M_ACID_ARMOR][]
+
+#org @gPCText_Scenery3
+[SE_M_ACID_ARMOR][]
+
+#org @gPCText_Pokecenter
+fuego
+
+#org @gText_PC_WhatWouldYouLikeToDo
+¿Qué vas a hacer?
+
+#org @gText_WithdrawPokemon
+[SE_M_WATERFALL]Hola
+
+#org @gText_DepositPokemon
+[SE_M_CHARGE]Hola
+
+#org @gText_MovePokemon
+[SE_M_BRICK_BREAK]Hola
+
+#org @gText_MoveItems
+[SE_M_BRICK_BREAK][]
+
+#org @gText_WithFourPhrases
+en dos palabras
+
+#org @gText_YourProfile
+[SE_M_YAWN][]
+
+#org @gText_TheAnswer
+[SE_M_BATON_PASS][]
+
+#org @gText_TheMailSalutation
+Saludos para poner en una postal.
+
+#org @gText_CombineTwoWordsOrPhrases2
+Juntando dos palabras
+
+#org @gText_ToTeachHerAGoodSaying
+¡Déjame enseñarte algunas buenas palabras!
+
+#org @gText_PleaseEnterPhraseOrWord
+¡Por favor ingrese algunas palabras!
+
+#org @gText_EntireTextCantBeDeleted
+¡No puedes tirar todas las palabras!
+
+#org @gText_OnlyOnePhrase
+¡Solo puedes cambiar una palabra!
+
+#org @gText_OriginalSongWillBeUsed
+¡Devolveré la canción a su forma original!
+
+#org @gText_ThatsTrendyAlready
+¡Ya está hecho!
+
+#org @gText_CombineTwoWordsOrPhrases3
+¡Por favor, junta las dos palabras!
+
+#org @gText_TheEditedWords
+Las palabras extrañas son ciertas
+
+#org @gText_WillNotBeSaved
+¿Está bien?
+
+#org @gText_GoodSaying
+buenas palabras
+
+#org @GiddyText_SoPretty
+Es hermoso, ¿no?
+
+#org @GiddyText_SoDarling
+Es lindo, ¿no?
+
+#org @GiddyText_SoRelaxed
+Es relajante, ¿no?
+
+#org @GiddyText_SoSunny
+Hace calor, ¿no?
+
+#org @GiddyText_SoDesirable
+Te admiro, ¿verdad?
+
+#org @GiddyText_SoExciting
+Mi corazón late con fuerza, ¿no?
+
+#org @GiddyText_SoAmusing
+Eso es interesante, ¿no?
+
+#org @GiddyText_SoMagical
+Eso es extraño, ¿no?
+
+#org @GiddyText_Is
+Y
+
+#org @GiddyText_DontYouAgree
+¿No lo crees?
+
+#org @GiddyText_ISoWantToGoOnAVacation
+¿No sabes dónde hay un buen lugar al que\nme gustaría ir siempre?
+
+#org @GiddyText_IBoughtCrayonsWith120Colors
+Crayones Shokuno, ¿verdad?
+
+#org @GiddyText_WouldntItBeNiceIfWeCouldFloat
+Me pregunto si puedo sentarme encima de\nuna pompa de jabón y volar.
+
+#org @GiddyText_WhenYouWriteOnASandyBeach
+Es muy triste que los rasguños que escribí\nen mi cara desaparezcan tan rápido.
+
+#org @GiddyText_WhatsTheBottomOfTheSeaLike
+Me pregunto qué estará pasando allí en\nel mar, sólo echa un vistazo.
+
+#org @GiddyText_WhenYouSeeTheSettingSunDoesIt
+¿No te dan ganas de volver a mi casa cuando\nves una escena tan hermosa?
+
+#org @GiddyText_LyingBackInTheGreenGrass
+Es agradable tumbarse sobre la hierba verde.
+
+#org @GiddyText_SecretBasesAreSoWonderful
+Himitsukichi es genial! ¿No te sientes\nemocionado?
+
+#org @gText_PokemonLeague
+liga pokemon
+
+#org @gText_PokemonCenter
+[SE_M_REFLECT][]
+
+#org @gText_GetsAPokeBlockQuestion
+¿Quieres darme un poco de Pollock?
+
+#org @gText_Coolness
+Deportividad
+
+#org @gText_Beauty3
+belleza
+
+#org @gText_Cuteness
+monería
+
+#org @gText_Smartness
+inteligencia
+
+#org @gText_Toughness
+ŒËÏÎ
+
+#org @gText_WasEnhanced
+¡Necesitó un poco de pulido!
+
+#org @gText_NothingChanged
+¡Nada ha cambiado!
+
+#org @gText_WontEatAnymore
+Es como si ya no pudiera comer esto...
+
+#org @gText_GamePlayCannotBeContinued
+[COLOR]No puedo continuar la aventura como estoy. Volver\nal título
+
+#org @gText_CheckCompleted
+¡Kensaga ha llegado! Escribiré el informe\nnuevamente. Por favor espera un momento.
+
+#org @gText_SaveCompleteGameCannotContinue
+[COLOR]No puedo continuar mi aventura tal como está.\nVolver al título.
+
+#org @gText_Ferry
+Renrakusen
+
+#org @gText_SecretBase
+Base secreta
+
+#org @gText_MoveOkBack
+[DPAD_ANY][SE_M_BRICK_BREAK][A_BUTTON][SE_M_MINIMIZE][B_BUTTON][]
+
+#org @gText_RegionMap_Space
+
+
+#org @gText_RegionMap_AButtonGuide
+[A_BUTTON][]
+
+#org @gText_RegionMap_AButtonCancel
+[A_BUTTON][]
+
+#org @gText_RegionMap_AButtonCancel2
+[A_BUTTON][]
+
+#org @gText_RegionMap_AButtonSwitch
+[A_BUTTON][]
+
+#org @gText_RegionMap_AButtonOK
+[A_BUTTON][]
+
+#org @gText_RegionMap_DPadMove
+[DPAD_ANY][]
+
+#org @gText_RegionMap_UpDownPick
+[DPAD_UPDOWN][]
+
+#org @gText_RegionMap_NoData
+[SE_M_EARTHQUAKE][]
+
+#org @gText_PokeSum_FatefulEncounterHatched
+[SE_BALL_CLICK][SE_M_STAT_INCREASE][SE_M_DIVE][SE_M_TRI_ATTACK][SE_M_YAWN][SE_M_HYPER_BEAM2][SE_M_STAT_INCREASE][LV_2]Oh.
+
+#org @gText_PokeSum_FatefulEncounterHatched_BoldGentleGrammar
+[SE_BALL_CLICK][SE_M_STAT_INCREASE][SE_M_DIVE][SE_M_TRI_ATTACK][SE_M_YAWN][SE_M_HYPER_BEAM2][SE_M_STAT_INCREASE][LV_2]Oh.
+
+#org @gText_PokeSum_ApparentlyFatefulEncounterHatched
+[SE_BALL_CLICK][SE_M_TEETER_DANCE][SE_M_STAT_INCREASE][SE_M_TRI_ATTACK][SE_M_GRASSWHISTLE][SE_M_YAWN][SE_M_STAT_INCREASE][LV_2]Oh.
+
+#org @gText_PokeSum_ApparentlyFatefulEncounterHatched_BoldGentleGrammar
+[SE_BALL_CLICK][SE_M_TEETER_DANCE][SE_M_STAT_INCREASE][SE_M_TRI_ATTACK][SE_M_GRASSWHISTLE][SE_M_YAWN][SE_M_STAT_INCREASE][LV_2]Oh.
+
+#org @gText_PokeSum_ATrade
+[SE_M_TRI_ATTACK][]
+
+#org @gText_PokeSum_PageName_PokemonInfo
+[SE_M_REFLECT][]
+
+#org @gText_PokeSum_PageName_PokemonSkills
+[SE_M_REFLECT][]
+
+#org @gText_PokeSum_PageName_KnownMoves
+[SE_M_REFLECT][]
+
+#org @gText_PokeSum_NoData
+[SE_M_EARTHQUAKE][]
+
+#org @gText_PokeSum_Controls_Cancel
+[A_BUTTON][]
+
+#org @gText_PokeSum_Controls_Page
+[DPAD_LEFTRIGHT][]
+
+#org @gText_PokeSum_Controls_Pick
+[DPAD_UPDOWN][]
+
+#org @gText_TrainerCardName
+[SE_M_HYPER_BEAM2][]
+
+#org @gText_TrainerCardPokedex
+fuego
+
+#org @gText_Points
+Y+
+
+#org @gText_LinkBattles
+[SE_M_MINIMIZE][]
+
+#org @gText_WinLossRatio
+[CLEAR_TO][Tee]
+
+#org @gText_PokemonTrades
+[SE_M_REFLECT][]
+
+#org @gText_UnionRoomTradesBattles
+[SE_M_REFLECT][SE_M_CHARM][]
+
+#org @gText_BerryCrushes
+[SE_M_ACID_ARMOR][]
+
+#org @gText_TextSpeed
+[SE_M_CHARGE][]
+
+#org @gText_BattleScene
+[SE_M_BRICK_BREAK][]
+
+#org @gText_BattleStyle
+[SE_M_BRICK_BREAK][]
+
+#org @gText_ButtonMode
+[SE_M_REFLECT][]
+
+#org @gText_ButtonTypeLEqualsA
+Ud.
+
+#org @gText_ResetRTCConfirmCancel
+se restablecerá. Haga clic para cancelar.
+
+#org @gText_PresentTime
+Genzai no tiene tiempo de juego
+
+#org @gText_PreviousTime
+Nada de juegos
+
+#org @gText_PleaseResetTime
+Por favor dame algo de tiempo
+
+#org @gText_ClockHasBeenReset
+¡He estado esperando por un tiempo! Estoy\nescribiendo un informe. Espere por favor.
+
+#org @gText_SaveCompleted
+¡Escribí el informe!
+
+#org @gText_SaveFailed
+He completado el informe...
+
+#org @gText_NoSaveFileCantSetTime
+Como no hay ningún informe, ¡no puedo hacer\nninguna predicción por el momento!
+
+#org @gText_InGameClockUsable
+¡Ahora puedes usar el sistema sin juego!
+
+#org @gText_QuestLog_UsedTheItem
+[B_BUFF2]ah[SE_M_ENCORE2][B_COPY_VAR_1][Yes.]
+
+#org @gText_QuestLog_TradedMon1ForPersonsMon2
+[SE_M_ENCORE2][B_COPY_VAR_3]Sí[SE_M_DIVE][SE_M_BATON_PASS][B_COPY_VAR_1][SE_M_SKY_UPPERCUT][B_COPY_VAR_2]Sí.
+
+#org @gText_QuestLog_SwitchedMonsWithinBox
+[SE_M_ENCORE2][SE_M_ENCORE2]Sí[SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_JustOne
+[SE_M_STAT_INCREASE][]
+
+#org @gText_QuestLog_Num
+imagen
+
+#org @gText_QuestLog_DefeatedWildMons
+[SE_M_ENCORE2]Sí[SE_M_ENCORE2]Hola[SE_M_REFLECT]ah[SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_CaughtWildMons
+[SE_M_HAIL][SE_M_CHARM][SE_M_DIVE][SE_M_TRI_ATTACK][SE_M_SWORDS_DANCE][SE_M_REFLECT][SE_M_ATTRACT][SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_DefeatedWildMonAndCaughtWildMon
+[SE_M_ENCORE2][SE_M_BATON_PASS]Hola[SE_M_ENCORE2][SE_M_STAT_INCREASE][SE_M_BATON_PASS][SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_DefeatedWildMonsAndCaughtWildMon
+[SE_M_ENCORE2]Sí[SE_M_REFLECT]ah[SE_M_ENCORE2][SE_M_STAT_INCREASE][SE_M_BATON_PASS][SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_DefeatedWildMonsAndCaughtWildMons
+[SE_M_ENCORE2][SE_M_REFLECT][SE_M_ENCORE2][SE_M_STAT_INCREASE][SE_M_ATTRACT][SE_M_DIVE][SE_BALL_CLICK][.]
+
+#org @gText_QuestLog_GaveMonHeldItem
+[SE_M_BATON_PASS][B_COPY_VAR_1]Sí[SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_2]Sí.
+
+#org @gText_QuestLog_GaveMonHeldItem2
+[B_BUFF2]ah[SE_M_BATON_PASS][B_COPY_VAR_1]Sí[SE_M_ENCORE2][SE_M_BATON_PASS][B_COPY_VAR_2]Sí.
+
+#org @gText_QuestLog_UsedDive
+[B_COPY_VAR_1]¡Sí, usé un truco oculto para sumergirme en un lugar muy profundo!
+
+#org @gText_QuestLog_UsedDigInLocation
+[B_COPY_VAR_1][SE_M_ENCORE2][SE_M_PSYBEAM2][SE_M_EARTHQUAKE][SE_M_BATON_PASS][B_COPY_VAR_2][]
+
+#org @gText_QuestLog_UsedTeleportToLocation
+[B_COPY_VAR_1][SE_M_ENCORE2][SE_M_SWORDS_DANCE][SE_M_BATON_PASS][SE_M_TEETER_DANCE][SE_M_EARTHQUAKE][B_COPY_VAR_2][B_COPY_VAR_3]Sí.
+
+#org @gText_QuestLog_LeftTownsLocationForNextDestination
+[B_BUFF2]A[SE_M_STAT_INCREASE][B_COPY_VAR_1]I[B_COPY_VAR_2]Ud.[SE_M_YAWN][SE_M_BATON_PASS][.]
+
+#org @gText_QuestLog_LeftOaksLab
+[B_BUFF2]ah[SE_M_STAT_INCREASE][SE_M_SKY_UPPERCUT]Hola[SE_M_SOLAR_BEAM][.]
+
+#org @gText_QuestLog_TookOnGymLeadersMonWithMonAndWon
+[SE_M_SAND_TOMB][SE_M_DIVE][SE_BALL_CLICK][SE_M_SWIFT]ah[SE_M_SKY_UPPERCUT]Sí[SE_M_ATTRACT2]Oh[SE_M_ENCORE2][SE_M_DIVE]¡Eh!
+
+#org @gText_QuestLog_TookOnTrainersMonWithMonAndWon
+[SE_M_DIVE][SE_BALL_CLICK][SE_M_SWORDS_DANCE][SE_M_SAND_TOMB]ah[SE_M_SKY_UPPERCUT]Sí[SE_M_ATTRACT2]Oh[SE_M_ENCORE2][SE_M_DIVE]¡Eh!
+
+#org @gText_QuestLog_ViridianForest
+[SE_M_REFLECT][]
+
+#org @gText_QuestLog_BikeShop
+[SE_M_BRICK_BREAK][]
+
+#org @gText_QuestLog_BillsHouse
+[SE_M_CHARM][]
+
+#org @gText_QuestLog_DayCare
+[SE_M_ACID_ARMOR][]
+
+#org @gText_QuestLog_UndergroundPath
+[SE_M_SNORE][]
+
+#org @gText_QuestLog_DiglettsCave
+[SE_M_CHARM][]
+
+#org @gText_QuestLog_RockTunnel
+[SE_M_MINIMIZE][]
+
+#org @gText_QuestLog_PowerPlant
+[SE_M_MOONLIGHT][]
+
+#org @gText_QuestLog_PokemonTower
+[SE_M_REFLECT][]
+
+#org @gText_QuestLog_VolunteerHouse
+[SE_M_MOONLIGHT][]
+
+#org @gText_QuestLog_CeladonMansion
+[SE_M_REFLECT][]
+
+#org @gText_QuestLog_RocketHideout
+[SE_M_CHARGE][]
+
+#org @gText_QuestLog_SafariZone
+[SE_M_PETAL_DANCE][]
+
+#org @gText_QuestLog_WardensHome
+[SE_M_CHARM][]
+
+#org @gText_QuestLog_FightingDojo
+[SE_M_PSYBEAM2][]
+
+#org @gText_QuestLog_SeafoamIslands
+[SE_M_SWIFT][]
+
+#org @gText_QuestLog_PokemonMansion
+[SE_M_REFLECT][]
+
+#org @gText_QuestLog_VictoryRoad
+[SE_M_ACID_ARMOR][]
+
+#org @gText_QuestLog_PokemonLeague
+[SE_M_REFLECT][]
+
+#org @gText_QuestLog_CeruleanCave
+[SE_M_REFLECT][]
+
+#org @gText_LevelUp_MaxHP
+[FONT]¿eh?[FONT]Kai
+
+#org @gText_LevelUp_Plus
+[FONT]o[PLUS]o[FONT][?]
+
+#org @gText_Counting_1
+1,
+
+#org @gText_MonForgotMove
+[SE_BALL_CLICK]Ah.
+
+#org @gText_MonLearnedTMHM
+[SE_BALL_CLICK]¡Ah!
+
+#org @gText_PlayersXPokemon
+[SE_BALL_CLICK]no ahime
+
+#org @gText_PlayersXPokmonDoesNotExist
+[SE_BALL_CLICK]no está disponible
+
+#org @gText_Pokemon2
+fuego
+
+#org @gText_YaySmileEmoji
+[EMOJI_BIGSMILE][]
+
+#org @gText_ThankYou
+[SE_M_MINIMIZE][]
+
+#org @gText_Diploma_GameFreak
+[SE_M_BRICK_BREAK][]
+
+#org @gText_Pokedex
+fuego
+
+#org @gString_SlotMachineControls
+[DPAD_LEFTRIGHT][SE_M_CHARM][DPAD_DOWN][SE_M_MOONLIGHT][A_BUTTON][SE_M_DETECT][B_BUTTON][]
+
+#org @gText_TeachyTV
+Enseñanza de televisión
+
+#org @gText_End
+El fin
+
+#org @gString_HelpSystem_ClearTo8
+[CLEAR_TO][Teku]
+
+#org @gText_SpaceTimes3
+sith
+
+#org @gText_BestScore2
+[SE_M_STAT_INCREASE][]
+
+#org @gText_BerriesPicked
+[SE_M_CHARM][]
+
+#org @gText_BestScore
+[SE_M_STAT_INCREASE][]
+
+#org @gText_1Colon
+1:
+
+#org @gText_2Colon
+2:
+
+#org @gText_3Colon
+3:
+
+#org @gText_4Colon
+4:
+
+#org @gText_5Colon
+5:
+
+#org @gText_1_ClrBluShdwLtBlu_Dynamic0
+[COLOR]Oscuro[SHADOW]uke[SE_BALL_CLICK][]
+
+#org @gText_1_Dynamic0
+[SE_BALL_CLICK][]
+
+#org @gText_XDotY
+[B_COPY_VAR_1]Sí.[B_COPY_VAR_2][]
+
+#org @gText_StrVar1Berry
+[B_COPY_VAR_1][]
+
+#org @gText_PressingSpeed
+[SE_M_ATTRACT][]
+
+#org @gText_StrVar1
+[B_COPY_VAR_1][]
+
+#org @gText_XDotY2
+[B_COPY_VAR_1]Sí.[B_COPY_VAR_2][]
+
+#org @gText_XDotY3
+[B_COPY_VAR_1]Sí.[B_COPY_VAR_2][]
+
+#org @gText_Var1Percent
+[B_COPY_VAR_1][Isa]
+
+#org @gText_CrushingResults
+[SE_M_ATTRACT][]
+
+#org @gText_NeatnessRankings
+[SE_M_SKY_UPPERCUT][]
+
+#org @gText_CooperativeRankings
+[SE_M_BATON_PASS][]
+
+#org @gText_PressingPowerRankings
+[SE_M_YAWN][]
+
+#org @gText_BerryCrush2
+[SE_M_ACID_ARMOR][]
+
+#org @gText_PressingSpeedRankings
+[SE_M_ENCORE2][]
+
+#org @gText_Var1Players
+[B_COPY_VAR_1][]
+
+#org @gCreditsString_Junichi_Masuda
+[SE_M_MORNING_SUN][]
+
+#org @gCreditsString_System_Programmers
+[SE_M_SPIT_UP][]
+
+#org @gCreditsString_Graphic_Designers
+[SE_M_ENCORE][]
+
+#org @gCreditsString_Graphic_Designers_2
+[SE_M_ENCORE][]
+
+#org @gCreditsString_Music_Composition
+[SE_M_ENCORE][]
+
+#org @gCreditsString_Sound_Effects
+[SE_M_ENCORE2][]
+
+#org @gCreditsString_Go_Ichinose
+[SE_M_EARTHQUAKE][]
+
+#org @gCreditsString_Game_Designers
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Game_Designers_2
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Game_Scenario
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Parametric_Designers
+[SE_M_ENCORE][]
+
+#org @gCreditsString_POKeDEX_Text
+[SE_M_REVERSAL][]
+
+#org @gCreditsString_Kenji_Matsushima
+[SE_M_MORNING_SUN][]
+
+#org @gCreditsString_POKeMON_Designers
+[SE_M_REFLECT][]
+
+#org @gCreditsString_POKeMON_Designers_2
+[SE_M_REFLECT][]
+
+#org @gCreditsString_POKeMON_Designers_3
+[SE_M_REFLECT][]
+
+#org @gCreditsString_Supporting_Programmers
+[SE_M_ATTRACT][]
+
+#org @gCreditsString_Special_Thanks
+[SE_M_GRASSWHISTLE][]
+
+#org @gCreditsString_Special_Thanks_2
+[SE_M_GRASSWHISTLE][]
+
+#org @gCreditsString_Special_Thanks_3
+[SE_M_GRASSWHISTLE][]
+
+#org @gCreditsString_Information_Supervisors
+[SE_M_DIVE][]
+
+#org @gCreditsString_Task_Managers
+[SE_M_SAND_TOMB][]
+
+#org @gCreditsString_Executive_Director
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Satoshi_Tajiri
+[SE_M_MORNING_SUN][]
+
+#org @gCreditsString_Executive_Producer
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Satoru_Iwata
+[SE_M_HEAT_WAVE][]
+
+#org @gCreditsString_Executive_Producer_2
+[SE_M_BATON_PASS][]
+
+#org @gCreditsString_Tsunekaz_Ishihara
+[SE_M_STAT_DECREASE][]
+
+#org @gCreditsString_Translator_Text_Editor
+[SE_M_STAT_INCREASE][]
+
+#org @gCreditsString_National_Information_Library_Service_Margaret_Campion
+[SE_M_GRASSWHISTLE][SE_M_DIVE][CLEAR_TO][SE_M_STAT_INCREASE][]
+
+#org @gCreditsString_Special_Thanks_4
+[SE_M_GRASSWHISTLE][]
+
+#org @gCreditsString_Special_Thanks_5
+[SE_M_GRASSWHISTLE][]
+
+#org @gCreditsString_Graphic_Designer
+[SE_M_ENCORE][]
+
+#org @gCreditsString_Akira_Kinashi
+[SE_M_TRI_ATTACK][]
+
+#org @gJPText_SelectConnectAndPressA
+[PLUS]y presione el botón.
+
+#org @gJPText_UnableConnectWithEReader
+[PLUS]No puede ser usado
+
+#org @gText_NumPlayerLink
+[B_COPY_VAR_1]estómago[SE_M_DETECT][]
+
+#org @gText_HelpSystemControls_A_Next
+[A_BUTTON][]
+
+#org @gEasyChatGroupName_Pokemon
+fuego
+
+#org @gEasyChatGroupName_Move1
+[SE_M_BRICK_BREAK][]
+
+#org @gEasyChatGroupName_Move2
+[SE_M_BRICK_BREAK][]
+
+#org @gEasyChatGroupName_TrendySaying
+[SE_M_ACID_ARMOR][]
+
+#org @gEasyChatGroupName_Pokemon2
+fuego
+
+#org @gText_Trade_CommunicationStandby
+[COLOR]Ai[HIGHLIGHT]Ai[SHADOW]Vaya[SE_M_DIVE][SE_M_BATON_PASS][.]
+
+#org @gText_TradeHasBeenCanceled
+[COLOR]Ai[HIGHLIGHT]Ai[SHADOW]Vaya[SE_M_BATON_PASS][SE_M_BATON_PASS][SE_M_SKY_UPPERCUT][SE_M_DIVE][.]
+
+#org @gText_Trade_OnlyPkmnForBattle
+[COLOR]Ai[HIGHLIGHT]Ai[SHADOW]Vaya[SE_M_SKY_UPPERCUT][SE_M_YAWN][SE_M_TEETER_DANCE]Hola[SE_M_YAWN][.]
+
+#org @gText_XSentOverY
+[B_COPY_VAR_1]Sí[SE_M_STAT_INCREASE][SE_M_YAWN][B_COPY_VAR_3]Sí.
+
+#org @gText_From
+[SE_M_SPIT_UP][]
+
+#org @gText_PeopleTrading
+[SE_M_BATON_PASS][]
+
+#org @gText_PeopleBattling
+[SE_M_BATON_PASS][]
+
+#org @gText_PeopleCommunicating
+[SE_M_BATON_PASS][]
+
+#org @gText_Dynamic0Players
+[SE_BALL_CLICK][]
+
+#org @gText_Dynamic1Players
+a
+
+#org @gText_Dynamic2Players
+estómago
+
+#org @gText_Dynamic3Players
+cormorán
+
+#org @gText_DPadChooseAButtonConfirm
+[DPAD_ANY]Selectivo[A_BUTTON][]
+
+#org @gText_BButtonCancel
+[B_BUTTON][A]
+
+#org @gText_ChooseBattleLineup
+[COLOR]ae[SHADOW]Uo Por favor, decida la ubicación de su elección.[COLOR]Ai[SHADOW][]
+
+#org @gText_UnusedId
+[ID][ki]
+
+#org @gText_MonLearnedMove
+[B_COPY_VAR_1]Sí[B_COPY_VAR_2]Sí.
+
+#org @gFameCheckerText_FlavorTextUI
+[DPAD_ANY][SE_M_MINIMIZE][A_BUTTON][SE_M_SNORE][B_BUTTON][]
+
+#org @gText_MysteryGift2
+[SE_M_ACID_ARMOR][]
+
+#org @gText_WonderCards
+[SE_M_MOONLIGHT][]
+
+#org @gText_WonderNews
+[SE_M_MOONLIGHT][]
+
+#org @gText_WirelessCommunication
+[SE_M_CHARM][]
+
+#org @gText_DelAllCancelOk
+[CLEAR_TO]hizo[CLEAR_TO][te]
+
+#org @sText_Akito
+akito
+
+#org @sText_Underscore
+[UNDERSCORE][ke]
+
+#org @sText_Clear17
+[CLEAR]Chichí
+
+#org @sListItemTextColor_RegularItem
+[COLOR_HIGHLIGHT_SHADOW][]
+
+#org @sDotSeparatedValues
+[SE_BALL_CLICK]A
+
+#org @gText_UR_ID
+[ID][ki]
+
+#org @sText_AwaitingCommunucation2
+Espero con ansias la amabilidad de mis\namigos.
+
+#org @sText_SingleBattle
+Iniciar una sola batalla
+
+#org @sText_DoubleBattle
+Comienza una doble batalla
+
+#org @sText_MultiBattle
+Disfruta de múltiples batallas
+
+#org @sText_TradePokemon
+Aprende lecciones de Pokémon
+
+#org @sText_Chat
+Iniciar una conversación
+
+#org @sText_DistWonderCard
+Regala una tarjeta misteriosa
+
+#org @sText_DistWonderNews
+Entregando noticias misteriosas
+
+#org @sText_DistMysteryEvent
+Recita eventos misteriosos
+
+#org @sText_HoldPokemonJump
+saltar la cuerda
+
+#org @sText_HoldBerryCrush
+Exprime el machacador de champiñones.
+
+#org @sText_HoldBerryPicking
+huele la vegetación
+
+#org @sText_HoldSpinTrade
+Estoy dando vueltas y vueltas.
+
+#org @sText_HoldSpinShop
+Tienda Tienda Guruguru
+
+#org @sText_4PlayersNeeded
+La próxima vez
+
+#org @gText_UR_BButtonCancel
+[B_BUTTON][A]
+
+#org @sText_SearchingForParticipants
+¡Este es Tamesan Kasha Boshuuchuu!
+
+#org @gText_UR_PlayerContactedYouForXAccept
+[B_COPY_VAR_2]Sí[SE_M_ENCORE2][SE_M_HEAT_WAVE][B_COPY_VAR_1]Sí. ?
+
+#org @sText_CommunicatingPleaseWait
+Estoy empezando a hablar... Espere por\nfavor.
+
+#org @sText_Communicating
+[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.[PAUSE]Mierda.
+
+#org @sText_DoSomethingAgainFemale
+[B_COPY_VAR_1]¿Quieres hacer algo de nuevo?
+
+#org @sText_AwaitingResponseCancelBButton
+Cancelar la apertura con el botón de abeja\nen espera
+
+#org @sText_WaitForChatMale2
+¡Es charla! ¡Está bien, espera un minuto!
+
+#org @sText_ThankYouForRegistering
+¡Muchas gracias por visitar nuestra escuela!
+
+#org @sText_NobodyHasRegistered
+Nadie caza Pokémon en la ciudad.
+
+#org @sText_TradeTrainersWillBeListed
+Me gustaría presentarles a las personas\nque están aprendiendo sobre esto.
+
+#org @sText_ChooseTrainerToTradeWith2
+Por favor seleccione el formador que le\ngustaría formar.
+
+#org @sText_AwaitingResponseFromTrainer2
+...Estoy esperando la apertura.
+
+#org @sText_NotRegisteredAMonForTrade
+Los Pokémon que envías al campo de batalla\nno están siendo destruidos.
+
+#org @gText_UR_EggTrade
+[SE_M_PSYBEAM2][]
+
+#org @gText_UR_ChooseJoinCancel
+[DPAD_UPDOWN][SE_M_BRICK_BREAK][A_BUTTON][SE_M_REFLECT][B_BUTTON][.]
+
+#org @sText_MustHaveTwoMonsForDoubleBattle
+En los combates dobles necesitarás un Pokémon\ndifícil de vencer.
+
+#org @sText_PleaseWaitForOtherTrainersToGather
+Espere hasta que los otros triángulos estén\nlistos.
+
+#org @gText_UR_NameWantedOfferLv
+[CLEAR_TO][teza][CLEAR_TO][teho][CLEAR_TO][te.]
+
+#org @gText_UR_SingleBattle
+[SE_M_BRICK_BREAK][]
+
+#org @gText_UR_DoubleBattle
+[SE_M_BRICK_BREAK][]
+
+#org @gText_UR_MultiBattle
+[SE_M_PETAL_DANCE][]
+
+#org @gText_UR_PokemonTrades
+[SE_M_REFLECT][]
+
+#org @gText_UR_WonderCards
+[SE_M_MOONLIGHT][]
+
+#org @gText_UR_WonderNews
+[SE_M_MOONLIGHT][]
+
+#org @gText_UR_PokemonJump
+[SE_M_REFLECT][]
+
+#org @gText_UR_BerryCrush
+[SE_M_ACID_ARMOR][]
+
+#org @gText_UR_SpinTrade
+Maestro Maestro Kokan
+
+#org @gText_UR_TrainerCardInfoPage1
+[SE_M_SKY_UPPERCUT][SE_M_SKY_UPPERCUT][SE_BALL_CLICK]A[SE_M_MOONLIGHT]Por qué[SE_M_HYPER_BEAM2]Ud.[SE_M_HYPER_BEAM2]Eo
+
+#org @gText_UR_TrainerCardInfoPage2
+[SE_M_HYPER_BEAM2][SE_BALL_CLICK][SE_M_CHARM][SE_M_HYPER_BEAM2]uke
+
+#org @gText_UR_FinishedCheckingPlayersTrainerCard
+[SE_M_ENCORE2][SE_M_ATTRACT]ah[SE_M_MOONLIGHT][PAUSE]Venir
+
+#org @sText_ClearTo18
+[CLEAR_TO][Tetsu]
+
+#org @sText_SingleSpace
+
+
+#org @sText_Space
+
+
+#org @sText_EonTicket
+Entradas para Mügen
+
+#org @sJPText_Vowels
+Aiue Okaki
+
+#org @sText_Digits
+0123456
+
+#org @gText_EasyChatKeyboard_ABCDEFothers
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_EasyChatKeyboard_GHIJKL
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika
+
+#org @gText_EasyChatKeyboard_MNOPQRS
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_EasyChatKeyboard_TUVWXYZ
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_abcdef
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]Chiha.
+
+#org @gText_NamingScreenKeyboard_ghijkl
+[CLEAR]Nido[CLEAR]chika[CLEAR]chiqui[CLEAR]Chihí[CLEAR]chika[CLEAR]chika[CLEAR]chiqui[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_mnopqrs
+[CLEAR]Nido[CLEAR]chika[CLEAR]chiqui[CLEAR]chiha[CLEAR]chika[CLEAR]chiqui[CLEAR]chika[CLEAR]Chihí
+
+#org @gText_NamingScreenKeyboard_tuvwxyz
+[CLEAR]Chishi[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_ABCDEF
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]Chiha.
+
+#org @gText_NamingScreenKeyboard_GHIJKL
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_MNOPQRS
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_TUVWXYZ
+[CLEAR]Nido[CLEAR]chika[CLEAR]chika[CLEAR]chiha[CLEAR]chika[CLEAR]chika[CLEAR]chika[CLEAR]chiha
+
+#org @gText_NamingScreenKeyboard_01234
+[CLEAR]Nido[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate
+
+#org @gText_NamingScreenKeyboard_56789
+[CLEAR]Nido[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate
+
+#org @gText_NamingScreenKeyboard_Symbols1
+[CLEAR]¡Nido![CLEAR]¿Siéntate?[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate[CLEAR]siéntate
+
+#org @gText_NamingScreenKeyboard_Symbols2
+[CLEAR]Nido...[CLEAR]siéntate[CLEAR]siéntate[CLEAR]chitsu[CLEAR]chitsu[CLEAR]chitsu
+
+#org @gText_UnionRoomChatKeyboard_Z
+[SE_M_SANDSTORM][]
+
+#org @gText_UnionRoomChatKeyboard_01234Upper
+01234
+
+#org @gText_UnionRoomChatKeyboard_56789Upper
+56789
+
+#org @gText_UnionRoomChatKeyboard_z
+[SE_M_STAT_DECREASE][]
+
+#org @gText_UnionRoomChatKeyboard_01234Lower
+01234
+
+#org @gText_UnionRoomChatKeyboard_56789Lower
+56789
+
+#org @gText_UnionRoomChatKeyboard_Emoji1
+[EMOJI_MISCHIEVOUS][][EMOJI_HAPPY][][EMOJI_ANGRY][][EMOJI_SURPRISED][][EMOJI_BIGANGER][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji2
+[EMOJI_BIGSMILE][EMOJI_BIGSMILE][EMOJI_EVIL][EMOJI_NEUTRAL][EMOJI_TIRED][EMOJI_SHOCKED][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji3
+[EMOJI_LEAF][][EMOJI_FIRE][][EMOJI_WATER][][EMOJI_BOLT][][EMOJI_BALL][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji4
+[EMOJI_LEFT_PAREN][][EMOJI_RIGHT_PAREN][][EMOJI_TILDE][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji5
+[EMOJI_LEFT_EYE][][EMOJI_RIGHT_EYE][][EMOJI_SMALLWHEEL][][EMOJI_SPHERE][][EMOJI_IRRITATED][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji6
+[EMOJI_AT][][EMOJI_BIGWHEEL][][EMOJI_TONGUE][][EMOJI_ACUTE][][EMOJI_GRAVE][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji7
+[EMOJI_RIGHT_FIST][][EMOJI_LEFT_FIST][][EMOJI_TRIANGLE_OUTLINE][][EMOJI_UNION][][EMOJI_GREATER_THAN][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji8
+[EMOJI_CIRCLE][][EMOJI_TRIANGLE][][EMOJI_SQUARE][][EMOJI_HEART][][EMOJI_MOON][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji9
+[EMOJI_NOTE][][EMOJI_PLUS][][EMOJI_MINUS][][EMOJI_EQUALS][][EMOJI_PIPE][]
+
+#org @gText_UnionRoomChatKeyboard_Emoji10
+[EMOJI_HIGHBAR][][EMOJI_UNDERSCORE][yo][SE_M_HYPER_BEAM2][]
+
+#org @gText_MysteryGiftNewAdversaryInBattleTower
+¡Ha aparecido un nuevo enemigo en la torre\nde batalla!
+

@@ -715,7 +715,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     if 'en' not in langs or int(float(langs['en'])) < 70:
                         constructedString = english
                 except:
-                    pass
+                    constructedString = constructedString
                 if constructedString and constructedString[-1] == '$':
                     text = constructedString[:-1]
                     text_newline = text.replace('\n', '\\n')
