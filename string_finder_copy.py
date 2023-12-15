@@ -582,10 +582,5 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
-            try:
-                text = eval(compile(string, '<string>', 'eval'))
-                print(string + ' ' + offset)
-            except:
-                if string in TextScripts:
-                    print(string + ' ' + offset)
+        if string in TextScripts:
+            print(string + ' ' + offset)
