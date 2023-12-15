@@ -2,7 +2,7 @@ import TextScripts
 from TextScripts import TextScripts, pokefirered_sym, charMap, CharMap, SpecialBuffersReverse, SpecialBuffers
 from Japanese import JapaneseChars, Japanese
 from deep_translator import GoogleTranslator
-from tqdm import tqdm
+# from tqdm import tqdm
 from langdetect import detect_langs
 
 nineWidths = ['B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
