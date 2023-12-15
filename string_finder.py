@@ -887,7 +887,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 char = sanitizedText[charIndex]
                                 wrapped_text = wrapped_text + char
                                 width_ = width_ + 1
-                                actualWidth = actualWidth + 1
                                 if width_ == limit and count % 2 == 0:
                                     wrapped_text = wrapped_text + '\\n'
                                     width_ = 0
@@ -899,18 +898,16 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     limit = 39
                                     count = count + 1
                                 if char == '[':
-                                    stringStore = sanitizedText[actualWidth:].split(']')[0]
+                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
                                     wrapped_text = wrapped_text + stringStore + ']'
                                     if stringStore in nineWidths:
-                                        limit = limit + len(stringStore) + 7
-                                        actualWidth = actualWidth + len(stringStore) + 1
+                                        limit = limit + len(stringStore) + 9
                                         charIndex = charIndex + len(stringStore) + 1
                                     else:
                                         limit = limit + len(stringStore)
-                                        actualWidth = actualWidth + len(stringStore) + 1
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                                print(char, charIndex, actualWidth)
+                                print(char, charIndex, limit)
                             # num = 0
                             # wrapped_text_store = ''
                             # for wrap in wrapped_text:
