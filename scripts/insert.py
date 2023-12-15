@@ -6,6 +6,7 @@ import shutil
 import sys
 from datetime import datetime
 import _io
+from tqdm import tqdm
 
 OFFSET_TO_PUT = 0x900000
 SOURCE_ROM = "BPRE0.gba"

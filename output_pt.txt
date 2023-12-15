@@ -2920,3 +2920,162 @@ SAFFRON CITY POK\eMON GYM LÍDER: SABRINA\nA Mestre do PSYCHIC POK\eMON!
 #org @SaffronCity_Text_FullHealCuresStatusPortuguese
 DICAS DO TREINADOR FULL HEAL cura todas\nas doenças como queimaduras, paralisia,\penvenenamento, congelamento e sono. Custa\num pouco mais, mas é mais conveniente do\pque comprar outros itens.
 
+#org @SaffronCity_Text_GreatBallImprovedCatchRatePortuguese
+DICAS DO TREINADOR A nova GREAT BALL oferece\ntaxas de captura melhoradas. Experimente\pnaqueles POK\eMON difíceis de capturar.
+
+#org @SaffronCity_Text_SilphCoSignPortuguese
+EDIFÍCIO DE ESCRITÓRIOS SILPH CO.
+
+#org @SaffronCity_Text_MrPsychicsHousePortuguese
+SENHOR. CASA DO PSÍQUICO
+
+#org @SaffronCity_Text_SilphsLatestProductPortuguese
+O mais recente produto da SILPH! Lançamento\na ser determinado…
+
+#org @SaffronCity_Text_TrainerFanClubSignPortuguese
+POK\eMON TRAINER FAN CLUB Muitos TREINADORES\nrabiscaram seus omes nesta placa.
+
+#org @SaffronCity_Text_HowCanClubNotRecognizeLancePortuguese
+Este FÃ CLUBE… Ninguém aqui tem a menor\nideia! Como eles poderiam não reconhecer\po brilho que é LANCE? Ele representa a\njustiça! Ele é legal, mas apaixonado! Ele\pé o maior, LANCE!
+
+#org @OneIsland_Text_BillLetsGoSeeCelioPortuguese
+BILL: Aqui estamos! Esta é UMA ILHA. Existem\nvárias ilhas por aqui, e esta é uma delas.\pMeu amigo CELIO enviou o barco para me\nbuscar aqui. Ele é o responsável pelo PC\pda ilha\ nrede sozinho. …Por que estou\nte contando isso agora? Vamos ver o CELIO!
+
+#org @Text_WhereDoYouWantToSailPortuguese
+Olá! Para onde você quer navegar?
+
+#org @OneIsland_Text_LuckyToHaveCelioHerePortuguese
+Aqui estamos nós, em uma ilha no meio do\nnada. Temos sorte de ter um jovem honesto\pcomo CELIO aqui. Minha neta estava nervosa\npor causa do amigo de CELIO. Algo sobre\pum POK famoso\. eMANIAC? Não tenho certeza\ndo que isso significa, mas CELIO é um cara\pe tanto!
+
+#org @OneIsland_Text_HavePCLinkageWithKantoPortuguese
+Minha neta estava nervosa com uma nova\ndescoberta. Ela disse que agora temos ligação\pde PC com pessoas em KANTO. Não tenho certeza\ndo que isso significa, mas CELIO é um cara\pe tanto!
+
+#org @OneIsland_Text_HavePCLinkageWithHoennPortuguese
+Minha neta estava nervosa com uma nova\ndescoberta. Ela disse que finalmente temos\puma ligação de PC com pessoas em HOENN.\nNão tenho certeza do que isso significa,\pmas CELIO é um cara e tanto. Ele daria\numa multa marido para minha neta!
+
+#org @OneIsland_Text_IslandSignPortuguese
+UMA ILHA Amigos se reúnem na Ilha Knot
+
+#org @OneIsland_Text_PokemonNetCenterSignPortuguese
+Expandindo o mundo POK\eMON! POK\eMON NET\nCENTER
+
+#org @OneIsland_Text_ReturnToCinnabarPortuguese
+Você vai voltar para Glentown?
+
+#org @OneIsland_Text_IsntWarmClimateHereGreatPortuguese
+Olá, está fazendo passeios turísticos?\nO clima quente aqui não é ótimo?
+
+#org @TwoIsland_Text_IslandSignPortuguese
+DUAS ILHAS Boon Island para dois
+
+#org @TwoIsland_Text_JoyfulGameCornerSignPortuguese
+Pular e mastigar! CANTO DE JOGO alegre
+
+#org @TwoIsland_Text_DangerFastCurrentPortuguese
+PERIGO! CORRENTE RÁPIDA! Pesca e surf proibidos!
+
+#org @TwoIsland_Text_WelcomeToShopMerchandiseLimitedPortuguese
+Oh! Olá, bem-vindo à minha loja! Abrimos\nrecentemente. Nossa mercadoria é limitada,\pmas espero que possamos atender às suas\nnecessidades.
+
+#org @TwoIsland_Text_AddedMerchandiseForLostellePortuguese
+Eu não posso te dizer o quão grato estou\npelo seu resgate de LOSTELLE. Graças à\psua façanha, as pessoas da ILHA TRÊS mudaram\nsuas atitudes em relação ao povo KANTO.\pE eu sou de KANTO, você vê.  O povo da\nILHA TRÊS me ajudou a aumentar minha mercadoria.
+
+#org @TwoIsland_Text_HopeYouGiveItYourBestPortuguese
+Oi! Estou dando o meu melhor aqui. Espero\nque você também, [B_BUFF2]À.
+
+#org @TwoIsland_Text_BringingItemsFromDistantLandsPortuguese
+À! Bem-vindo! Comecei a trazer itens de\nterras distantes. Também tenho alguns itens\praros. Por favor, dê uma olhada!
+
+#org @TwoIsland_Text_FellowMovedFromCeladonCityPortuguese
+Aquele sujeito ali se mudou da cidade de\nCELADON para cá. Ele abriu uma loja com\pseu\irmão mais novo. Você deve se perguntar\nse ele sabia no que estava se metendo.
+
+#org @TwoIsland_Text_ShopkeepersBrotherWorksGameCornerPortuguese
+O irmão do lojista conseguiu um emprego\nno GAME CORNER. Ele está tentando juntar\pdinheiro para comprar mais mercadorias.
+
+#org @TwoIsland_Text_BrunoCameToIslandWhileBackPortuguese
+Ouça, ouça. Você sabia? Um famoso TREINADOR\nchegou à ILHA há pouco tempo. Ele é um\pdos QUATRO DE ELITE. Seu nome é BRUNO.\nEle foi embora desapontado quando descobriu\pque eles eram todos vendidos em muitas\nbarras de chocolate Rage.
+
+#org @TwoIsland_Text_BuyRareItemsHerePortuguese
+O TREINADOR exigente sabe comprar itens\nraros aqui!
+
+#org @TwoIsland_Text_OldWomanLivesOutOnCapePortuguese
+Há uma velha que mora em uma cabana no\ncabo. Ela dá atenção ao POK\eMON. É um\ppouco enervante.
+
+#org @TwoIsland_Text_HaveYouTriedJumpingGamePortuguese
+Boing! Boing! Você já experimentou o jogo\nde salto? O POK\eMON você pode entrar...\pBoing! Alguns vão boing! E alguns vão booooooo!\nVocê sabia disso? Boing!
+
+#org @ThreeIsland_Text_IslandSignPortuguese
+TRÊS ILHA Ilha Kin de vínculo familiar
+
+#org @ThreeIsland_Text_IslandBelongsToUsPortuguese
+Hyahoo! De hoje em diante, esta ilha nos\npertence!
+
+#org @ThreeIsland_Text_GoBackToKantoPortuguese
+Não precisamos que vocês tragam ruído e\nproblemas aqui! Estamos pedindo que vocês\pvoltem para KANTO!
+
+#org @ThreeIsland_Text_BossIsOnHisWayPortuguese
+Ei, vá chorar em outro lugar. Nosso chefe\nestá a caminho. Quando ele chegar aqui,\pfaremos um show de motos k-rad que você\nnão vai esquecer tão cedo!
+
+#org @ThreeIsland_Text_GetOffIslandNowPortuguese
+O-o que!? Não na sua vida! Saia da ilha\nagora!
+
+#org @ThreeIsland_Text_WhosGonnaMakeMePortuguese
+Quem vai me obrigar?
+
+#org @ThreeIsland_Text_AreYouBossGoBackToKantoPortuguese
+Você é o chefe? Volte para KANTO agora\nmesmo!
+
+#org @ThreeIsland_Text_JustGotHerePalPortuguese
+Hah? Acabei de chegar, amigo. Qual é a\ndessa atitude hostil? É muito frio da sua\pparte!
+
+#org @ThreeIsland_Text_FollowersRaisingHavocPortuguese
+Sua gangue de seguidores está causando\nestragos em suas motos. Você tem ideia\pde quantos problemas nos causaram na islândia?
+
+#org @ThreeIsland_Text_OughtToBeThankingUsPortuguese
+Não, cara, não entendi nada. Olhe esse\nlugar. O que você faz para se divertir?\pVocê deveria estar nos agradecendo por\nanimar esta vila pacata. Mas ei, se você\pinsiste, você pode tentar nos fazer sair.
+
+#org @ThreeIsland_Text_YouCowardsToughInPackPortuguese
+Grr… Seus covardes… Tão durões em uma matilha…
+
+#org @ThreeIsland_Text_WannaMakeSomethingOfYourStaringPortuguese
+Você, o que você está olhando? Você não\nsabe que não é educado? Você quer fazer\palguma coisa com isso em o quê?
+
+#org @ThreeIsland_Text_ThatsSmartPortuguese
+Isso é inteligente. Fique fora disso.
+
+#org @ThreeIsland_Text_Biker1IntroPortuguese
+Heh, eu gosto da sua coragem. Você estará\nperdendo dinheiro para mim, mas…
+
+#org @ThreeIsland_Text_Biker1DefeatPortuguese
+O que… O que é esse garoto?!
+
+#org @ThreeIsland_Text_Biker1PostBattlePortuguese
+Ah, cara... Não se atreva a rir!
+
+#org @ThreeIsland_Text_Biker2IntroPortuguese
+Você não é de KANTO? Você deveria estar\ndo nosso lado!
+
+#org @ThreeIsland_Text_Biker2DefeatPortuguese
+Pare de brincar!
+
+#org @ThreeIsland_Text_Biker2PostBattlePortuguese
+O que há com você, ficando todo excitado\ndesse jeito? Totalmente chato, cara!
+
+#org @ThreeIsland_Text_Biker3IntroPortuguese
+Convidamos o chefe aqui, mas você teve\nque estragar tudo! Você nos envergonhou,\pcara!
+
+#org @ThreeIsland_Text_Biker3DefeatPortuguese
+… … … … … …
+
+#org @ThreeIsland_Text_Biker3PostBattlePortuguese
+Chefe, estou lhe dizendo, você precisa\fazer\nalgo sobre esse garoto!
+
+#org @ThreeIsland_Text_PaxtonIntroPortuguese
+Tenho observado você e diria que você já\nfez o suficiente. O que você é, amigo deles\pou algo assim? Então acho que você estará\nlutando comigo no lugar deles.
+
+#org @ThreeIsland_Text_PaxtonDefeatPortuguese
+Tudo bem, chega! Partiremos como você queria!\nFicaremos felizes em ver o fim desta ilha\pchata!
+
+#org @ThreeIsland_Text_PaxtonPostBattlePortuguese
+Humph! Sim, continue andando com essas\nsementes de feno!
+

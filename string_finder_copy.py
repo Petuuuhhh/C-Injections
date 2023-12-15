@@ -2,7 +2,6 @@ import TextScripts
 from TextScripts import TextScripts, pokefirered_sym, charMap, CharMap, SpecialBuffersReverse, SpecialBuffers
 from Japanese import JapaneseChars, Japanese
 from deep_translator import GoogleTranslator
-from time import sleep
 from tqdm import tqdm
 from langdetect import detect_langs
 
