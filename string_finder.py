@@ -585,7 +585,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        # if string == 'gText_QuestLog_UsedEscapeRope':
+        # if string == 'ViridianForest_Text_AnthonyDefeat':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             widths = {}
             width = 39
@@ -739,7 +739,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     while ordROM != 255:
                         if ordROM in CharMap:
                             num2 = 0
-                            if num > 0:
+                            if num > -1:
                                 constructedString += CharMap[ordROM]
                             num = num + 1
                             offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
