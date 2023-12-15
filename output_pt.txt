@@ -8839,3 +8839,966 @@ Mas há um pequeno problema. Para que o\nlink funcione, a Máquina precisa de uma\
 #org @OneIsland_PokemonCenter_1F_Text_TryingToFindGemPortuguese
 Eu estava tentando encontrar a joia em\nenquanto estudava. Como resultado, não\pfiz nenhum progresso tanto em minha pesquisa\nquanto em meus estudos... Se eu confiasse\pno BILL, tenho certeza que minha pesquisa\nprogrediria.  Mas desta vez, quero tentar\pfazer as coisas  sozinho.
 
+#org @OneIsland_PokemonCenter_1F_Text_OhThatsPortuguese
+Oh! Isso é...
+
+#org @OneIsland_PokemonCenter_1F_Text_HandedRubyToCelioPortuguese
+Entreguei o RUBI ao CELIO.
+
+#org @OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavorPortuguese
+À, você é simplesmente incrível. … … …\n… … … Um… Posso pedir mais um favor gigante\pe você?
+
+#org @OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelpPortuguese
+Não é nada estranho. Por favor, preciso\nda sua ajuda.
+
+#org @OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslandsPortuguese
+À, por favor, preciso que você vá procurar\na outra joia. À, posso ter seu ferry PASS\pe o MAPA DA CIDADE?
+
+#org @OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPassPortuguese
+À devolvi o TRI-PASS e recebi o RAINBOW\nPASS.
+
+#org @OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPagePortuguese
+Obtive uma página extra para o MAPA DA\nCIDADE!
+
+#org @OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslandsPortuguese
+À, por favor, não posso passar sem a sua\najuda.
+
+#org @OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelioPortuguese
+Entreguei a SAFIRA ao CELIO.
+
+#org @OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTimePortuguese
+À, você passou por muita coisa ara conseguir\nisso, não foi? Você não precisa me contar.\pEu sei que ão foi fácil. Muito obrigado!\nAgora é a minha vez de trabalhar para você!\pPor favor, me dê um pouco de tempo.
+
+#org @OneIsland_PokemonCenter_1F_Text_OkayThisIsGoodPortuguese
+Ok, isso é bom…
+
+#org @OneIsland_PokemonCenter_1F_Text_LinkedUpWithLanettePortuguese
+Eu consegui! Eu me juntei à LANETTE!
+
+#org @OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYouPortuguese
+À, consegui! Consegui me conectar com TREINADORES\nna região de HOENN! Finalmente, a Máquina\pda Rede está totalmente operacional! À,\ndevo tudo a você! Graças a você, meu sonho\pse tornou realidade…
+
+#org @OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuckPortuguese
+À, você vai continuar procurando por POK\eMON\nexóticos, certo? Desejo-lhe boa sorte!
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYouPortuguese
+À, tenho ouvido rumores sobre você.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbraPortuguese
+À, qual é o seu tipo favorito oPOK\eMON?\nBILL é um POK\eMANÍACO, então ele adora\petodos os tipos. Aparentemente, o primeiro\nque ele capturou foi um ABRA.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrodPortuguese
+À, você é de PALLET TOWN, não é? Ouvi dizer\nque é um lugar calmo e agradável. A cidade\pnatal de BILL é GOLDENROD CITY, onde seus\npais ainda moram. Ouvi dizer que é é uma\pcidade bastante\festiva e movimentada.\nGostaria de ir para lá um dia.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillCantStomachMilkPortuguese
+À, há alguma coisa que você não suporte?\nAparentemente, BILL simplesmente não consegue\pstomar leite.
+
+#org @OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowItPortuguese
+Ah, você é um estranho aqui! Olá! De onde\nvocê veio? …CIDADE DE PALETES? Não sei!
+
+#org @OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIslandPortuguese
+Nesta ilha há um enorme vulcão. Ele não\nentrou em erupção ultimamente, então por\pque não aproveitar uma caminhada?
+
+#org @OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriendPortuguese
+Eu gostaria de poder trocar POK\eMON com\nmeu namorado que mora longe…
+
+#org @OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriendPortuguese
+Troquei POK\eMON com meu namorado que está\nlonge! Todo mundo está dizendo que podemos\pagradecer a você e ao CELIO. Então, obrigado!
+
+#org @OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustmentPortuguese
+Máquina de rede Nível de link 0 …POK\eMON\nSistema de armazenamento em ajuste…
+
+#org @OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoPortuguese
+Máquina de rede Link nível 1 Link estabelecido\ncom a região KANTO .
+
+#org @OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoAndHoennPortuguese
+Máquina de rede Link nível 2 Link estabelecido\ncom as regiões KANTO e HOENN.
+
+#org @OneIsland_PokemonCenter_1F_Text_ObtainedTriPassPortuguese
+Obteve o TRI-PASS!
+
+#org @OneIsland_House1_Text_GazeUponVolcanoOnSunnyDaysPortuguese
+Em dias ensolarados, saio e contemplo o\nvulcão. Essa é minha rotina diária.
+
+#org @OneIsland_House1_Text_LastTimeMtEmberEruptedPortuguese
+Deixe-me pensar... Quando foi a última\nvez MT. EMBER entrou em erupção?
+
+#org @OneIsland_House2_Text_IWantToStayHereForeverPortuguese
+Todos os jovens querem ir para grandes\ncidades. Mas eu quero ficar aqui para sempre!
+
+#org @TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenToPortuguese
+Agora, onde LOSTELLE foi hoje? Ela sempre\nme traz almoço todos os dias agora...
+
+#org @TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostellePortuguese
+Hum? Você aí! Você é amigo de LOSTELLE?\nVocê viu LOSTELLE por aí? Não sei onde\pela pode estar. Ela deveria estar aqui\nhá muito tempo. LOSTELLE é uma gracinha\p- ela herdou minha aparência - e daí se\nalguém… E se algo aconteceu com minha LOSTELLE?!\pPor favor, me ajude a encontrá-la! Por\nfavor vá procurar na ILHA TRÊS!
+
+#org @TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIslandPortuguese
+Hah? O que é esse CANTO DE JOGO? Quão mais\ntriste isso pode ficar? Aqueles palhaços...\pEles disseram que estariam esperando na\ilha,\nentão onde eles estão? Ei, você! Esta é\pa única ILHA TRÊS por aqui?
+
+#org @TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveItPortuguese
+Tente acordar antes de sair da cama, seu\nidiota. Esta é a ILHA DUAS! Mova-se! Tire\psua motocicleta imunda da minha casa!
+
+#org @TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusingPortuguese
+Huh… Ah, ah, entendi. Tch… Essas ilhas\nsão confusas…
+
+#org @TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloorPortuguese
+Você poderia dar uma olhada nisso? Aquele\nvagabundo arranhou meu chão.
+
+#org @TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIslandPortuguese
+Ei, mas ouça! Eu estou te implorando, você\ntem que ir para a ILHA TRÊS. Se alguma\pcoisa acontecer com minha LOSTELLE... Minha\ncasa é a casa com telhado vermelho na ILHA\pTRÊS. Ela pode simplesmente aparecer tarde\naqui,  então não posso fugir para lugar\pnenhum. É por isso que preciso que você\nme faça este grande favor.
+
+#org @TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesTodayPortuguese
+Sinto muito. Não estamos executando nenhum\njogo hoje.
+
+#org @TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoonPortuguese
+Em breve lançaremos os jogos para você!
+
+#org @TwoIsland_JoyfulGameCorner_Text_YouRescuedLostellePortuguese
+Então você resgatou LOSTELLE? Como posso\nagradecer? LOSTELLE, querido, me perdoe!\pPapai não sabia que você estava com medo\ne em apuros!
+
+#org @TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddyPortuguese
+LOSTELLE: Está tudo bem, papai. Eu tenho\nque ser amigo do [B_BUFF2]À!
+
+#org @TwoIsland_JoyfulGameCorner_Text_ThisIsForMePortuguese
+Ah, o que é isso? Você está dizendo que\nisso é para mim? Como você sabia que eu\padoro pedras e gemas raras? Você com certeza\nsabe como deixar um cara feliz.
+
+#org @TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddyPortuguese
+Entreguei o METEORITO ao pai de LOSTELLE.
+
+#org @TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBillPortuguese
+Ah, entendo, isso é do BILL! Você tem que\nagradecer a ele por mim! Sabe, você tem\psido fantástico. Eu quero que você fique\ncom isso.
+
+#org @TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddyPortuguese
+À recebeu uma PEDRA DA LUA do pai de LOSTELLE.
+
+#org @TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBagPortuguese
+Sua BOLSA não vai caber em mais nada …
+
+#org @TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunningPortuguese
+Tudo bem, vou colocar o GAME CORNER em\nfuncionamento imediatamente. Você precisa\pvisitar um amigo.
+
+#org @TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCoolPortuguese
+Ouça, ouça! Por favor, mostre-me que você\nestá sendo legal de novo!
+
+#org @TwoIsland_House_Text_TeachMonMoveForMushroomPortuguese
+Eu sou o POK\eMON MOVE MANIAC. Eu conheço\ncada movimento que POK\eMON aprendeu enquanto\pcrescia. Eu também sou um maníaco por cogumelos.\nTraga-me dois MINÚSCULOS COGUMELOS, em\pum GRANDE COGUMELO. Se você fizer isso\nisso para mim, vou ensinar a mudança para\pum POK\eMON.
+
+#org @TwoIsland_House_Text_WantMeToTeachMovePortuguese
+Cheire, cheire… Hm! Você cheira a COGUMELOS!\nVocê quer que eu ensine um movimento ara\pum POK\eMON seu?
+
+#org @TwoIsland_House_Text_TutorWhichMonPortuguese
+Qual POK\eMON precisa de tutoria?
+
+#org @TwoIsland_House_Text_TeachWhichMovePortuguese
+Qual movimento devo ensinar?
+
+#org @TwoIsland_House_Text_NoMoveICanTeachThatMonPortuguese
+Desculpe… Parece que não tenho um movimento\npara ensinar aquele POK\eMON.
+
+#org @TwoIsland_House_Text_IllNeedMushroomOrTwoPortuguese
+Então, vou precisar de um ou dois COGUMELOS.\nO que você vai me dar?
+
+#org @TwoIsland_House_Text_HandedOverTwoTinyMushroomsPortuguese
+À entregou dois TINYMUSHROOMS em troca.
+
+#org @TwoIsland_House_Text_HandedOverOneBigMushroomPortuguese
+À entregou um COGUMELO GRANDE em troca.
+
+#org @TwoIsland_House_Text_NeedMushroomOrTwoToLearnMovePortuguese
+Se seu POK\eMON precisar aprender um movimento,\npreciso de um ou dois COGUMELOS.
+
+#org @TwoIsland_House_Text_CantTeachAnEggPortuguese
+Hein? Não há um único movimento que eu\npossa ensinar a um EGG.
+
+#org @TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCornerPortuguese
+Você já visitou o GAME CORNER? Não é bom\nir sozinho. Você precisa levar um amigo\pjunto.
+
+#org @TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCapePortuguese
+Poucas pessoas vivem na ILHA DUAS. Há uma\nsenhora que mora no cabo. Ela está lá desde\pnão sei quando.
+
+#org @ThreeIsland_House1_Text_YoureAlwaysSoCoolPortuguese
+À! Você é sempre tão legal! Vou fazer um\nalmoço para você também, um dia,
+
+#org @ThreeIsland_House1_Text_RareRocksGemsDisplayedPortuguese
+Pedras e joias raras são exibidas.
+
+#org @ThreeIsland_PokemonCenter_1F_Text_PCNetworkCanLinkWithKantoPortuguese
+Ei, você ouviu a notícia? A rede de PCs\naqui agora pode se conectar com PCs no\pKANTO. Não sei como isso aconteceu, mas\né fantástico!
+
+#org @ThreeIsland_PokemonCenter_1F_Text_ImpossibleToSurfBetweenIslandsPortuguese
+É impossível SURFAR entre as ilhas por\nestas bandas. As marés são muito rápidas\pe que traiçoeiras.
+
+#org @ThreeIsland_PokemonCenter_1F_Text_AlwaysBerriesInBerryForestPortuguese
+Vamos esmagar BAGAS! …Isso seria desperdiçar\nBAGAS? Você sempre pode encontrar algumas\pBAGAS o chão na FLORESTA DE BAGAS.
+
+#org @ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBiggerPortuguese
+É verdade? CELADON DEPT. STORE é várias\nvezes maior que esta loja?
+
+#org @ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForestPortuguese
+Às vezes compro remédios aqui. Mas muitas\npessoas curam POK\eMON com BERRYS da BERRY\pFOREST. Afinal, BERRYS são grátis e nunca\nacabam.
+
+#org @ThreeIsland_Mart_Text_BikersWereAboutToTrashMartPortuguese
+Aqueles MOTOCICLISTAS estavam prestes a\ndestruir este POK\eMON MART. Estou feliz\pque eles decidiram ir embora!
+
+#org @ThreeIsland_House2_Text_CantMakeThisSpoonBendPortuguese
+Urrrrrrrggghhh… Kwaaaaah! …É inútil! Não\nconsigo fazer esta colher dobrar-se com\pa minha mente. Talvez eu realmente não\ntenha nenhum poder psíquico.
+
+#org @ThreeIsland_House2_Text_IAdmireSabrinaPortuguese
+Você conhece uma garota LÍDER DE GYM SAFFRON\nCITY? Ela usa POK\eMON do tipo PSYCHIC,\pcerto? Eu a admiro, de verdade. Ouvi dizer\nque ela é uma cliente legal e linda também.
+
+#org @ThreeIsland_House3_Text_WantedToLiveSomewhereQuietPortuguese
+Comprei esta casa porque queria morar em\nalgum lugar tranquilo. Hoje, acho que vou\ppescar.
+
+#org @ThreeIsland_House4_Text_GhostsInBerryForestPortuguese
+Você nunca deve sair sozinho para a FLORESTA\nDE BERRY. Por quê? Há fantasmas lá.
+
+#org @ThreeIsland_House4_Text_PapaKeepsLyingToMePortuguese
+Papai continua mentindo para mim e não\nme deixa sair para brincar!
+
+#org @ThreeIsland_House5_Text_ImNotLostellePortuguese
+Eu? Eu não sou LOSTELLE. Ela provavelmente\nfoi para a FLORESTA DE BAGAS, eu acho.\pEla colhe BAGAS lá para fazer o almoço.
+
+#org @ThreeIsland_House5_Text_IllGoPlayWithLostellePortuguese
+Acho que vou brincar com LOSTELLE hoje.
+
+#org @Text_BodySlamTeachPortuguese
+Pronto? Boing! Estamos tendo uma partida\nde BODY SLAM ara ver quem sai primeiro.\pSe você se juntasse a nós, você seria sesmagado\ncomo um inseto... Que tal eu ensinar BODY\pSLAM a  a POK\eMON seu em vez disso?
+
+#org @Text_BodySlamDeclinedPortuguese
+Venha de novo! Boing!
+
+#org @Text_BodySlamWhichMonPortuguese
+Qual POK\eMON quer aprender como o BODY\nSLAM?
+
+#org @Text_BodySlamTaughtPortuguese
+Boioing!
+
+#org @FourIsland_House1_Text_FatManPortuguese
+É isso! Você é tão memorável!
+
+#org @FourIsland_PokemonCenter_1F_Text_RareIceMonsInCavePortuguese
+Há um tipo raro de ICE POK\eMON que vive\nna caverna. Recebemos muitos visitantes\pesperando ver esse POK\eMON.
+
+#org @FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBeforePortuguese
+Oh? UM OVO POK\eMON? …Não tenho ideia.\n…Oh, espere. O pessoal da Creche a cidade\pestava dizendo alguma coisa. Eles disseram\nque já haviam encontrado OVOS antes em\psua propriedade.
+
+#org @FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrivedPortuguese
+O que é isso? O novo POK\eMON JOURNAL ainda\nnão chegou nesta ilha?
+
+#org @JPText_BodySlamTeachPortuguese
+É isso! Qual deles cairá na frente dela?\nVocê está se apoiando na sua namorada e\psente que vai esmagá-la. Em vez disso,\nela está se apoiando no Pokémon da sua\pnamorada e vai morrer.
+
+#org @JPText_BodySlamDeclinedPortuguese
+Venha de novo garoto!
+
+#org @JPText_BodySlamWhichMonPortuguese
+Para qual Pokémon você gostaria de ensiná-lo?
+
+#org @JPText_BodySlamTaughtPortuguese
+Ei, ei!
+
+#org @FourIsland_House1_Text_YoureAwfullyHeavyPortuguese
+Lá! Boing! Você é muito pesado!
+
+#org @FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIslandPortuguese
+LORELEI: Há algo que está pesando muito\nem minha mente. Se alguma coisa acontecesse\pna a ilha onde nasci... Eu não saberia\ndisso se estivesse a LIGA POK\eMON. Eu\pme pergunto se isso me tornaria iirresponsável\npela minha casa...
+
+#org @FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhilePortuguese
+LORELEI: Então, você conseguiu resolver\ntodos os problemas aqui? Isso é maravilhoso.\pIsso significa que não há nenhuma razão\npara eu estar aqui o tempo todo. Obrigada...\pVoltarei ao POK\ eMON LEAGUE\em pouco tempo.
+
+#org @FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNowPortuguese
+Não sei o que acontecerá o futuro, mas...\nFarei o que puder aqui e agora. É tudo\po que posso fazer.
+
+#org @FourIsland_LoreleisHouse_Text_StuffedMonDollsGalorePortuguese
+Bonecos POK\eMON de pelúcia em abundância!
+
+#org @FourIsland_Mart_Text_LoreleiGrewUpOnThisIslandPortuguese
+Tivemos uma grande e poderosa TREINADORA\ncrescendo nesta ilha. Aposto que até você\pa conhece. É LORELEI da ELITE FOUR! Quando\nLORELEI era apenas uma criança, eu a ensinei\psobre POK\eMON .
+
+#org @FourIsland_Mart_Text_IcefallCaveIsFrigidPortuguese
+As SEVII ILHAS estão em uma região quente\nno geral. Mas há uma exceção que você precisa\pconhecer. A CAVERNA GELADA é gelada por\ncausa edos POK\eMON que vivem nela.
+
+#org @FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMealPortuguese
+Estou indo preparar uma refeição para uma\ncerta pessoa da alta sociedade.
+
+#org @FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMonPortuguese
+Você está em uma missão para capturar todos\nos tipos de POK\eMON? …Que incrível. Por\pfavor, me diga se você pegou um forte!
+
+#org @FiveIsland_House1_JPText_HusbandWentOffFishingPortuguese
+Boa noite, não precisa se despedir dos\nacompanhamentos! Bem, ela e o marido foram\ppescar, mas me pergunto se está tudo bem\npara ela fazer isso.
+
+#org @FiveIsland_House1_Text_HusbandWentOffFishingPortuguese
+Não se preocupe em comprar nada para o\njantar esta noite! …Foi o que meu marido\pdisse quando foi pescar hoje. Não tenho\ncerteza se posso contar com ele para cumprir\pessa promessa.
+
+#org @FiveIsland_House2_Text_MeadowBelongedToFamilyPortuguese
+Aquele PRADO pertence à nossa família há\ngerações. Eu deveria ter mandado construir\puma mansão gigante sobre ele. Seria preferível\nque aqueles bandidos corressem soltos nele!
+
+#org @SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIslandPortuguese
+Durante dez anos procurei RUÍNAS. Não,\nsão vinte anos. Tenho a sensação de que\phá algo escondido nesta ilha.
+
+#org @SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItemPortuguese
+Você conhece POK\eMON que evoluem\apenas\nquando negociados, certo? Mas você sabia\pque ainda existem outros? Alguns POK\eMON\nevoluem apenas quando negociados enquanto\pseguram itens específicos.
+
+#org @SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHerePortuguese
+É: Hey,À! Como está o seu POK\eDEX enchendo?\nParece que é impossível obter atodos os\pPOK\eMON andando por aqui apenas por aqui.\nTalvez existam POK\eMON que não ós conhecemos\pem algum lugar distante … … … … … … … …\n… … Bem, se eu não consigo fazer isso,\pnão há como você fazer isso. Não vou ficar\ntão desesperado com isso. I Vou continuar\pcoletando POK\eMON no meu ritmo enquanto\nos treino. Isso é o que farei. Então não\pfaz sentido ficar aqui. Posso ir para casa.\nÉ isso, então! Smell sim, mais tarde!
+
+#org @SixIsland_House_Text_GoodPlaceForNatureAndHistoryPortuguese
+Não há nada que os jovens achem excitante\naqui nesta ilha. Mas este é um bom lugar\pem termos de natureza e história. Relaxe\ne aproveite a sua estadia.
+
+#org @SixIsland_Mart_Text_AgathaOldestEverEliteFourMemberPortuguese
+Jogue com muito POK\eMON e viva\uma vida\nlonga! Veja AGATHA, por exemplo. Ela estabeleceu\pum recorde por ser o membro mais velho\ndo ELITE FOUR. Ela me estimula a fazer\pcoisas maiores.
+
+#org @SixIsland_Mart_Text_ShouldBuyMailAndWriteLetterPortuguese
+Eu deveria comprar um CORREIO e escrever\numa carta para ele...
+
+#org @FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWishPortuguese
+SELPHY: Ah? Conheço você de algum lugar?\nAh, mas isso não importa. Estou extremamente\pentediado. Por favor, ouça meu desejo.
+
+#org @FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPleasePortuguese
+Á. Quero ver um agora mesmo. Por favor,\nrealize meu desejo.
+
+#org @FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaitingPortuguese
+SELPHY: Ah, estou cansada disso. Estou\ncansada de esperar por você. Eu vou te\pperdoar desta vez, mas por favor, não me\nfalhe da próxima vez.
+
+#org @FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYouPortuguese
+Á você pegou para mim. Giggle… Vejo uma\nsemelhança com você. Muito obrigado. …\p… … … … … Há algum problema? Você pode\nir embora. … … … … … …  Ah, tudo bem. Agora\pentendo. SEBASTIAN! Preciso de você aqui\nneste instante!
+
+#org @FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLadyPortuguese
+Mordomo: Sim, minha senhora.
+
+#org @FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciationPortuguese
+SELPHY: Certifique-se de que esta pessoa\receba\num sinal de agradecimento.
+
+#org @FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBidPortuguese
+Mordomo: Farei o que você ordena, minha\nsenhora.
+
+#org @FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanksPortuguese
+Mordomo: Agradeço sinceramente por agradar\nLady SELPHY. Por favor, aceite isso como\pum agradecimento...
+
+#org @FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFullPortuguese
+Mordomo: Sua BOLSA parece estar infelizmente\ncheia.
+
+#org @FiveIsland_ResortGorgeous_House_Text_OhHowDisappointingPortuguese
+Ah… Que decepcionante.
+
+#org @FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuckPortuguese
+SELPHY: Desejo-lhe boa sorte.
+
+#org @FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSunPortuguese
+Mordomo: O sorriso de Lady SELPHY has o\nbrilho do sol. Por favor, imploro que traga\palegria ara Lady SELPHY.
+
+#org @Text_UltimateMoveThatMonPortuguese
+Eu aperfeiçoei o movimento definitivo do\ntipo its… Mas ninguém vai usá-lo para uso\pfuturo? …Hm? Hmmm! Y-você… Th-aquele [B_COPY_VAR_1]Á…
+
+#org @Text_JustMistakenPortuguese
+…Não… Eu só estava enganado.
+
+#org @Text_AllowMeToTeachMonUltimateMovePortuguese
+Á é digno de aprender meu movimento final!\nVocê permitirá isso? Você permitirá que\pseuÁ para aprender meu
+
+#org @Text_YouRejectItPortuguese
+Gaah! Você rejeita? Não, não serei dissuadido!
+
+#org @Text_LetMeConferUltimateMovePortuguese
+em seu
+
+#org @Text_TaughtMovePortuguese
+Suspiro, suspiro, suspiro… Eu não pensei\nque poderia ensinar esse movimento enquanto\painda estivesse vivo…
+
+#org @Text_MakeBestUseOfMovePortuguese
+Eu imploro que você faça o melhor uso desse\nmovimento e ganhe poder!
+
+#org @Text_PassedOnEverythingIKnowPortuguese
+Suspiro, suspiro, suspiro... Não me arrependo\nagora. Transmiti tudo o que sei. Agora\pposso viver minha vida sabendo que meu\ntrabalho está feito.
+
+#org @Text_FeelRejuvenatedPortuguese
+Depois que passei meu conhecimento para\nvocês, senti muito alívio. Na verdade,\pme sinto rejuvenescido,\como se fosse mais\njovem de novo!
+
+#org @SixIsland_WaterPath_House1_Text_LoveItNeedItHeracrossPortuguese
+Hera, hera, HERACROSS! Grande e brilhante,\né o chefe dos insetos! Adorei, preciso,\pHERACROSS!
+
+#org @SixIsland_WaterPath_House1_Text_MayIMeasureHeracrossPortuguese
+Eeeeek! Isso é um HERACROSS! Por favor,\nposso medir o quão grande ele é?
+
+#org @SixIsland_WaterPath_House1_Text_ItsXInchesDeserveRewardPortuguese
+Polegadas! Nunca vi nada assim! Você merece\numa recompensa!
+
+#org @SixIsland_WaterPath_House1_Text_WantToSeeBiggerOnePortuguese
+Quero ver um HERACROSS muito, muito maior\nque esse. Oh, como eu os adoro, HERACROSS\pgrande!
+
+#org @SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBeforePortuguese
+Medição em polegadas… Ah, amor! É o mesmo\nde antes.
+
+#org @SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggestPortuguese
+polegadas. O HERACROSS anterior era maior.\nEraÇ polegadas, o maior HERACROSS que você\pme trouxe.
+
+#org @SixIsland_WaterPath_House1_Text_ThisWontDoPortuguese
+Oh não! Isso não vai servir! HERACROSS\nparece muito mais machista e legal, e tem\pum chifre lindo!
+
+#org @SixIsland_WaterPath_House1_Text_YourBagIsFullPortuguese
+Sua BOLSA está cheia. Minha recompensa\nnão cabe.
+
+#org @SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInchesPortuguese
+C polegadas!
+
+#org @SixIsland_WaterPath_House1_Text_BlankChartOfSomeSortPortuguese
+É algum tipo de gráfico em branco. Tem\nespaços para escrever registros de algum\ptipo.
+
+#org @SixIsland_WaterPath_House2_Text_MyNeighborMeasuredMePortuguese
+Minha altura é 67,0 polegadas no botão.\nSei que é isso precisamente porque meu\pvizinho me mediu.
+
+#org @SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinInPortuguese
+Dance, dance! CHANSEY Dance! Você também\nparticipa! Dance, dance!
+
+#org @SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDancePortuguese
+Você gostaria de dançar?
+
+#org @SevenIsland_SevaultCanyon_House_Text_ComeOnDancePortuguese
+Vamos, dance!
+
+#org @SevenIsland_SevaultCanyon_House_Text_DancedChanseyDancePortuguese
+Para dançar a dança CHANSEY!
+
+#org @SevenIsland_SevaultCanyon_House_Text_YoureAllChipperNowPortuguese
+Ahahahaha!  Pronto, vocês estão todos animados\nagora! Sorte!
+
+#org @SevenIsland_SevaultCanyon_House_Text_ChanseyPortuguese
+Chansey: Chansi!
+
+#org @Text_WouldYouLikeToMixRecordsPortuguese
+Gostaria de mixar registros com\outros\nTRAINERS?
+
+#org @Text_WeHopeToSeeYouAgain2Portuguese
+Esperamos vê-lo novamente!
+
+#org @Text_BootedUpPCPortuguese
+À inicializei o PC.
+
+#org @Text_AccessWhichPCPortuguese
+Qual PC deve ser acessado?
+
+#org @Text_AccessedSomeonesPCPortuguese
+Acessou o PC de alguém.
+
+#org @Text_OpenedPkmnStoragePortuguese
+Sistema de armazenamento POK\eMON aberto.
+
+#org @Text_AccessedPlayersPCPortuguese
+No PC.
+
+#org @Text_AccessedBillsPCPortuguese
+Acessei o PC do BILL.
+
+#org @Text_WelcomeTradeCenterPortuguese
+Bem-vindo ao POK\eMON CABLE CLUB TRADE\nCENTER.
+
+#org @Text_WelcomeColosseumPortuguese
+Bem-vindo ao POK\eMON CABLE CLUB COLOSSEUM.
+
+#org @Text_WelcomeTimeCapsulePortuguese
+Bem-vindo ao POK\eMON CABLE CLUB TIME CAPSULE.
+
+#org @Text_PleaseComeAgainPortuguese
+Por favor, volte novamente!
+
+#org @Text_HavingDiscountSaleTodayPortuguese
+Bem-vindo! Estamos tendo uma promoção com\ndesconto hoje!
+
+#org @Text_PlayerWhatCanIDoForYouPortuguese
+È, seja bem-vindo! O que posso fazer por\nvocê?
+
+#org @Text_ObtainedTheXPortuguese
+Obteve o [B_COPY_VAR_2]Â!
+
+#org @Text_BagIsFullPortuguese
+A bolsa está cheia…
+
+#org @Text_PutItemAwayPortuguese
+Coloque o o
+
+#org @Text_FoundOneItemPortuguese
+Para fundar um
+
+#org @Text_TooBadBagFullPortuguese
+Que pena! A BOLSA está cheia…
+
+#org @Text_FoundXCoinsPortuguese
+Encontrado Sobre
+
+#org @Text_PutCoinsAwayInCoinCasePortuguese
+À guarde as MOEDAS o CASO DE MOEDAS.
+
+#org @Text_CoinCaseIsFullPortuguese
+Que pena! A CAIXA DE MOEDAS está cheia…
+
+#org @Text_NothingToPutThemInPortuguese
+Que pena! Não há nada para colocá-los...
+
+#org @Text_FoundXItemsPortuguese
+Encontrado Sobre
+
+#org @Text_ObtainedTheDecorPortuguese
+Obteve o [B_COPY_VAR_2]Â!
+
+#org @Text_NoRoomForAnotherDecorPortuguese
+Muito ruim! Não há mais espaço para amais\n[B_COPY_VAR_2]…
+
+#org @Text_DecorTransferredToPCPortuguese
+foi transferido ara o PC.
+
+#org @Text_MakingPreparationsPortuguese
+É Junbichu!
+
+#org @Text_WantWhichFloorPortuguese
+Qual andar você deseja?
+
+#org @Text_BagItemCanBeRegisteredPortuguese
+Um item no BAG pode ser registrado no SELECT\npara facilitar o uso.
+
+#org @Text_PlayerBootedUpPCPortuguese
+À inicializei o PC.
+
+#org @Text_LinkWasCanceledPortuguese
+A mensalidade foi cancelada
+
+#org @Text_GiveNicknameToReceivedMonPortuguese
+você recebeu?
+
+#org @gText_PkmnFainted3Portuguese
+Estando desmaiado... 
+
+#org @Text_WelcomeWantToHealPkmnPortuguese
+Bem-vindo ao nosso CENTRO POK\eMON! Você\ngostaria que eu curasse seu POK\eMON de\pvolta à saúde perfeita?
+
+#org @Text_TakeYourPkmnForFewSecondsPortuguese
+Ok, vou pegar seu POK\eMON por alguns segundos.
+
+#org @Text_WeHopeToSeeYouAgainPortuguese
+Esperamos vê-lo novamente!
+
+#org @Text_RestoredPkmnToFullHealthPortuguese
+Obrigado por esperar. Restauramos seu POK\eMON\npara plena saúde.
+
+#org @Text_WantToSurfPortuguese
+A água está tingida de um azul profundo…\nGostaria de SURFAR?
+
+#org @Text_UsedSurfPortuguese
+Á usei SURF!
+
+#org @Text_CurrentTooFastPortuguese
+A corrente é muito rápida! SURF não pode\nser usado aqui…
+
+#org @Text_DoorOpenedFarAwayPortuguese
+Era como se uma porta tivesse se aberto\nem algum lugar...
+
+#org @Text_BigHoleInTheWallPortuguese
+Há um grande buraco na parede!
+
+#org @Text_WirelessClubUndergoingAdjustmentsPortuguese
+Sinto muito. O POK\eMON WIRELESS CLUB está\nassando por ajustes agora.
+
+#org @Text_AppearsToBeUndergoingAdjustmentsPortuguese
+Parece estar passando por ajustes...
+
+#org @Text_HandedOverItemPortuguese
+À entregou o 
+
+#org @Text_GiveNicknameToThisMonPortuguese
+Deseja dar um apelido para este [B_COPY_VAR_1]Á?
+
+#org @Text_DugUpItemFromGroundPortuguese
+Para desenterrar um das profundezas do\nsolo.
+
+#org @Text_OnlySkilledTrainersAllowedThroughPortuguese
+Somente TREINADORES verdadeiramente habilidosos\npodem passar. Você não tem o [B_COPY_VAR_1]Á yet!
+
+#org @Text_CantLetYouPassPortuguese
+Regras são regras. Não posso deixar você\npassar.
+
+#org @Text_OhThatsBadgeGoRightAheadPortuguese
+Á! Vá em frente.
+
+#org @Text_OnlyPassWithBadgeDontHaveYetPortuguese
+Á. Você não tem oÁ yet. Você precisa dele\npara chegar à LIGA POK\eMON.
+
+#org @Text_OnlyPassWithBadgeOhGoAheadPortuguese
+Á. Ah! Esse é o Ok, então. Por favor, vá\nem frente.
+
+#org @Aide_Text_HaventCaughtEnoughMonsForItemPortuguese
+Ç tipos de POK\eMON! Você precisaÁ tipos\nse você quiser o
+
+#org @Aide_Text_GetEnoughMonsComeBackForItemPortuguese
+Á tipos de POK\eMON, volte para o
+
+#org @Aide_Text_DontHaveAnyRoomForItemPortuguese
+Oh! Vejo que você não tem espaço para [B_COPY_VAR_2]Â.
+
+#org @Trade_Text_LookingForMonWannaTradeForMonPortuguese
+Á! Quero trocar um pelo meu 
+
+#org @Trade_Text_AwwOhWellPortuguese
+Ah! Ah, bem...
+
+#org @Trade_Text_WhatThatsNoMonPortuguese
+O quê? Isso não é [B_COPY_VAR_1]Á!
+
+#org @Trade_Text_HeyThanksPortuguese
+Ei, obrigado!
+
+#org @Trade_Text_IsntMyOldMonGreatPortuguese
+ótimo?
+
+#org @Trade_Text_DoYouHaveMonWouldYouTradeForMonPortuguese
+Á? Você concordaria com uma troca por meu
+
+#org @Trade_Text_WellIfYouDontWantToPortuguese
+Bem, se você não quiser…
+
+#org @Trade_Text_ThisIsntMonPortuguese
+Á. Pense em mim se você conseguir um.
+
+#org @Trade_Text_ThanksPortuguese
+Obrigado!
+
+#org @Trade_Text_HasTradedMonGrownStrongerPortuguese
+que eu troquei você, ficou mais forte?
+
+#org @Trade_Text_DoYouHaveMonWantToTradeForMonPortuguese
+Á? Quer trocá-lo pelo meu 
+
+#org @Trade_Text_ThatsTooBadPortuguese
+Isso é ruim.
+
+#org @Trade_Text_ThisIsNoMonPortuguese
+Á. Se você conseguir um, troque comigo.
+
+#org @Trade_Text_ThanksYoureAPalPortuguese
+Obrigado, você é um amigo!
+
+#org @Trade_Text_HowIsMyOldMonPortuguese
+Â? MeuÁ está indo muito bem!
+
+#org @Text_CardKeyOpenedDoorPortuguese
+Bingo! A CARD KEY abriu a porta!
+
+#org @Text_ItNeedsCardKeyPortuguese
+Não! É necessária uma CHAVE DE CARTÃO!
+
+#org @Text_AccessedProfOaksPCPortuguese
+Acessado PROF. PC do OAK… Acessou o POK\eDEX\nRating Sistema…
+
+#org @Text_HavePokedexRatedPortuguese
+Gostaria que seu POK\eDEX fosse avaliado?
+
+#org @Text_ClosedLinkToProfOaksPCPortuguese
+Link fechado para PROF. PC da Oak.
+
+#org @Text_VoiceRangOutDontRunAwayPortuguese
+A voz de alguém soou: “Não fuja!”
+
+#org @Text_IdLikeToSeeRequestPortuguese
+Eu gostaria de ver isso também.SimEh,Eu\ngostaria de ver isso também.
+
+#org @Text_ThankYouForShowingMePortuguese
+Não,EhOh! Obrigado e até mais!
+
+#org @Text_ThatsNotRightPortuguese
+Isso é diferente!
+
+#org @Text_TheDoorIsClosedPortuguese
+A porta esta fechada...
+
+#org @Text_TheDoorIsOpenPortuguese
+A porta está aberta…
+
+#org @Text_MonSentToBoxInSomeonesPCPortuguese
+Â foi transferido para PC de alguém. Foi\ncolocado em  BOX “
+
+#org @Text_MonSentToBoxInBillsPCPortuguese
+Â foi transferido para PC do BILL. Foi\ncolocado em  BOX “
+
+#org @Text_MonSentToBoxSomeonesBoxFullPortuguese
+Ç” no O PC de alguém estava cheio. Â foi\ntransferido para BOX “
+
+#org @Text_MonSentToBoxBillsBoxFullPortuguese
+Ç” no PC do BILL estava cheio. Â foi transferido\npara BOX “
+
+#org @Text_PlayerObtainedTheMonPortuguese
+À obtido o
+
+#org @Text_MonSentToBoxInPCPortuguese
+na caixa do meu computadore
+
+#org @Text_NoMoreRoomForPokemonPortuguese
+Não há mais espaço para POK\eMON! As CAIXAS\nPOK\eMON estão cheias e não posso aceitar\pmais!
+
+#org @Text_FirstShouldRestoreMonsHealthPortuguese
+Primeiro, você deve restaurar seu POK\eMON\nà integridade total.
+
+#org @Text_MonsHealedShouldBuyPotionsPortuguese
+Seus POK\eMON foram curados com saúde perfeita.\nSe a energia do seu POK\eMON, estivar baixa,\ppor favor venha nos ver. Se você está planejando\nir longe no campo, você deve comprar algumas\pPOÇÕES  at o POK\eMON MART. Esperamos que\nvocê se destaque!
+
+#org @Text_MonsHealedPortuguese
+Seus POK\eMON foram curados ara uma saúde\nperfeita. Esperamos que você se destaque!
+
+#org @Text_HadQuiteAnExperienceTakeRestPortuguese
+À! Bem-vindo a casa. Parece que você teve\nbastante  experiência. Talvez você devesse\pdescansar rapidamente.
+
+#org @Text_MomExplainHPGetPotionsPortuguese
+MÃE: Ah, que bom! Você e seu POK\eMON estão\nótimos. Acabei de receber notícias do PROF.\pOAK. Ele disse que a energia do POK\eMON\né medida em HP. Se o seu POK\eMON perder\po HP, você pode restaurá-lo em qualquer\nPOK\eMON CENTER. Se você for viajar para\plonge,  o TREINADOR inteligente estoca\nPOÇÕES no POK\eMON MART. Deixe-me orgulhoso,\pquerido! Tome cuidado!
+
+#org @Text_WhitedOutLostMoneyPortuguese
+À está sem capacidade utilizável POK\eMON!\nÀ entrou em pânico e perdeu \$AplicativoÀ\pbranqueado!
+
+#org @Text_WhitedOutPortuguese
+À está sem capacidade utilizável POK\eMON!\nÀ branqueado!
+
+#org @Text_MayIHelpYouPortuguese
+Olá! Posso ajudar?
+
+#org @Text_FillOutQuestionnairePortuguese
+Há um questionário. Deseja preenchê-lo?
+
+#org @Text_QuestionnaireThankYouPortuguese
+Obrigado por dedicar seu tempo para preencher\nnosso questionário. Seu feedback será usado\ppara referência futura.
+
+#org @Text_YouKnowThoseWordsPortuguese
+Ah, olá! Você conhece essas palavras? Isso\nsignifica que você deve saber sobre o PRESENTE\pMISTÉRIO. De agora em diante, você deverá\nreceber PRESENTES MISTÉRIOS!
+
+#org @Text_YouCanAccessMysteryGiftPortuguese
+Depois de salvar o jogo, você poderá acessar\no PRESENTE MISTÉRIO.
+
+#org @Text_ThankYouForAccessingMysteryGiftPortuguese
+Obrigado por acessar o sistema MYSTERY\nGIFT.
+
+#org @Text_MonFlewAwayPortuguese
+Á flew away!
+
+#org @Text_TheresBedLetsRestPortuguese
+Tem uma cama... vamos descansar
+
+#org @Text_FoundTMHMContainsMovePortuguese
+Para fundar umÂ! Contém
+
+#org @Text_WhereDoYouWantToGoPortuguese
+Bom trabalho! Onde você quer ir?
+
+#org @Text_AllAboardSeagallopNumPortuguese
+Tudo bem! Todos a bordo do SEAGALLOP HI-SPEED\n[B_COPY_VAR_1]Á!
+
+#org @Text_GyaooPortuguese
+Uau!
+
+#org @Text_MoveCanOnlyBeLearnedOncePortuguese
+Este movimento só pode ser aprendido\uma\nvez. Tudo bem?
+
+#org @PokedexRating_Text_HowIsPokedexComingAlongPortuguese
+OAK: Que bom ver você! Como está seu POK\eDEX?\nAqui, deixe-me dar uma olhada.
+
+#org @PokedexRating_Text_SeenXOwnedYPortuguese
+Á POK\eMON visto e Propriedade de POK\eMON.\nÉÁPROF. Avaliação do carvalho:
+
+#org @PokedexRating_Text_LessThan10Portuguese
+Você ainda tem muito o que fazer. Entre\nem cada pedaço de grama que você ver e\pprocure por POK\eMON!
+
+#org @PokedexRating_Text_LessThan20Portuguese
+Parece que você está no caminho certo!\nDei um FLASH HM a um dos meus AJUDANTES.\pCertifique-se de ir buscá-lo!
+
+#org @PokedexRating_Text_LessThan30Portuguese
+Seu POK\eDEX ainda precisa de um pouco\nmais de volume! Tente capturar outras espécies\pde POK\eMON!
+
+#org @PokedexRating_Text_LessThan40Portuguese
+Bom, parece que você está se esforçando!\nDei a um dos meus AJUDANTES um ITEMFINDER.\pCertifique-se de coletá-lo!
+
+#org @PokedexRating_Text_LessThan50Portuguese
+Seu POK\eDEX está indo muito bem! Dei a\num dos meus AJUDANTES uma MOEDA AMULETO.\pCertifique-se de obtê-lo!
+
+#org @PokedexRating_Text_LessThan60Portuguese
+Ah, você finalmente ultrapassou as 50 espécies!\nDei uma EXP a um dos meus AUXILIARES. COMPARTILHE.\pNão deixe de ir buscá-lo!
+
+#org @PokedexRating_Text_LessThan70Portuguese
+Hoho! Isso está se transformando em um\nPOK\eDEX bastante respeitável!
+
+#org @PokedexRating_Text_LessThan80Portuguese
+Muito bom! Acho que você coletará ainda\nmais POK\eMON indo pescar!
+
+#org @PokedexRating_Text_LessThan90Portuguese
+Maravilhoso! Deixe-me adivinhar... Você\ngosta de colecionar coisas, não é?
+
+#org @PokedexRating_Text_LessThan100Portuguese
+Estou impressionado! Deve ter sido difícil\nde fazer!
+
+#org @PokedexRating_Text_LessThan110Portuguese
+Você finalmente atingiu 100 espécies! Não\nacredito como você é bom!
+
+#org @PokedexRating_Text_LessThan120Portuguese
+Você ainda tem as formas evoluídas oPOK\eMON!\nSuper!
+
+#org @PokedexRating_Text_LessThan130Portuguese
+Excelente! Troque com amigos para ganhar\nmais!
+
+#org @PokedexRating_Text_LessThan140Portuguese
+Excelente! Você se tornou um verdadeiro\nprofissional nisso!
+
+#org @PokedexRating_Text_LessThan150Portuguese
+Não tenho mais nada a dizer! Você é o PROFESSOR\nPOK\eMON agora!
+
+#org @PokedexRating_Text_CompletePortuguese
+Seu POK\eDEX está totalmente completo!\nParabéns!!
+
+#org @PokedexRating_Text_NationalDexSeenXOwnedYPortuguese
+Á POK\eMON visto e Propriedade de POK\eMON.
+
+#org @PokedexRating_Text_LookForwardToFilledNationalDexPortuguese
+Estarei ansioso para vê-lo preencher o\nPOK\eDEX NACIONAL!
+
+#org @PokedexRating_Text_YouveCompletedDexPortuguese
+Finalmente… Você finalmente completou o\nPOK\eDEX! É magnífico! Realmente, este\pé um feito fantástico!
+
+#org @PokedexRating_Text_WroooaaarrrPortuguese
+Wrooooooaaaaarrrr!
+
+#org @PokedexRating_Text_ThankYouMadeDreamRealityPortuguese
+À! Atenciosamente, obrigado! Você tornou\nmeu sonho realidade!
+
+#org @PokedexRating_Text_LoveSeeingYourPokedexPortuguese
+OAK: Ah, bem-vindo! Diga-me, como está\nseu POK\eDEX vai? Wahaha! Na verdade, eu\psei como é, mas adoro vê-lo de qualquer\nmaneira! Vamos ver...
+
+#org @Braille_Text_UpPortuguese
+Ganho
+
+#org @Braille_Text_DownPortuguese
+Sanonhi
+
+#org @Braille_Text_RightPortuguese
+Hekasosuho
+
+#org @Braille_Text_LeftPortuguese
+Próximo
+
+#org @Braille_Text_CutPortuguese
+Uau
+
+#org @Braille_Text_ABCPortuguese
+Meu
+
+#org @Braille_Text_GHIPortuguese
+Sosuka
+
+#org @Braille_Text_MNOPortuguese
+Cole
+
+#org @Braille_Text_TUVPortuguese
+Houyuu
+
+#org @Braille_Text_DEFPortuguese
+gritar
+
+#org @Braille_Text_JKLPortuguese
+Quarto
+
+#org @Braille_Text_PQRSPortuguese
+Numaheni
+
+#org @Braille_Text_CommaPortuguese
+foto
+
+#org @Braille_Text_EverythingPortuguese
+Kyukhegohosukahiso
+
+#org @Braille_Text_HasMeaning1Portuguese
+Suani Tekeahikahiso
+
+#org @Braille_Text_ExistencePortuguese
+Keokai Hokehiuke
+
+#org @Braille_Text_HasMeaning2Portuguese
+Suani Tekeahikahiso
+
+#org @Braille_Text_BeingAlivePortuguese
+Okekahiso Anakayuke
+
+#org @Braille_Text_HasMeaning3Portuguese
+Suani Tekeahikahiso
+
+#org @Braille_Text_HaveDreamsPortuguese
+Suake Para Saheke
+
+#org @Braille_Text_UsePowerPortuguese
+Unike Nunonkehewa
+
+#org @Braille_Text_LetTheTwoPortuguese
+Nakeho Hosuke Hon
+
+#org @Braille_Text_GlitteringPortuguese
+Há um sorriso no meu rosto
+
+#org @Braille_Text_StonesPortuguese
+Nihonohikeni
+
+#org @Braille_Text_OneInRedPortuguese
+um número hexadecimal
+
+#org @Braille_Text_OneInBluePortuguese
+Nohike Kahi Onauke
+
+#org @Braille_Text_ConnectThePortuguese
+Uno Hihike Uho Hosuke
+
+#org @Braille_Text_PastPortuguese
+Nuanihowa
+
+#org @Braille_Text_TwoFriendsPortuguese
+Apenas um pouco de luz solar
+
+#org @Braille_Text_SharingPortuguese
+É uma coisa natural
+
+#org @Braille_Text_PowerOpenPortuguese
+De Nunonke para Nonukehi
+
+#org @Braille_Text_AWindowToPortuguese
+Anka Hisanon Hono
+
+#org @Braille_Text_ANewWorldPortuguese
+Ah, que pena
+
+#org @Braille_Text_ThatGlowsPortuguese
+Hosuaho Sonanonniwa
+
+#org @Braille_Text_TheNextPortuguese
+Hosuke Hikeho
+
+#org @Braille_Text_WorldWaitsPortuguese
+Nnohenasa Nakahoni
+
+#org @Braille_Text_ForYouPortuguese
+Vá para Kino
+
+#org @Text_TestMsgPortuguese
+Vamos testar esta mensagem! Bem-vindo ao\nseu mundo de Pokémon!
+
+#org @gFameCheckerFlavorText_ProfOak0Portuguese
+ÂÌO que essa pessoa faz? LABORATÓRIO DE\nPESQUISA OAK POK\eMON
+
+#org @gFameCheckerFlavorText_ProfOak1Portuguese
+ÂÌComo é essa pessoa?ÂÂFazer um guia completo\nsobre todos POK\eMON do mundo... Esse era\pmeu sonho!
+
+#org @gFameCheckerFlavorText_ProfOak2Portuguese
+ÂÌComo é essa pessoa?ÂÂPROF. OAK pode não\nparecer muito, mas ele é a autoridade em\pPOK\eMON. Muitos TREINADORES DE POK\eMON\no têm em alta conta.
+
+#org @gFameCheckerFlavorText_ProfOak3Portuguese
+ÂÌFamília e amigos? ÂÂPROF. OAK supostamente\nmora com seus netos, DAISY e
+
+#org @gFameCheckerFlavorText_ProfOak4Portuguese
+ÂÌFamília e amigos? Ouvi dizer que OAK\nse interessou muito por você, criança.\pEsse velho idiota já foi durão e de bonito.\nMas isso foi há décadas. Ele é uma sombra\pdo que era antes.
+
+#org @gFameCheckerFlavorText_ProfOak5Portuguese
+ÂÌO que essa pessoa faz? ÂÂPROF. OAK terá\nseu próprio programa de rádio em breve.\pO programa se chamará PROF. OAK'S POK\eMON\nSEMINAR.
+
+#org @gFameCheckerFlavorText_Daisy0Portuguese
+ÂÌO que essa pessoa faz? ÂÂSe você mostrar\na DAISY seu POK\eMON, ela saberá o quanto\pele gosta de você. Ocasionalmente, ela\naté preparará POK\eMON para você.
+
+#org @gFameCheckerFlavorText_Daisy1Portuguese
+ÂÌComo é essa pessoa?ÂÂMas a pessoa que\no POK\eMON mais gosta é DAISY, eu acho.
+

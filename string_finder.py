@@ -144,8 +144,9 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         for lang in detect_langs(constructedString2):
                             langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
                         if 'en' not in langs and 'ja' in langs2:
-                            if '[' in text:
-                                splitted_text = constructedString2.split('[')
+                            constructedString = constructedString2
+                            if '[' in constructedString:
+                                splitted_text = constructedString.split('[')
                                 for splitted_text_section in splitted_text:
                                     if ']' in splitted_text_section:
                                         splitted_text_2 = splitted_text_section.split(']')
@@ -180,10 +181,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                     translated_text += ' [' + splitted_text_section_2 + ']'
                                                 else:
                                                     translated_text += ' [' + splitted_text_section_2 + '] '
-                        constructedString = translated_text
+                        else:
+                            translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
                     except:
-                        if '[' in text:
-                            splitted_text = constructedString2.split('[')
+                        constructedString = constructedString2
+                        if '[' in constructedString:
+                            splitted_text = constructedString.split('[')
                             for splitted_text_section in splitted_text:
                                 if ']' in splitted_text_section:
                                     splitted_text_2 = splitted_text_section.split(']')
@@ -218,7 +221,9 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                 translated_text += ' [' + splitted_text_section_2 + ']'
                                             else:
                                                 translated_text += ' [' + splitted_text_section_2 + '] '
-                        constructedString = translated_text
+                        else:
+                            translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
+                    constructedString = translated_text
                     if constructedString and constructedString[-1] == '$':
                         text = constructedString[:-1]
                         text_newline = text.replace('\n', '\\n')
