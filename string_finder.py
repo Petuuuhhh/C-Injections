@@ -16,7 +16,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        if string == 'SSAnne_2F_Corridor_Text_RivalDefeat':
+        rom_offset = offset_actual
+        if string == 'SootopolisCity_Text_OhDoesntMatter':
             if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
                 if string in TextScripts:
                     constructedString = ''
@@ -82,7 +83,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 ordROM = ord(rom.read(1))
                     except:
                         pass
-                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                    rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
                     ordROM = ord(rom.read(1))
                     num = 0
                     num2 = 0
@@ -93,13 +94,13 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 returnValue = '0' + hex(ordROM).replace('0x', '').upper()
                             else:
                                 returnValue = hex(ordROM).replace('0x', '').upper()
-                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                            rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
                             ordROM2 = rom.read(2)
-                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                            rom.seek(int(('0x' + rom_offset), 16) - 0x08000000 - 2)
                             ordROM3 = rom.read(3)
-                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                            rom.seek(int(('0x' + rom_offset), 16) - 0x08000000 - 3)
                             ordROM5 = rom.read(5)
-                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                            rom.seek(int(('0x' + rom_offset), 16) - 0x08000000 - 5)
                             ordROM_2 = ''
                             ordROM_3 = ''
                             ordROM_5 = ''
@@ -123,28 +124,28 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 if num > -1:
                                     constructedString2 += Japanese[returnValue]
                                 num = num + 1
-                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
+                                rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
                                 ordROM = ord(rom.read(1))
                             else:
                                 num = 0
                                 if num2 > -1:
                                     if ordROM_2 in SpecialBuffers:
                                         # print(2, SpecialBuffers[ordROM_2])
-                                        constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
-                                        offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
+                                        constructedString2 += '[' + SpecialBuffers[ordROM_2] + ']'
+                                        rom_offset = hex(int(rom_offset, 16) + int('02', 16)).replace('0x', '')
                                     elif ordROM_3 in SpecialBuffers:
                                         # print(3, SpecialBuffers[ordROM_3])
-                                        constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
-                                        offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
+                                        constructedString2 += '[' + SpecialBuffers[ordROM_3] + ']'
+                                        rom_offset = hex(int(rom_offset, 16) + int('03', 16)).replace('0x', '')
                                     elif ordROM_5 in SpecialBuffers:
                                         # print(5, SpecialBuffers[ordROM_5])
-                                        constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
-                                        offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
+                                        constructedString2 += '[' + SpecialBuffers[ordROM_5] + ']'
+                                        rom_offset = hex(int(rom_offset, 16) + int('05', 16)).replace('0x', '')
                                     else:
-                                        offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                        rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
                                 num2 = num2 + 1
-                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
                                 ordROM = ord(rom.read(1))
                     except:
                         pass
@@ -173,6 +174,24 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                             translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                         except:
                                                             pass
+                                                    elif splitted_text_3 in SpecialBuffersReverse:
+                                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                            translated_text += '[' + splitted_text_3 + '] '
+                                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                            translated_text += ' [' + splitted_text_3 + ']'
+                                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                            translated_text += ' [' + splitted_text_3 + '] '
+                                                        else:
+                                                            translated_text += '[' + splitted_text_3 + ']'
+                                                    elif splitted_text_4 in SpecialBuffersReverse:
+                                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                            translated_text += '[' + splitted_text_4 + '] '
+                                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                            translated_text += ' [' + splitted_text_4 + ']'
+                                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                            translated_text += ' [' + splitted_text_4 + '] '
+                                                        else:
+                                                            translated_text += '[' + splitted_text_3 + ']'
                                             elif splitted_text_section_2 in SpecialBuffersReverse:
                                                 if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                     translated_text += '[' + splitted_text_section_2 + '] '
@@ -200,6 +219,24 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                         translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                     except:
                                                         pass
+                                            elif splitted_text_3 in SpecialBuffersReverse:
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                    translated_text += '[' + splitted_text_3 + '] '
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_3 + ']'
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_3 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_3 + ']'
+                                            elif splitted_text_4 in SpecialBuffersReverse:
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                    translated_text += '[' + splitted_text_4 + '] '
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_4 + ']'
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_4 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_3 + ']'
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
                                             if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
@@ -211,7 +248,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                 translated_text += '[' + splitted_text_section_2 + ']'
                         else:
                             translated_text = constructedString
-                    constructedString = translated_text
                     if constructedString and constructedString[-1] == '$':
                         text = constructedString[:-1]
                         text_newline = text.replace('\n', '\\n')
@@ -230,6 +266,24 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                         translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                     except:
                                                         pass
+                                            elif splitted_text_3 in SpecialBuffersReverse:
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                    translated_text += '[' + splitted_text_3 + '] '
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_3 + ']'
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_3 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_3 + ']'
+                                            elif splitted_text_4 in SpecialBuffersReverse:
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                    translated_text += '[' + splitted_text_4 + '] '
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_4 + ']'
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_4 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_3 + ']'
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
                                             if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
@@ -393,6 +447,24 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                         translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                                     except:
                                                         pass
+                                                elif splitted_text_3 in SpecialBuffersReverse:
+                                                    if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                        translated_text += '[' + splitted_text_3 + '] '
+                                                    elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                        translated_text += ' [' + splitted_text_3 + ']'
+                                                    elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                        translated_text += ' [' + splitted_text_3 + '] '
+                                                    else:
+                                                        translated_text += '[' + splitted_text_3 + ']'
+                                                elif splitted_text_4 in SpecialBuffersReverse:
+                                                    if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                        translated_text += '[' + splitted_text_4 + '] '
+                                                    elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                        translated_text += ' [' + splitted_text_4 + ']'
+                                                    elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                        translated_text += ' [' + splitted_text_4 + '] '
+                                                    else:
+                                                        translated_text += '[' + splitted_text_3 + ']'
                                         elif splitted_text_section_2 in SpecialBuffersReverse:
                                             if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
                                                 translated_text += '[' + splitted_text_section_2 + '] '
