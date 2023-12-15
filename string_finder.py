@@ -582,7 +582,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
-        if string == '#org @sText_PkmnClamped':
+        # if string == '#org @sText_PkmnClamped':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             widths = {}
             width = 39
