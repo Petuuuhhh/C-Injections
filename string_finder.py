@@ -739,7 +739,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                     else:
@@ -788,7 +788,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                 elif constructedString and constructedString[-1] != '$':
@@ -882,7 +882,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                     else:
@@ -931,7 +931,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
             elif string in JapaneseTextScripts:
@@ -1062,7 +1062,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                     else:
@@ -1111,7 +1111,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                 elif constructedString and constructedString[-1] != '$':
@@ -1182,7 +1182,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
                     else:
@@ -1231,7 +1231,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                         except:
                             pass
 f.close()
