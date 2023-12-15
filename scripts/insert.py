@@ -223,7 +223,7 @@ def RealRepoint2(rom: _io.BufferedReader, offsetTuples: [(int, int, str)]):
                 rom.write(bytes(pointerDict[pointer][0].to_bytes(4, 'little')))
                 break
 
-        offset += 4
+        offset += 1
 
     return offsetList
 
