@@ -658,7 +658,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                try:
+                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                except:
+                                                    pass
                                                 width = 39
                                                 widths[widthNum] = width
                                                 widthNum = widthNum + 1
@@ -799,6 +802,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                             if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
                                                 translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                try:
+                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                except:
+                                                    pass
                                                 width = 39
                                                 widths[widthNum] = width
                                                 widthNum = widthNum + 1
@@ -998,7 +1005,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                         if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            try:
+                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            except:
+                                                pass
                                         else:
                                             translated_text += '{' + splitted_text_section_2 + '}'
                                     else:
@@ -1115,7 +1125,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             splitted_text_3 = splitted_text_section_2.split(' ')[0]
                                             splitted_text_4 = splitted_text_section_2.split(' ')[1]
                                         if splitted_text_3 not in SpecialBuffers and splitted_text_4 not in SpecialBuffers:
-                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            try:
+                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            except:
+                                                pass
                                         else:
                                             translated_text += '{' + splitted_text_section_2 + '}'
                                     else:
