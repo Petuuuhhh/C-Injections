@@ -573,12 +573,17 @@ SpecialBuffers = {}
 for key, value in SpecialBuffersReverse.items():
     SpecialBuffers[value] = key
 
+f = open("output.txt", "w")
+
 from deep_translator import GoogleTranslator
+from time import sleep
+from tqdm import tqdm
 num3 = 0
 nineWidths = ['PLAYER', 'RIVAL', 'STR_VAR_1', 'STR_VAR_2', 'STR_VAR_3', 'B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
 SOURCE_ROM = "BPRE0.gba"
 with open(SOURCE_ROM, 'rb+') as rom:
-    for symbol in pokefirered_sym:
+    for symbol_index in tqdm(range(len(pokefirered_sym))):
+        symbol = pokefirered_sym[symbol_index]
         string = symbol[3]
         offset = symbol[0][2:]
         offset_actual = symbol[0]
@@ -734,7 +739,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                     else:
@@ -783,7 +788,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                 elif constructedString and constructedString[-1] != '$':
@@ -877,7 +882,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                     else:
@@ -926,7 +931,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
             elif string in JapaneseTextScripts:
@@ -1057,7 +1062,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                     else:
@@ -1106,7 +1111,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                 elif constructedString and constructedString[-1] != '$':
@@ -1177,7 +1182,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
                     else:
@@ -1226,6 +1231,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         limit = limit + len(stringStore) + 2
                                         charIndex = charIndex + len(stringStore) + 1
                                 charIndex = charIndex + 1
-                            print('#org @' + string + '\n' + wrapped_text + '\n')
+                            f.write('#org @' + string + '\n' + wrapped_text + '\n')
                         except:
                             pass
+f.close()
