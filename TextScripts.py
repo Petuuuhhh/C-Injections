@@ -8794,4654 +8794,6 @@ TextScripts = ['ViridianForest_Text_FriendsItchingToBattle',
 'SootopolisCity_Text_ThenILoveAutumn',
 'SootopolisCity_Text_OhDoesntMatter']
 
-sText_TaskOver = "TASK OVER\nタスクがオ-バ-しました";
-sText_Slash = "/";
-sText_HealthboxNickname = "{HIGHLIGHT 02}";
-sText_ShedinjaJpnName = "ヌケニン"; # Nukenin
-gStatusConditionString_PoisonJpn = "どく$$$$$";
-gStatusConditionString_SleepJpn = "ねむり$$$$";
-gStatusConditionString_ParalysisJpn = "まひ$$$$$";
-gStatusConditionString_BurnJpn = "やけど$$$$";
-gStatusConditionString_IceJpn = "こおり$$$$";
-gStatusConditionString_ConfusionJpn = "こんらん$$$";
-gStatusConditionString_LoveJpn = "メロメロ$$$";
-sText_Empty1 = "";
-sText_Trainer1LoseText = "{B_TRAINER1_LOSE_TEXT}";
-sText_Trainer2LoseText = "{B_TRAINER2_LOSE_TEXT}";
-sText_Trainer1RecallPkmn1 = "{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME}, come back!";
-sText_Trainer1WinText = "{B_TRAINER1_WIN_TEXT}";
-sText_Trainer1RecallPkmn2 = "{B_TRAINER1_NAME}: {B_OPPONENT_MON2_NAME}, come back!";
-sText_Trainer1RecallBoth = "{B_TRAINER1_NAME}: {B_OPPONENT_MON1_NAME} and\n{B_OPPONENT_MON2_NAME}, come back!";
-sText_Trainer2WinText = "{B_TRAINER2_WIN_TEXT}";
-sText_PkmnGainedEXP = "{B_BUFF1} gained{B_BUFF2}\n{B_BUFF3} EXP. Points!\p";
-sText_EmptyString4 = "";
-sText_ABoosted = " a boosted";
-sText_PkmnGrewToLv = "{B_BUFF1} grew to\nLV. {B_BUFF2}!{WAIT_SE}\p";
-sText_PkmnLearnedMove = "{B_BUFF1} learned\n{B_BUFF2}!{WAIT_SE}\p";
-sText_TryToLearnMove1 = "{B_BUFF1} is trying to\nlearn {B_BUFF2}.\p";
-sText_TryToLearnMove2 = "But, {B_BUFF1} can't learn\nmore than four moves.\p";
-sText_TryToLearnMove3 = "Delete a move to make\nroom for {B_BUFF2}?";
-sText_PkmnForgotMove = "{B_BUFF1} forgot\n{B_BUFF2}.\p";
-sText_StopLearningMove = "{PAUSE 32}Stop learning\n{B_BUFF2}?";
-sText_DidNotLearnMove = "{B_BUFF1} did not learn\n{B_BUFF2}.\p";
-sText_UseNextPkmn = "Use next POKéMON?";
-sText_AttackMissed = "{B_ATK_NAME_WITH_PREFIX}'s\nattack missed!";
-sText_PkmnProtectedItself = "{B_DEF_NAME_WITH_PREFIX}\nprotected itself!";
-sText_AvoidedDamage = "{B_DEF_NAME_WITH_PREFIX} avoided\ndamage with {B_DEF_ABILITY}!";
-sText_PkmnMakesGroundMiss = "{B_DEF_NAME_WITH_PREFIX} makes GROUND\nmoves miss with {B_DEF_ABILITY}!";
-sText_PkmnAvoidedAttack = "{B_DEF_NAME_WITH_PREFIX} avoided\nthe attack!";
-sText_ItDoesntAffect = "It doesn't affect\n{B_DEF_NAME_WITH_PREFIX}…";
-sText_AttackerFainted = "{B_ATK_NAME_WITH_PREFIX}\nfainted!\p";
-sText_TargetFainted = "{B_DEF_NAME_WITH_PREFIX}\nfainted!\p";
-sText_PlayerGotMoney = "{B_PLAYER_NAME} got ¥{B_BUFF1}\nfor winning!\p";
-sText_PlayerWhiteout = "{B_PLAYER_NAME} is out of\nusable POKéMON!\p";
-sText_PlayerPanicked = "{B_PLAYER_NAME} panicked and lost ¥{B_BUFF1}…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}";
-sText_PlayerWhiteoutAgainstTrainer = "{B_PLAYER_NAME} is out of\nusable POKéMON!\pPlayer lost against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!{PAUSE_UNTIL_PRESS}";
-sText_PlayerPaidAsPrizeMoney = "{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\nmoney…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}";
-sText_PlayerWhiteout2 = "{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}";
-sText_PreventsEscape = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} prevents\nescape with {B_SCR_ACTIVE_ABILITY}!\p";
-sText_CantEscape2 = "Can't escape!\p";
-sText_AttackerCantEscape = "{B_ATK_NAME_WITH_PREFIX} can't escape!";
-sText_HitXTimes = "Hit {B_BUFF1} time(s)!";
-sText_PkmnFellAsleep = "{B_EFF_NAME_WITH_PREFIX}\nfell asleep!";
-sText_PkmnMadeSleep = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade {B_EFF_NAME_WITH_PREFIX} sleep!";
-sText_PkmnAlreadyAsleep = "{B_DEF_NAME_WITH_PREFIX} is\nalready asleep!";
-sText_PkmnAlreadyAsleep2 = "{B_ATK_NAME_WITH_PREFIX} is\nalready asleep!";
-sText_PkmnWasntAffected = "{B_DEF_NAME_WITH_PREFIX}\nwasn't affected!";
-sText_PkmnWasPoisoned = "{B_EFF_NAME_WITH_PREFIX}\nwas poisoned!";
-sText_PkmnPoisonedBy = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\npoisoned {B_EFF_NAME_WITH_PREFIX}!";
-sText_PkmnHurtByPoison = "{B_ATK_NAME_WITH_PREFIX} is hurt\nby poison!";
-sText_PkmnAlreadyPoisoned = "{B_DEF_NAME_WITH_PREFIX} is already\npoisoned.";
-sText_PkmnBadlyPoisoned = "{B_EFF_NAME_WITH_PREFIX} is badly\npoisoned!";
-sText_PkmnEnergyDrained = "{B_DEF_NAME_WITH_PREFIX} had its\nenergy drained!";
-sText_PkmnWasBurned = "{B_EFF_NAME_WITH_PREFIX} was burned!";
-sText_PkmnBurnedBy = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nburned {B_EFF_NAME_WITH_PREFIX}!";
-sText_PkmnHurtByBurn = "{B_ATK_NAME_WITH_PREFIX} is hurt\nby its burn!";
-sText_PkmnAlreadyHasBurn = "{B_DEF_NAME_WITH_PREFIX} already\nhas a burn.";
-sText_PkmnWasFrozen = "{B_EFF_NAME_WITH_PREFIX} was\nfrozen solid!";
-sText_PkmnFrozenBy = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nfroze {B_EFF_NAME_WITH_PREFIX} solid!";
-sText_PkmnIsFrozen = "{B_ATK_NAME_WITH_PREFIX} is\nfrozen solid!";
-sText_PkmnWasDefrosted = "{B_DEF_NAME_WITH_PREFIX} was\ndefrosted!";
-sText_PkmnWasDefrosted2 = "{B_ATK_NAME_WITH_PREFIX} was\ndefrosted!";
-sText_PkmnWasDefrostedBy = "{B_ATK_NAME_WITH_PREFIX} was\ndefrosted by {B_CURRENT_MOVE}!";
-sText_PkmnWasParalyzed = "{B_EFF_NAME_WITH_PREFIX} is paralyzed!\nIt may be unable to move!";
-sText_PkmnWasParalyzedBy = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nparalyzed {B_EFF_NAME_WITH_PREFIX}!\lIt may be unable to move!";
-sText_PkmnIsParalyzed = "{B_ATK_NAME_WITH_PREFIX} is paralyzed!\nIt can't move!";
-sText_PkmnIsAlreadyParalyzed = "{B_DEF_NAME_WITH_PREFIX} is\nalready paralyzed!";
-sText_PkmnHealedParalysis = "{B_DEF_NAME_WITH_PREFIX} was\nhealed of paralysis!";
-sText_PkmnDreamEaten = "{B_DEF_NAME_WITH_PREFIX}'s\ndream was eaten!";
-sText_StatsWontIncrease = "{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go higher!";
-sText_StatsWontDecrease = "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwon't go lower!";
-sText_TeamStoppedWorking = "Your team's {B_BUFF1}\nstopped working!";
-sText_FoeStoppedWorking = "The foe's {B_BUFF1}\nstopped working!";
-sText_PkmnIsConfused = "{B_ATK_NAME_WITH_PREFIX} is\nconfused!";
-sText_PkmnHealedConfusion = "{B_ATK_NAME_WITH_PREFIX} snapped\nout of confusion!";
-sText_PkmnWasConfused = "{B_EFF_NAME_WITH_PREFIX} became\nconfused!";
-sText_PkmnAlreadyConfused = "{B_DEF_NAME_WITH_PREFIX} is\nalready confused!";
-sText_PkmnFellInLove = "{B_DEF_NAME_WITH_PREFIX}\nfell in love!";
-sText_PkmnInLove = "{B_ATK_NAME_WITH_PREFIX} is in love\nwith {B_SCR_ACTIVE_NAME_WITH_PREFIX}!";
-sText_PkmnImmobilizedByLove = "{B_ATK_NAME_WITH_PREFIX} is\nimmobilized by love!";
-sText_PkmnBlownAway = "{B_DEF_NAME_WITH_PREFIX} was\nblown away!";
-sText_PkmnChangedType = "{B_ATK_NAME_WITH_PREFIX} transformed\ninto the {B_BUFF1} type!";
-sText_PkmnFlinched = "{B_ATK_NAME_WITH_PREFIX} flinched!";
-sText_PkmnRegainedHealth = "{B_DEF_NAME_WITH_PREFIX} regained\nhealth!";
-sText_PkmnHPFull = "{B_DEF_NAME_WITH_PREFIX}'s\nHP is full!";
-sText_PkmnRaisedSpDef = "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF!";
-sText_PkmnRaisedSpDefALittle = "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised SP. DEF a little!";
-sText_PkmnRaisedDef = "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE!";
-sText_PkmnRaisedDefALittle = "{B_ATK_PREFIX2}'s {B_CURRENT_MOVE}\nraised DEFENSE a little!";
-sText_PkmnCoveredByVeil = "{B_ATK_PREFIX2}'s party is covered\nby a veil!";
-sText_PkmnUsedSafeguard = "{B_DEF_NAME_WITH_PREFIX}'s party is protected\nby SAFEGUARD!";
-sText_PkmnSafeguardExpired = "{B_ATK_PREFIX3}'s party is no longer\nprotected by SAFEGUARD!";
-sText_PkmnWentToSleep = "{B_ATK_NAME_WITH_PREFIX} went\nto sleep!";
-sText_PkmnSleptHealthy = "{B_ATK_NAME_WITH_PREFIX} slept and\nbecame healthy!";
-sText_PkmnWhippedWhirlwind = "{B_ATK_NAME_WITH_PREFIX} whipped\nup a whirlwind!";
-sText_PkmnTookSunlight = "{B_ATK_NAME_WITH_PREFIX} took\nin sunlight!";
-sText_PkmnLoweredHead = "{B_ATK_NAME_WITH_PREFIX} lowered\nits head!";
-sText_PkmnIsGlowing = "{B_ATK_NAME_WITH_PREFIX} is glowing!";
-sText_PkmnFlewHigh = "{B_ATK_NAME_WITH_PREFIX} flew\nup high!";
-sText_PkmnDugHole = "{B_ATK_NAME_WITH_PREFIX} dug a hole!";
-sText_PkmnHidUnderwater = "{B_ATK_NAME_WITH_PREFIX} hid\nunderwater!";
-sText_PkmnSprangUp = "{B_ATK_NAME_WITH_PREFIX} sprang up!";
-sText_PkmnSqueezedByBind = "{B_DEF_NAME_WITH_PREFIX} was squeezed by\n{B_ATK_NAME_WITH_PREFIX}'s BIND!";
-sText_PkmnTrappedInVortex = "{B_DEF_NAME_WITH_PREFIX} was trapped\nin the vortex!";
-sText_PkmnTrappedBySandTomb = "{B_DEF_NAME_WITH_PREFIX} was trapped\nby SAND TOMB!";
-sText_PkmnWrappedBy = "{B_DEF_NAME_WITH_PREFIX} was WRAPPED by\n{B_ATK_NAME_WITH_PREFIX}!";
-sText_PkmnClamped = "{B_ATK_NAME_WITH_PREFIX} CLAMPED\n{B_DEF_NAME_WITH_PREFIX}!";
-sText_PkmnHurtBy = "{B_ATK_NAME_WITH_PREFIX} is hurt\nby {B_BUFF1}!";
-sText_PkmnFreedFrom = "{B_ATK_NAME_WITH_PREFIX} was freed\nfrom {B_BUFF1}!";
-sText_PkmnCrashed = "{B_ATK_NAME_WITH_PREFIX} kept going\nand crashed!";
-gBattleText_MistShroud = "{B_ATK_PREFIX2} became\nshrouded in MIST!";
-sText_PkmnProtectedByMist = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} is protected\nby MIST!";
-gBattleText_GetPumped = "{B_ATK_NAME_WITH_PREFIX} is getting\npumped!";
-sText_PkmnHitWithRecoil = "{B_ATK_NAME_WITH_PREFIX} is hit\nwith recoil!";
-sText_PkmnProtectedItself2 = "{B_ATK_NAME_WITH_PREFIX} protected\nitself!";
-sText_PkmnBuffetedBySandstorm = "{B_ATK_NAME_WITH_PREFIX} is buffeted\nby the sandstorm!";
-sText_PkmnPeltedByHail = "{B_ATK_NAME_WITH_PREFIX} is pelted\nby HAIL!";
-sText_PkmnsXWoreOff = "{B_ATK_PREFIX1}'s {B_BUFF1}\nwore off!";
-sText_PkmnSeeded = "{B_DEF_NAME_WITH_PREFIX} was seeded!";
-sText_PkmnEvadedAttack = "{B_DEF_NAME_WITH_PREFIX} evaded\nthe attack!";
-sText_PkmnSappedByLeechSeed = "{B_ATK_NAME_WITH_PREFIX}'s health is\nsapped by LEECH SEED!";
-sText_PkmnFastAsleep = "{B_ATK_NAME_WITH_PREFIX} is fast\nasleep.";
-sText_PkmnWokeUp = "{B_ATK_NAME_WITH_PREFIX} woke up!";
-sText_PkmnUproarKeptAwake = "But {B_SCR_ACTIVE_NAME_WITH_PREFIX}'s UPROAR\nkept it awake!";
-sText_PkmnWokeUpInUproar = "{B_ATK_NAME_WITH_PREFIX} woke up\nin the UPROAR!";
-sText_PkmnCausedUproar = "{B_ATK_NAME_WITH_PREFIX} caused\nan UPROAR!";
-sText_PkmnMakingUproar = "{B_ATK_NAME_WITH_PREFIX} is making\nan UPROAR!";
-sText_PkmnCalmedDown = "{B_ATK_NAME_WITH_PREFIX} calmed down.";
-sText_PkmnCantSleepInUproar = "But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!";
-sText_PkmnStockpiled = "{B_ATK_NAME_WITH_PREFIX} STOCKPILED\n{B_BUFF1}!";
-sText_PkmnCantStockpile = "{B_ATK_NAME_WITH_PREFIX} can't\nSTOCKPILE any more!";
-sText_PkmnCantSleepInUproar2 = "But {B_DEF_NAME_WITH_PREFIX} can't\nsleep in an UPROAR!";
-sText_UproarKeptPkmnAwake = "But the UPROAR kept\n{B_DEF_NAME_WITH_PREFIX} awake!";
-sText_PkmnStayedAwakeUsing = "{B_DEF_NAME_WITH_PREFIX} stayed awake\nusing its {B_DEF_ABILITY}!";
-sText_PkmnStoringEnergy = "{B_ATK_NAME_WITH_PREFIX} is storing\nenergy!";
-sText_PkmnUnleashedEnergy = "{B_ATK_NAME_WITH_PREFIX} unleashed\nenergy!";
-sText_PkmnFatigueConfusion = "{B_ATK_NAME_WITH_PREFIX} became\nconfused due to fatigue!";
-sText_PkmnPickedUpItem = "{B_PLAYER_NAME} picked up\n¥{B_BUFF1}!\p";
-sText_PkmnUnaffected = "{B_DEF_NAME_WITH_PREFIX} is\nunaffected!";
-sText_PkmnTransformedInto = "{B_ATK_NAME_WITH_PREFIX} transformed\ninto {B_BUFF1}!";
-sText_PkmnMadeSubstitute = "{B_ATK_NAME_WITH_PREFIX} made\na SUBSTITUTE!";
-sText_PkmnHasSubstitute = "{B_ATK_NAME_WITH_PREFIX} already\nhas a SUBSTITUTE!";
-sText_SubstituteDamaged = "The SUBSTITUTE took damage\nfor {B_DEF_NAME_WITH_PREFIX}!\p";
-sText_PkmnSubstituteFaded = "{B_DEF_NAME_WITH_PREFIX}'s\nSUBSTITUTE faded!\p";
-sText_PkmnMustRecharge = "{B_ATK_NAME_WITH_PREFIX} must\nrecharge!";
-sText_PkmnRageBuilding = "{B_DEF_NAME_WITH_PREFIX}'s RAGE\nis building!";
-sText_PkmnMoveWasDisabled = "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\nwas disabled!";
-sText_PkmnMoveDisabledNoMore = "{B_ATK_NAME_WITH_PREFIX} is disabled\nno more!";
-sText_PkmnGotEncore = "{B_DEF_NAME_WITH_PREFIX} got\nan ENCORE!";
-sText_PkmnEncoreEnded = "{B_ATK_NAME_WITH_PREFIX}'s ENCORE\nended!";
-sText_PkmnTookAim = "{B_ATK_NAME_WITH_PREFIX} took aim\nat {B_DEF_NAME_WITH_PREFIX}!";
-sText_PkmnSketchedMove = "{B_ATK_NAME_WITH_PREFIX} SKETCHED\n{B_BUFF1}!";
-sText_PkmnTryingToTakeFoe = "{B_ATK_NAME_WITH_PREFIX} is trying\nto take its foe with it!";
-sText_PkmnTookFoe = "{B_DEF_NAME_WITH_PREFIX} took\n{B_ATK_NAME_WITH_PREFIX} with it!";
-sText_PkmnReducedPP = "Reduced {B_DEF_NAME_WITH_PREFIX}'s\n{B_BUFF1} by {B_BUFF2}!";
-sText_PkmnStoleItem = "{B_ATK_NAME_WITH_PREFIX} stole\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!";
-sText_TargetCantEscapeNow = "{B_DEF_NAME_WITH_PREFIX} can't\nescape now!";
-sText_PkmnFellIntoNightmare = "{B_DEF_NAME_WITH_PREFIX} fell into\na NIGHTMARE!";
-sText_PkmnLockedInNightmare = "{B_ATK_NAME_WITH_PREFIX} is locked\nin a NIGHTMARE!";
-sText_PkmnLaidCurse = "{B_ATK_NAME_WITH_PREFIX} cut its own HP and\nlaid a CURSE on {B_DEF_NAME_WITH_PREFIX}!";
-sText_PkmnAfflictedByCurse = "{B_ATK_NAME_WITH_PREFIX} is afflicted\nby the CURSE!";
-sText_SpikesScattered = "SPIKES were scattered all around\nthe opponent's side!";
-sText_PkmnHurtBySpikes = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} is hurt\nby SPIKES!";
-sText_PkmnIdentified = "{B_ATK_NAME_WITH_PREFIX} identified\n{B_DEF_NAME_WITH_PREFIX}!";
-sText_PkmnPerishCountFell = "{B_ATK_NAME_WITH_PREFIX}'s PERISH count\nfell to {B_BUFF1}!";
-sText_PkmnBracedItself = "{B_ATK_NAME_WITH_PREFIX} braced\nitself!";
-sText_PkmnEnduredHit = "{B_DEF_NAME_WITH_PREFIX} ENDURED\nthe hit!";
-sText_MagnitudeStrength = "MAGNITUDE {B_BUFF1}!";
-sText_PkmnCutHPMaxedAttack = "{B_ATK_NAME_WITH_PREFIX} cut its own HP\nand maximized ATTACK!";
-sText_PkmnCopiedStatChanges = "{B_ATK_NAME_WITH_PREFIX} copied\n{B_DEF_NAME_WITH_PREFIX}'s stat changes!";
-sText_PkmnGotFree = "{B_ATK_NAME_WITH_PREFIX} got free of\n{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}!";
-sText_PkmnShedLeechSeed = "{B_ATK_NAME_WITH_PREFIX} shed\nLEECH SEED!";
-sText_PkmnBlewAwaySpikes = "{B_ATK_NAME_WITH_PREFIX} blew away\nSPIKES!";
-sText_PkmnFledFromBattle = "{B_ATK_NAME_WITH_PREFIX} fled from\nbattle!";
-sText_PkmnForesawAttack = "{B_ATK_NAME_WITH_PREFIX} foresaw\nan attack!";
-sText_PkmnTookAttack = "{B_DEF_NAME_WITH_PREFIX} took the\n{B_BUFF1} attack!";
-sText_PkmnChoseXAsDestiny = "{B_ATK_NAME_WITH_PREFIX} chose\n{B_CURRENT_MOVE} as its destiny!";
-sText_PkmnAttack = "{B_BUFF1}'s attack!";
-sText_PkmnCenterAttention = "{B_ATK_NAME_WITH_PREFIX} became the\ncenter of attention!";
-sText_PkmnChargingPower = "{B_ATK_NAME_WITH_PREFIX} began\ncharging power!";
-sText_NaturePowerTurnedInto = "NATURE POWER turned into\n{B_CURRENT_MOVE}!";
-sText_PkmnStatusNormal = "{B_ATK_NAME_WITH_PREFIX}'s status\nreturned to normal!";
-sText_PkmnSubjectedToTorment = "{B_DEF_NAME_WITH_PREFIX} was subjected\nto TORMENT!";
-sText_PkmnTighteningFocus = "{B_ATK_NAME_WITH_PREFIX} is tightening\nits focus!";
-sText_PkmnFellForTaunt = "{B_DEF_NAME_WITH_PREFIX} fell for\nthe TAUNT!";
-sText_PkmnReadyToHelp = "{B_ATK_NAME_WITH_PREFIX} is ready to\nhelp {B_DEF_NAME_WITH_PREFIX}!";
-sText_PkmnSwitchedItems = "{B_ATK_NAME_WITH_PREFIX} switched\nitems with its opponent!";
-sText_PkmnObtainedX = "{B_ATK_NAME_WITH_PREFIX} obtained\n{B_BUFF1}.";
-sText_PkmnObtainedX2 = "{B_DEF_NAME_WITH_PREFIX} obtained\n{B_BUFF2}.";
-sText_PkmnObtainedXYObtainedZ = "{B_ATK_NAME_WITH_PREFIX} obtained\n{B_BUFF1}.\p{B_DEF_NAME_WITH_PREFIX} obtained\n{B_BUFF2}.";
-sText_PkmnCopiedFoe = "{B_ATK_NAME_WITH_PREFIX} copied\n{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}!";
-sText_PkmnMadeWish = "{B_ATK_NAME_WITH_PREFIX} made a WISH!";
-sText_PkmnWishCameTrue = "{B_BUFF1}'s WISH\ncame true!";
-sText_PkmnPlantedRoots = "{B_ATK_NAME_WITH_PREFIX} planted its roots!";
-sText_PkmnAbsorbedNutrients = "{B_ATK_NAME_WITH_PREFIX} absorbed\nnutrients with its roots!";
-sText_PkmnAnchoredItself = "{B_DEF_NAME_WITH_PREFIX} anchored\nitself with its roots!";
-sText_PkmnWasMadeDrowsy = "{B_ATK_NAME_WITH_PREFIX} made\n{B_DEF_NAME_WITH_PREFIX} drowsy!";
-sText_PkmnKnockedOff = "{B_ATK_NAME_WITH_PREFIX} knocked off\n{B_DEF_NAME_WITH_PREFIX}'s {B_LAST_ITEM}!";
-sText_PkmnSwappedAbilities = "{B_ATK_NAME_WITH_PREFIX} swapped abilities\nwith its opponent!";
-sText_PkmnSealedOpponentMove = "{B_ATK_NAME_WITH_PREFIX} sealed the\nopponent's moveシsス!";
-sText_PkmnWantsGrudge = "{B_ATK_NAME_WITH_PREFIX} wants the\nopponent to bear a GRUDGE!";
-sText_PkmnLostPPGrudge = "{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1} lost\nall its PP due to the GRUDGE!";
-sText_PkmnShroudedItself = "{B_ATK_NAME_WITH_PREFIX} shrouded\nitself in {B_CURRENT_MOVE}!";
-sText_PkmnMoveBounced = "{B_ATK_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\nwas bounced back by MAGIC COAT!";
-sText_PkmnWaitsForTarget = "{B_ATK_NAME_WITH_PREFIX} waits for its foe\nto make a move!";
-sText_PkmnSnatchedMove = "{B_DEF_NAME_WITH_PREFIX} SNATCHED\n{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s move!";
-sText_ElectricityWeakened = "Electricity's power was\nweakened!";
-sText_FireWeakened = "Fire's power was\nweakened!";
-sText_XFoundOneY = "{B_ATK_NAME_WITH_PREFIX} found\none {B_LAST_ITEM}!";
-sText_SoothingAroma = "A soothing aroma wafted\nthrough the area!";
-sText_ItemsCantBeUsedNow = "Items can't be used now.{PAUSE 64}";
-sText_ForXCommaYZ = "For {B_SCR_ACTIVE_NAME_WITH_PREFIX},\n{B_LAST_ITEM} {B_BUFF1}";
-sText_PkmnUsedXToGetPumped = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} used\n{B_LAST_ITEM} to hustle!";
-sText_PkmnLostFocus = "{B_ATK_NAME_WITH_PREFIX} lost its\nfocus and couldn't move!";
-sText_PkmnWasDraggedOut = "{B_DEF_NAME_WITH_PREFIX} was\ndragged out!\p";
-sText_TheWallShattered = "The wall shattered!";
-sText_ButNoEffect = "But it had no effect!";
-sText_PkmnHasNoMovesLeft = "{B_ACTIVE_NAME_WITH_PREFIX} has no\nmoves left!\p";
-sText_PkmnMoveIsDisabled = "{B_ACTIVE_NAME_WITH_PREFIX}'s {B_CURRENT_MOVE}\nis disabled!\p";
-sText_PkmnCantUseMoveTorment = "{B_ACTIVE_NAME_WITH_PREFIX} can't use the same\nmove in a row due to the TORMENT!\p";
-sText_PkmnCantUseMoveTaunt = "{B_ACTIVE_NAME_WITH_PREFIX} can't use\n{B_CURRENT_MOVE} after the TAUNT!\p";
-sText_PkmnCantUseMoveSealed = "{B_ACTIVE_NAME_WITH_PREFIX} can't use the\nsealed {B_CURRENT_MOVE}!\p";
-sText_PkmnMadeItRain = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade it rain!";
-sText_PkmnRaisedSpeed = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nraised its SPEED!";
-sText_PkmnProtectedBy = "{B_DEF_NAME_WITH_PREFIX} was protected\nby {B_DEF_ABILITY}!";
-sText_PkmnPreventsUsage = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents {B_ATK_NAME_WITH_PREFIX}\lfrom using {B_CURRENT_MOVE}!";
-sText_PkmnRestoredHPUsing = "{B_DEF_NAME_WITH_PREFIX} restored HP\nusing its {B_DEF_ABILITY}!";
-sText_PkmnsXMadeYUseless = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade {B_CURRENT_MOVE} useless!";
-sText_PkmnChangedTypeWith = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade it the {B_BUFF1} type!";
-sText_PkmnPreventsParalysisWith = "{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents paralysis!";
-sText_PkmnPreventsRomanceWith = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents romance!";
-sText_PkmnPreventsPoisoningWith = "{B_EFF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents poisoning!";
-sText_PkmnPreventsConfusionWith = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents confusion!";
-sText_PkmnRaisedFirePowerWith = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nraised its FIRE power!";
-sText_PkmnAnchorsItselfWith = "{B_DEF_NAME_WITH_PREFIX} anchors\nitself with {B_DEF_ABILITY}!";
-sText_PkmnCutsAttackWith = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncuts {B_DEF_NAME_WITH_PREFIX}'s ATTACK!";
-sText_PkmnPreventsStatLossWith = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nprevents stat loss!";
-sText_PkmnHurtsWith = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nhurt {B_ATK_NAME_WITH_PREFIX}!";
-sText_PkmnTraced = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} TRACED\n{B_BUFF1}'s {B_BUFF2}!";
-sText_PkmnsXPreventsBurns = "{B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY}\nprevents burns!";
-sText_PkmnsXBlocksY = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nblocks {B_CURRENT_MOVE}!";
-sText_PkmnsXBlocksY2 = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nblocks {B_CURRENT_MOVE}!";
-sText_PkmnsXRestoredHPALittle2 = "{B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY}\nrestored its HP a little!";
-sText_PkmnsXWhippedUpSandstorm = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nwhipped up a sandstorm!";
-sText_PkmnsXIntensifiedSun = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nintensified the sun's rays!";
-sText_PkmnsXPreventsYLoss = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nprevents {B_BUFF1} loss!";
-sText_PkmnsXInfatuatedY = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\ninfatuated {B_ATK_NAME_WITH_PREFIX}!";
-sText_PkmnsXMadeYIneffective = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nmade {B_CURRENT_MOVE} ineffective!";
-sText_PkmnsXCuredYProblem = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!";
-sText_ItSuckedLiquidOoze = "It sucked up the\nLIQUID OOZE!";
-sText_PkmnTransformed = "{B_SCR_ACTIVE_NAME_WITH_PREFIX} transformed!";
-sText_PkmnsXTookAttack = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\ntook the attack!";
-gText_PkmnsXPreventsSwitching = "{B_BUFF1}'s {B_LAST_ABILITY}\nprevents switching!\p";
-sText_PreventedFromWorking = "{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevented {B_SCR_ACTIVE_NAME_WITH_PREFIX}'s\l{B_BUFF1} from working!";
-sText_PkmnsXMadeItIneffective = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nmade it ineffective!";
-sText_PkmnsXPreventsFlinching = "{B_EFF_NAME_WITH_PREFIX}'s {B_EFF_ABILITY}\nprevents flinching!";
-sText_PkmnsXPreventsYsZ = "{B_ATK_NAME_WITH_PREFIX}'s {B_ATK_ABILITY}\nprevents {B_DEF_NAME_WITH_PREFIX}'s\l{B_DEF_ABILITY} from working!";
-sText_PkmnsXCuredItsYProblem = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncured its {B_BUFF1} problem!";
-sText_PkmnsXHadNoEffectOnY = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nhad no effect on {B_EFF_NAME_WITH_PREFIX}!";
-sText_TooScaredToMove = "{B_ATK_NAME_WITH_PREFIX} is too scared to move!";
-sText_GetOutGetOut = "GHOST: Get out…… Get out……";
-sText_StatSharply = "sharply ";
-gBattleText_Rose = "rose!";
-sText_StatHarshly = "harshly ";
-sText_StatFell = "fell!";
-sText_AttackersStatRose = "{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}";
-gText_DefendersStatRose = "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}";
-sText_UsingItemTheStatOfPkmnRose = "Using {B_LAST_ITEM}, the {B_BUFF1}\nof {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}";
-sText_AttackersStatFell = "{B_ATK_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}";
-sText_DefendersStatFell = "{B_DEF_NAME_WITH_PREFIX}'s {B_BUFF1}\n{B_BUFF2}";
-sText_StatsWontIncrease2 = "{B_ATK_NAME_WITH_PREFIX}'s stats won't\ngo any higher!";
-sText_StatsWontDecrease2 = "{B_DEF_NAME_WITH_PREFIX}'s stats won't\ngo any lower!";
-sText_CriticalHit = "A critical hit!";
-sText_OneHitKO = "It's a one-hit KO!";
-sText_123Poof = "{PAUSE 32}1, {PAUSE 15}2, and{PAUSE 15}… {PAUSE 15}… {PAUSE 15}… {PAUSE 15}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p";
-sText_AndEllipsis = "And…\p";
-sText_HMMovesCantBeForgotten = "HM moves can't be\nforgotten now.\p";
-sText_NotVeryEffective = "It's not very effective…";
-sText_SuperEffective = "It's super effective!";
-sText_GotAwaySafely = "{PLAY_SE SE_FLEE}Got away safely!\p";
-sText_PkmnFledUsingIts = "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled\nusing its {B_LAST_ITEM}!\p";
-sText_PkmnFledUsing = "{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} fled\nusing {B_ATK_ABILITY}!\p";
-sText_WildPkmnFled = "{PLAY_SE SE_FLEE}Wild {B_BUFF1} fled!";
-sText_PlayerDefeatedLinkTrainer = "Player defeated\n{B_LINK_OPPONENT1_NAME}!";
-sText_TwoLinkTrainersDefeated = "Player beat {B_LINK_OPPONENT1_NAME}\nand {B_LINK_OPPONENT2_NAME}!";
-sText_PlayerLostAgainstLinkTrainer = "Player lost against\n{B_LINK_OPPONENT1_NAME}!";
-sText_PlayerLostToTwo = "Player lost to {B_LINK_OPPONENT1_NAME}\nand {B_LINK_OPPONENT2_NAME}!";
-sText_PlayerBattledToDrawLinkTrainer = "Player battled to a draw against\n{B_LINK_OPPONENT1_NAME}!";
-sText_PlayerBattledToDrawVsTwo = "Player battled to a draw against\n{B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}!";
-sText_WildFled = "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} fled!";
-sText_TwoWildFled = "{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} and\n{B_LINK_OPPONENT2_NAME} fled!";
-sText_NoRunningFromTrainers = "No! There's no running\nfrom a TRAINER battle!\p";
-sText_CantEscape = "Can't escape!\p";
-sText_DontLeaveBirch = ""; # Dummied
-sText_ButNothingHappened = "But nothing happened!";
-sText_ButItFailed = "But it failed!";
-sText_ItHurtConfusion = "It hurt itself in its\nconfusion!";
-sText_MirrorMoveFailed = "The MIRROR MOVE failed!";
-sText_StartedToRain = "It started to rain!";
-sText_DownpourStarted = "A downpour started!"; # corresponds to DownpourText in pokegold and pokecrystal and is used by Rain Dance in GSC
-sText_RainContinues = "Rain continues to fall.";
-sText_DownpourContinues = "The downpour continues."; # unused
-sText_RainStopped = "The rain stopped.";
-sText_SandstormBrewed = "A sandstorm brewed!";
-sText_SandstormRages = "The sandstorm rages.";
-sText_SandstormSubsided = "The sandstorm subsided.";
-sText_SunlightGotBright = "The sunlight got bright!";
-sText_SunlightStrong = "The sunlight is strong.";
-sText_SunlightFaded = "The sunlight faded.";
-sText_StartedHail = "It started to hail!";
-sText_HailContinues = "Hail continues to fall.";
-sText_HailStopped = "The hail stopped.";
-sText_FailedToSpitUp = "But it failed to SPIT UP\na thing!";
-sText_FailedToSwallow = "But it failed to SWALLOW\na thing!";
-sText_WindBecameHeatWave = "The wind turned into a\nHEAT WAVE!";
-sText_StatChangesGone = "All stat changes were\neliminated!";
-sText_CoinsScattered = "Coins scattered everywhere!";
-sText_TooWeakForSubstitute = "It was too weak to make\na SUBSTITUTE!";
-sText_SharedPain = "The battlers shared\ntheir pain!";
-sText_BellChimed = "A bell chimed!";
-sText_FaintInThree = "All affected POKéMON will\nfaint in three turns!";
-sText_NoPPLeft = "There's no PP left for\nthis move!\p";
-sText_ButNoPPLeft = "But there was no PP left\nfor the move!";
-sText_PkmnIgnoresAsleep = "{B_ATK_NAME_WITH_PREFIX} ignored\norders while asleep!";
-sText_PkmnIgnoredOrders = "{B_ATK_NAME_WITH_PREFIX} ignored\norders!";
-sText_PkmnBeganToNap = "{B_ATK_NAME_WITH_PREFIX} began to nap!";
-sText_PkmnLoafing = "{B_ATK_NAME_WITH_PREFIX} is\nloafing around!";
-sText_PkmnWontObey = "{B_ATK_NAME_WITH_PREFIX} won't\nobey!";
-sText_PkmnTurnedAway = "{B_ATK_NAME_WITH_PREFIX} turned away!";
-sText_PkmnPretendNotNotice = "{B_ATK_NAME_WITH_PREFIX} pretended\nnot to notice!";
-sText_EnemyAboutToSwitchPkmn = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} is\nabout to use {B_BUFF2}.\pWill {B_PLAYER_NAME} change\nPOKéMON?";
-sText_PkmnLearnedMove2 = "{B_ATK_NAME_WITH_PREFIX} learned\n{B_BUFF1}!";
-sText_PlayerDefeatedLinkTrainerTrainer1 = "Player defeated\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p";
-sText_ThrewARock = "{B_PLAYER_NAME} threw a ROCK\nat the {B_OPPONENT_MON1_NAME}!";
-sText_ThrewSomeBait = "{B_PLAYER_NAME} threw some BAIT\nat the {B_OPPONENT_MON1_NAME}!";
-sText_PkmnWatchingCarefully = "{B_OPPONENT_MON1_NAME} is watching\ncarefully!";
-sText_PkmnIsAngry = "{B_OPPONENT_MON1_NAME} is angry!";
-sText_PkmnIsEating = "{B_OPPONENT_MON1_NAME} is eating!";
-sText_OutOfSafariBalls = "{PLAY_SE SE_DING_DONG}ANNOUNCER: You're out of\nSAFARI BALLS! Game over!\p";
-sText_WildPkmnAppeared = "Wild {B_OPPONENT_MON1_NAME} appeared!\p";
-sText_WildPkmnAppeared2 = "Wild {B_OPPONENT_MON1_NAME} appeared!\p";
-sText_WildPkmnAppearedPause = "Wild {B_OPPONENT_MON1_NAME} appeared!{PAUSE 127}";
-sText_TwoWildPkmnAppeared = "Wild {B_OPPONENT_MON1_NAME} and\n{B_OPPONENT_MON2_NAME} appeared!\p";
-sText_GhostAppearedCantId = "The GHOST appeared!\pDarn!\nThe GHOST can't be ID'd!\p";
-sText_TheGhostAppeared = "The GHOST appeared!\p";
-sText_SilphScopeUnveil = "SILPH SCOPE unveiled the GHOST's\nidentity!";
-sText_TheGhostWas = "The GHOST was MAROWAK!\p\n";
-sText_Trainer1WantsToBattle = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nwould like to battle!\p";
-sText_LinkTrainerWantsToBattle = "{B_LINK_OPPONENT1_NAME}\nwants to battle!";
-sText_TwoLinkTrainersWantToBattle = "{B_LINK_OPPONENT1_NAME} and {B_LINK_OPPONENT2_NAME}\nwant to battle!";
-sText_Trainer1SentOutPkmn = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_OPPONENT_MON1_NAME}!{PAUSE 60}";
-sText_Trainer1SentOutTwoPkmn = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!{PAUSE 60}";
-sText_Trainer1SentOutPkmn2 = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME} sent\nout {B_BUFF1}!";
-sText_LinkTrainerSentOutPkmn = "{B_LINK_OPPONENT1_NAME} sent out\n{B_OPPONENT_MON1_NAME}!";
-sText_LinkTrainerSentOutTwoPkmn = "{B_LINK_OPPONENT1_NAME} sent out\n{B_OPPONENT_MON1_NAME} and {B_OPPONENT_MON2_NAME}!";
-sText_TwoLinkTrainersSentOutPkmn = "{B_LINK_OPPONENT1_NAME} sent out {B_LINK_OPPONENT_MON1_NAME}!\n{B_LINK_OPPONENT2_NAME} sent out {B_LINK_OPPONENT_MON2_NAME}!";
-sText_LinkTrainerSentOutPkmn2 = "{B_LINK_OPPONENT1_NAME} sent out\n{B_BUFF1}!";
-sText_LinkTrainerMultiSentOutPkmn = "{B_LINK_SCR_TRAINER_NAME} sent out\n{B_BUFF1}!";
-sText_GoPkmn = "Go! {B_PLAYER_MON1_NAME}!";
-sText_GoTwoPkmn = "Go! {B_PLAYER_MON1_NAME} and\n{B_PLAYER_MON2_NAME}!";
-sText_GoPkmn2 = "Go! {B_BUFF1}!";
-sText_DoItPkmn = "Do it! {B_BUFF1}!";
-sText_GoForItPkmn = "Go for it, {B_BUFF1}!";
-sText_YourFoesWeakGetEmPkmn = "Your foe's weak!\nGet 'em, {B_BUFF1}!";
-sText_LinkPartnerSentOutPkmnGoPkmn = "{B_LINK_PARTNER_NAME} sent out {B_LINK_PLAYER_MON2_NAME}!\nGo! {B_LINK_PLAYER_MON1_NAME}!";
-sText_PkmnThatsEnough = "{B_BUFF1}, that's enough!\nCome back!";
-sText_PkmnComeBack = "{B_BUFF1}, come back!";
-sText_PkmnOkComeBack = "{B_BUFF1}, OK!\nCome back!";
-sText_PkmnGoodComeBack = "{B_BUFF1}, good!\nCome back!";
-sText_Trainer1WithdrewPkmn = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nwithdrew {B_BUFF1}!";
-sText_LinkTrainer1WithdrewPkmn = "{B_LINK_OPPONENT1_NAME} withdrew\n{B_BUFF1}!";
-sText_LinkTrainer2WithdrewPkmn = "{B_LINK_SCR_TRAINER_NAME} withdrew\n{B_BUFF1}!";
-sText_WildPkmnPrefix = "Wild ";
-sText_FoePkmnPrefix = "Foe ";
-sText_FoePkmnPrefix2 = "Foe";
-sText_AllyPkmnPrefix = "Ally";
-sText_FoePkmnPrefix3 = "Foe";
-sText_AllyPkmnPrefix2 = "Ally";
-sText_FoePkmnPrefix4 = "Foe";
-sText_AllyPkmnPrefix3 = "Ally";
-sText_AttackerUsedX = "{B_ATK_NAME_WITH_PREFIX} used\n{B_BUFF2}";
-sText_ExclamationMark = "!";
-sText_ExclamationMark2 = "!";
-sText_ExclamationMark3 = "!";
-sText_ExclamationMark4 = "!";
-sText_ExclamationMark5 = "!";
-sText_HP2 = "HP";
-sText_Attack2 = "ATTACK";
-sText_Defense2 = "DEFENSE";
-sText_Speed = "SPEED";
-sText_SpAtk2 = "SP. ATK";
-sText_SpDef2 = "SP. DEF";
-sText_Accuracy = "accuracy";
-sText_Evasiveness = "evasiveness";
-sText_PokeblockWasTooSpicy = "was too spicy!"; #
-sText_PokeblockWasTooDry = "was too dry!";
-sText_PokeblockWasTooSweet = "was too sweet!";
-sText_PokeblockWasTooBitter = "was too bitter!";
-sText_PokeblockWasTooSour = "was too sour!";
-sText_PlayerUsedItem = "{B_PLAYER_NAME} used\n{B_LAST_ITEM}!";
-sText_OldManUsedItem = "The old man used\n{B_LAST_ITEM}!";
-sText_PokedudeUsedItem = "The POKé DUDE used\n{B_LAST_ITEM}!";
-sText_Trainer1UsedItem = "{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nused {B_LAST_ITEM}!";
-sText_TrainerBlockedBall = "The TRAINER blocked the BALL!";
-sText_DontBeAThief = "Don't be a thief!";
-sText_ItDodgedBall = "It dodged the thrown BALL!\nThis POKéMON can't be caught!";
-sText_YouMissedPkmn = "You missed the POKéMON!";
-sText_PkmnBrokeFree = "Oh, no!\nThe POKéMON broke free!";
-sText_ItAppearedCaught = "Aww!\nIt appeared to be caught!";
-sText_AarghAlmostHadIt = "Aargh!\nAlmost had it!";
-sText_ShootSoClose = "Shoot!\nIt was so close, too!";
-sText_ItDodgedBall2 = "よけられた!\nこいつは つかまりそうにないぞ!"; # Unused version of the Marowak ghost dodging text
-sText_GotchaPkmnCaught = "Gotcha!\n{B_OPPONENT_MON1_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p";
-sText_GotchaPkmnCaught2 = "Gotcha!\n{B_OPPONENT_MON1_NAME} was caught!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}";
-sText_GiveNicknameCaptured = "Give a nickname to the\ncaptured {B_OPPONENT_MON1_NAME}?";
-sText_PkmnSentToPC = "{B_OPPONENT_MON1_NAME} was sent to\n{B_PC_CREATOR_NAME} PC.";
-sText_Someones = "someone's";
-sText_Bills = "BILL's";
-sText_PkmnDataAddedToDex = "{B_OPPONENT_MON1_NAME}'s data was\nadded to the POKéDEX.\p";
-sText_ItIsRaining = "It is raining."; # used only in RSE when a battle starts in a rainy area
-sText_SandstormIsRaging = "A sandstorm is raging.";
-sText_BoxIsFull = "The BOX is full!\nYou can't catch any more!\p";
-sText_EnigmaBerry = "ENIGMA BERRY";
-sText_BerrySuffix = " BERRY";
-sText_Enigma = "ナゾ";
-sText_PkmnsItemCuredParalysis = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured paralysis!";
-sText_PkmnsItemCuredPoison = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured poison!";
-sText_PkmnsItemHealedBurn = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nhealed its burn!";
-sText_PkmnsItemDefrostedIt = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ndefrosted it!";
-sText_PkmnsItemWokeIt = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nwoke it from its sleep!";
-sText_PkmnsItemSnappedOut = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nsnapped it out of confusion!";
-sText_PkmnsItemCuredProblem = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\ncured its {B_BUFF1} problem!";
-sText_PkmnsItemNormalizedStatus = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nnormalized its status!";
-sText_PkmnsItemRestoredHealth = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored health!";
-sText_PkmnsItemRestoredPP = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored {B_BUFF1}'s PP!";
-sText_PkmnsItemRestoredStatus = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored its status!";
-sText_PkmnsItemRestoredHPALittle = "{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_LAST_ITEM}\nrestored its HP a little!";
-sText_ItemAllowsOnlyYMove = "{B_LAST_ITEM}'s effect allows only\n{B_CURRENT_MOVE} to be used!\p";
-sText_PkmnHungOnWithX = "{B_DEF_NAME_WITH_PREFIX} hung on\nusing its {B_LAST_ITEM}!";
-gText_EmptyString3 = "";
-sText_PlayedFluteCatchyTune = "{B_PLAYER_NAME} played the {B_LAST_ITEM}.\pNow, that's a catchy tune!";
-sText_PlayedThe = "{B_PLAYER_NAME} played the\n{B_LAST_ITEM}.";
-sText_PkmnHearingFluteAwoke = "The POKéMON hearing the FLUTE\nawoke!";
-sText_YouThrowABallNowRight = "You throw a BALL now, right?\nI… I'll do my best!";
-gText_ForPetesSake = "OAK: Oh, for Pete's sake…\nSo pushy, as always.\p{B_PLAYER_NAME}.\pYou've never had a POKéMON battle\nbefore, have you?\pA POKéMON battle is when TRAINERS\npit their POKéMON against each\lother.\p";
-gText_TheTrainerThat = "The TRAINER that makes the other\nTRAINER's POKéMON faint by lowering\ltheir HP to “0,” wins.\p";
-gText_TryBattling = "But rather than talking about it,\nyou'll learn more from experience.\pTry battling and see for yourself.\p";
-gText_InflictingDamageIsKey = "OAK: Inflicting damage on the foe\nis the key to any battle.\p";
-gText_LoweringStats = "OAK: Lowering the foe's stats\nwill put you at an advantage.\p";
-gText_KeepAnEyeOnHP = "OAK: Keep your eyes on your\nPOKéMON's HP.\pIt will faint if the HP drops to\n“0.”\p";
-gText_OakNoRunningFromATrainer = "OAK: No! There's no running away\nfrom a TRAINER POKéMON battle!\p";
-gText_WinEarnsPrizeMoney = "OAK: Hm! Excellent!\pIf you win, you earn prize money,\nand your POKéMON will grow!\pBattle other TRAINERS and make\nyour POKéMON strong!\p";
-gText_HowDissapointing = "OAK: Hm…\nHow disappointing…\pIf you win, you earn prize money,\nand your POKéMON grow.\pBut if you lose, {B_PLAYER_NAME}, you end\nup paying prize money…\pHowever, since you had no warning\nthis time, I'll pay for you.\pBut things won't be this way once\nyou step outside these doors.\pThat's why you must strengthen your\nPOKéMON by battling wild POKéMON.\p";
-gText_PkmnIsEvolving = "What?\n{STR_VAR_1} is evolving!";
-gText_CongratsPkmnEvolved = "Congratulations! Your {STR_VAR_1}\nevolved into {STR_VAR_2}!{WAIT_SE}\p";
-gText_PkmnStoppedEvolving = "Huh? {STR_VAR_1}\nstopped evolving!\p";
-gText_EllipsisQuestionMark = "……?\p";
-gText_WhatWillPkmnDo = "What will\n{B_ACTIVE_NAME_WITH_PREFIX} do?";
-gText_WhatWillPlayerThrow = "What will {B_PLAYER_NAME}\nthrow?";
-gText_WhatWillOldManDo = "What will the\nold man do?";
-gText_LinkStandby = "{PAUSE 16}Link standby…";
-gText_BattleMenu = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}FIGHT{CLEAR_TO 56}BAG\nPOKéMON{CLEAR_TO 56}RUN";
-gText_SafariZoneMenu = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}BALL{CLEAR_TO 56}BAIT\nROCK{CLEAR_TO 56}RUN";
-gText_MoveInterfacePP = "PP ";
-gText_MoveInterfaceType = "TYPE/";
-gText_MoveInterfaceDynamicColors = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}";
-gText_WhichMoveToForget_Unused = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}どの わざを\nわすれさせたい?";
-gText_BattleYesNoChoice = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}Yes\nNo";
-gText_BattleSwitchWhich = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}Switch\nwhich?";
-sText_UnusedColors = "{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}";
-sText_RightArrow2 = "{RIGHT_ARROW_2}";
-sText_Plus = "{PLUS}";
-sText_Dash = "-";
-sText_MaxHP = "{FONT_SMALL}Max{FONT_NORMAL} HP";
-sText_Attack = "ATTACK ";
-sText_Defense = "DEFENSE";
-sText_SpAtk = "SP. ATK";
-sText_SpDef = "SP. DEF";
-gText_SafariBalls = "{HIGHLIGHT 2}SAFARI BALLS"; #
-gText_HighlightRed_Left = "{HIGHLIGHT 2}Left: ";
-gText_HighlightRed = "{HIGHLIGHT 2}";
-gText_Sleep = "sleep";
-gText_Poison = "poison";
-gText_Burn = "burn";
-gText_Paralysis = "paralysis";
-gText_Ice = "ice";
-gText_Confusion = "confusion";
-gText_Love = "love";
-gText_BattleTowerBan_Space = "  ";
-gText_BattleTowerBan_Newline1 = "\n";
-gText_BattleTowerBan_Newline2 = "\n";
-gText_BattleTowerBan_Is1 = " is";
-gText_BattleTowerBan_Is2 = " is";
-gText_BadEgg = "Bad EGG";
-gText_BattleWallyName = "ミツル";
-gText_Win = "{HIGHLIGHT 0}Win";
-gText_Loss = "{HIGHLIGHT 0}Loss";
-gText_Draw = "{HIGHLIGHT 0}Draw";
-sText_SpaceIs = " is";
-sText_ApostropheS = "'s";
-gText_ANormalMove = "a NORMAL move";
-gText_AFightingMove = "a FIGHTING move";
-gText_AFlyingMove = "a FLYING move";
-gText_APoisonMove = "a POISON move";
-gText_AGroundMove = "a GROUND move";
-gText_ARockMove = "a ROCK move";
-gText_ABugMove = "a BUG move";
-gText_AGhostMove = "a GHOST move";
-gText_ASteelMove = "a STEEL move";
-gText_AMysteryMove = "a ??? move";
-gText_AFireMove = "a FIRE move";
-gText_AWaterMove = "a WATER move";
-gText_AGrassMove = "a GRASS move";
-gText_AnElectricMove = "an ELECTRIC move";
-gText_APsychicMove = "a PSYCHIC move";
-gText_AnIceMove = "an ICE move";
-gText_ADragonMove = "a DRAGON move";
-gText_ADarkMove = "a DARK move";
-gText_TimeBoard = "TIME BOARD";
-gText_ClearTime = "CLEAR TIME"; # Unused
-gText_XMinYZSec = "{STR_VAR_1}MIN. {STR_VAR_2}.{STR_VAR_3}SEC.";
-gText_Unused_1F = "1F";
-gText_Unused_2F = "2F";
-gText_Unused_3F = "3F";
-gText_Unused_4F = "4F";
-gText_Unused_5F = "5F";
-gText_Unused_6F = "6F";
-gText_Unused_7F = "7F";
-gText_Unused_8F = "8F";
-sText_Trainer1Fled = "{PLAY_SE SE_FLEE}{B_TRAINER1_CLASS} {B_TRAINER1_NAME} fled!";
-sText_PlayerLostAgainstTrainer1 = "Player lost against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!";
-sText_PlayerBattledToDrawTrainer1 = "Player battled to a draw against\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!";
-status = "$$$$$$$";
-sText_100 = "100";
-sBerryDescriptionPart1_Cheri = "とても かわいい はなが さく.";
-sBerryDescriptionPart2_Cheri = "まっかな みは とても からい.";
-sBerryDescriptionPart1_Chesto = "そとの かわの ぶぶんも なかみも すべてが";
-sBerryDescriptionPart2_Chesto = "かたい. どこを たべても しぶい.";
-sBerryDescriptionPart1_Pecha = "とても あまくて おいしい.";
-sBerryDescriptionPart2_Pecha = "やわらかいので はこぶときは ちゅうい.";
-sBerryDescriptionPart1_Rawst = "はっぱの ぶぶんが ながく まるまっていると";
-sBerryDescriptionPart2_Rawst = "みが とても にがく なるらしい.";
-sBerryDescriptionPart1_Aspear = "かたい みの なかには すいぶんが とても";
-sBerryDescriptionPart2_Aspear = "おおく ふくまれている. かなり すっぱい.";
-sBerryDescriptionPart1_Leppa = "クラボなどに くらべて すこし そだつのが";
-sBerryDescriptionPart2_Leppa = "おそい. みが ちいさいほど おいしい.";
-sBerryDescriptionPart1_Oran = "いろいろな あじが まざった ふしぎな み.";
-sBerryDescriptionPart2_Oran = "みを つけるのに はんにち かかる.";
-sBerryDescriptionPart1_Persim = "たいようが だいすき. ひに あたると";
-sBerryDescriptionPart2_Persim = "どんどん いろが あざやかに なる.";
-sBerryDescriptionPart1_Lum = "そだつのに じかんが かかるが たいせつに";
-sBerryDescriptionPart2_Lum = "そだてると みが 2つ つくことも ある.";
-sBerryDescriptionPart1_Sitrus = "オレンとは きょうだいの ような そんざい.";
-sBerryDescriptionPart2_Sitrus = "おおきくて あじも ととのっている.";
-sBerryDescriptionPart1_Figy = "たべられた あとのような かたちの なかには";
-sBerryDescriptionPart2_Figy = "からい せいぶんが つまっている.";
-sBerryDescriptionPart1_Wiki = "まわりに ついている イボイボは ポケモンが";
-sBerryDescriptionPart2_Wiki = "もちやすいように できたと いわれている.";
-sBerryDescriptionPart1_Mago = "おおきく なれば なるほど みが まがる.";
-sBerryDescriptionPart2_Mago = "まがるほど あまくて おいしい.";
-sBerryDescriptionPart1_Aguav = "ちいさい サイズの はなで しかも ひかりを";
-sBerryDescriptionPart2_Aguav = "ひつようと しない めずらしい きのみ.";
-sBerryDescriptionPart1_Iapapa = "とても おおきな すっぱい きのみ.";
-sBerryDescriptionPart2_Iapapa = "そだてるには みじかくても 1にち かかる.";
-sBerryDescriptionPart1_Razz = "あかい みは たべると ちょっぴり からい.";
-sBerryDescriptionPart2_Razz = "そだつのが はやく 4じかんで みを つける";
-sBerryDescriptionPart1_Bluk = "そとがわは あおいいろだが たべると";
-sBerryDescriptionPart2_Bluk = "くちの なかが まっくろに なる.";
-sBerryDescriptionPart1_Nanab = "せかいで 7ばんめに はっけん されたので";
-sBerryDescriptionPart2_Nanab = "ナナという せつが ゆうりょく. あまい.";
-sBerryDescriptionPart1_Wepear = "ちいさな しろい はなが さく. にがさと";
-sBerryDescriptionPart2_Wepear = "すっぱさが まざりあった びみょうな あじ.";
-sBerryDescriptionPart1_Pinap = "かぜに よわく さむさにも よわい.";
-sBerryDescriptionPart2_Pinap = "みの なかが からく そとがわが すっぱい.";
-sBerryDescriptionPart1_Pomeg = "どんなに みずを あげても えいようが";
-sBerryDescriptionPart2_Pomeg = "あっても 6つの み しか つけない.";
-sBerryDescriptionPart1_Kelpsy = "ねっこの ような かたちの めずらしい";
-sBerryDescriptionPart2_Kelpsy = "しゅるい. とても おおきな はなが さく.";
-sBerryDescriptionPart1_Qualot = "みずが だいすき. ずっと あめが ふる";
-sBerryDescriptionPart2_Qualot = "ばしょでも しっかりと そだつ.";
-sBerryDescriptionPart1_Hondew = "とても こうかで なかなか めに することが";
-sBerryDescriptionPart2_Hondew = "できない きのみ. とても おいしい.";
-sBerryDescriptionPart1_Grepa = "やわらかさと まるい かたちからは";
-sBerryDescriptionPart2_Grepa = "そうぞうが できないほど すっぱい.";
-sBerryDescriptionPart1_Tamato = "くちびるが まがって しまうほど からい.";
-sBerryDescriptionPart2_Tamato = "そだてるにも じかんが かかる.";
-sBerryDescriptionPart1_Cornn = "おおむかしから はえていた. たくさん";
-sBerryDescriptionPart2_Cornn = "うえないと みが つかないときも ある.";
-sBerryDescriptionPart1_Magost = "とても あじの バランスが よいと";
-sBerryDescriptionPart2_Magost = "ひょうばんの きのみ.";
-sBerryDescriptionPart1_Rabuta = "たくさんの けが はえている めずらしい";
-sBerryDescriptionPart2_Rabuta = "しゅるい. かなり にがい.";
-sBerryDescriptionPart1_Nomel = "かなり すっぱい. 1くち たべると";
-sBerryDescriptionPart2_Nomel = "3にちかん ほかの あじが しなくなる.";
-sBerryDescriptionPart1_Spelon = "まっかになった みは とてつもなく からい.";
-sBerryDescriptionPart2_Spelon = "イボからも からい せいぶんが でている.";
-sBerryDescriptionPart1_Pamtre = "どこからともなく うみを ただよってくる.";
-sBerryDescriptionPart2_Pamtre = "せかいの どこかで そだっている らしい.";
-sBerryDescriptionPart1_Watmel = "とても おおきく 50センチを こえるものも";
-sBerryDescriptionPart2_Watmel = "はっけん された. ものすごく あまい.";
-sBerryDescriptionPart1_Durin = "みただけで にがい. あまりにも にがいので";
-sBerryDescriptionPart2_Durin = "そのままで たべたひとは だれもいない.";
-sBerryDescriptionPart1_Belue = "つるつるとして おいしそうだが とてつもなく";
-sBerryDescriptionPart2_Belue = "すっぱい. そだてるにも じかんが かかる.";
-sBerryDescriptionPart1_Liechi = "なぞのタネ. チイラのみには うみの";
-sBerryDescriptionPart2_Liechi = "ちからが やどるという うわさが ある.";
-sBerryDescriptionPart1_Ganlon = "なぞのタネ. リュガのみには りくの";
-sBerryDescriptionPart2_Ganlon = "ちからが やどるという うわさが ある.";
-sBerryDescriptionPart1_Salac = "なぞのタネ. カムラのみには そらの";
-sBerryDescriptionPart2_Salac = "ちからが やどるという うわさが ある.";
-sBerryDescriptionPart1_Petaya = "なぞのタネ. ヤタピのみには すべての";
-sBerryDescriptionPart2_Petaya = "いきものの ちからが やどると いわれている";
-sBerryDescriptionPart1_Apicot = "ふしぎな ふしぎな きのみ. なにが";
-sBerryDescriptionPart2_Apicot = "おこるのか なにが できるのか わからない.";
-sBerryDescriptionPart1_Lansat = "でんせつのみ と いわれている. この みを";
-sBerryDescriptionPart2_Lansat = "もつと とても しあわせに なるらしい.";
-sBerryDescriptionPart1_Starf = "あまりにも ちからが つよすぎるため";
-sBerryDescriptionPart2_Starf = "せかいの はてに すてた まぼろしのみ.";
-sBerryDescriptionPart1_Enigma = "しょうたい ふめいの きのみ.";
-sBerryDescriptionPart2_Enigma = "ほしの ちからを もっている らしい.";
-sText_Space = " ";
-sEasyChatWord_Meets = "MEETS";
-sEasyChatWord_Concede = "CONCEDE";
-sEasyChatWord_Give = "GIVE";
-sEasyChatWord_Gives = "GIVES";
-sEasyChatWord_Played = "PLAYED";
-sEasyChatWord_Plays = "PLAYS";
-sEasyChatWord_Collect = "COLLECT";
-sEasyChatWord_Walking = "WALKING";
-sEasyChatWord_Walks = "WALKS";
-sEasyChatWord_Says = "SAYS";
-sEasyChatWord_Went = "WENT";
-sEasyChatWord_Said = "SAID";
-sEasyChatWord_WakeUp = "WAKE UP";
-sEasyChatWord_WakesUp = "WAKES UP";
-sEasyChatWord_Angers = "ANGERS";
-sEasyChatWord_Teach = "TEACH";
-sEasyChatWord_Teaches = "TEACHES";
-sEasyChatWord_Please = "PLEASE";
-sEasyChatWord_Learn = "LEARN";
-sEasyChatWord_Change = "CHANGE";
-sEasyChatWord_Story = "STORY";
-sEasyChatWord_Trust = "TRUST";
-sEasyChatWord_Lavish = "LAVISH";
-sEasyChatWord_Listens = "LISTENS";
-sEasyChatWord_Hearing = "HEARING";
-sEasyChatWord_Trains = "TRAINS";
-sEasyChatWord_Choose = "CHOOSE";
-sEasyChatWord_Come = "COME";
-sEasyChatWord_Came = "CAME";
-sEasyChatWord_Search = "SEARCH";
-sEasyChatWord_Make = "MAKE";
-sEasyChatWord_Cause = "CAUSE";
-sEasyChatWord_Know = "KNOW";
-sEasyChatWord_Knows = "KNOWS";
-sEasyChatWord_Refuse = "REFUSE";
-sEasyChatWord_Stores = "STORES";
-sEasyChatWord_Brag = "BRAG";
-sEasyChatWord_Ignorant = "IGNORANT";
-sEasyChatWord_Thinks = "THINKS";
-sEasyChatWord_Believe = "BELIEVE";
-sEasyChatWord_Slide = "SLIDE";
-sEasyChatWord_Eats = "EATS";
-sEasyChatWord_Use = "USE";
-sEasyChatWord_Uses = "USES";
-sEasyChatWord_Using = "USING";
-sEasyChatWord_Couldnt = "COULDN'T";
-sEasyChatWord_Capable = "CAPABLE";
-sEasyChatWord_Disappear = "DISAPPEAR";
-sEasyChatWord_Appear = "APPEAR";
-sEasyChatWord_Throw = "THROW";
-sEasyChatWord_Worry = "WORRY";
-sEasyChatWord_Slept = "SLEPT";
-sEasyChatWord_Sleep = "SLEEP";
-sEasyChatWord_Release = "RELEASE";
-sEasyChatWord_Drinks = "DRINKS";
-sEasyChatWord_Runs = "RUNS";
-sEasyChatWord_Run = "RUN";
-sEasyChatWord_Works = "WORKS";
-sEasyChatWord_Working = "WORKING";
-sEasyChatWord_Talking = "TALKING";
-sEasyChatWord_Talk = "TALK";
-sEasyChatWord_Sink = "SINK";
-sEasyChatWord_Smack = "SMACK";
-sEasyChatWord_Pretend = "PRETEND";
-sEasyChatWord_Praise = "PRAISE";
-sEasyChatWord_Overdo = "OVERDO";
-sEasyChatWord_Show = "SHOW";
-sEasyChatWord_Looks = "LOOKS";
-sEasyChatWord_Sees = "SEES";
-sEasyChatWord_Seek = "SEEK";
-sEasyChatWord_Own = "OWN";
-sEasyChatWord_Take = "TAKE";
-sEasyChatWord_Allow = "ALLOW";
-sEasyChatWord_Forget = "FORGET";
-sEasyChatWord_Forgets = "FORGETS";
-sEasyChatWord_Appears = "APPEARS";
-sEasyChatWord_Faint = "FAINT";
-sEasyChatWord_Fainted = "FAINTED";
-sEasyChatWord_Wandering = "WANDERING";
-sEasyChatWord_Rickety = "RICKETY";
-sEasyChatWord_RockSolid = "ROCK-SOLID";
-sEasyChatWord_Hungry = "HUNGRY";
-sEasyChatWord_Tight = "TIGHT";
-sEasyChatWord_Ticklish = "TICKLISH";
-sEasyChatWord_Twirling = "TWIRLING";
-sEasyChatWord_Spiraling = "SPIRALING";
-sEasyChatWord_Thirsty = "THIRSTY";
-sEasyChatWord_Lolling = "LOLLING";
-sEasyChatWord_Silky = "SILKY";
-sEasyChatWord_Sadly = "SADLY";
-sEasyChatWord_Hopeless = "HOPELESS";
-sEasyChatWord_Useless = "USELESS";
-sEasyChatWord_Drooling = "DROOLING";
-sEasyChatWord_Exciting = "EXCITING";
-sEasyChatWord_Thick = "THICK";
-sEasyChatWord_Smooth = "SMOOTH";
-sEasyChatWord_Slimy = "SLIMY";
-sEasyChatWord_Thin = "THIN";
-sEasyChatWord_Break = "BREAK";
-sEasyChatWord_Voracious = "VORACIOUS";
-sEasyChatWord_Scatter = "SCATTER";
-sEasyChatWord_Awesome = "AWESOME";
-sEasyChatWord_Wimpy = "WIMPY";
-sEasyChatWord_Wobbly = "WOBBLY";
-sEasyChatWord_Shaky = "SHAKY";
-sEasyChatWord_Ripped = "RIPPED";
-sEasyChatWord_Shredded = "SHREDDED";
-sEasyChatWord_Increasing = "INCREASING";
-sEasyChatWord_Yet = "YET";
-sEasyChatWord_Destroyed = "DESTROYED";
-sEasyChatWord_Fiery = "FIERY";
-sEasyChatWord_LoveyDovey = "LOVEY-DOVEY";
-sEasyChatWord_Happily = "HAPPILY";
-sEasyChatWord_Anticipation = "ANTICIPATION";
-sEasyChatWord_MatchUp = "MATCH UP";
-sEasyChatWord_Go = "GO";
-sEasyChatWord_No1 = "NO. 1";
-sEasyChatWord_Decide = "DECIDE";
-sEasyChatWord_LetMeWin = "LET ME WIN";
-sEasyChatWord_Wins = "WINS";
-sEasyChatWord_Win = "WIN";
-sEasyChatWord_Won = "WON";
-sEasyChatWord_IfIWin = "IF I WIN";
-sEasyChatWord_WhenIWin = "WHEN I WIN";
-sEasyChatWord_CantWin = "CAN'T WIN";
-sEasyChatWord_CanWin = "CAN WIN";
-sEasyChatWord_NoMatch = "NO MATCH";
-sEasyChatWord_Spirit = "SPIRIT";
-sEasyChatWord_Decided = "DECIDED";
-sEasyChatWord_TrumpCard = "TRUMP CARD";
-sEasyChatWord_TakeThat = "TAKE THAT";
-sEasyChatWord_ComeOn = "COME ON";
-sEasyChatWord_Attack = "ATTACK";
-sEasyChatWord_Surrender = "SURRENDER";
-sEasyChatWord_Gutsy = "GUTSY";
-sEasyChatWord_Talent = "TALENT";
-sEasyChatWord_Strategy = "STRATEGY";
-sEasyChatWord_Smite = "SMITE";
-sEasyChatWord_Match = "MATCH";
-sEasyChatWord_Victory = "VICTORY";
-sEasyChatWord_Offensive = "OFFENSIVE";
-sEasyChatWord_Sense = "SENSE";
-sEasyChatWord_Versus = "VERSUS";
-sEasyChatWord_Fights = "FIGHTS";
-sEasyChatWord_Power = "POWER";
-sEasyChatWord_Challenge = "CHALLENGE";
-sEasyChatWord_Strong = "STRONG";
-sEasyChatWord_TooStrong = "TOO STRONG";
-sEasyChatWord_GoEasy = "GO EASY";
-sEasyChatWord_Foe = "FOE";
-sEasyChatWord_Genius = "GENIUS";
-sEasyChatWord_Legend = "LEGEND";
-sEasyChatWord_Escape = "ESCAPE";
-sEasyChatWord_Aim = "AIM";
-sEasyChatWord_Battle = "BATTLE";
-sEasyChatWord_Fight = "FIGHT";
-sEasyChatWord_Resuscitate = "RESUSCITATE";
-sEasyChatWord_Points = "POINTS";
-sEasyChatWord_Serious = "SERIOUS";
-sEasyChatWord_GiveUp = "GIVE UP";
-sEasyChatWord_Loss = "LOSS";
-sEasyChatWord_IfILose = "IF I LOSE";
-sEasyChatWord_Lost = "LOST";
-sEasyChatWord_Lose = "LOSE";
-sEasyChatWord_Guard = "GUARD";
-sEasyChatWord_Partner = "PARTNER";
-sEasyChatWord_Reject = "REJECT";
-sEasyChatWord_Accept = "ACCEPT";
-sEasyChatWord_Invincible = "INVINCIBLE";
-sEasyChatWord_Received = "RECEIVED";
-sEasyChatWord_Easy = "EASY";
-sEasyChatWord_Weak = "WEAK";
-sEasyChatWord_TooWeak = "TOO WEAK";
-sEasyChatWord_Pushover = "PUSHOVER";
-sEasyChatWord_Leader = "LEADER";
-sEasyChatWord_Rule = "RULE";
-sEasyChatWord_Move = "MOVE";
-sEasyChatWord_Hot = "HOT";
-sEasyChatWord_Exists = "EXISTS";
-sEasyChatWord_Excess = "EXCESS";
-sEasyChatWord_Approved = "APPROVED";
-sEasyChatWord_Has = "HAS";
-sEasyChatWord_Good = "GOOD";
-sEasyChatWord_Less = "LESS";
-sEasyChatWord_Momentum = "MOMENTUM";
-sEasyChatWord_Going = "GOING";
-sEasyChatWord_Weird = "WEIRD";
-sEasyChatWord_Busy = "BUSY";
-sEasyChatWord_Together = "TOGETHER";
-sEasyChatWord_Full = "FULL";
-sEasyChatWord_Absent = "ABSENT";
-sEasyChatWord_Being = "BEING";
-sEasyChatWord_Need = "NEED";
-sEasyChatWord_Tasty = "TASTY";
-sEasyChatWord_Skilled = "SKILLED";
-sEasyChatWord_Noisy = "NOISY";
-sEasyChatWord_Big = "BIG";
-sEasyChatWord_Late = "LATE";
-sEasyChatWord_Close = "CLOSE";
-sEasyChatWord_Docile = "DOCILE";
-sEasyChatWord_Amusing = "AMUSING";
-sEasyChatWord_Entertaining = "ENTERTAINING";
-sEasyChatWord_Perfection = "PERFECTION";
-sEasyChatWord_Pretty = "PRETTY";
-sEasyChatWord_Healthy = "HEALTHY";
-sEasyChatWord_Excellent = "EXCELLENT";
-sEasyChatWord_UpsideDown = "UPSIDE DOWN";
-sEasyChatWord_Cold = "COLD";
-sEasyChatWord_Refreshing = "REFRESHING";
-sEasyChatWord_Unavoidable = "UNAVOIDABLE";
-sEasyChatWord_Much = "MUCH";
-sEasyChatWord_Overwhelming = "OVERWHELMING";
-sEasyChatWord_Fabulous = "FABULOUS";
-sEasyChatWord_Else = "ELSE";
-sEasyChatWord_Expensive = "EXPENSIVE";
-sEasyChatWord_Correct = "CORRECT";
-sEasyChatWord_Impossible = "IMPOSSIBLE";
-sEasyChatWord_Small = "SMALL";
-sEasyChatWord_Different = "DIFFERENT";
-sEasyChatWord_Tired = "TIRED";
-sEasyChatWord_Skill = "SKILL";
-sEasyChatWord_Top = "TOP";
-sEasyChatWord_NonStop = "NON-STOP";
-sEasyChatWord_Preposterous = "PREPOSTEROUS";
-sEasyChatWord_None = "NONE";
-sEasyChatWord_Nothing = "NOTHING";
-sEasyChatWord_Natural = "NATURAL";
-sEasyChatWord_Becomes = "BECOMES";
-sEasyChatWord_Lukewarm = "LUKEWARM";
-sEasyChatWord_Fast = "FAST";
-sEasyChatWord_Low = "LOW";
-sEasyChatWord_Awful = "AWFUL";
-sEasyChatWord_Alone = "ALONE";
-sEasyChatWord_Bored = "BORED";
-sEasyChatWord_Secret = "SECRET";
-sEasyChatWord_Mystery = "MYSTERY";
-sEasyChatWord_Lacks = "LACKS";
-sEasyChatWord_Best = "BEST";
-sEasyChatWord_Lousy = "LOUSY";
-sEasyChatWord_Mistake = "MISTAKE";
-sEasyChatWord_Kind = "KIND";
-sEasyChatWord_Well = "WELL";
-sEasyChatWord_Weakened = "WEAKENED";
-sEasyChatWord_Simple = "SIMPLE";
-sEasyChatWord_Seems = "SEEMS";
-sEasyChatWord_Badly = "BADLY";
-sEasyChatWord_Will = "WILL";
-sEasyChatWord_WillBeHere = "WILL BE HERE";
-sEasyChatWord_Or = "OR";
-sEasyChatWord_Times = "TIMES";
-sEasyChatWord_Wonder = "WONDER";
-sEasyChatWord_IsItQues = "IS IT?";
-sEasyChatWord_Be = "BE";
-sEasyChatWord_Gimme = "GIMME";
-sEasyChatWord_Could = "COULD";
-sEasyChatWord_LikelyTo = "LIKELY TO";
-sEasyChatWord_Would = "WOULD";
-sEasyChatWord_Is = "IS";
-sEasyChatWord_IsntItQues = "ISN'T IT?";
-sEasyChatWord_Lets = "LET'S";
-sEasyChatWord_Other = "OTHER";
-sEasyChatWord_Are = "ARE";
-sEasyChatWord_Was = "WAS";
-sEasyChatWord_Were = "WERE";
-sEasyChatWord_Those = "THOSE";
-sEasyChatWord_Isnt = "ISN'T";
-sEasyChatWord_Wont = "WON'T";
-sEasyChatWord_Cant = "CAN'T";
-sEasyChatWord_Can = "CAN";
-sEasyChatWord_Dont = "DON'T";
-sEasyChatWord_Do = "DO";
-sEasyChatWord_Does = "DOES";
-sEasyChatWord_Whom = "WHOM";
-sEasyChatWord_Which = "WHICH";
-sEasyChatWord_Wasnt = "WASN'T";
-sEasyChatWord_Werent = "WEREN'T";
-sEasyChatWord_Have = "HAVE";
-sEasyChatWord_Havent = "HAVEN'T";
-sEasyChatWord_A = "A";
-sEasyChatWord_An = "AN";
-sEasyChatWord_Not = "NOT";
-sEasyChatWord_There = "THERE";
-sEasyChatWord_OkQues = "OK?";
-sEasyChatWord_So = "SO";
-sEasyChatWord_Maybe = "MAYBE";
-sEasyChatWord_About = "ABOUT";
-sEasyChatWord_Over = "OVER";
-sEasyChatWord_It = "IT";
-sEasyChatWord_All = "ALL";
-sEasyChatWord_For = "FOR";
-sEasyChatWord_On = "ON";
-sEasyChatWord_Off = "OFF";
-sEasyChatWord_As = "AS";
-sEasyChatWord_To = "TO";
-sEasyChatWord_With = "WITH";
-sEasyChatWord_Better = "BETTER";
-sEasyChatWord_Ever = "EVER";
-sEasyChatWord_Since = "SINCE";
-sEasyChatWord_Of = "OF";
-sEasyChatWord_BelongsTo = "BELONGS TO";
-sEasyChatWord_At = "AT";
-sEasyChatWord_In = "IN";
-sEasyChatWord_Out = "OUT";
-sEasyChatWord_Too = "TOO";
-sEasyChatWord_Like = "LIKE";
-sEasyChatWord_Did = "DID";
-sEasyChatWord_Didnt = "DIDN'T";
-sEasyChatWord_Doesnt = "DOESN'T";
-sEasyChatWord_Without = "WITHOUT";
-sEasyChatWord_After = "AFTER";
-sEasyChatWord_Before = "BEFORE";
-sEasyChatWord_While = "WHILE";
-sEasyChatWord_Than = "THAN";
-sEasyChatWord_Once = "ONCE";
-sEasyChatWord_Anywhere = "ANYWHERE";
-sEasyChatWord_Appeal = "APPEAL";
-sEasyChatWord_Events = "EVENTS";
-sEasyChatWord_StayAtHome = "STAY-AT-HOME";
-sEasyChatWord_Berry = "BERRY";
-sEasyChatWord_Contest = "CONTEST";
-sEasyChatWord_Mc = "MC";
-sEasyChatWord_Judge = "JUDGE";
-sEasyChatWord_Super = "SUPER";
-sEasyChatWord_Stage = "STAGE";
-sEasyChatWord_HallOfFame = "HALL OF FAME";
-sEasyChatWord_Evolution = "EVOLUTION";
-sEasyChatWord_Hyper = "HYPER";
-sEasyChatWord_BattleTower = "BATTLE TOWER";
-sEasyChatWord_Leaders = "LEADERS";
-sEasyChatWord_BattleRoom = "BATTLE ROOM";
-sEasyChatWord_Hidden = "HIDDEN";
-sEasyChatWord_SecretBase = "SECRET BASE";
-sEasyChatWord_Blend = "BLEND";
-sEasyChatWord_POKEBLOCK = "{POKEBLOCK}";
-sEasyChatWord_Master = "MASTER";
-sEasyChatWord_Rank = "RANK";
-sEasyChatWord_Ribbon = "RIBBON";
-sEasyChatWord_Crush = "CRUSH";
-sEasyChatWord_Direct = "DIRECT";
-sEasyChatWord_Tower = "TOWER";
-sEasyChatWord_Union = "UNION";
-sEasyChatWord_Room = "ROOM";
-sEasyChatWord_Wireless = "WIRELESS";
-sEasyChatWord_Meet = "MEET";
-sEasyChatWord_Play = "PLAY";
-sEasyChatWord_Hurried = "HURRIED";
-sEasyChatWord_Goes = "GOES";
-sEasyChatWord_Giddy = "GIDDY";
-sEasyChatWord_Happy = "HAPPY";
-sEasyChatWord_Happiness = "HAPPINESS";
-sEasyChatWord_Excite = "EXCITE";
-sEasyChatWord_Important = "IMPORTANT";
-sEasyChatWord_Funny = "FUNNY";
-sEasyChatWord_Got = "GOT";
-sEasyChatWord_GoHome = "GO HOME";
-sEasyChatWord_Disappointed = "DISAPPOINTED";
-sEasyChatWord_Disappoints = "DISAPPOINTS";
-sEasyChatWord_Sad = "SAD";
-sEasyChatWord_Try = "TRY";
-sEasyChatWord_Tries = "TRIES";
-sEasyChatWord_Hears = "HEARS";
-sEasyChatWord_Think = "THINK";
-sEasyChatWord_Hear = "HEAR";
-sEasyChatWord_Wants = "WANTS";
-sEasyChatWord_Misheard = "MISHEARD";
-sEasyChatWord_Dislike = "DISLIKE";
-sEasyChatWord_Angry = "ANGRY";
-sEasyChatWord_Anger = "ANGER";
-sEasyChatWord_Scary = "SCARY";
-sEasyChatWord_Lonesome = "LONESOME";
-sEasyChatWord_Disappoint = "DISAPPOINT";
-sEasyChatWord_Joy = "JOY";
-sEasyChatWord_Gets = "GETS";
-sEasyChatWord_Never = "NEVER";
-sEasyChatWord_Darn = "DARN";
-sEasyChatWord_Downcast = "DOWNCAST";
-sEasyChatWord_Incredible = "INCREDIBLE";
-sEasyChatWord_Likes = "LIKES";
-sEasyChatWord_Dislikes = "DISLIKES";
-sEasyChatWord_Boring = "BORING";
-sEasyChatWord_Care = "CARE";
-sEasyChatWord_Cares = "CARES";
-sEasyChatWord_AllRight = "ALL RIGHT";
-sEasyChatWord_Adore = "ADORE";
-sEasyChatWord_Disaster = "DISASTER";
-sEasyChatWord_Enjoy = "ENJOY";
-sEasyChatWord_Enjoys = "ENJOYS";
-sEasyChatWord_Eat = "EAT";
-sEasyChatWord_Lacking = "LACKING";
-sEasyChatWord_Bad = "BAD";
-sEasyChatWord_Hard = "HARD";
-sEasyChatWord_Terrible = "TERRIBLE";
-sEasyChatWord_Should = "SHOULD";
-sEasyChatWord_Nice = "NICE";
-sEasyChatWord_Drink = "DRINK";
-sEasyChatWord_Surprise = "SURPRISE";
-sEasyChatWord_Fear = "FEAR";
-sEasyChatWord_Want = "WANT";
-sEasyChatWord_Wait = "WAIT";
-sEasyChatWord_Satisfied = "SATISFIED";
-sEasyChatWord_See = "SEE";
-sEasyChatWord_Rare = "RARE";
-sEasyChatWord_Negative = "NEGATIVE";
-sEasyChatWord_Done = "DONE";
-sEasyChatWord_Danger = "DANGER";
-sEasyChatWord_Defeated = "DEFEATED";
-sEasyChatWord_Beat = "BEAT";
-sEasyChatWord_Great = "GREAT";
-sEasyChatWord_Romantic = "ROMANTIC";
-sEasyChatWord_Question = "QUESTION";
-sEasyChatWord_Understand = "UNDERSTAND";
-sEasyChatWord_Understands = "UNDERSTANDS";
-sEasyChatWord_Thanks = "THANKS";
-sEasyChatWord_Yes = "YES";
-sEasyChatWord_HereGoes = "HERE GOES";
-sEasyChatWord_HereICome = "HERE I COME";
-sEasyChatWord_HereItIs = "HERE IT IS";
-sEasyChatWord_Yeah = "YEAH";
-sEasyChatWord_Welcome = "WELCOME";
-sEasyChatWord_Oi = "OI";
-sEasyChatWord_HowDo = "HOW DO";
-sEasyChatWord_Congrats = "CONGRATS";
-sEasyChatWord_GiveMe = "GIVE ME";
-sEasyChatWord_Sorry = "SORRY";
-sEasyChatWord_Apologize = "APOLOGIZE";
-sEasyChatWord_Forgive = "FORGIVE";
-sEasyChatWord_HeyThere = "HEY, THERE";
-sEasyChatWord_Hello = "HELLO";
-sEasyChatWord_GoodBye = "GOOD-BYE";
-sEasyChatWord_ThankYou = "THANK YOU";
-sEasyChatWord_IveArrived = "I'VE ARRIVED";
-sEasyChatWord_Pardon = "PARDON";
-sEasyChatWord_Excuse = "EXCUSE";
-sEasyChatWord_SeeYa = "SEE YA";
-sEasyChatWord_ExcuseMe = "EXCUSE ME";
-sEasyChatWord_WellThen = "WELL, THEN";
-sEasyChatWord_GoAhead = "GO AHEAD";
-sEasyChatWord_Appreciate = "APPRECIATE";
-sEasyChatWord_HeyQues = "HEY?";
-sEasyChatWord_WhatsUpQues = "WHAT'S UP?";
-sEasyChatWord_HuhQues = "HUH?";
-sEasyChatWord_No = "NO";
-sEasyChatWord_Hi = "HI";
-sEasyChatWord_YeahYeah = "YEAH, YEAH";
-sEasyChatWord_ByeBye = "BYE-BYE";
-sEasyChatWord_MeetYou = "MEET YOU";
-sEasyChatWord_Hey = "HEY";
-sEasyChatWord_Smell = "SMELL";
-sEasyChatWord_Listening = "LISTENING";
-sEasyChatWord_HooHah = "HOO-HAH";
-sEasyChatWord_Yahoo = "YAHOO";
-sEasyChatWord_Yo = "YO";
-sEasyChatWord_ComeOver = "COME OVER";
-sEasyChatWord_CountOn = "COUNT ON";
-sEasyChatWord_Idol = "IDOL";
-sEasyChatWord_Anime = "ANIME";
-sEasyChatWord_Song = "SONG";
-sEasyChatWord_Movie = "MOVIE";
-sEasyChatWord_Sweets = "SWEETS";
-sEasyChatWord_Chat = "CHAT";
-sEasyChatWord_ChildsPlay = "CHILD'S PLAY";
-sEasyChatWord_Toys = "TOYS";
-sEasyChatWord_Music = "MUSIC";
-sEasyChatWord_Cards = "CARDS";
-sEasyChatWord_Shopping = "SHOPPING";
-sEasyChatWord_Camera = "CAMERA";
-sEasyChatWord_Viewing = "VIEWING";
-sEasyChatWord_Spectator = "SPECTATOR";
-sEasyChatWord_Gourmet = "GOURMET";
-sEasyChatWord_Game = "GAME";
-sEasyChatWord_Rpg = "RPG";
-sEasyChatWord_Collection = "COLLECTION";
-sEasyChatWord_Complete = "COMPLETE";
-sEasyChatWord_Magazine = "MAGAZINE";
-sEasyChatWord_Walk = "WALK";
-sEasyChatWord_Bike = "BIKE";
-sEasyChatWord_Hobby = "HOBBY";
-sEasyChatWord_Sports = "SPORTS";
-sEasyChatWord_Software = "SOFTWARE";
-sEasyChatWord_Songs = "SONGS";
-sEasyChatWord_Diet = "DIET";
-sEasyChatWord_Treasure = "TREASURE";
-sEasyChatWord_Travel = "TRAVEL";
-sEasyChatWord_Dance = "DANCE";
-sEasyChatWord_Channel = "CHANNEL";
-sEasyChatWord_Making = "MAKING";
-sEasyChatWord_Fishing = "FISHING";
-sEasyChatWord_Date = "DATE";
-sEasyChatWord_Design = "DESIGN";
-sEasyChatWord_Locomotive = "LOCOMOTIVE";
-sEasyChatWord_PlushDoll = "PLUSH DOLL";
-sEasyChatWord_Pc = "PC";
-sEasyChatWord_Flowers = "FLOWERS";
-sEasyChatWord_Hero = "HERO";
-sEasyChatWord_Nap = "NAP";
-sEasyChatWord_Heroine = "HEROINE";
-sEasyChatWord_Fashion = "FASHION";
-sEasyChatWord_Adventure = "ADVENTURE";
-sEasyChatWord_Board = "BOARD";
-sEasyChatWord_Ball = "BALL";
-sEasyChatWord_Book = "BOOK";
-sEasyChatWord_Festival = "FESTIVAL";
-sEasyChatWord_Comics = "COMICS";
-sEasyChatWord_Holiday = "HOLIDAY";
-sEasyChatWord_Plans = "PLANS";
-sEasyChatWord_Trendy = "TRENDY";
-sEasyChatWord_Vacation = "VACATION";
-sEasyChatWord_Look = "LOOK";
-sEasyChatWord_Chores = "CHORES";
-sEasyChatWord_Home = "HOME";
-sEasyChatWord_Money = "MONEY";
-sEasyChatWord_Allowance = "ALLOWANCE";
-sEasyChatWord_Bath = "BATH";
-sEasyChatWord_Conversation = "CONVERSATION";
-sEasyChatWord_School = "SCHOOL";
-sEasyChatWord_Commemorate = "COMMEMORATE";
-sEasyChatWord_Habit = "HABIT";
-sEasyChatWord_Group = "GROUP";
-sEasyChatWord_Word = "WORD";
-sEasyChatWord_Store = "STORE";
-sEasyChatWord_Service = "SERVICE";
-sEasyChatWord_Work = "WORK";
-sEasyChatWord_System = "SYSTEM";
-sEasyChatWord_Train = "TRAIN";
-sEasyChatWord_Class = "CLASS";
-sEasyChatWord_Lessons = "LESSONS";
-sEasyChatWord_Information = "INFORMATION";
-sEasyChatWord_Living = "LIVING";
-sEasyChatWord_Teacher = "TEACHER";
-sEasyChatWord_Tournament = "TOURNAMENT";
-sEasyChatWord_Letter = "LETTER";
-sEasyChatWord_Event = "EVENT";
-sEasyChatWord_Digital = "DIGITAL";
-sEasyChatWord_Test = "TEST";
-sEasyChatWord_DeptStore = "DEPT. STORE";
-sEasyChatWord_Television = "TELEVISION";
-sEasyChatWord_Phone = "PHONE";
-sEasyChatWord_Item = "ITEM";
-sEasyChatWord_Name = "NAME";
-sEasyChatWord_News = "NEWS";
-sEasyChatWord_Popular = "POPULAR";
-sEasyChatWord_Party = "PARTY";
-sEasyChatWord_Study = "STUDY";
-sEasyChatWord_Machine = "MACHINE";
-sEasyChatWord_Mail = "MAIL";
-sEasyChatWord_Message = "MESSAGE";
-sEasyChatWord_Promise = "PROMISE";
-sEasyChatWord_Dream = "DREAM";
-sEasyChatWord_Kindergarten = "KINDERGARTEN";
-sEasyChatWord_Life = "LIFE";
-sEasyChatWord_Radio = "RADIO";
-sEasyChatWord_Rental = "RENTAL";
-sEasyChatWord_World = "WORLD";
-sEasyChatWord_Highs = "HIGHS";
-sEasyChatWord_Lows = "LOWS";
-sEasyChatWord_Um = "UM";
-sEasyChatWord_Rear = "REAR";
-sEasyChatWord_Things = "THINGS";
-sEasyChatWord_Thing = "THING";
-sEasyChatWord_Below = "BELOW";
-sEasyChatWord_Above = "ABOVE";
-sEasyChatWord_Back = "BACK";
-sEasyChatWord_High = "HIGH";
-sEasyChatWord_Here = "HERE";
-sEasyChatWord_Inside = "INSIDE";
-sEasyChatWord_Outside = "OUTSIDE";
-sEasyChatWord_Beside = "BESIDE";
-sEasyChatWord_ThisIsItExcl = "THIS IS IT!";
-sEasyChatWord_This = "THIS";
-sEasyChatWord_Every = "EVERY";
-sEasyChatWord_These = "THESE";
-sEasyChatWord_TheseWere = "THESE WERE";
-sEasyChatWord_Down = "DOWN";
-sEasyChatWord_That = "THAT";
-sEasyChatWord_ThoseAre = "THOSE ARE";
-sEasyChatWord_ThoseWere = "THOSE WERE";
-sEasyChatWord_ThatsItExcl = "THAT'S IT!";
-sEasyChatWord_Am = "AM";
-sEasyChatWord_ThatWas = "THAT WAS";
-sEasyChatWord_Front = "FRONT";
-sEasyChatWord_Up = "UP";
-sEasyChatWord_Choice = "CHOICE";
-sEasyChatWord_Far = "FAR";
-sEasyChatWord_Away = "AWAY";
-sEasyChatWord_Near = "NEAR";
-sEasyChatWord_Where = "WHERE";
-sEasyChatWord_When = "WHEN";
-sEasyChatWord_What = "WHAT";
-sEasyChatWord_Deep = "DEEP";
-sEasyChatWord_Shallow = "SHALLOW";
-sEasyChatWord_Why = "WHY";
-sEasyChatWord_Confused = "CONFUSED";
-sEasyChatWord_Opposite = "OPPOSITE";
-sEasyChatWord_Left = "LEFT";
-sEasyChatWord_Right = "RIGHT";
-sEasyChatWord_Opponent = "OPPONENT";
-sEasyChatWord_I = "I";
-sEasyChatWord_You = "YOU";
-sEasyChatWord_Yours = "YOURS";
-sEasyChatWord_Son = "SON";
-sEasyChatWord_Your = "YOUR";
-sEasyChatWord_Youre = "YOU'RE";
-sEasyChatWord_Youve = "YOU'VE";
-sEasyChatWord_Mother = "MOTHER";
-sEasyChatWord_Grandfather = "GRANDFATHER";
-sEasyChatWord_Uncle = "UNCLE";
-sEasyChatWord_Father = "FATHER";
-sEasyChatWord_Boy = "BOY";
-sEasyChatWord_Adult = "ADULT";
-sEasyChatWord_Brother = "BROTHER";
-sEasyChatWord_Sister = "SISTER";
-sEasyChatWord_Grandmother = "GRANDMOTHER";
-sEasyChatWord_Aunt = "AUNT";
-sEasyChatWord_Parent = "PARENT";
-sEasyChatWord_Man = "MAN";
-sEasyChatWord_Me = "ME";
-sEasyChatWord_Girl = "GIRL";
-sEasyChatWord_Babe = "BABE";
-sEasyChatWord_Family = "FAMILY";
-sEasyChatWord_Her = "HER";
-sEasyChatWord_Him = "HIM";
-sEasyChatWord_He = "HE";
-sEasyChatWord_Place = "PLACE";
-sEasyChatWord_Daughter = "DAUGHTER";
-sEasyChatWord_His = "HIS";
-sEasyChatWord_Hes = "HE'S";
-sEasyChatWord_Arent = "AREN'T";
-sEasyChatWord_Siblings = "SIBLINGS";
-sEasyChatWord_Kid = "KID";
-sEasyChatWord_Children = "CHILDREN";
-sEasyChatWord_Mr = "MR.";
-sEasyChatWord_Mrs = "MRS.";
-sEasyChatWord_Myself = "MYSELF";
-sEasyChatWord_IWas = "I WAS";
-sEasyChatWord_ToMe = "TO ME";
-sEasyChatWord_My = "MY";
-sEasyChatWord_IAm = "I AM";
-sEasyChatWord_Ive = "I'VE";
-sEasyChatWord_Who = "WHO";
-sEasyChatWord_Someone = "SOMEONE";
-sEasyChatWord_WhoWas = "WHO WAS";
-sEasyChatWord_ToWhom = "TO WHOM";
-sEasyChatWord_Whose = "WHOSE";
-sEasyChatWord_WhoIs = "WHO IS";
-sEasyChatWord_Its = "IT'S";
-sEasyChatWord_Lady = "LADY";
-sEasyChatWord_Friend = "FRIEND";
-sEasyChatWord_Ally = "ALLY";
-sEasyChatWord_Person = "PERSON";
-sEasyChatWord_Dude = "DUDE";
-sEasyChatWord_They = "THEY";
-sEasyChatWord_TheyWere = "THEY WERE";
-sEasyChatWord_ToThem = "TO THEM";
-sEasyChatWord_Their = "THEIR";
-sEasyChatWord_Theyre = "THEY'RE";
-sEasyChatWord_Theyve = "THEY'VE";
-sEasyChatWord_We = "WE";
-sEasyChatWord_Been = "BEEN";
-sEasyChatWord_ToUs = "TO US";
-sEasyChatWord_Our = "OUR";
-sEasyChatWord_WeAre = "WE'RE";
-sEasyChatWord_Rival = "RIVAL";
-sEasyChatWord_Weve = "WE'VE";
-sEasyChatWord_Woman = "WOMAN";
-sEasyChatWord_She = "SHE";
-sEasyChatWord_SheWas = "SHE WAS";
-sEasyChatWord_ToHer = "TO HER";
-sEasyChatWord_Hers = "HERS";
-sEasyChatWord_SheIs = "SHE IS";
-sEasyChatWord_Some = "SOME";
-sEasyChatWord_Listen = "LISTEN";
-sEasyChatWord_NotVery = "NOT VERY";
-sEasyChatWord_Mean = "MEAN";
-sEasyChatWord_Lie = "LIE";
-sEasyChatWord_Lay = "LAY";
-sEasyChatWord_Recommend = "RECOMMEND";
-sEasyChatWord_Nitwit = "NITWIT";
-sEasyChatWord_Quite = "QUITE";
-sEasyChatWord_From = "FROM";
-sEasyChatWord_Feeling = "FEELING";
-sEasyChatWord_But = "BUT";
-sEasyChatWord_However = "HOWEVER";
-sEasyChatWord_Case = "CASE";
-sEasyChatWord_The = "THE";
-sEasyChatWord_Miss = "MISS";
-sEasyChatWord_How = "HOW";
-sEasyChatWord_Hit = "HIT";
-sEasyChatWord_Enough = "ENOUGH";
-sEasyChatWord_ALot = "A LOT";
-sEasyChatWord_ALittle = "A LITTLE";
-sEasyChatWord_Absolutely = "ABSOLUTELY";
-sEasyChatWord_And = "AND";
-sEasyChatWord_Only = "ONLY";
-sEasyChatWord_Around = "AROUND";
-sEasyChatWord_Probably = "PROBABLY";
-sEasyChatWord_If = "IF";
-sEasyChatWord_Very = "VERY";
-sEasyChatWord_ATinyBit = "A TINY BIT";
-sEasyChatWord_Wild = "WILD";
-sEasyChatWord_Thats = "THAT'S";
-sEasyChatWord_Just = "JUST";
-sEasyChatWord_EvenSo = "EVEN SO,";
-sEasyChatWord_MustBe = "MUST BE";
-sEasyChatWord_Naturally = "NATURALLY";
-sEasyChatWord_ForNow = "FOR NOW,";
-sEasyChatWord_Understood = "UNDERSTOOD";
-sEasyChatWord_Joking = "JOKING";
-sEasyChatWord_Ready = "READY";
-sEasyChatWord_Something = "SOMETHING";
-sEasyChatWord_Somehow = "SOMEHOW";
-sEasyChatWord_Although = "ALTHOUGH";
-sEasyChatWord_Also = "ALSO";
-sEasyChatWord_Perfect = "PERFECT";
-sEasyChatWord_AsMuchAs = "AS MUCH AS";
-sEasyChatWord_Really = "REALLY";
-sEasyChatWord_Truly = "TRULY";
-sEasyChatWord_Seriously = "SERIOUSLY";
-sEasyChatWord_Totally = "TOTALLY";
-sEasyChatWord_Until = "UNTIL";
-sEasyChatWord_AsIf = "AS IF";
-sEasyChatWord_Mood = "MOOD";
-sEasyChatWord_Rather = "RATHER";
-sEasyChatWord_Awfully = "AWFULLY";
-sEasyChatWord_Mode = "MODE";
-sEasyChatWord_More = "MORE";
-sEasyChatWord_TooLate = "TOO LATE";
-sEasyChatWord_Finally = "FINALLY";
-sEasyChatWord_Any = "ANY";
-sEasyChatWord_Instead = "INSTEAD";
-sEasyChatWord_Fantastic = "FANTASTIC";
-sEasyChatWord_Dark = "DARK";
-sEasyChatWord_Stench = "STENCH";
-sEasyChatWord_ThickFat = "THICK FAT";
-sEasyChatWord_RainDish = "RAIN DISH";
-sEasyChatWord_Drizzle = "DRIZZLE";
-sEasyChatWord_ArenaTrap = "ARENA TRAP";
-sEasyChatWord_Intimidate = "INTIMIDATE";
-sEasyChatWord_RockHead = "ROCK HEAD";
-sEasyChatWord_Color = "COLOR";
-sEasyChatWord_AltColor = "ALT. COLOR";
-sEasyChatWord_Rock = "ROCK";
-sEasyChatWord_Beautiful = "BEAUTIFUL";
-sEasyChatWord_Beauty = "BEAUTY";
-sEasyChatWord_AirLock = "AIR LOCK";
-sEasyChatWord_Psychic = "PSYCHIC";
-sEasyChatWord_HyperCutter = "HYPER CUTTER";
-sEasyChatWord_Fighting = "FIGHTING";
-sEasyChatWord_ShadowTag = "SHADOW TAG";
-sEasyChatWord_Smart = "SMART";
-sEasyChatWord_Smartness = "SMARTNESS";
-sEasyChatWord_SpeedBoost = "SPEED BOOST";
-sEasyChatWord_Cool = "COOL";
-sEasyChatWord_Coolness = "COOLNESS";
-sEasyChatWord_BattleArmor = "BATTLE ARMOR";
-sEasyChatWord_Cute = "CUTE";
-sEasyChatWord_Cuteness = "CUTENESS";
-sEasyChatWord_Sturdy = "STURDY";
-sEasyChatWord_SuctionCups = "SUCTION CUPS";
-sEasyChatWord_Grass = "GRASS";
-sEasyChatWord_ClearBody = "CLEAR BODY";
-sEasyChatWord_Torrent = "TORRENT";
-sEasyChatWord_Ghost = "GHOST";
-sEasyChatWord_Ice = "ICE";
-sEasyChatWord_Guts = "GUTS";
-sEasyChatWord_RoughSkin = "ROUGH SKIN";
-sEasyChatWord_ShellArmor = "SHELL ARMOR";
-sEasyChatWord_NaturalCure = "NATURAL CURE";
-sEasyChatWord_Damp = "DAMP";
-sEasyChatWord_Ground = "GROUND";
-sEasyChatWord_Limber = "LIMBER";
-sEasyChatWord_MagnetPull = "MAGNET PULL";
-sEasyChatWord_WhiteSmoke = "WHITE SMOKE";
-sEasyChatWord_Synchronize = "SYNCHRONIZE";
-sEasyChatWord_Overgrow = "OVERGROW";
-sEasyChatWord_SwiftSwim = "SWIFT SWIM";
-sEasyChatWord_SandStream = "SAND STREAM";
-sEasyChatWord_SandVeil = "SAND VEIL";
-sEasyChatWord_KeenEye = "KEEN EYE";
-sEasyChatWord_InnerFocus = "INNER FOCUS";
-sEasyChatWord_Static = "STATIC";
-sEasyChatWord_Type = "TYPE";
-sEasyChatWord_Tough = "TOUGH";
-sEasyChatWord_Toughness = "TOUGHNESS";
-sEasyChatWord_ShedSkin = "SHED SKIN";
-sEasyChatWord_HugePower = "HUGE POWER";
-sEasyChatWord_VoltAbsorb = "VOLT ABSORB";
-sEasyChatWord_WaterAbsorb = "WATER ABSORB";
-sEasyChatWord_Electric = "ELECTRIC";
-sEasyChatWord_Forecast = "FORECAST";
-sEasyChatWord_SereneGrace = "SERENE GRACE";
-sEasyChatWord_Poison = "POISON";
-sEasyChatWord_PoisonPoint = "POISON POINT";
-sEasyChatWord_Dragon = "DRAGON";
-sEasyChatWord_Trace = "TRACE";
-sEasyChatWord_Oblivious = "OBLIVIOUS";
-sEasyChatWord_Truant = "TRUANT";
-sEasyChatWord_RunAway = "RUN AWAY";
-sEasyChatWord_StickyHold = "STICKY HOLD";
-sEasyChatWord_CloudNine = "CLOUD NINE";
-sEasyChatWord_Normal = "NORMAL";
-sEasyChatWord_Steel = "STEEL";
-sEasyChatWord_Illuminate = "ILLUMINATE";
-sEasyChatWord_EarlyBird = "EARLY BIRD";
-sEasyChatWord_Hustle = "HUSTLE";
-sEasyChatWord_Shine = "SHINE";
-sEasyChatWord_Flying = "FLYING";
-sEasyChatWord_Drought = "DROUGHT";
-sEasyChatWord_Lightningrod = "LIGHTNINGROD";
-sEasyChatWord_Compoundeyes = "COMPOUNDEYES";
-sEasyChatWord_MarvelScale = "MARVEL SCALE";
-sEasyChatWord_WonderGuard = "WONDER GUARD";
-sEasyChatWord_Insomnia = "INSOMNIA";
-sEasyChatWord_Levitate = "LEVITATE";
-sEasyChatWord_Plus = "PLUS";
-sEasyChatWord_Pressure = "PRESSURE";
-sEasyChatWord_LiquidOoze = "LIQUID OOZE";
-sEasyChatWord_ColorChange = "COLOR CHANGE";
-sEasyChatWord_Soundproof = "SOUNDPROOF";
-sEasyChatWord_EffectSpore = "EFFECT SPORE";
-sEasyChatWord_Pkrs = "{PK}RS";
-sEasyChatWord_Fire = "FIRE";
-sEasyChatWord_FlameBody = "FLAME BODY";
-sEasyChatWord_Minus = "MINUS";
-sEasyChatWord_OwnTempo = "OWN TEMPO";
-sEasyChatWord_MagmaArmor = "MAGMA ARMOR";
-sEasyChatWord_Water = "WATER";
-sEasyChatWord_WaterVeil = "WATER VEIL";
-sEasyChatWord_Bug = "BUG";
-sEasyChatWord_Swarm = "SWARM";
-sEasyChatWord_CuteCharm = "CUTE CHARM";
-sEasyChatWord_Immunity = "IMMUNITY";
-sEasyChatWord_Blaze = "BLAZE";
-sEasyChatWord_Pickup = "PICKUP";
-sEasyChatWord_Pattern = "PATTERN";
-sEasyChatWord_FlashFire = "FLASH FIRE";
-sEasyChatWord_VitalSpirit = "VITAL SPIRIT";
-sEasyChatWord_Chlorophyll = "CHLOROPHYLL";
-sEasyChatWord_PurePower = "PURE POWER";
-sEasyChatWord_ShieldDust = "SHIELD DUST";
-sEasyChatWord_Fall = "FALL";
-sEasyChatWord_Morning = "MORNING";
-sEasyChatWord_Tomorrow = "TOMORROW";
-sEasyChatWord_Last = "LAST";
-sEasyChatWord_Day = "DAY";
-sEasyChatWord_Sometime = "SOMETIME";
-sEasyChatWord_Always = "ALWAYS";
-sEasyChatWord_Current = "CURRENT";
-sEasyChatWord_Forever = "FOREVER";
-sEasyChatWord_Days = "DAYS";
-sEasyChatWord_End = "END";
-sEasyChatWord_Tuesday = "TUESDAY";
-sEasyChatWord_Yesterday = "YESTERDAY";
-sEasyChatWord_Today = "TODAY";
-sEasyChatWord_Friday = "FRIDAY";
-sEasyChatWord_Monday = "MONDAY";
-sEasyChatWord_Later = "LATER";
-sEasyChatWord_Earlier = "EARLIER";
-sEasyChatWord_Another = "ANOTHER";
-sEasyChatWord_Time = "TIME";
-sEasyChatWord_Finish = "FINISH";
-sEasyChatWord_Wednesday = "WEDNESDAY";
-sEasyChatWord_Soon = "SOON";
-sEasyChatWord_Start = "START";
-sEasyChatWord_Month = "MONTH";
-sEasyChatWord_Stop = "STOP";
-sEasyChatWord_Now = "NOW";
-sEasyChatWord_Final = "FINAL";
-sEasyChatWord_Next = "NEXT";
-sEasyChatWord_Age = "AGE";
-sEasyChatWord_Saturday = "SATURDAY";
-sEasyChatWord_Summer = "SUMMER";
-sEasyChatWord_Sunday = "SUNDAY";
-sEasyChatWord_Beginning = "BEGINNING";
-sEasyChatWord_Spring = "SPRING";
-sEasyChatWord_Daytime = "DAYTIME";
-sEasyChatWord_Winter = "WINTER";
-sEasyChatWord_Daily = "DAILY";
-sEasyChatWord_Olden = "OLDEN";
-sEasyChatWord_Almost = "ALMOST";
-sEasyChatWord_Nearly = "NEARLY";
-sEasyChatWord_Thursday = "THURSDAY";
-sEasyChatWord_Nighttime = "NIGHTTIME";
-sEasyChatWord_Night = "NIGHT";
-sEasyChatWord_Week = "WEEK";
-sEasyChatWord_IChooseYou = "I CHOOSE YOU";
-sEasyChatWord_Gotcha = "GOTCHA";
-sEasyChatWord_Trade = "TRADE";
-sEasyChatWord_Sapphire = "SAPPHIRE";
-sEasyChatWord_Evolve = "EVOLVE";
-sEasyChatWord_Encyclopedia = "ENCYCLOPEDIA";
-sEasyChatWord_Nature = "NATURE";
-sEasyChatWord_Center = "CENTER";
-sEasyChatWord_Egg = "EGG";
-sEasyChatWord_Link = "LINK";
-sEasyChatWord_SpAbility = "SP. ABILITY";
-sEasyChatWord_Trainer = "TRAINER";
-sEasyChatWord_Version = "VERSION";
-sEasyChatWord_Pokenav = "POKéNAV";
-sEasyChatWord_Pokemon = "POKéMON";
-sEasyChatWord_Get = "GET";
-sEasyChatWord_Pokedex = "POKéDEX";
-sEasyChatWord_Ruby = "RUBY";
-sEasyChatWord_Level = "LEVEL";
-sEasyChatWord_Red = "RED";
-sEasyChatWord_Green = "GREEN";
-sEasyChatWord_Bag = "BAG";
-sEasyChatWord_Flame = "FLAME";
-sEasyChatWord_Gold = "GOLD";
-sEasyChatWord_Leaf = "LEAF";
-sEasyChatWord_Silver = "SILVER";
-sEasyChatWord_KthxBye = "KTHX, BYE.";
-sEasyChatWord_YesSirExcl = "YES, SIR!";
-sEasyChatWord_AvantGarde = "AVANT GARDE";
-sEasyChatWord_Couple = "COUPLE";
-sEasyChatWord_MuchObliged = "MUCH OBLIGED";
-sEasyChatWord_YeehawExcl = "YEEHAW!";
-sEasyChatWord_Mega = "MEGA";
-sEasyChatWord_1HitKOExcl = "1-HIT KO!";
-sEasyChatWord_Destiny = "DESTINY";
-sEasyChatWord_Cancel = "CANCEL";
-sEasyChatWord_New = "NEW";
-sEasyChatWord_Flatten = "FLATTEN";
-sEasyChatWord_Kidding = "KIDDING";
-sEasyChatWord_Loser = "LOSER";
-sEasyChatWord_Losing = "LOSING";
-sEasyChatWord_Happening = "HAPPENING";
-sEasyChatWord_HipAnd = "HIP AND";
-sEasyChatWord_Shake = "SHAKE";
-sEasyChatWord_Shady = "SHADY";
-sEasyChatWord_Upbeat = "UPBEAT";
-sEasyChatWord_Modern = "MODERN";
-sEasyChatWord_SmellYa = "SMELL YA";
-sEasyChatWord_Bang = "BANG";
-sEasyChatWord_Knockout = "KNOCKOUT";
-sEasyChatWord_Hassle = "HASSLE";
-sEasyChatWord_Winner = "WINNER";
-sEasyChatWord_Fever = "FEVER";
-sEasyChatWord_Wannabe = "WANNABE";
-sEasyChatWord_Baby = "BABY";
-sEasyChatWord_Heart = "HEART";
-sEasyChatWord_Old = "OLD";
-sEasyChatWord_Young = "YOUNG";
-sEasyChatWord_Ugly = "UGLY";
-sEasyChatWord_Excl = "!";
-sEasyChatWord_ExclExcl = "!!";
-sEasyChatWord_QuesExcl = "?!";
-sEasyChatWord_Ques = "?";
-sEasyChatWord_Ellipsis = "…";
-sEasyChatWord_EllipsisExcl = "…!";
-sEasyChatWord_EllipsisEllipsisEllipsis = "………";
-sEasyChatWord_Dash = "-";
-sEasyChatWord_DashDashDash = "- - -";
-sEasyChatWord_UhOh = "UH-OH";
-sEasyChatWord_Waaah = "WAAAH";
-sEasyChatWord_Ahaha = "AHAHA";
-sEasyChatWord_OhQues = "OH?";
-sEasyChatWord_Nope = "NOPE";
-sEasyChatWord_Urgh = "URGH";
-sEasyChatWord_Hmm = "HMM";
-sEasyChatWord_Whoah = "WHOAH";
-sEasyChatWord_WroooaarExcl = "WROOOAAR!";
-sEasyChatWord_Wow = "WOW";
-sEasyChatWord_Giggle = "GIGGLE";
-sEasyChatWord_Sigh = "SIGH";
-sEasyChatWord_Unbelievable = "UNBELIEVABLE";
-sEasyChatWord_Cries = "CRIES";
-sEasyChatWord_Agree = "AGREE";
-sEasyChatWord_EhQues = "EH?";
-sEasyChatWord_Cry = "CRY";
-sEasyChatWord_Ehehe = "EHEHE";
-sEasyChatWord_OiOiOi = "OI, OI, OI";
-sEasyChatWord_OhYeah = "OH, YEAH";
-sEasyChatWord_Oh = "OH";
-sEasyChatWord_Oops = "OOPS";
-sEasyChatWord_Shocked = "SHOCKED";
-sEasyChatWord_Eek = "EEK";
-sEasyChatWord_Graaah = "GRAAAH";
-sEasyChatWord_Gwahahaha = "GWAHAHAHA";
-sEasyChatWord_Way = "WAY";
-sEasyChatWord_Tch = "TCH";
-sEasyChatWord_Hehe = "HEHE";
-sEasyChatWord_Hah = "HAH";
-sEasyChatWord_Yup = "YUP";
-sEasyChatWord_Hahaha = "HAHAHA";
-sEasyChatWord_Aiyeeh = "AIYEEH";
-sEasyChatWord_Hiyah = "HIYAH";
-sEasyChatWord_Fufufu = "FUFUFU";
-sEasyChatWord_Lol = "LOL";
-sEasyChatWord_Snort = "SNORT";
-sEasyChatWord_Humph = "HUMPH";
-sEasyChatWord_Hehehe = "HEHEHE";
-sEasyChatWord_Heh = "HEH";
-sEasyChatWord_Hohoho = "HOHOHO";
-sEasyChatWord_UhHuh = "UH-HUH";
-sEasyChatWord_OhDear = "OH, DEAR";
-sEasyChatWord_Arrgh = "ARRGH";
-sEasyChatWord_Mufufu = "MUFUFU";
-sEasyChatWord_Mmm = "MMM";
-sEasyChatWord_OhKay = "OH-KAY";
-sEasyChatWord_Okay = "OKAY";
-sEasyChatWord_Lalala = "LALALA";
-sEasyChatWord_Yay = "YAY";
-sEasyChatWord_Aww = "AWW";
-sEasyChatWord_Wowee = "WOWEE";
-sEasyChatWord_Gwah = "GWAH";
-sEasyChatWord_Wahahaha = "WAHAHAHA";
-gItemDescription_ITEM_NONE = "?????";
-gDummyPokedexTextUnused = "";
-gBulbasaurPokedexTextUnused = "";
-gIvysaurPokedexTextUnused = "";
-gVenusaurPokedexTextUnused = "";
-gCharmanderPokedexTextUnused = "";
-gCharmeleonPokedexTextUnused = "";
-gCharizardPokedexTextUnused = "";
-gSquirtlePokedexTextUnused = "";
-gWartortlePokedexTextUnused = "";
-gBlastoisePokedexTextUnused = "";
-gCaterpiePokedexTextUnused = "";
-gMetapodPokedexTextUnused = "";
-gButterfreePokedexTextUnused = "";
-gWeedlePokedexTextUnused = "";
-gKakunaPokedexTextUnused = "";
-gBeedrillPokedexTextUnused = "";
-gPidgeyPokedexTextUnused = "";
-gPidgeottoPokedexTextUnused = "";
-gPidgeotPokedexTextUnused = "";
-gRattataPokedexTextUnused = "";
-gRaticatePokedexTextUnused = "";
-gSpearowPokedexTextUnused = "";
-gFearowPokedexTextUnused = "";
-gEkansPokedexTextUnused = "";
-gArbokPokedexTextUnused = "";
-gPikachuPokedexTextUnused = "";
-gRaichuPokedexTextUnused = "";
-gSandshrewPokedexTextUnused = "";
-gSandslashPokedexTextUnused = "";
-gNidoranFPokedexTextUnused = "";
-gNidorinaPokedexTextUnused = "";
-gNidoqueenPokedexTextUnused = "";
-gNidoranMPokedexTextUnused = "";
-gNidorinoPokedexTextUnused = "";
-gNidokingPokedexTextUnused = "";
-gClefairyPokedexTextUnused = "";
-gClefablePokedexTextUnused = "";
-gVulpixPokedexTextUnused = "";
-gNinetalesPokedexTextUnused = "";
-gJigglypuffPokedexTextUnused = "";
-gWigglytuffPokedexTextUnused = "";
-gZubatPokedexTextUnused = "";
-gGolbatPokedexTextUnused = "";
-gOddishPokedexTextUnused = "";
-gGloomPokedexTextUnused = "";
-gVileplumePokedexTextUnused = "";
-gParasPokedexTextUnused = "";
-gParasectPokedexTextUnused = "";
-gVenonatPokedexTextUnused = "";
-gVenomothPokedexTextUnused = "";
-gDiglettPokedexTextUnused = "";
-gDugtrioPokedexTextUnused = "";
-gMeowthPokedexTextUnused = "";
-gPersianPokedexTextUnused = "";
-gPsyduckPokedexTextUnused = "";
-gGolduckPokedexTextUnused = "";
-gMankeyPokedexTextUnused = "";
-gPrimeapePokedexTextUnused = "";
-gGrowlithePokedexTextUnused = "";
-gArcaninePokedexTextUnused = "";
-gPoliwagPokedexTextUnused = "";
-gPoliwhirlPokedexTextUnused = "";
-gPoliwrathPokedexTextUnused = "";
-gAbraPokedexTextUnused = "";
-gKadabraPokedexTextUnused = "";
-gAlakazamPokedexTextUnused = "";
-gMachopPokedexTextUnused = "";
-gMachokePokedexTextUnused = "";
-gMachampPokedexTextUnused = "";
-gBellsproutPokedexTextUnused = "";
-gWeepinbellPokedexTextUnused = "";
-gVictreebelPokedexTextUnused = "";
-gTentacoolPokedexTextUnused = "";
-gTentacruelPokedexTextUnused = "";
-gGeodudePokedexTextUnused = "";
-gGravelerPokedexTextUnused = "";
-gGolemPokedexTextUnused = "";
-gPonytaPokedexTextUnused = "";
-gRapidashPokedexTextUnused = "";
-gSlowpokePokedexTextUnused = "";
-gSlowbroPokedexTextUnused = "";
-gMagnemitePokedexTextUnused = "";
-gMagnetonPokedexTextUnused = "";
-gFarfetchdPokedexTextUnused = "";
-gDoduoPokedexTextUnused = "";
-gDodrioPokedexTextUnused = "";
-gSeelPokedexTextUnused = "";
-gDewgongPokedexTextUnused = "";
-gGrimerPokedexTextUnused = "";
-gMukPokedexTextUnused = "";
-gShellderPokedexTextUnused = "";
-gCloysterPokedexTextUnused = "";
-gGastlyPokedexTextUnused = "";
-gHaunterPokedexTextUnused = "";
-gGengarPokedexTextUnused = "";
-gOnixPokedexTextUnused = "";
-gDrowzeePokedexTextUnused = "";
-gHypnoPokedexTextUnused = "";
-gKrabbyPokedexTextUnused = "";
-gKinglerPokedexTextUnused = "";
-gVoltorbPokedexTextUnused = "";
-gElectrodePokedexTextUnused = "";
-gExeggcutePokedexTextUnused = "";
-gExeggutorPokedexTextUnused = "";
-gCubonePokedexTextUnused = "";
-gMarowakPokedexTextUnused = "";
-gHitmonleePokedexTextUnused = "";
-gHitmonchanPokedexTextUnused = "";
-gLickitungPokedexTextUnused = "";
-gKoffingPokedexTextUnused = "";
-gWeezingPokedexTextUnused = "";
-gRhyhornPokedexTextUnused = "";
-gRhydonPokedexTextUnused = "";
-gChanseyPokedexTextUnused = "";
-gTangelaPokedexTextUnused = "";
-gKangaskhanPokedexTextUnused = "";
-gHorseaPokedexTextUnused = "";
-gSeadraPokedexTextUnused = "";
-gGoldeenPokedexTextUnused = "";
-gSeakingPokedexTextUnused = "";
-gStaryuPokedexTextUnused = "";
-gStarmiePokedexTextUnused = "";
-gMrmimePokedexTextUnused = "";
-gScytherPokedexTextUnused = "";
-gJynxPokedexTextUnused = "";
-gElectabuzzPokedexTextUnused = "";
-gMagmarPokedexTextUnused = "";
-gPinsirPokedexTextUnused = "";
-gTaurosPokedexTextUnused = "";
-gMagikarpPokedexTextUnused = "";
-gGyaradosPokedexTextUnused = "";
-gLaprasPokedexTextUnused = "";
-gDittoPokedexTextUnused = "";
-gEeveePokedexTextUnused = "";
-gVaporeonPokedexTextUnused = "";
-gJolteonPokedexTextUnused = "";
-gFlareonPokedexTextUnused = "";
-gPorygonPokedexTextUnused = "";
-gOmanytePokedexTextUnused = "";
-gOmastarPokedexTextUnused = "";
-gKabutoPokedexTextUnused = "";
-gKabutopsPokedexTextUnused = "";
-gAerodactylPokedexTextUnused = "";
-gSnorlaxPokedexTextUnused = "";
-gArticunoPokedexTextUnused = "";
-gZapdosPokedexTextUnused = "";
-gMoltresPokedexTextUnused = "";
-gDratiniPokedexTextUnused = "";
-gDragonairPokedexTextUnused = "";
-gDragonitePokedexTextUnused = "";
-gMewtwoPokedexTextUnused = "";
-gMewPokedexTextUnused = "";
-gChikoritaPokedexTextUnused = "";
-gBayleefPokedexTextUnused = "";
-gMeganiumPokedexTextUnused = "";
-gCyndaquilPokedexTextUnused = "";
-gQuilavaPokedexTextUnused = "";
-gTyphlosionPokedexTextUnused = "";
-gTotodilePokedexTextUnused = "";
-gCroconawPokedexTextUnused = "";
-gFeraligatrPokedexTextUnused = "";
-gSentretPokedexTextUnused = "";
-gFurretPokedexTextUnused = "";
-gHoothootPokedexTextUnused = "";
-gNoctowlPokedexTextUnused = "";
-gLedybaPokedexTextUnused = "";
-gLedianPokedexTextUnused = "";
-gSpinarakPokedexTextUnused = "";
-gAriadosPokedexTextUnused = "";
-gCrobatPokedexTextUnused = "";
-gChinchouPokedexTextUnused = "";
-gLanturnPokedexTextUnused = "";
-gPichuPokedexTextUnused = "";
-gCleffaPokedexTextUnused = "";
-gIgglybuffPokedexTextUnused = "";
-gTogepiPokedexTextUnused = "";
-gTogeticPokedexTextUnused = "";
-gNatuPokedexTextUnused = "";
-gXatuPokedexTextUnused = "";
-gMareepPokedexTextUnused = "";
-gFlaaffyPokedexTextUnused = "";
-gAmpharosPokedexTextUnused = "";
-gBellossomPokedexTextUnused = "";
-gMarillPokedexTextUnused = "";
-gAzumarillPokedexTextUnused = "";
-gSudowoodoPokedexTextUnused = "";
-gPolitoedPokedexTextUnused = "";
-gHoppipPokedexTextUnused = "";
-gSkiploomPokedexTextUnused = "";
-gJumpluffPokedexTextUnused = "";
-gAipomPokedexTextUnused = "";
-gSunkernPokedexTextUnused = "";
-gSunfloraPokedexTextUnused = "";
-gYanmaPokedexTextUnused = "";
-gWooperPokedexTextUnused = "";
-gQuagsirePokedexTextUnused = "";
-gEspeonPokedexTextUnused = "";
-gUmbreonPokedexTextUnused = "";
-gMurkrowPokedexTextUnused = "";
-gSlowkingPokedexTextUnused = "";
-gMisdreavusPokedexTextUnused = "";
-gUnownPokedexTextUnused = "";
-gWobbuffetPokedexTextUnused = "";
-gGirafarigPokedexTextUnused = "";
-gPinecoPokedexTextUnused = "";
-gForretressPokedexTextUnused = "";
-gDunsparcePokedexTextUnused = "";
-gGligarPokedexTextUnused = "";
-gSteelixPokedexTextUnused = "";
-gSnubbullPokedexTextUnused = "";
-gGranbullPokedexTextUnused = "";
-gQwilfishPokedexTextUnused = "";
-gScizorPokedexTextUnused = "";
-gShucklePokedexTextUnused = "";
-gHeracrossPokedexTextUnused = "";
-gSneaselPokedexTextUnused = "";
-gTeddiursaPokedexTextUnused = "";
-gUrsaringPokedexTextUnused = "";
-gSlugmaPokedexTextUnused = "";
-gMagcargoPokedexTextUnused = "";
-gSwinubPokedexTextUnused = "";
-gPiloswinePokedexTextUnused = "";
-gCorsolaPokedexTextUnused = "";
-gRemoraidPokedexTextUnused = "";
-gOctilleryPokedexTextUnused = "";
-gDelibirdPokedexTextUnused = "";
-gMantinePokedexTextUnused = "";
-gSkarmoryPokedexTextUnused = "";
-gHoundourPokedexTextUnused = "";
-gHoundoomPokedexTextUnused = "";
-gKingdraPokedexTextUnused = "";
-gPhanpyPokedexTextUnused = "";
-gDonphanPokedexTextUnused = "";
-gPorygon2PokedexTextUnused = "";
-gStantlerPokedexTextUnused = "";
-gSmearglePokedexTextUnused = "";
-gTyroguePokedexTextUnused = "";
-gHitmontopPokedexTextUnused = "";
-gSmoochumPokedexTextUnused = "";
-gElekidPokedexTextUnused = "";
-gMagbyPokedexTextUnused = "";
-gMiltankPokedexTextUnused = "";
-gBlisseyPokedexTextUnused = "";
-gRaikouPokedexTextUnused = "";
-gEnteiPokedexTextUnused = "";
-gSuicunePokedexTextUnused = "";
-gLarvitarPokedexTextUnused = "";
-gPupitarPokedexTextUnused = "";
-gTyranitarPokedexTextUnused = "";
-gLugiaPokedexTextUnused = "";
-gHoOhPokedexTextUnused = "";
-gCelebiPokedexTextUnused = "";
-gTreeckoPokedexTextUnused = "";
-gGrovylePokedexTextUnused = "";
-gSceptilePokedexTextUnused = "";
-gTorchicPokedexTextUnused = "";
-gCombuskenPokedexTextUnused = "";
-gBlazikenPokedexTextUnused = "";
-gMudkipPokedexTextUnused = "";
-gMarshtompPokedexTextUnused = "";
-gSwampertPokedexTextUnused = "";
-gPoochyenaPokedexTextUnused = "";
-gMightyenaPokedexTextUnused = "";
-gZigzagoonPokedexTextUnused = "";
-gLinoonePokedexTextUnused = "";
-gWurmplePokedexTextUnused = "";
-gSilcoonPokedexTextUnused = "";
-gBeautiflyPokedexTextUnused = "";
-gCascoonPokedexTextUnused = "";
-gDustoxPokedexTextUnused = "";
-gLotadPokedexTextUnused = "";
-gLombrePokedexTextUnused = "";
-gLudicoloPokedexTextUnused = "";
-gSeedotPokedexTextUnused = "";
-gNuzleafPokedexTextUnused = "";
-gShiftryPokedexTextUnused = "";
-gTaillowPokedexTextUnused = "";
-gSwellowPokedexTextUnused = "";
-gWingullPokedexTextUnused = "";
-gPelipperPokedexTextUnused = "";
-gRaltsPokedexTextUnused = "";
-gKirliaPokedexTextUnused = "";
-gGardevoirPokedexTextUnused = "";
-gSurskitPokedexTextUnused = "";
-gMasquerainPokedexTextUnused = "";
-gShroomishPokedexTextUnused = "";
-gBreloomPokedexTextUnused = "";
-gSlakothPokedexTextUnused = "";
-gVigorothPokedexTextUnused = "";
-gSlakingPokedexTextUnused = "";
-gNincadaPokedexTextUnused = "";
-gNinjaskPokedexTextUnused = "";
-gShedinjaPokedexTextUnused = "";
-gWhismurPokedexTextUnused = "";
-gLoudredPokedexTextUnused = "";
-gExploudPokedexTextUnused = "";
-gMakuhitaPokedexTextUnused = "";
-gHariyamaPokedexTextUnused = "";
-gAzurillPokedexTextUnused = "";
-gNosepassPokedexTextUnused = "";
-gSkittyPokedexTextUnused = "";
-gDelcattyPokedexTextUnused = "";
-gSableyePokedexTextUnused = "";
-gMawilePokedexTextUnused = "";
-gAronPokedexTextUnused = "";
-gLaironPokedexTextUnused = "";
-gAggronPokedexTextUnused = "";
-gMedititePokedexTextUnused = "";
-gMedichamPokedexTextUnused = "";
-gElectrikePokedexTextUnused = "";
-gManectricPokedexTextUnused = "";
-gPluslePokedexTextUnused = "";
-gMinunPokedexTextUnused = "";
-gVolbeatPokedexTextUnused = "";
-gIllumisePokedexTextUnused = "";
-gRoseliaPokedexTextUnused = "";
-gGulpinPokedexTextUnused = "";
-gSwalotPokedexTextUnused = "";
-gCarvanhaPokedexTextUnused = "";
-gSharpedoPokedexTextUnused = "";
-gWailmerPokedexTextUnused = "";
-gWailordPokedexTextUnused = "";
-gNumelPokedexTextUnused = "";
-gCameruptPokedexTextUnused = "";
-gTorkoalPokedexTextUnused = "";
-gSpoinkPokedexTextUnused = "";
-gGrumpigPokedexTextUnused = "";
-gSpindaPokedexTextUnused = "";
-gTrapinchPokedexTextUnused = "";
-gVibravaPokedexTextUnused = "";
-gFlygonPokedexTextUnused = "";
-gCacneaPokedexTextUnused = "";
-gCacturnePokedexTextUnused = "";
-gSwabluPokedexTextUnused = "";
-gAltariaPokedexTextUnused = "";
-gZangoosePokedexTextUnused = "";
-gSeviperPokedexTextUnused = "";
-gLunatonePokedexTextUnused = "";
-gSolrockPokedexTextUnused = "";
-gBarboachPokedexTextUnused = "";
-gWhiscashPokedexTextUnused = "";
-gCorphishPokedexTextUnused = "";
-gCrawdauntPokedexTextUnused = "";
-gBaltoyPokedexTextUnused = "";
-gClaydolPokedexTextUnused = "";
-gLileepPokedexTextUnused = "";
-gCradilyPokedexTextUnused = "";
-gAnorithPokedexTextUnused = "";
-gArmaldoPokedexTextUnused = "";
-gFeebasPokedexTextUnused = "";
-gMiloticPokedexTextUnused = "";
-gCastformPokedexTextUnused = "";
-gKecleonPokedexTextUnused = "";
-gShuppetPokedexTextUnused = "";
-gBanettePokedexTextUnused = "";
-gDuskullPokedexTextUnused = "";
-gDusclopsPokedexTextUnused = "";
-gTropiusPokedexTextUnused = "";
-gChimechoPokedexTextUnused = "";
-gAbsolPokedexTextUnused = "";
-gWynautPokedexTextUnused = "";
-gSnoruntPokedexTextUnused = "";
-gGlaliePokedexTextUnused = "";
-gSphealPokedexTextUnused = "";
-gSealeoPokedexTextUnused = "";
-gWalreinPokedexTextUnused = "";
-gClamperlPokedexTextUnused = "";
-gHuntailPokedexTextUnused = "";
-gGorebyssPokedexTextUnused = "";
-gRelicanthPokedexTextUnused = "";
-gLuvdiscPokedexTextUnused = "";
-gBagonPokedexTextUnused = "";
-gShelgonPokedexTextUnused = "";
-gSalamencePokedexTextUnused = "";
-gBeldumPokedexTextUnused = "";
-gMetangPokedexTextUnused = "";
-gMetagrossPokedexTextUnused = "";
-gRegirockPokedexTextUnused = "";
-gRegicePokedexTextUnused = "";
-gRegisteelPokedexTextUnused = "";
-gLatiasPokedexTextUnused = "";
-gLatiosPokedexTextUnused = "";
-gKyogrePokedexTextUnused = "";
-gGroudonPokedexTextUnused = "";
-gRayquazaPokedexTextUnused = "";
-gJirachiPokedexTextUnused = "";
-gDeoxysPokedexTextUnused = "";
-gDummyPokedexTextUnused = "";
-gBulbasaurPokedexTextUnused = "";
-gIvysaurPokedexTextUnused = "";
-gCharmanderPokedexTextUnused = "";
-gCharmeleonPokedexTextUnused = "";
-gCharizardPokedexTextUnused = "";
-gSquirtlePokedexTextUnused = "";
-gWartortlePokedexTextUnused = "";
-gBlastoisePokedexTextUnused = "";
-gCaterpiePokedexTextUnused = "";
-gWeedlePokedexTextUnused = "";
-gKakunaPokedexTextUnused = "";
-gBeedrillPokedexTextUnused = "";
-gPidgeyPokedexTextUnused = "";
-gPidgeottoPokedexTextUnused = "";
-gPidgeotPokedexTextUnused = "";
-gRattataPokedexTextUnused = "";
-gRaticatePokedexTextUnused = "";
-gSpearowPokedexTextUnused = "";
-gFearowPokedexTextUnused = "";
-gEkansPokedexTextUnused = "";
-gArbokPokedexTextUnused = "";
-gPikachuPokedexTextUnused = "";
-gRaichuPokedexTextUnused = "";
-gSandshrewPokedexTextUnused = "";
-gSandslashPokedexTextUnused = "";
-gNidoranFPokedexTextUnused = "";
-gNidorinaPokedexTextUnused = "";
-gNidoqueenPokedexTextUnused = "";
-gNidoranMPokedexTextUnused = "";
-gNidorinoPokedexTextUnused = "";
-gNidokingPokedexTextUnused = "";
-gClefairyPokedexTextUnused = "";
-gClefablePokedexTextUnused = "";
-gVulpixPokedexTextUnused = "";
-gNinetalesPokedexTextUnused = "";
-gJigglypuffPokedexTextUnused = "";
-gWigglytuffPokedexTextUnused = "";
-gZubatPokedexTextUnused = "";
-gGolbatPokedexTextUnused = "";
-gOddishPokedexTextUnused = "";
-gGloomPokedexTextUnused = "";
-gVileplumePokedexTextUnused = "";
-gParasPokedexTextUnused = "";
-gParasectPokedexTextUnused = "";
-gVenonatPokedexTextUnused = "";
-gVenomothPokedexTextUnused = "";
-gDiglettPokedexTextUnused = "";
-gDugtrioPokedexTextUnused = "";
-gMeowthPokedexTextUnused = "";
-gPersianPokedexTextUnused = "";
-gPsyduckPokedexTextUnused = "";
-gGolduckPokedexTextUnused = "";
-gMankeyPokedexTextUnused = "";
-gPrimeapePokedexTextUnused = "";
-gGrowlithePokedexTextUnused = "";
-gArcaninePokedexTextUnused = "";
-gPoliwagPokedexTextUnused = "";
-gPoliwhirlPokedexTextUnused = "";
-gPoliwrathPokedexTextUnused = "";
-gAbraPokedexTextUnused = "";
-gKadabraPokedexTextUnused = "";
-gAlakazamPokedexTextUnused = "";
-gMachopPokedexTextUnused = "";
-gMachokePokedexTextUnused = "";
-gMachampPokedexTextUnused = "";
-gBellsproutPokedexTextUnused = "";
-gWeepinbellPokedexTextUnused = "";
-gVictreebelPokedexTextUnused = "";
-gTentacoolPokedexTextUnused = "";
-gTentacruelPokedexTextUnused = "";
-gGeodudePokedexTextUnused = "";
-gGravelerPokedexTextUnused = "";
-gGolemPokedexTextUnused = "";
-gPonytaPokedexTextUnused = "";
-gRapidashPokedexTextUnused = "";
-gSlowpokePokedexTextUnused = "";
-gSlowbroPokedexTextUnused = "";
-gMagnemitePokedexTextUnused = "";
-gMagnetonPokedexTextUnused = "";
-gFarfetchdPokedexTextUnused = "";
-gDoduoPokedexTextUnused = "";
-gDodrioPokedexTextUnused = "";
-gSeelPokedexTextUnused = "";
-gDewgongPokedexTextUnused = "";
-gGrimerPokedexTextUnused = "";
-gMukPokedexTextUnused = "";
-gShellderPokedexTextUnused = "";
-gCloysterPokedexTextUnused = "";
-gGastlyPokedexTextUnused = "";
-gHaunterPokedexTextUnused = "";
-gGengarPokedexTextUnused = "";
-gOnixPokedexTextUnused = "";
-gDrowzeePokedexTextUnused = "";
-gHypnoPokedexTextUnused = "";
-gKrabbyPokedexTextUnused = "";
-gKinglerPokedexTextUnused = "";
-gVoltorbPokedexTextUnused = "";
-gElectrodePokedexTextUnused = "";
-gExeggcutePokedexTextUnused = "";
-gExeggutorPokedexTextUnused = "";
-gCubonePokedexTextUnused = "";
-gMarowakPokedexTextUnused = "";
-gHitmonleePokedexTextUnused = "";
-gHitmonchanPokedexTextUnused = "";
-gLickitungPokedexTextUnused = "";
-gKoffingPokedexTextUnused = "";
-gWeezingPokedexTextUnused = "";
-gRhyhornPokedexTextUnused = "";
-gRhydonPokedexTextUnused = "";
-gChanseyPokedexTextUnused = "";
-gTangelaPokedexTextUnused = "";
-gKangaskhanPokedexTextUnused = "";
-gHorseaPokedexTextUnused = "";
-gSeadraPokedexTextUnused = "";
-gGoldeenPokedexTextUnused = "";
-gSeakingPokedexTextUnused = "";
-gStaryuPokedexTextUnused = "";
-gStarmiePokedexTextUnused = "";
-gMrmimePokedexTextUnused = "";
-gScytherPokedexTextUnused = "";
-gJynxPokedexTextUnused = "";
-gElectabuzzPokedexTextUnused = "";
-gMagmarPokedexTextUnused = "";
-gPinsirPokedexTextUnused = "";
-gTaurosPokedexTextUnused = "";
-gMagikarpPokedexTextUnused = "";
-gGyaradosPokedexTextUnused = "";
-gLaprasPokedexTextUnused = "";
-gDittoPokedexTextUnused = "";
-gEeveePokedexTextUnused = "";
-gVaporeonPokedexTextUnused = "";
-gJolteonPokedexTextUnused = "";
-gFlareonPokedexTextUnused = "";
-gPorygonPokedexTextUnused = "";
-gOmanytePokedexTextUnused = "";
-gOmastarPokedexTextUnused = "";
-gKabutoPokedexTextUnused = "";
-gKabutopsPokedexTextUnused = "";
-gAerodactylPokedexTextUnused = "";
-gSnorlaxPokedexTextUnused = "";
-gArticunoPokedexTextUnused = "";
-gZapdosPokedexTextUnused = "";
-gMoltresPokedexTextUnused = "";
-gDratiniPokedexTextUnused = "";
-gDragonairPokedexTextUnused = "";
-gDragonitePokedexTextUnused = "";
-gMewtwoPokedexTextUnused = "";
-gMewPokedexTextUnused = "";
-gChikoritaPokedexTextUnused = "";
-gBayleefPokedexTextUnused = "";
-gMeganiumPokedexTextUnused = "";
-gCyndaquilPokedexTextUnused = "";
-gQuilavaPokedexTextUnused = "";
-gTyphlosionPokedexTextUnused = "";
-gTotodilePokedexTextUnused = "";
-gCroconawPokedexTextUnused = "";
-gFeraligatrPokedexTextUnused = "";
-gSentretPokedexTextUnused = "";
-gFurretPokedexTextUnused = "";
-gHoothootPokedexTextUnused = "";
-gNoctowlPokedexTextUnused = "";
-gLedybaPokedexTextUnused = "";
-gLedianPokedexTextUnused = "";
-gSpinarakPokedexTextUnused = "";
-gAriadosPokedexTextUnused = "";
-gCrobatPokedexTextUnused = "";
-gChinchouPokedexTextUnused = "";
-gLanturnPokedexTextUnused = "";
-gPichuPokedexTextUnused = "";
-gCleffaPokedexTextUnused = "";
-gIgglybuffPokedexTextUnused = "";
-gTogepiPokedexTextUnused = "";
-gTogeticPokedexTextUnused = "";
-gNatuPokedexTextUnused = "";
-gXatuPokedexTextUnused = "";
-gMareepPokedexTextUnused = "";
-gFlaaffyPokedexTextUnused = "";
-gAmpharosPokedexTextUnused = "";
-gBellossomPokedexTextUnused = "";
-gMarillPokedexTextUnused = "";
-gAzumarillPokedexTextUnused = "";
-gSudowoodoPokedexTextUnused = "";
-gPolitoedPokedexTextUnused = "";
-gHoppipPokedexTextUnused = "";
-gSkiploomPokedexTextUnused = "";
-gJumpluffPokedexTextUnused = "";
-gAipomPokedexTextUnused = "";
-gSunkernPokedexTextUnused = "";
-gSunfloraPokedexTextUnused = "";
-gYanmaPokedexTextUnused = "";
-gWooperPokedexTextUnused = "";
-gQuagsirePokedexTextUnused = "";
-gEspeonPokedexTextUnused = "";
-gUmbreonPokedexTextUnused = "";
-gMurkrowPokedexTextUnused = "";
-gSlowkingPokedexTextUnused = "";
-gMisdreavusPokedexTextUnused = "";
-gUnownPokedexTextUnused = "";
-gWobbuffetPokedexTextUnused = "";
-gGirafarigPokedexTextUnused = "";
-gPinecoPokedexTextUnused = "";
-gForretressPokedexTextUnused = "";
-gDunsparcePokedexTextUnused = "";
-gGligarPokedexTextUnused = "";
-gSteelixPokedexTextUnused = "";
-gSnubbullPokedexTextUnused = "";
-gGranbullPokedexTextUnused = "";
-gQwilfishPokedexTextUnused = "";
-gScizorPokedexTextUnused = "";
-gShucklePokedexTextUnused = "";
-gHeracrossPokedexTextUnused = "";
-gSneaselPokedexTextUnused = "";
-gTeddiursaPokedexTextUnused = "";
-gUrsaringPokedexTextUnused = "";
-gSlugmaPokedexTextUnused = "";
-gMagcargoPokedexTextUnused = "";
-gSwinubPokedexTextUnused = "";
-gPiloswinePokedexTextUnused = "";
-gCorsolaPokedexTextUnused = "";
-gRemoraidPokedexTextUnused = "";
-gOctilleryPokedexTextUnused = "";
-gDelibirdPokedexTextUnused = "";
-gMantinePokedexTextUnused = "";
-gSkarmoryPokedexTextUnused = "";
-gHoundourPokedexTextUnused = "";
-gHoundoomPokedexTextUnused = "";
-gKingdraPokedexTextUnused = "";
-gPhanpyPokedexTextUnused = "";
-gDonphanPokedexTextUnused = "";
-gPorygon2PokedexTextUnused = "";
-gStantlerPokedexTextUnused = "";
-gSmearglePokedexTextUnused = "";
-gTyroguePokedexTextUnused = "";
-gHitmontopPokedexTextUnused = "";
-gSmoochumPokedexTextUnused = "";
-gElekidPokedexTextUnused = "";
-gMagbyPokedexTextUnused = "";
-gMiltankPokedexTextUnused = "";
-gBlisseyPokedexTextUnused = "";
-gRaikouPokedexTextUnused = "";
-gEnteiPokedexTextUnused = "";
-gSuicunePokedexTextUnused = "";
-gLarvitarPokedexTextUnused = "";
-gPupitarPokedexTextUnused = "";
-gTyranitarPokedexTextUnused = "";
-gLugiaPokedexTextUnused = "";
-gHoOhPokedexTextUnused = "";
-gCelebiPokedexTextUnused = "";
-gTreeckoPokedexTextUnused = "";
-gGrovylePokedexTextUnused = "";
-gSceptilePokedexTextUnused = "";
-gTorchicPokedexTextUnused = "";
-gCombuskenPokedexTextUnused = "";
-gBlazikenPokedexTextUnused = "";
-gMudkipPokedexTextUnused = "";
-gMarshtompPokedexTextUnused = "";
-gSwampertPokedexTextUnused = "";
-gPoochyenaPokedexTextUnused = "";
-gMightyenaPokedexTextUnused = "";
-gZigzagoonPokedexTextUnused = "";
-gLinoonePokedexTextUnused = "";
-gWurmplePokedexTextUnused = "";
-gSilcoonPokedexTextUnused = "";
-gBeautiflyPokedexTextUnused = "";
-gCascoonPokedexTextUnused = "";
-gDustoxPokedexTextUnused = "";
-gLotadPokedexTextUnused = "";
-gLombrePokedexTextUnused = "";
-gLudicoloPokedexTextUnused = "";
-gSeedotPokedexTextUnused = "";
-gNuzleafPokedexTextUnused = "";
-gShiftryPokedexTextUnused = "";
-gTaillowPokedexTextUnused = "";
-gSwellowPokedexTextUnused = "";
-gWingullPokedexTextUnused = "";
-gPelipperPokedexTextUnused = "";
-gRaltsPokedexTextUnused = "";
-gKirliaPokedexTextUnused = "";
-gGardevoirPokedexTextUnused = "";
-gSurskitPokedexTextUnused = "";
-gMasquerainPokedexTextUnused = "";
-gShroomishPokedexTextUnused = "";
-gBreloomPokedexTextUnused = "";
-gSlakothPokedexTextUnused = "";
-gVigorothPokedexTextUnused = "";
-gSlakingPokedexTextUnused = "";
-gNincadaPokedexTextUnused = "";
-gNinjaskPokedexTextUnused = "";
-gShedinjaPokedexTextUnused = "";
-gWhismurPokedexTextUnused = "";
-gLoudredPokedexTextUnused = "";
-gExploudPokedexTextUnused = "";
-gMakuhitaPokedexTextUnused = "";
-gHariyamaPokedexTextUnused = "";
-gAzurillPokedexTextUnused = "";
-gNosepassPokedexTextUnused = "";
-gSkittyPokedexTextUnused = "";
-gDelcattyPokedexTextUnused = "";
-gSableyePokedexTextUnused = "";
-gMawilePokedexTextUnused = "";
-gAronPokedexTextUnused = "";
-gLaironPokedexTextUnused = "";
-gAggronPokedexTextUnused = "";
-gMedititePokedexTextUnused = "";
-gMedichamPokedexTextUnused = "";
-gElectrikePokedexTextUnused = "";
-gManectricPokedexTextUnused = "";
-gPluslePokedexTextUnused = "";
-gMinunPokedexTextUnused = "";
-gVolbeatPokedexTextUnused = "";
-gIllumisePokedexTextUnused = "";
-gRoseliaPokedexTextUnused = "";
-gGulpinPokedexTextUnused = "";
-gSwalotPokedexTextUnused = "";
-gCarvanhaPokedexTextUnused = "";
-gSharpedoPokedexTextUnused = "";
-gWailmerPokedexTextUnused = "";
-gWailordPokedexTextUnused = "";
-gNumelPokedexTextUnused = "";
-gCameruptPokedexTextUnused = "";
-gTorkoalPokedexTextUnused = "";
-gSpoinkPokedexTextUnused = "";
-gGrumpigPokedexTextUnused = "";
-gSpindaPokedexTextUnused = "";
-gTrapinchPokedexTextUnused = "";
-gVibravaPokedexTextUnused = "";
-gFlygonPokedexTextUnused = "";
-gCacneaPokedexTextUnused = "";
-gCacturnePokedexTextUnused = "";
-gSwabluPokedexTextUnused = "";
-gAltariaPokedexTextUnused = "";
-gZangoosePokedexTextUnused = "";
-gSeviperPokedexTextUnused = "";
-gLunatonePokedexTextUnused = "";
-gSolrockPokedexTextUnused = "";
-gBarboachPokedexTextUnused = "";
-gWhiscashPokedexTextUnused = "";
-gCorphishPokedexTextUnused = "";
-gCrawdauntPokedexTextUnused = "";
-gBaltoyPokedexTextUnused = "";
-gClaydolPokedexTextUnused = "";
-gLileepPokedexTextUnused = "";
-gCradilyPokedexTextUnused = "";
-gAnorithPokedexTextUnused = "";
-gArmaldoPokedexTextUnused = "";
-gFeebasPokedexTextUnused = "";
-gMiloticPokedexTextUnused = "";
-gCastformPokedexTextUnused = "";
-gKecleonPokedexTextUnused = "";
-gShuppetPokedexTextUnused = "";
-gBanettePokedexTextUnused = "";
-gDuskullPokedexTextUnused = "";
-gDusclopsPokedexTextUnused = "";
-gTropiusPokedexTextUnused = "";
-gChimechoPokedexTextUnused = "";
-gAbsolPokedexTextUnused = "";
-gWynautPokedexTextUnused = "";
-gSnoruntPokedexTextUnused = "";
-gGlaliePokedexTextUnused = "";
-gSphealPokedexTextUnused = "";
-gSealeoPokedexTextUnused = "";
-gWalreinPokedexTextUnused = "";
-gClamperlPokedexTextUnused = "";
-gHuntailPokedexTextUnused = "";
-gGorebyssPokedexTextUnused = "";
-gRelicanthPokedexTextUnused = "";
-gLuvdiscPokedexTextUnused = "";
-gBagonPokedexTextUnused = "";
-gShelgonPokedexTextUnused = "";
-gSalamencePokedexTextUnused = "";
-gBeldumPokedexTextUnused = "";
-gMetangPokedexTextUnused = "";
-gMetagrossPokedexTextUnused = "";
-gRegirockPokedexTextUnused = "";
-gRegicePokedexTextUnused = "";
-gRegisteelPokedexTextUnused = "";
-gLatiasPokedexTextUnused = "";
-gLatiosPokedexTextUnused = "";
-gKyogrePokedexTextUnused = "";
-gGroudonPokedexTextUnused = "";
-gRayquazaPokedexTextUnused = "";
-gJirachiPokedexTextUnused = "";
-gDeoxysPokedexTextUnused = "";
-sNoneDescription = "No special ability.";
-sStenchDescription = "Helps repel wild POKéMON.";
-sDrizzleDescription = "Summons rain in battle.";
-sSpeedBoostDescription = "Gradually boosts SPEED.";
-sBattleArmorDescription = "Blocks critical hits.";
-sSturdyDescription = "Negates 1-hit KO attacks.";
-sDampDescription = "Prevents self-destruction.";
-sLimberDescription = "Prevents paralysis.";
-sSandVeilDescription = "Ups evasion in a sandstorm.";
-sStaticDescription = "Paralyzes on contact.";
-sVoltAbsorbDescription = "Turns electricity into HP.";
-sWaterAbsorbDescription = "Changes water into HP.";
-sObliviousDescription = "Prevents attraction.";
-sCloudNineDescription = "Negates weather effects.";
-sCompoundEyesDescription = "Raises accuracy.";
-sInsomniaDescription = "Prevents sleep.";
-sColorChangeDescription = "Changes type to foe's move.";
-sImmunityDescription = "Prevents poisoning.";
-sFlashFireDescription = "Powers up if hit by fire.";
-sShieldDustDescription = "Prevents added effects.";
-sOwnTempoDescription = "Prevents confusion.";
-sSuctionCupsDescription = "Firmly anchors the body.";
-sIntimidateDescription = "Lowers the foe's ATTACK.";
-sShadowTagDescription = "Prevents the foe's escape.";
-sRoughSkinDescription = "Hurts to touch.";
-sWonderGuardDescription = "“Super effective” hits.";
-sLevitateDescription = "Not hit by GROUND attacks.";
-sEffectSporeDescription = "Leaves spores on contact.";
-sSynchronizeDescription = "Passes on status problems.";
-sClearBodyDescription = "Prevents ability reduction.";
-sNaturalCureDescription = "Heals upon switching out.";
-sLightningRodDescription = "Draws electrical moves.";
-sSereneGraceDescription = "Promotes added effects.";
-sSwiftSwimDescription = "Raises SPEED in rain.";
-sChlorophyllDescription = "Raises SPEED in sunshine.";
-sIlluminateDescription = "Encounter rate increases.";
-sTraceDescription = "Copies special ability.";
-sHugePowerDescription = "Raises ATTACK.";
-sPoisonPointDescription = "Poisons foe on contact.";
-sInnerFocusDescription = "Prevents flinching.";
-sMagmaArmorDescription = "Prevents freezing.";
-sWaterVeilDescription = "Prevents burns.";
-sMagnetPullDescription = "Traps STEEL-type POKéMON.";
-sSoundproofDescription = "Avoids sound-based moves.";
-sRainDishDescription = "Slight HP recovery in rain.";
-sSandStreamDescription = "Summons a sandstorm.";
-sPressureDescription = "Raises foe's PP usage.";
-sThickFatDescription = "Heat-and-cold protection.";
-sEarlyBirdDescription = "Awakens quickly from sleep.";
-sFlameBodyDescription = "Burns the foe on contact.";
-sRunAwayDescription = "Makes escaping easier.";
-sKeenEyeDescription = "Prevents loss of accuracy.";
-sHyperCutterDescription = "Prevents ATTACK reduction.";
-sPickupDescription = "May pick up items.";
-sTruantDescription = "Moves only every two turns.";
-sHustleDescription = "Trades accuracy for power.";
-sCuteCharmDescription = "Infatuates on contact.";
-sPlusDescription = "Powers up with MINUS.";
-sMinusDescription = "Powers up with PLUS.";
-sForecastDescription = "Changes with the weather.";
-sStickyHoldDescription = "Prevents item theft.";
-sShedSkinDescription = "Heals the body by shedding.";
-sGutsDescription = "Ups ATTACK if suffering.";
-sMarvelScaleDescription = "Ups DEFENSE if suffering.";
-sLiquidOozeDescription = "Draining causes injury.";
-sOvergrowDescription = "Ups GRASS moves in a pinch.";
-sBlazeDescription = "Ups FIRE moves in a pinch.";
-sTorrentDescription = "Ups WATER moves in a pinch.";
-sSwarmDescription = "Ups BUG moves in a pinch.";
-sRockHeadDescription = "Prevents recoil damage.";
-sDroughtDescription = "Summons sunlight in battle.";
-sArenaTrapDescription = "Prevents fleeing.";
-sVitalSpiritDescription = "Prevents sleep.";
-sWhiteSmokeDescription = "Prevents ability reduction.";
-sPurePowerDescription = "Raises ATTACK.";
-sShellArmorDescription = "Blocks critical hits.";
-sCacophonyDescription = "Avoids sound-based moves.";
-sAirLockDescription = "Negates weather effects.";
-sHardyNatureName = "HARDY";
-sLonelyNatureName = "LONELY";
-sBraveNatureName = "BRAVE";
-sAdamantNatureName = "ADAMANT";
-sNaughtyNatureName = "NAUGHTY";
-sBoldNatureName = "BOLD";
-sDocileNatureName = "DOCILE";
-sRelaxedNatureName = "RELAXED";
-sImpishNatureName = "IMPISH";
-sLaxNatureName = "LAX";
-sTimidNatureName = "TIMID";
-sHastyNatureName = "HASTY";
-sSeriousNatureName = "SERIOUS";
-sJollyNatureName = "JOLLY";
-sNaiveNatureName = "NAIVE";
-sModestNatureName = "MODEST";
-sMildNatureName = "MILD";
-sQuietNatureName = "QUIET";
-sBashfulNatureName = "BASHFUL";
-sRashNatureName = "RASH";
-sCalmNatureName = "CALM";
-sGentleNatureName = "GENTLE";
-sSassyNatureName = "SASSY";
-sCarefulNatureName = "CAREFUL";
-sQuirkyNatureName = "QUIRKY";
-gText_QuestLog_PreviouslyOnYourQuest = "Previously on your quest…";
-gText_QuestLog_SwitchMon1WithMon2 = "{PLAYER} switched the POKéMON\n{STR_VAR_1} with {STR_VAR_2}.";
-gText_QuestLog_SwappedHeldItemsOnMon = "Took the item {STR_VAR_2} from\n{STR_VAR_1} and gave it the item\n{STR_VAR_3} to hold.";
-gText_QuestLog_TookHeldItemFromMon = "Took the item {STR_VAR_2} from\n{STR_VAR_1}.";
-gText_QuestLog_UsedItemOnMonAtThisLocation = "Used the item {STR_VAR_1} on {STR_VAR_2}\nat this location.";
-gText_QuestLog_UsedTheItem = "{PLAYER} used the\n{STR_VAR_1}.";
-gText_QuestLog_UsedTheKeyItem = "Used the item {STR_VAR_1}, which was\nin the KEY ITEMS POCKET.";
-gText_QuestLog_MonLearnedMoveFromTM = "{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM.";
-gText_QuestLog_MonReplacedMoveWithTM = "{STR_VAR_1} learned the move\n{STR_VAR_2} from a TM and forgot\nthe move {STR_VAR_3}.";
-gText_QuestLog_MonsWereFullyRestoredAtCenter = "POKéMON were fully restored\nat a POKéMON CENTER.";
-gText_QuestLog_PlayerBattledChampionRival = "{DYNAMIC 0x00} had a marvelous battle\nwith the CHAMPION, {DYNAMIC 0x01}.";
-gText_QuestLog_PlayerSentOutMon1RivalSentOutMon2 = "In the end, {DYNAMIC 0x00} sent out {DYNAMIC 0x01}\nwhile {DYNAMIC 0x02} countered with\n{DYNAMIC 0x03}.";
-gText_QuestLog_WonTheMatchAsAResult = "And, as a result of battling with every\nbit of power, {DYNAMIC 0x00} won\nthe match.";
-gText_QuestLog_StoredItemInPC = "Removed the item {STR_VAR_1} from\nthe BAG's ITEMS POCKET and stored it\non the PC.";
-gText_QuestLog_WithdrewItemFromPC = "{PLAYER} withdrew the item {STR_VAR_1}\nfrom the PC.";
-gText_QuestLog_TradedMon1ForPersonsMon2 = "Traded {STR_VAR_3} in exchange for\n{STR_VAR_1}'s {STR_VAR_2}.";
-gText_QuestLog_SingleBattleWithPersonResultedInOutcome = "Took on {DYNAMIC 0x00} in a SINGLE BATTLE.\nIt was a hotly contested match that\nresulted in a {DYNAMIC 0x01}.";
-gText_QuestLog_DoubleBattleWithPersonResultedInOutcome = "Took on {DYNAMIC 0x00} in a DOUBLE BATTLE.\nIt was an extended match that resulted\nin a {DYNAMIC 0x01}.";
-gText_QuestLog_MultiBattleWithPeopleResultedInOutcome = "{DYNAMIC 0x00} and {DYNAMIC 0x01} took on\n{DYNAMIC 0x02} and {DYNAMIC 0x03} in a\nMULTI BATTLE and got a {DYNAMIC 0x04}.";
-gText_QuestLog_Win = "win";
-gText_QuestLog_Loss = "loss";
-gText_QuestLog_MingledInUnionRoom = "Mingled with other TRAINERS in\nthe UNION ROOM.";
-gText_QuestLog_DepartedPlaceInTownForNextDestination = "Departed {STR_VAR_2}\nin {STR_VAR_1} for the next\ndestination.";
-gText_QuestLog_SwitchedMonsBetweenBoxes = "After consideration, switched\n{DYNAMIC 0x01} in {DYNAMIC 0x00} with\n{DYNAMIC 0x03} in {DYNAMIC 0x02}.";
-gText_QuestLog_MovedMonToNewBox = "After deep thought, switched\n{DYNAMIC 0x01} in BOX “{DYNAMIC 0x00}” to\nthe BOX “{DYNAMIC 0x02}.”";
-gText_QuestLog_SwitchedMonsWithinBox = "Switched around {DYNAMIC 0x01} and\n{DYNAMIC 0x02} in {DYNAMIC 0x00}.";
-gText_QuestLog_MovedMonWithinBox = "Moved {DYNAMIC 0x01} in {DYNAMIC 0x00}.";
-gText_QuestLog_SwitchedPartyMonForPCMon = "Switched {DYNAMIC 0x01} in {DYNAMIC 0x00}\nwith {DYNAMIC 0x02} in the party.";
-gText_QuestLog_WithdrewMonFromPC = "Added {DYNAMIC 0x01} in {DYNAMIC 0x00}\nto the party.";
-gText_QuestLog_DepositedMonInPC = "Moved {DYNAMIC 0x00} from the party\nto {DYNAMIC 0x01}.";
-gText_QuestLog_SwitchedMultipleMons = "Moved a group of POKéMON in\n{DYNAMIC 0x00} to {DYNAMIC 0x01}.";
-gText_QuestLog_ADifferentSpot = "a different spot";
-gText_QuestLog_GaveMonHeldItemFromPC = "Removed the item {STR_VAR_1} from\n{PLAYER}'s PC and gave it to {STR_VAR_2}\nto hold.";
-gText_QuestLog_SwappedHeldItemFromPC = "Removed the item {STR_VAR_1} from\na PC, gave it to {STR_VAR_2}, and put\nthe {STR_VAR_3} it held in the BAG.";
-gText_QuestLog_ChattedWithManyTrainers = "Chatted with many TRAINERS.";
-gText_QuestLog_Handily = "handily";
-gText_QuestLog_Tenaciously = "tenaciously";
-gText_QuestLog_Somehow = "somehow";
-gText_QuestLog_TradedMon1ForTrainersMon2 = "Met and traded with {STR_VAR_1}.\nObtained the TRAINER's {STR_VAR_2} in\nexchange for {STR_VAR_3}.";
-gText_QuestLog_BattledTrainerEndedInOutcome = "Met and battled {STR_VAR_1}.\nThe match ended in a {STR_VAR_2}.";
-gText_QuestLog_BoughtItem = "Went to the POKéMON MART in\n{DYNAMIC 0x00} and bought one \n{DYNAMIC 0x01}.";
-gText_QuestLog_BoughtItemsIncludingItem = "Went to the POKéMON MART in\n{DYNAMIC 0x00} and spent ¥{DYNAMIC 0x02} for\nitems including {DYNAMIC 0x01}(s).";
-gText_QuestLog_SoldNumOfItem = "{DYNAMIC 0x00} went to the POKéMON MART in\n{DYNAMIC 0x01} and sold {DYNAMIC 0x03} of\nthe item {DYNAMIC 0x02}.";
-gText_QuestLog_SoldItemsIncludingItem = "Sold items including {DYNAMIC 0x01} at\nthe POKéMON MART in {DYNAMIC 0x00},\nworth ¥{DYNAMIC 0x02}.";
-gText_QuestLog_JustOne = "just one";
-gText_QuestLog_Num = "{DYNAMIC 0x04}";
-gText_QuestLog_UsedSoftboiled = "{STR_VAR_1} shared its HP using the move\nSOFTBOILED.";
-gText_QuestLog_UsedMilkDrink = "{STR_VAR_1} shared its HP using the move\nMILK DRINK.";
-gText_QuestLog_MonLearnedMoveFromHM = "{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM.";
-gText_QuestLog_MonReplacedMoveWithHM = "{STR_VAR_1} securely learned the move\n{STR_VAR_2} using an HM and forgot\nthe move {STR_VAR_3}.";
-gText_QuestLog_DefeatedWildMon = "{DYNAMIC 0x05} managed to defeat the POKéMON\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.";
-gText_QuestLog_DefeatedWildMons = "Defeated {DYNAMIC 0x02} wild POKéMON including\n{DYNAMIC 0x01} in {DYNAMIC 0x00}.";
-gText_QuestLog_CaughtWildMon = "{DYNAMIC 0x05} managed to catch the POKéMON\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.";
-gText_QuestLog_CaughtWildMons = "Threw POKé BALLS in a frenzy, catching\n{DYNAMIC 0x04} POKéMON including {DYNAMIC 0x03} here\nin {DYNAMIC 0x00}.";
-gText_QuestLog_DefeatedWildMonAndCaughtWildMon = "{DYNAMIC 0x05} defeated the POKéMON\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.";
-gText_QuestLog_DefeatedWildMonAndCaughtWildMons = "Defeated the POKéMON {DYNAMIC 0x01}\nand caught {DYNAMIC 0x04} POKéMON including\n{DYNAMIC 0x03} in {DYNAMIC 0x00}.";
-gText_QuestLog_DefeatedWildMonsAndCaughtWildMon = "{DYNAMIC 0x05} defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught one {DYNAMIC 0x03}\nin {DYNAMIC 0x00}.";
-gText_QuestLog_DefeatedWildMonsAndCaughtWildMons = "Defeated {DYNAMIC 0x02} POKéMON including\n{DYNAMIC 0x01} and caught {DYNAMIC 0x04} POKéMON\nincluding {DYNAMIC 0x03} in {DYNAMIC 0x00}.";
-gText_QuestLog_GaveMonHeldItem = "Made {STR_VAR_1} hold the item\n{STR_VAR_2}.";
-gText_QuestLog_GaveMonHeldItem2 = "{PLAYER} made {STR_VAR_1} hold the item\n{STR_VAR_2}.";
-gText_QuestLog_UsedCut = "{STR_VAR_1} used the Hidden Move\nCUT here.";
-gText_QuestLog_UsedFly = "{STR_VAR_1} used the Hidden Move\nFLY and flew to {STR_VAR_2}.";
-gText_QuestLog_UsedSurf = "{STR_VAR_1} used the Hidden Move\nSURF and rode the waves.";
-gText_QuestLog_UsedStrength = "{STR_VAR_1} used the Hidden Move\nSTRENGTH here.";
-gText_QuestLog_UsedFlash = "{STR_VAR_1} used the Hidden Move\nFLASH and illuminated a pitch-black\ncave.";
-gText_QuestLog_UsedRockSmash = "{STR_VAR_1} used the Hidden Move\nROCK SMASH here.";
-gText_QuestLog_UsedWaterfall = "{STR_VAR_1} used the Hidden Move\nWATERFALL to scale a raging torrent."; # Unused
-gText_QuestLog_UsedDive = "{STR_VAR_1}は　ふかい　ところを　めざし\nひでんわざ\nダイビングを　つかった！";
-gText_QuestLog_UsedDigInLocation = "{STR_VAR_1} used DIG to escape from\n{STR_VAR_2}.";
-gText_QuestLog_UsedSweetScent = "{STR_VAR_1} used SWEET SCENT to attract\nwild POKéMON.";
-gText_QuestLog_UsedTeleportToLocation = "{STR_VAR_1} used TELEPORT, transporting\nthe party to {STR_VAR_2}'s\n{STR_VAR_3}.";
-gText_QuestLog_LeftTownsLocationForNextDestination = "{PLAYER} left {STR_VAR_1}'s\n{STR_VAR_2} for the next\ndestination.";
-gText_QuestLog_PlayedGamesAtGameCorner = "Played a lot of games at the ROCKET\nGAME CORNER in {STR_VAR_1}.";
-gText_QuestLog_RestedAtHome = "{PLAYER} rested comfortably at home.";
-gText_QuestLog_LeftOaksLab = "{PLAYER} left PROF. OAK's POKéMON\nRESEARCH LAB.";
-gText_QuestLog_GymWasFullOfToughTrainers = "The GYM in {STR_VAR_1} was full of\ntough TRAINERS…\nPreparations had to be made.";
-gText_QuestLog_DepartedGym = "Departed the GYM in {STR_VAR_1}.";
-gText_QuestLog_HadGreatTimeInSafariZone = "{PLAYER} had a great time with POKéMON\nin the SAFARI ZONE.";
-gText_QuestLog_ManagedToGetOutOfLocation = "Managed to get out of {STR_VAR_2}\nafter wandering about.";
-gText_QuestLog_TookOnGymLeadersMonWithMonAndWon = "Took on {DYNAMIC 0x00} GYM LEADER\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!";
-gText_QuestLog_TookOnEliteFoursMonWithMonAndWon = "Took on ELITE FOUR {DYNAMIC 0x00}'s\n{DYNAMIC 0x01} with {DYNAMIC 0x02} and\nwon {DYNAMIC 0x03}!";
-gText_QuestLog_TookOnTrainersMonWithMonAndWon = "In {DYNAMIC 0x00}, took on\n{DYNAMIC 0x01}'s {DYNAMIC 0x02} with {DYNAMIC 0x03}\nand won {DYNAMIC 0x04}!";
-gText_QuestLog_Coolly = "coolly";
-gText_QuestLog_Barely = "barely";
-gText_QuestLog_UsedEscapeRope = "{PLAYER} used an ESCAPE ROPE to get\nout from {STR_VAR_2}.";
-gText_QuestLog_Draw = "draw";
-gText_QuestLog_DepartedTheLocationForNextDestination = "Departed from the {STR_VAR_2}\nfor the next destination.";
-gText_QuestLog_DepartedFromLocationToNextDestination = "{PLAYER} departed from\n{STR_VAR_2} and made way\nto the next destination.";
-gText_QuestLog_ObtainedItemInLocation = "Here in {STR_VAR_1}, {PLAYER}\nobtained the item {STR_VAR_2}.";
-gText_QuestLog_ArrivedInLocation = "Arrived in {STR_VAR_1}.";
-gText_QuestLog_SavedGameAtLocation = "And {PLAYER} saved the game at this\nlocation: {STR_VAR_1}.";
-gText_QuestLog_Home = "HOME";
-gText_QuestLog_OakResearchLab = "OAK RESEARCH LAB";
-gText_QuestLog_Gym = "GYM";
-gText_QuestLog_PokemonLeagueGate = "POKéMON LEAGUE GATE";
-gText_QuestLog_ViridianForest = "VIRIDIAN FOREST";
-gText_QuestLog_PewterMuseumOfScience = "PEWTER MUSEUM OF SCIENCE";
-gText_QuestLog_MtMoon = "MT. MOON";
-gText_QuestLog_BikeShop = "BIKE SHOP";
-gText_QuestLog_BillsHouse = "BILL'S HOUSE";
-gText_QuestLog_DayCare = "DAY CARE";
-gText_QuestLog_UndergroundPath = "UNDERGROUND PATH";
-gText_QuestLog_PokemonFanClub = "POKéMON FAN CLUB";
-gText_QuestLog_SSAnne = "S.S. ANNE";
-gText_QuestLog_DiglettsCave = "DIGLETT'S CAVE";
-gText_QuestLog_RockTunnel = "ROCK TUNNEL";
-gText_QuestLog_PowerPlant = "POWER PLANT";
-gText_QuestLog_PokemonTower = "POKéMON TOWER";
-gText_QuestLog_VolunteerHouse = "VOLUNTEER HOUSE";
-gText_QuestLog_NameRatersHouse = "NAME RATER'S HOUSE";
-gText_QuestLog_CeladonDeptStore = "CELADON DEPT. STORE";
-gText_QuestLog_CeladonMansion = "CELADON MANSION";
-gText_QuestLog_RocketGameCorner = "ROCKET GAME CORNER";
-gText_QuestLog_Restaurant = "RESTAURANT";
-gText_QuestLog_RocketHideout = "ROCKET HIDEOUT";
-gText_QuestLog_SafariZone = "SAFARI ZONE";
-gText_QuestLog_WardensHome = "WARDEN'S HOME";
-gText_QuestLog_FightingDojo = "FIGHTING DOJO";
-gText_QuestLog_SilphCo = "SILPH CO.";
-gText_QuestLog_SeafoamIslands = "SEAFOAM ISLANDS";
-gText_QuestLog_PokemonMansion = "POKéMON MANSION";
-gText_QuestLog_PokemonResearchLab = "POKéMON RESEARCH LAB";
-gText_QuestLog_VictoryRoad = "VICTORY ROAD";
-gText_QuestLog_PokemonLeague = "POKéMON LEAGUE";
-gText_QuestLog_CeruleanCave = "CERULEAN CAVE";
-gTeachyTvString_TeachBattle = "Teach me how to battle.";
-gTeachyTvString_StatusProblems = "What are status problems?";
-gTeachyTvString_TypeMatchups = "What are type matchups?";
-gTeachyTvString_CatchPkmn = "I want to catch POKéMON.";
-gTeachyTvString_AboutTMs = "Teach me about TMs.";
-gTeachyTvString_RegisterItem = "How do I register an item?";
-gTeachyTvString_Cancel = "CANCEL";
-sDotSeparatedValues = "{DYNAMIC 00}·{DYNAMIC 01}";
-sNewLineText = "\n";
-sJapaneseEggNickname = "タマゴ"; # "tamago" ("egg" in Japanese)
-sText_Player = "{HIGHLIGHT TRANSPARENT}プレイヤー";
-sText_Sama = "{HIGHLIGHT TRANSPARENT}さま";
-sText_Hoenn = "{HIGHLIGHT TRANSPARENT}ホウエン";
-sText_National = "{HIGHLIGHT TRANSPARENT}ぜんこく";
-sText_CertifiesPokedexComplete = "{HIGHLIGHT TRANSPARENT}　　　　　ポケモンずかんを\n"
-sText_GameFreak = "{COLOR DARK_GRAY}{HIGHLIGHT TRANSPARENT}ゲームフリーク";
-sText_Empty = "{COLOR DARK_GRAY}{HIGHLIGHT TRANSPARENT}";
-sJPText_Vowels = "あいうえおかき";
-sText_Letters = "ABCDEFG";
-sText_Digits = "0123456";
-sText_Underscore = "{UNDERSCORE}";
-sText_Clear17 = "{CLEAR 17}";
-sText_ShedinjaJapaneseName = "ヌケニン";
-sText_UnusedColors = "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}";
-dot = "·";
-sListItemTextColor_RegularItem = "{COLOR_HIGHLIGHT_SHADOW DARK_GRAY TRANSPARENT LIGHT_GRAY}";
-sListItemTextColor_TmCase_BerryPouch = "{COLOR_HIGHLIGHT_SHADOW BLUE TRANSPARENT LIGHT_BLUE}";
-gText_EasyChatKeyboard_ABCDEFothers = "{CLEAR 11}A{CLEAR 6}B{CLEAR 6}C{CLEAR 26}D{CLEAR 6}E{CLEAR 6}F{CLEAR 26}others";
-gText_EasyChatKeyboard_GHIJKL = "{CLEAR 11}G{CLEAR 6}H{CLEAR 6}I{CLEAR 26}J{CLEAR 6}K{CLEAR 6}L";
-gText_EasyChatKeyboard_MNOPQRS = "{CLEAR 11}M{CLEAR 6}N{CLEAR 6}O{CLEAR 26}P{CLEAR 6}Q{CLEAR 6}R{CLEAR 6}S{CLEAR 26} ";
-gText_EasyChatKeyboard_TUVWXYZ = "{CLEAR 11}T{CLEAR 6}U{CLEAR 6}V{CLEAR 26}W{CLEAR 6}X{CLEAR 6}Y{CLEAR 6}Z{CLEAR 26} ";
-gText_NamingScreenKeyboard_abcdef = "{CLEAR 11}a{CLEAR 6}b{CLEAR 6}c{CLEAR 26}d{CLEAR 6}e{CLEAR 6}f{CLEAR 6} {CLEAR 26}.";
-gText_NamingScreenKeyboard_ghijkl = "{CLEAR 11}g{CLEAR 6}h{CLEAR 7}i{CLEAR 27}j{CLEAR 6}k{CLEAR 6}l{CLEAR 7} {CLEAR 26},";
-gText_NamingScreenKeyboard_mnopqrs = "{CLEAR 11}m{CLEAR 6}n{CLEAR 7}o{CLEAR 26}p{CLEAR 6}q{CLEAR 7}r{CLEAR 6}s{CLEAR 27} ";
-gText_NamingScreenKeyboard_tuvwxyz = "{CLEAR 12}t{CLEAR 6}u{CLEAR 6}v{CLEAR 26}w{CLEAR 6}x{CLEAR 6}y{CLEAR 6}z{CLEAR 26} ";
-gText_NamingScreenKeyboard_ABCDEF = "{CLEAR 11}A{CLEAR 6}B{CLEAR 6}C{CLEAR 26}D{CLEAR 6}E{CLEAR 6}F{CLEAR 6} {CLEAR 26}.";
-gText_NamingScreenKeyboard_GHIJKL = "{CLEAR 11}G{CLEAR 6}H{CLEAR 6}I{CLEAR 26}J{CLEAR 6}K{CLEAR 6}L{CLEAR 6} {CLEAR 26},";
-gText_NamingScreenKeyboard_MNOPQRS = "{CLEAR 11}M{CLEAR 6}N{CLEAR 6}O{CLEAR 26}P{CLEAR 6}Q{CLEAR 6}R{CLEAR 6}S{CLEAR 26} ";
-gText_NamingScreenKeyboard_TUVWXYZ = "{CLEAR 11}T{CLEAR 6}U{CLEAR 6}V{CLEAR 26}W{CLEAR 6}X{CLEAR 6}Y{CLEAR 6}Z{CLEAR 26} ";
-gText_NamingScreenKeyboard_01234 = "{CLEAR 11}0{CLEAR 16}1{CLEAR 16}2{CLEAR 16}3{CLEAR 16}4{CLEAR 16} ";
-gText_NamingScreenKeyboard_56789 = "{CLEAR 11}5{CLEAR 16}6{CLEAR 16}7{CLEAR 16}8{CLEAR 16}9{CLEAR 16} ";
-gText_NamingScreenKeyboard_Symbols1 = "{CLEAR 11}!{CLEAR 16}?{CLEAR 16}♂{CLEAR 16}♀{CLEAR 16}/{CLEAR 16}-";
-gText_NamingScreenKeyboard_Symbols2 = "{CLEAR 11}…{CLEAR 16}“{CLEAR 16}”{CLEAR 18}‘{CLEAR 18}'{CLEAR 18} ";
-gText_UnionRoomChatKeyboard_ABCDE = "ABCDE";
-gText_UnionRoomChatKeyboard_FGHIJ = "FGHIJ";
-gText_UnionRoomChatKeyboard_KLMNO = "KLMNO";
-gText_UnionRoomChatKeyboard_PQRST = "PQRST";
-gText_UnionRoomChatKeyboard_UVWXY = "UVWXY";
-gText_UnionRoomChatKeyboard_Z = "Z    ";
-gText_UnionRoomChatKeyboard_01234Upper = "01234";
-gText_UnionRoomChatKeyboard_56789Upper = "56789";
-gText_UnionRoomChatKeyboard_PunctuationUpper = ".,!? ";
-gText_UnionRoomChatKeyboard_SymbolsUpper = "-/&… ";
-gText_UnionRoomChatKeyboard_abcde = "abcde";
-gText_UnionRoomChatKeyboard_fghij = "fghij";
-gText_UnionRoomChatKeyboard_klmno = "klmno";
-gText_UnionRoomChatKeyboard_pqrst = "pqrst";
-gText_UnionRoomChatKeyboard_uvwxy = "uvwxy";
-gText_UnionRoomChatKeyboard_z = "z    ";
-gText_UnionRoomChatKeyboard_01234Lower = "01234";
-gText_UnionRoomChatKeyboard_56789Lower = "56789";
-gText_UnionRoomChatKeyboard_PunctuationLower = ".,!? ";
-gText_UnionRoomChatKeyboard_SymbolsLower = "-/&… ";
-gText_EmptyTextInput1 = "";
-gText_EmptyTextInput2 = "";
-gText_EmptyTextInput3 = "";
-gText_EmptyTextInput4 = "";
-gText_EmptyTextInput5 = "";
-gText_EmptyTextInput6 = "";
-gText_EmptyTextInput7 = "";
-gText_EmptyTextInput8 = "";
-gText_UnionRoomChatKeyboard_Emoji1 = "{EMOJI_MISCHIEVOUS}{EMOJI_HAPPY}{EMOJI_ANGRY}{EMOJI_SURPRISED}{EMOJI_BIGANGER}";
-gText_UnionRoomChatKeyboard_Emoji2 = "{EMOJI_BIGSMILE}{EMOJI_EVIL}{EMOJI_NEUTRAL}{EMOJI_TIRED}{EMOJI_SHOCKED}";
-gText_UnionRoomChatKeyboard_Emoji3 = "{EMOJI_LEAF}{EMOJI_FIRE}{EMOJI_WATER}{EMOJI_BOLT}{EMOJI_BALL}";
-gText_UnionRoomChatKeyboard_Emoji4 = "♂♀{EMOJI_LEFT_PAREN}{EMOJI_RIGHT_PAREN}{EMOJI_TILDE}";
-gText_UnionRoomChatKeyboard_Emoji5 = "{EMOJI_LEFT_EYE}{EMOJI_RIGHT_EYE}{EMOJI_SMALLWHEEL}{EMOJI_SPHERE}{EMOJI_IRRITATED}";
-gText_UnionRoomChatKeyboard_Emoji6 = "{EMOJI_AT}{EMOJI_BIGWHEEL}{EMOJI_TONGUE}{EMOJI_ACUTE}{EMOJI_GRAVE}";
-gText_UnionRoomChatKeyboard_Emoji7 = "{EMOJI_RIGHT_FIST}{EMOJI_LEFT_FIST}{EMOJI_TRIANGLE_OUTLINE}{EMOJI_UNION}{EMOJI_GREATER_THAN}";
-gText_UnionRoomChatKeyboard_Emoji8 = "{EMOJI_CIRCLE}{EMOJI_TRIANGLE}{EMOJI_SQUARE}{EMOJI_HEART}{EMOJI_MOON}";
-gText_UnionRoomChatKeyboard_Emoji9 = "{EMOJI_NOTE}{EMOJI_PLUS}{EMOJI_MINUS}{EMOJI_EQUALS}{EMOJI_PIPE}";
-gText_UnionRoomChatKeyboard_Emoji10 = "{EMOJI_HIGHBAR}{EMOJI_UNDERSCORE};: ";
-sJPText_TatakauWaza = "たたかうわざ";
-sJPText_Taipu = "タイプ/";
-sJPText_PP = "PP/";
-sJPText_Iryoku = "いりょく/";
-sJPText_Meichuu = "めいちゅう/";
-sText_Akito = "　あきと"; # Presumably "Akito Mori", one of Game Freak's programmers
-sString_Dummy = "";
-sString_Dummy = "";
-sString_Newline = "\n";
-gMoveDescription_Pound = "A physical attack\ndelivered with a\nlong tail or a\nforeleg, etc.";
-gMoveDescription_KarateChop = "The foe is attacked\nwith a sharp chop.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_DoubleSlap = "The foe is slapped\nrepeatedly, back\nand forth, two to\nfive times.";
-gMoveDescription_CometPunch = "The foe is hit with\na flurry of punches\nthat strike two to\nfive times.";
-gMoveDescription_MegaPunch = "The foe is slugged\nby a punch thrown\nwith muscle-packed\npower.";
-gMoveDescription_PayDay = "Numerous coins are\nhurled at the foe.\nMoney is earned\nafter battle.";
-gMoveDescription_FirePunch = "The foe is punched\nwith a fiery fist.\nIt may leave the\nfoe with a burn.";
-gMoveDescription_IcePunch = "The foe is punched\nwith an icy fist.\nIt may leave the\nfoe frozen.";
-gMoveDescription_ThunderPunch = "The foe is punched\nwith an electrified\nfist. It may leave\nthe foe paralyzed.";
-gMoveDescription_Scratch = "Hard, pointed, and\nsharp claws rake\nthe foe.";
-gMoveDescription_ViceGrip = "Huge, impressive\npincers grip and\nsqueeze the foe.";
-gMoveDescription_Guillotine = "A vicious tearing\nattack with pincers.\nThe foe will faint\nif it hits.";
-gMoveDescription_RazorWind = "Blades of wind hit\nthe foe on the 2nd\nturn. It has a high\ncritical-hit ratio.";
-gMoveDescription_SwordsDance = "A frenetic dance of\nfighting. It sharply\nraises the ATTACK\nstat.";
-gMoveDescription_Cut = "A basic attack.\nIt can be used to\ncut down thin trees\nand grass.";
-gMoveDescription_Gust = "Strikes the foe\nwith a gust of wind\nwhipped up by\nwings.";
-gMoveDescription_WingAttack = "The foe is struck\nwith large, imposing\nwings spread wide.";
-gMoveDescription_Whirlwind = "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.";
-gMoveDescription_Fly = "A 2-turn move that\nhits on the 2nd\nturn. Use it to fly\nto any known town.";
-gMoveDescription_Bind = "A long body or\ntentacles are used\nto bind the foe for\ntwo to five turns.";
-gMoveDescription_Slam = "The foe is struck\nwith a long tail,\nvines, etc.";
-gMoveDescription_VineWhip = "The foe is struck\nwith slender, whip-\nlike vines.";
-gMoveDescription_Stomp = "The foe is stomped\nwith a big foot.\nIt may make the\nfoe flinch.";
-gMoveDescription_DoubleKick = "Two legs are used\nto quickly kick the\nfoe twice in one\nturn.";
-gMoveDescription_MegaKick = "The foe is attacked\nby a kick fired\nwith muscle-packed\npower.";
-gMoveDescription_JumpKick = "The user jumps up\nhigh, then kicks.\nIf it misses, the\nuser hurts itself.";
-gMoveDescription_RollingKick = "A quick kick from a\nrolling spin.\nIt may make the\nfoe flinch.";
-gMoveDescription_SandAttack = "A lot of sand is\nhurled in the foe's\nface, reducing its\naccuracy.";
-gMoveDescription_Headbutt = "The user sticks its\nhead out and rams.\nIt may make the\nfoe flinch.";
-gMoveDescription_HornAttack = "The foe is jabbed\nwith a sharply\npointed horn to\ninflict damage.";
-gMoveDescription_FuryAttack = "The foe is jabbed\nrepeatedly with a\nhorn or beak two to\nfive times.";
-gMoveDescription_HornDrill = "The horn is rotated\nlike a drill to ram.\nThe foe will faint\nif it hits.";
-gMoveDescription_Tackle = "A physical attack\nin which the user\ncharges, full body,\ninto the foe.";
-gMoveDescription_BodySlam = "The user drops its\nfull body on the\nfoe. It may leave\nthe foe paralyzed.";
-gMoveDescription_Wrap = "A long body or\nvines are used to\nwrap the foe for\ntwo to five turns.";
-gMoveDescription_TakeDown = "A reckless, full-\nbody charge attack\nthat also hurts the\nuser a little.";
-gMoveDescription_Thrash = "The user rampages\nabout for two to\nthree turns, then\nbecomes confused.";
-gMoveDescription_DoubleEdge = "A reckless, life-\nrisking tackle that\nalso hurts the user\na little.";
-gMoveDescription_TailWhip = "The user wags its\ntail cutely, making\nthe foe lower its\nDEFENSE stat.";
-gMoveDescription_PoisonSting = "The foe is stabbed\nwith a toxic barb,\netc. It may poison\nthe foe.";
-gMoveDescription_Twineedle = "The foe is stabbed\ntwice with foreleg\nstingers. It may\npoison the foe.";
-gMoveDescription_PinMissile = "Sharp pins are shot\nat the foe and hit\ntwo to five times\nat once.";
-gMoveDescription_Leer = "The foe is given an\nintimidating look\nthat lowers its\nDEFENSE stat.";
-gMoveDescription_Bite = "The user bites with\nvicious fangs.\nIt may make the\nfoe flinch.";
-gMoveDescription_Growl = "The user growls in\na cute way, making\nthe foe lower its\nATTACK stat.";
-gMoveDescription_Roar = "The foe is made to\nswitch out with an\nally. In the wild,\nthe battle ends.";
-gMoveDescription_Sing = "A soothing song\nin a calming voice\nlulls the foe into\na deep slumber.";
-gMoveDescription_Supersonic = "The user generates\nodd sound waves.\nIt may confuse the\nfoe.";
-gMoveDescription_SonicBoom = "The foe is hit with\na shock wave that\nalways inflicts 20-\nHP damage.";
-gMoveDescription_Disable = "For a few turns,\nit prevents the foe\nfrom using the move\nit last used.";
-gMoveDescription_Acid = "The foe is sprayed\nwith a harsh, hide-\nmelting acid that\nmay lower DEFENSE.";
-gMoveDescription_Ember = "The foe is attacked\nwith small flames.\nThe foe may suffer\na burn.";
-gMoveDescription_Flamethrower = "The foe is scorched\nwith intense flames.\nThe foe may suffer\na burn.";
-gMoveDescription_Mist = "The ally party is\nprotected by a\nmist that prevents\nstat reductions.";
-gMoveDescription_WaterGun = "The foe is struck\nwith a lot of water\nexpelled forcibly\nfrom the mouth.";
-gMoveDescription_HydroPump = "A high volume of\nwater is blasted at\nthe foe under great\npressure.";
-gMoveDescription_Surf = "A big wave crashes\ndown on the foe.\nCan also be used\nfor crossing water.";
-gMoveDescription_IceBeam = "The foe is struck\nwith an icy beam.\nIt may freeze the\nfoe solid.";
-gMoveDescription_Blizzard = "The foe is blasted\nwith a blizzard.\nIt may freeze the\nfoe solid.";
-gMoveDescription_Psybeam = "A peculiar ray is\nshot at the foe.\nIt may leave the\nfoe confused.";
-gMoveDescription_BubbleBeam = "A spray of bubbles\nstrikes the foe.\nIt may lower the\nfoe's SPEED stat.";
-gMoveDescription_AuroraBeam = "A rainbow-colored\nattack beam.\nIt may lower the\nfoe's ATTACK stat.";
-gMoveDescription_HyperBeam = "A severely damaging\nattack that makes\nthe user rest on\nthe next turn.";
-gMoveDescription_Peck = "The foe is jabbed\nwith a sharply\npointed beak or\nhorn.";
-gMoveDescription_DrillPeck = "A corkscrewing\nattack with the\nsharp beak acting\nas a drill.";
-gMoveDescription_Submission = "A reckless, full-\nbody throw attack\nthat also hurts the\nuser a little.";
-gMoveDescription_LowKick = "A low, tripping kick\nthat inflicts more\ndamage on heavier\nfoes.";
-gMoveDescription_Counter = "A retaliation move\nthat counters any\nphysical hit with\ndouble the damage.";
-gMoveDescription_SeismicToss = "A gravity-fed throw\nthat causes damage\nmatching the user's\nlevel.";
-gMoveDescription_Strength = "The foe is slugged\nat maximum power.\nCan also be used\nto move boulders.";
-gMoveDescription_Absorb = "An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.";
-gMoveDescription_MegaDrain = "A tough attack that\ndrains half the\ndamage it inflicted\nto restore HP.";
-gMoveDescription_LeechSeed = "A seed is planted\non the foe to steal\nsome HP for the \nuser on every turn.";
-gMoveDescription_Growth = "The user's body is\nforced to grow,\nraising the SP.\nATK stat.";
-gMoveDescription_RazorLeaf = "The foe is hit with\na cutting leaf.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_SolarBeam = "A 2-turn move that\nblasts the foe with\nabsorbed energy in\nthe 2nd turn.";
-gMoveDescription_PoisonPowder = "A cloud of toxic\ndust is scattered.\nIt may poison the\nfoe.";
-gMoveDescription_StunSpore = "Paralyzing dust is\nscattered wildly.\nIt may paralyze\nthe foe.";
-gMoveDescription_SleepPowder = "A sleep-inducing\ndust is scattered\nin high volume\naround a foe.";
-gMoveDescription_PetalDance = "The user attacks\nwith petals for two\nto three turns,\nthen gets confused.";
-gMoveDescription_StringShot = "The foe is bound\nwith strings shot\nfrom the mouth to\nreduce its SPEED.";
-gMoveDescription_DragonRage = "The foe is hit with\na shock wave that\nalways inflicts 40-\nHP damage.";
-gMoveDescription_FireSpin = "The foe is trapped\nin an intense spiral\nof fire that rages\ntwo to five turns.";
-gMoveDescription_ThunderShock = "An electric shock\nattack that may\nalso leave the foe\nparalyzed.";
-gMoveDescription_Thunderbolt = "A strong electrical\nattack that may\nalso leave the foe\nparalyzed.";
-gMoveDescription_ThunderWave = "A weak electric\nshock that is sure\nto cause paralysis\nif it hits.";
-gMoveDescription_Thunder = "A brutal lightning\nattack that may\nalso leave the foe\nparalyzed.";
-gMoveDescription_RockThrow = "The foe is attacked\nwith a shower of\nsmall, easily\nthrown rocks.";
-gMoveDescription_Earthquake = "An earthquake that\nstrikes all POKéMON\nin battle excluding\nthe user.";
-gMoveDescription_Fissure = "The foe is dropped\ninto a fissure.\nThe foe faints if it\nhits.";
-gMoveDescription_Dig = "An attack that hits\non the 2nd turn.\nCan also be used\nto exit dungeons.";
-gMoveDescription_Toxic = "A move that badly\npoisons the foe.\nIts poison damage\nworsens every turn.";
-gMoveDescription_Confusion = "A weak telekinetic\nattack that may\nalso leave the foe\nconfused.";
-gMoveDescription_Psychic = "A strong telekinetic\nattack. It may also\nlower the foe's\nSP. DEF stat.";
-gMoveDescription_Hypnosis = "Hypnotic suggestion\nis used to make the\nfoe fall into a\ndeep sleep.";
-gMoveDescription_Meditate = "The user meditates\nto awaken its power\nand raise its\nATTACK stat.";
-gMoveDescription_Agility = "The user relaxes\nand lightens its\nbody to sharply\nboost its SPEED.";
-gMoveDescription_QuickAttack = "An almost invisibly\nfast attack that\nis certain to strike\nfirst.";
-gMoveDescription_Rage = "An attack that\nbecomes stronger\neach time the user\nis hit in battle.";
-gMoveDescription_Teleport = "Use it to flee from\nany wild POKéMON.\nAlso warps to the\nlast POKé CENTER.";
-gMoveDescription_NightShade = "An attack with a\nmirage that inflicts\ndamage matching\nthe user's level.";
-gMoveDescription_Mimic = "The user copies the\nmove last used by\nthe foe for the\nrest of the battle.";
-gMoveDescription_Screech = "An ear-splitting\nscreech is emitted\nto sharply reduce\nthe foe's DEFENSE.";
-gMoveDescription_DoubleTeam = "The user creates\nillusory copies of\nitself to raise its\nevasiveness.";
-gMoveDescription_Recover = "A self-healing move\nthat restores HP by\nup to half of the\nuser's maximum HP.";
-gMoveDescription_Harden = "The user stiffens\nall the muscles in\nits body to raise\nits DEFENSE stat.";
-gMoveDescription_Minimize = "The user compresses\nall the cells in its\nbody to raise its\nevasiveness.";
-gMoveDescription_Smokescreen = "An obscuring cloud\nof smoke or ink\nreduces the foe's\naccuracy.";
-gMoveDescription_ConfuseRay = "The foe is exposed\nto a sinister ray\nthat triggers\nconfusion.";
-gMoveDescription_Withdraw = "The user withdraws\nits body in its hard\nshell, raising its\nDEFENSE stat.";
-gMoveDescription_DefenseCurl = "The user curls up\nto conceal weak\nspots and raise its\nDEFENSE stat.";
-gMoveDescription_Barrier = "The user creates a\nsturdy wall that\nsharply raises its\nDEFENSE stat.";
-gMoveDescription_LightScreen = "A wall of light\ncuts damage from\nSP. ATK attacks\nfor five turns.";
-gMoveDescription_Haze = "Eliminates all stat\nchanges among all\nPOKéMON engaged in\nbattle.";
-gMoveDescription_Reflect = "A wall of light\ncuts damage from\nphysical attacks\nfor five turns.";
-gMoveDescription_FocusEnergy = "The user takes a\ndeep breath and\nfocuses to raise its\ncritical-hit ratio.";
-gMoveDescription_Bide = "The user endures\nattacks for two\nturns, then strikes\nback double.";
-gMoveDescription_Metronome = "Waggles a finger\nand stimulates the\nbrain into using any\nmove at random.";
-gMoveDescription_MirrorMove = "The user counters\nthe move last used\nby the foe with the\nsame move.";
-gMoveDescription_SelfDestruct = "The user blows up\nto inflict severe\ndamage, even\nmaking itself faint.";
-gMoveDescription_EggBomb = "A large egg is\nhurled with great\nforce at the foe to\ninflict damage.";
-gMoveDescription_Lick = "The foe is licked\nand hit with a long\ntongue. It may\nalso paralyze.";
-gMoveDescription_Smog = "The foe is attacked\nwith exhaust gases.\nIt may also poison\nthe foe.";
-gMoveDescription_Sludge = "Toxic sludge is\nhurled at the foe.\nIt may poison the\ntarget.";
-gMoveDescription_BoneClub = "The foe is clubbed\nwith a bone held in\nhand. It may make\nthe foe flinch.";
-gMoveDescription_FireBlast = "The foe is hit with\nan intense flame.\nIt may leave the\ntarget with a burn.";
-gMoveDescription_Waterfall = "A powerful charge\nattack. It can also\nbe used to climb\na waterfall.";
-gMoveDescription_Clamp = "The foe is clamped\nand squeezed by\nthe user's shell for\ntwo to five turns.";
-gMoveDescription_Swift = "Star-shaped rays\nthat never miss are\nfired at all foes in\nbattle.";
-gMoveDescription_SkullBash = "The user raises its\nDEFENSE in the 1st\nturn, then attacks\nin the 2nd turn.";
-gMoveDescription_SpikeCannon = "Sharp spikes are\nfired at the foe to\nstrike two to five\ntimes.";
-gMoveDescription_Constrict = "The foe is attacked\nwith long tentacles\nor vines. It may\nlower SPEED.";
-gMoveDescription_Amnesia = "Forgets about\nsomething and\nsharply raises\nSP. DEF.";
-gMoveDescription_Kinesis = "The user distracts\nthe foe by bending\na spoon. It may\nlower accuracy.";
-gMoveDescription_SoftBoiled = "Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.";
-gMoveDescription_HiJumpKick = "A strong jumping\nknee kick. If it\nmisses, the user is\nhurt.";
-gMoveDescription_Glare = "The user intimidates\nthe foe with the\ndesign on its belly\nto cause paralysis.";
-gMoveDescription_DreamEater = "Absorbs half the\ndamage it inflicted\non a sleeping foe\nto restore HP.";
-gMoveDescription_PoisonGas = "The foe is sprayed\nwith a cloud of\ntoxic gas that may\npoison the foe.";
-gMoveDescription_Barrage = "Round objects are\nhurled at the foe\nto strike two to\nfive times.";
-gMoveDescription_LeechLife = "An attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.";
-gMoveDescription_LovelyKiss = "The user forces a\nkiss on the foe\nwith a scary face\nthat induces sleep.";
-gMoveDescription_SkyAttack = "A 2nd-turn attack\nmove with a high\ncritical-hit ratio.\nThe foe may flinch.";
-gMoveDescription_Transform = "The user transforms\ninto a copy of the\nfoe with even the\nsame move set.";
-gMoveDescription_Bubble = "A spray of bubbles\nhits the foe.\nIt may lower the\nfoe's SPEED stat.";
-gMoveDescription_DizzyPunch = "The foe is hit with\na rhythmic punch\nthat may leave it\nconfused.";
-gMoveDescription_Spore = "The user scatters\nbursts of fine\nspores that induce\nsleep.";
-gMoveDescription_Flash = "A blast of light\nthat cuts the foe's\naccuracy. It also\nilluminates caves.";
-gMoveDescription_Psywave = "The foe is attacked\nwith an odd, hot\nenergy wave that\nvaries in intensity.";
-gMoveDescription_Splash = "The user just flops\nand splashes around\nwithout having any\neffect.";
-gMoveDescription_AcidArmor = "The user alters its\ncells to liquefy\nitself and sharply\nraise DEFENSE.";
-gMoveDescription_Crabhammer = "A large pincer is\nused to hammer the\nfoe. It has a high\ncritical-hit ratio.";
-gMoveDescription_Explosion = "The user explodes\nto inflict terrible\ndamage even while\nfainting itself.";
-gMoveDescription_FurySwipes = "The foe is raked\nwith sharp claws or\nscythes two to five\ntimes.";
-gMoveDescription_Bonemerang = "The user throws a\nbone that hits the\nfoe once, then once\nagain on return.";
-gMoveDescription_Rest = "The user sleeps for\ntwo turns to fully\nrestore HP and heal\nany status problem.";
-gMoveDescription_RockSlide = "Large boulders are\nhurled at the foe.\nIt may make the\nfoe flinch.";
-gMoveDescription_HyperFang = "The foe is attacked\nwith sharp fangs.\nIt may make the\nfoe flinch.";
-gMoveDescription_Sharpen = "The user reduces\nits polygon count\nto sharpen edges\nand raise ATTACK.";
-gMoveDescription_Conversion = "The user changes\nits type to match\nthe type of one of\nits moves.";
-gMoveDescription_TriAttack = "A simultaneous\n3-beam attack that\nmay paralyze, burn,\nor freeze the foe.";
-gMoveDescription_SuperFang = "The user attacks\nwith sharp fangs\nand halves the\nfoe's HP.";
-gMoveDescription_Slash = "The foe is slashed\nwith claws, etc.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_Substitute = "The user creates a\ndecoy using one-\nquarter of its full\nHP.";
-gMoveDescription_Struggle = "An attack that is\nused only if there\nis no PP. It also\nhurts the user.";
-gMoveDescription_Sketch = "This move copies\nthe move last used\nby the foe, then\ndisappears.";
-gMoveDescription_TripleKick = "A 3-kick attack\nthat becomes more\npowerful with each\nsuccessive hit.";
-gMoveDescription_Thief = "An attack that may\ntake the foe's held\nitem if the user\nisn't holding one.";
-gMoveDescription_SpiderWeb = "Ensnares the foe \nwith sticky string\nso it doesn't flee\nor switch out.";
-gMoveDescription_MindReader = "The user predicts\nthe foe's action to\nensure its next\nattack hits.";
-gMoveDescription_Nightmare = "A sleeping foe is\nshown a nightmare\nthat inflicts some\ndamage every turn.";
-gMoveDescription_FlameWheel = "The user makes a\nfiery charge at the\nfoe. It may cause\na burn.";
-gMoveDescription_Snore = "An attack that can\nbe used only while\nasleep. It may\ncause flinching.";
-gMoveDescription_Curse = "A move that works\ndifferently for the\nGHOST-type and all\nthe other types.";
-gMoveDescription_Flail = "A desperate attack\nthat becomes more\npowerful the less\nHP the user has.";
-gMoveDescription_Conversion2 = "The user changes\ntype to make itself\nresistant to the\nlast attack it took.";
-gMoveDescription_Aeroblast = "A vortex of air is\nshot at the foe.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_CottonSpore = "Cotton-like spores\ncling to the foe,\nsharply reducing\nits SPEED stat.";
-gMoveDescription_Reversal = "An all-out attack\nthat becomes more\npowerful the less\nHP the user has.";
-gMoveDescription_Spite = "A move that cuts\n2 to 5 PP from the\nmove last used by\nthe foe.";
-gMoveDescription_PowderSnow = "Blasts the foe with\na snowy gust.\nIt may cause\nfreezing.";
-gMoveDescription_Protect = "Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.";
-gMoveDescription_MachPunch = "A punch thrown at\nblinding speed.\nIt is certain to\nstrike first.";
-gMoveDescription_ScaryFace = "Frightens the foe\nwith a scary face\nto sharply reduce\nits SPEED.";
-gMoveDescription_FaintAttack = "The user draws up\nclose to the foe\ndisarmingly, then\nhits without fail.";
-gMoveDescription_SweetKiss = "The user kisses\nthe foe with sweet\ncuteness that\ncauses confusion.";
-gMoveDescription_BellyDrum = "The user maximizes\nits ATTACK stat at\nthe cost of half\nits full HP.";
-gMoveDescription_SludgeBomb = "Filthy sludge is\nhurled at the foe.\nIt may poison the\ntarget.";
-gMoveDescription_MudSlap = "Mud is hurled in\nthe foe's face to\ninflict damage and\nlower its accuracy.";
-gMoveDescription_Octazooka = "Ink is blasted in\nthe foe's face or\neyes to damage and\nlower accuracy.";
-gMoveDescription_Spikes = "A trap of spikes is\nlaid around the\nfoe's party to hurt\nfoes switching in.";
-gMoveDescription_ZapCannon = "An electric blast is\nfired like a cannon\nto inflict damage\nand paralyze.";
-gMoveDescription_Foresight = "Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.";
-gMoveDescription_DestinyBond = "If the user faints,\nthe foe delivering\nthe final hit also\nfaints.";
-gMoveDescription_PerishSong = "Any battler that\nhears this faints\nin three turns\nunless it switches.";
-gMoveDescription_IcyWind = "A chilling wind is\nused to attack.\nIt also lowers the\nSPEED stat.";
-gMoveDescription_Detect = "Enables the user to\nevade all attacks.\nIt may fail if used\nin succession.";
-gMoveDescription_BoneRush = "The user strikes\nthe foe with a bone\nin hand two to five\ntimes.";
-gMoveDescription_LockOn = "The user locks on\nto the foe, making\nthe next move sure\nto hit.";
-gMoveDescription_Outrage = "The user thrashes\nabout for two to\nthree turns, then\nbecomes confused.";
-gMoveDescription_Sandstorm = "A 5-turn sandstorm\nthat damages all\ntypes except ROCK,\nGROUND, and STEEL.";
-gMoveDescription_GigaDrain = "A harsh attack that\nabsorbs half the\ndamage it inflicted\nto restore HP.";
-gMoveDescription_Endure = "The user endures\nany hit with 1 HP\nleft. It may fail if\nused in succession.";
-gMoveDescription_Charm = "The foe is charmed\nby the user's cute\nappeals, sharply\ncutting its ATTACK.";
-gMoveDescription_Rollout = "A 5-turn rolling\nattack that becomes\nstronger each time\nit hits.";
-gMoveDescription_FalseSwipe = "A restrained attack\nthat always leaves\nthe foe with at\nleast 1 HP.";
-gMoveDescription_Swagger = "A move that makes\nthe foe confused,\nbut also sharply\nraises its ATTACK.";
-gMoveDescription_MilkDrink = "Heals the user by\nup to half its full\nHP. It can be used\nto heal an ally.";
-gMoveDescription_Spark = "An electrically\ncharged tackle that\nmay also paralyze\nthe foe.";
-gMoveDescription_FuryCutter = "An attack that\ngrows stronger on\neach successive\nhit.";
-gMoveDescription_SteelWing = "The foe is hit with\nwings of steel.\nIt may also raise\nthe user's DEFENSE.";
-gMoveDescription_MeanLook = "The foe is fixed\nwith a mean look\nthat prevents it\nfrom escaping.";
-gMoveDescription_Attract = "If it is the other\ngender, the foe is\nmade infatuated and\nunlikely to attack.";
-gMoveDescription_SleepTalk = "While asleep, the\nuser randomly uses\none of the moves it\nknows.";
-gMoveDescription_HealBell = "A soothing bell\nchimes to heal the\nstatus problems of\nall allies.";
-gMoveDescription_Return = "This attack move\ngrows more powerful\nthe more the user\nlikes its TRAINER.";
-gMoveDescription_Present = "The foe is given a\nbooby-trapped gift.\nIt restores HP\nsometimes, however.";
-gMoveDescription_Frustration = "This attack move\ngrows more powerful\nthe less the user\nlikes its TRAINER.";
-gMoveDescription_Safeguard = "It protects the\nuser's party from\nall status problems\nfor five turns.";
-gMoveDescription_PainSplit = "The user adds its\nHP to the foe's HP,\nthen equally shares\nthe total HP.";
-gMoveDescription_SacredFire = "A mystical and\npowerful fire\nattack that may\ninflict a burn.";
-gMoveDescription_Magnitude = "A ground-shaking\nattack against all\nstanding POKéMON.\nIts power varies.";
-gMoveDescription_DynamicPunch = "The foe is punched\nwith the user's full\npower. It confuses\nthe foe if it hits.";
-gMoveDescription_Megahorn = "A brutal ramming\nattack delivered\nwith a tough and\nimpressive horn.";
-gMoveDescription_DragonBreath = "The foe is hit with\nan incredible blast\nof breath that may\nalso paralyze.";
-gMoveDescription_BatonPass = "The user switches\nout, passing along\nany stat changes\nto the new battler.";
-gMoveDescription_Encore = "Makes the foe use\nthe move it last\nused repeatedly for\ntwo to six turns.";
-gMoveDescription_Pursuit = "An attack move that\nworks especially\nwell on a foe that\nis switching out.";
-gMoveDescription_RapidSpin = "An attack that\nfrees the user from\nBIND, WRAP, LEECH\nSEED, and SPIKES.";
-gMoveDescription_SweetScent = "Allures the foe to\nreduce evasiveness.\nIt also attracts\nwild POKéMON.";
-gMoveDescription_IronTail = "An attack with a\nsteel-hard tail.\nIt may lower the\nfoe's DEFENSE stat.";
-gMoveDescription_MetalClaw = "The foe is attacked\nwith steel claws.\nIt may also raise\nthe user's ATTACK.";
-gMoveDescription_VitalThrow = "Makes the user\nattack after the\nfoe. In return,\nit will not miss.";
-gMoveDescription_MorningSun = "Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.";
-gMoveDescription_Synthesis = "Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.";
-gMoveDescription_Moonlight = "Restores the user's\nHP. The amount of\nHP regained varies\nwith the weather.";
-gMoveDescription_HiddenPower = "An attack that\nvaries in type and\nintensity depending\non the user.";
-gMoveDescription_CrossChop = "The foe is hit with\ndouble chops.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_Twister = "A vicious twister\nattacks the foe.\nIt may make the\nfoe flinch.";
-gMoveDescription_RainDance = "A heavy rain falls\nfor five turns,\npowering up WATER-\ntype moves.";
-gMoveDescription_SunnyDay = "The sun blazes for\nfive turns, powering\nup FIRE-type\nmoves.";
-gMoveDescription_Crunch = "The foe is crunched\nwith sharp fangs.\nIt may lower the\nfoe's SP. DEF.";
-gMoveDescription_MirrorCoat = "A retaliation move\nthat pays back the\nfoe's special attack\ndouble.";
-gMoveDescription_PsychUp = "The user hypnotizes\nitself into copying\nany stat change\nmade by the foe.";
-gMoveDescription_ExtremeSpeed = "A blindingly speedy\ncharge attack that\nalways goes before\nany other.";
-gMoveDescription_AncientPower = "An ancient power is\nused to attack. It\nmay also raise all\nthe user's stats.";
-gMoveDescription_ShadowBall = "A shadowy blob is\nhurled at the foe.\nMay also lower the\nfoe's SP. DEF.";
-gMoveDescription_FutureSight = "Two turns after\nthis move is used,\nthe foe is attacked\npsychically.";
-gMoveDescription_RockSmash = "An attack that may\nalso cut DEFENSE.\nIt can also smash\ncracked boulders.";
-gMoveDescription_Whirlpool = "The foe is trapped\nin a fast, vicious\nwhirlpool for two\nto five turns.";
-gMoveDescription_BeatUp = "All party POKéMON\njoin in the attack.\nThe more allies,\nthe more damage.";
-gMoveDescription_FakeOut = "An attack that hits\nfirst and causes\nflinching. Usable\nonly on 1st turn.";
-gMoveDescription_Uproar = "The user attacks in\nan uproar that\nprevents sleep for\ntwo to five turns.";
-gMoveDescription_Stockpile = "The user charges\nup power for use\nlater. It can be\nused three times.";
-gMoveDescription_SpitUp = "The power built\nusing STOCKPILE is\nreleased at once\nfor attack.";
-gMoveDescription_Swallow = "The energy it built\nusing STOCKPILE is\nabsorbed to restore\nHP.";
-gMoveDescription_HeatWave = "The user exhales a\nheated breath to\nattack. It may also\ninflict a burn.";
-gMoveDescription_Hail = "A hailstorm lasting\nfive turns damages\nall POKéMON except\nthe ICE-type.";
-gMoveDescription_Torment = "It enrages the foe,\nmaking it incapable\nof using the same\nmove successively.";
-gMoveDescription_Flatter = "Flattery is used to\nconfuse the foe,\nbut its SP. ATK\nalso rises.";
-gMoveDescription_WillOWisp = "A sinister, bluish\nwhite flame is shot\nat the foe to\ninflict a burn.";
-gMoveDescription_Memento = "The user faints,\nbut sharply lowers\nthe foe's ATTACK\nand SP. ATK.";
-gMoveDescription_Facade = "An attack that is\nboosted if user is\nburned, poisoned,\nor paralyzed.";
-gMoveDescription_FocusPunch = "An attack that is\nexecuted last.\nThe user flinches\nif hit beforehand.";
-gMoveDescription_SmellingSalt = "Doubly effective on\na paralyzed foe,\nbut it also cures\nthe foe's paralysis.";
-gMoveDescription_FollowMe = "The user draws\nattention to itself,\nmaking foes attack\nonly the user.";
-gMoveDescription_NaturePower = "An attack that\nchanges type\ndepending on the\nuser's location.";
-gMoveDescription_Charge = "The user charges\npower to boost the\nELECTRIC move it\nuses next.";
-gMoveDescription_Taunt = "The foe is taunted\ninto a rage that\nallows it to use\nonly attack moves.";
-gMoveDescription_HelpingHand = "A move that boosts\nthe power of the\nally's attack in a\nbattle.";
-gMoveDescription_Trick = "A move that tricks\nthe foe into\ntrading held items\nwith the user.";
-gMoveDescription_RolePlay = "The user mimics the\nfoe completely and\ncopies the foe's\nability.";
-gMoveDescription_Wish = "A self-healing move\nthat restores half\nthe full HP on the\nnext turn.";
-gMoveDescription_Assist = "The user randomly\npicks and uses a\nmove of an allied\nPOKéMON.";
-gMoveDescription_Ingrain = "The user lays roots\nthat restore HP on\nevery turn.\nIt can't switch out.";
-gMoveDescription_Superpower = "A powerful attack,\nbut it also lowers\nthe user's ATTACK\nand DEFENSE stats.";
-gMoveDescription_MagicCoat = "Reflects back the\nfoe's LEECH SEED\nand any status-\ndamaging move.";
-gMoveDescription_Recycle = "A move that\nrecycles a used\nitem for use once\nmore.";
-gMoveDescription_Revenge = "An attack move that\ngains in intensity if\nthe target has hurt\nthe user.";
-gMoveDescription_BrickBreak = "An attack that also\nbreaks any barrier\nlike LIGHT SCREEN\nand REFLECT.";
-gMoveDescription_Yawn = "A huge yawn lulls\nthe foe into falling\nasleep on the next\nturn.";
-gMoveDescription_KnockOff = "Knocks down the\nfoe's held item to\nprevent its use\nduring the battle.";
-gMoveDescription_Endeavor = "Gains power the\nfewer HP the user\nhas compared with\nthe foe.";
-gMoveDescription_Eruption = "The higher the\nuser's HP, the more\npowerful this\nattack becomes.";
-gMoveDescription_SkillSwap = "The user employs\nits psychic power\nto swap abilities\nwith the foe.";
-gMoveDescription_Imprison = "Prevents foes from\nusing any move\nthat is also known\nby the user.";
-gMoveDescription_Refresh = "A self-healing move\nthat cures the user\nof a poisoning,\nburn, or paralysis.";
-gMoveDescription_Grudge = "If the user faints,\nthis move deletes\nthe PP of the move\nthat finished it.";
-gMoveDescription_Snatch = "Steals the effects\nof the foe's\nhealing or status-\nchanging move.";
-gMoveDescription_SecretPower = "An attack that may\nhave an additional\neffect that varies\nwith the terrain.";
-gMoveDescription_Dive = "The user dives\nunderwater on the\nfirst turn and\nstrikes next turn.";
-gMoveDescription_ArmThrust = "A quick flurry of\nstraight-arm\npunches that hit\ntwo to five times.";
-gMoveDescription_Camouflage = "Alters the user's\ntype depending on\nthe location's\nterrain.";
-gMoveDescription_TailGlow = "The user flashes a\nlight that sharply\nraises its SP. ATK\nstat.";
-gMoveDescription_LusterPurge = "A burst of light\ninjures the foe. It\nmay also lower the\nfoe's SP. DEF.";
-gMoveDescription_MistBall = "A flurry of down\nhits the foe. It\nmay also lower the\nfoe's SP. ATK.";
-gMoveDescription_FeatherDance = "The foe is covered\nwith a mass of down\nthat sharply cuts\nthe ATTACK stat.";
-gMoveDescription_TeeterDance = "A wobbly dance\nthat confuses all\nthe POKéMON in\nbattle.";
-gMoveDescription_BlazeKick = "A fiery kick with a\nhigh critical-hit\nratio. It may also\nburn the foe.";
-gMoveDescription_MudSport = "Weakens ELECTRIC-\ntype attacks while\nthe user is in the\nbattle.";
-gMoveDescription_IceBall = "A 5-turn rolling\nattack that becomes\nstronger each time\nit rolls.";
-gMoveDescription_NeedleArm = "An attack using\nthorny arms.\nIt may make the\nfoe flinch.";
-gMoveDescription_SlackOff = "The user slacks off\nand restores its HP\nby half its full\nHP.";
-gMoveDescription_HyperVoice = "The user lets loose\na horribly loud\nshout with the\npower to damage.";
-gMoveDescription_PoisonFang = "The foe is bitten\nwith toxic fangs.\nIt may also badly\npoison the foe.";
-gMoveDescription_CrushClaw = "The foe is attacked\nwith sharp claws.\nIt may also lower\nthe foe's DEFENSE.";
-gMoveDescription_BlastBurn = "The foe is hit with\na huge explosion.\nThe user can't move\non the next turn.";
-gMoveDescription_HydroCannon = "The foe is hit with\na watery cannon.\nThe user can't move\non the next turn.";
-gMoveDescription_MeteorMash = "The foe is hit with\na hard, fast punch.\nIt may also raise\nthe user's ATTACK.";
-gMoveDescription_Astonish = "An attack using a\nstartling shout.\nIt also may make\nthe foe flinch.";
-gMoveDescription_WeatherBall = "An attack that\nvaries in power and\ntype depending on\nthe weather.";
-gMoveDescription_Aromatherapy = "A soothing scent is\nreleased to heal\nall status problems\nin the user's party.";
-gMoveDescription_FakeTears = "The user feigns\ncrying to sharply\nlower the foe's\nSP. DEF stat.";
-gMoveDescription_AirCutter = "The foe is hit with\nrazor-like wind.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_Overheat = "An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.";
-gMoveDescription_OdorSleuth = "Completely negates\nthe foe's efforts to\nheighten its ability\nto evade.";
-gMoveDescription_RockTomb = "Boulders are hurled\nat the foe. It also\nlowers the foe's\nSPEED if it hits.";
-gMoveDescription_SilverWind = "The foe is attacked\nwith a silver dust.\nIt may raise all\nthe user's stats.";
-gMoveDescription_MetalSound = "A horrible metallic\nscreech is used to\nsharply lower the\nfoe's SP. DEF.";
-gMoveDescription_GrassWhistle = "A pleasant melody\nis played to lull\nthe foe into a deep\nsleep.";
-gMoveDescription_Tickle = "The foe is made to\nlaugh, reducing its\nATTACK and DEFENSE\nstats.";
-gMoveDescription_CosmicPower = "The user absorbs a\nmystic power to\nraise its DEFENSE\nand SP. DEF.";
-gMoveDescription_WaterSpout = "The higher the\nuser's HP, the more\npowerful this\nattack becomes.";
-gMoveDescription_SignalBeam = "The foe is hit with\na flashing beam\nthat may also\ncause confusion.";
-gMoveDescription_ShadowPunch = "The user throws a\npunch from the\nshadows. It cannot\nbe evaded.";
-gMoveDescription_Extrasensory = "The user attacks\nwith an odd power\nthat may make the\nfoe flinch.";
-gMoveDescription_SkyUppercut = "The user attacks\nwith an uppercut\nthrown skywards\nwith force.";
-gMoveDescription_SandTomb = "The foe is trapped\ninside a painful\nsandstorm for two\nto five turns.";
-gMoveDescription_SheerCold = "The foe is attacked\nwith ultimate cold\nthat causes fainting\nif it hits.";
-gMoveDescription_MuddyWater = "The user attacks\nwith muddy water.\nIt may also lower\nthe foe's accuracy.";
-gMoveDescription_BulletSeed = "The user shoots\nseeds at the foe.\nTwo to five seeds\nare shot at once.";
-gMoveDescription_AerialAce = "An extremely fast\nattack against one\ntarget. It can't be\nevaded.";
-gMoveDescription_IcicleSpear = "Sharp icicles are\nfired at the foe.\nIt strikes two to\nfive times.";
-gMoveDescription_IronDefense = "The user hardens\nits body's surface\nto sharply raise its\nDEFENSE stat.";
-gMoveDescription_Block = "The user blocks the\nfoe's way with arms\nspread wide to\nprevent escape.";
-gMoveDescription_Howl = "The user howls to\nraise its spirit and\nboost its ATTACK\nstat.";
-gMoveDescription_DragonClaw = "Sharp, huge claws\nhook and slash the\nfoe quickly and\nwith great power.";
-gMoveDescription_FrenzyPlant = "The foe is hit with\nan enormous branch.\nThe user can't move\non the next turn.";
-gMoveDescription_BulkUp = "The user bulks up\nits body to boost\nboth its ATTACK and\nDEFENSE stats.";
-gMoveDescription_Bounce = "The user bounces\non the foe on the\n2nd turn. It may\nparalyze the foe.";
-gMoveDescription_MudShot = "The user attacks by\nhurling mud.\nIt also reduces the\nfoe's SPEED.";
-gMoveDescription_PoisonTail = "An attack with a\nhigh critical-hit\nratio. It may also\npoison the foe.";
-gMoveDescription_Covet = "A cutely executed\nattack that also\nsteals the foe's\nhold item.";
-gMoveDescription_VoltTackle = "The user throws an\nelectrified tackle.\nIt hurts the user\na little.";
-gMoveDescription_MagicalLeaf = "The foe is attacked\nwith a strange leaf\nthat cannot be\nevaded.";
-gMoveDescription_WaterSport = "Weakens FIRE-type\nattacks while the\nuser is in the\nbattle.";
-gMoveDescription_CalmMind = "The user focuses\nits mind to raise\nthe SP. ATK and\nSP. DEF stats.";
-gMoveDescription_LeafBlade = "The foe is slashed\nwith a sharp leaf.\nIt has a high\ncritical-hit ratio.";
-gMoveDescription_DragonDance = "A mystic, powerful\ndance that boosts\nthe user's ATTACK\nand SPEED stats.";
-gMoveDescription_RockBlast = "The user hurls two\nto five hard rocks\nat the foe to\nattack.";
-gMoveDescription_ShockWave = "A rapid jolt of\nelectricity strikes\nthe foe. It can't\nbe evaded.";
-gMoveDescription_WaterPulse = "An attack with a\npulsing blast of\nwater. It may also\nconfuse the foe.";
-gMoveDescription_DoomDesire = "A move that attacks\nthe foe with a\nblast of light two\nturns after use.";
-gMoveDescription_PsychoBoost = "An intense attack\nthat also sharply\nreduces the user's\nSP. ATK stat.";
-gText_MysteryGiftBerry = "Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.";
-gText_MysteryGiftBerryTransform = "The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.";
-gText_MysteryGiftBerryObtained = "The {STR_VAR_1} BERRY has already been\nobtained.";
-gText_MysteryGiftSpecialRibbon = "A special RIBBON was awarded to\nyour party POKéMON.";
-gText_MysteryGiftNationalDex = "The POKéDEX has been upgraded\nwith the NATIONAL MODE.";
-gText_MysteryGiftRareWord = "A rare word has been added.";
-gText_MysteryGiftSentOver = "{STR_VAR_1} was sent over!";
-gText_MysteryGiftFullParty = "Your party is full.\n{STR_VAR_1} could not be sent over.";
-gText_MysteryGiftNewTrainer = "A new TRAINER has arrived in\nHOENN.";
-gText_MysteryGiftNewAdversaryInBattleTower = "バトルタワーに　あらたな\nたいせんしゃが　あらわれた！";
-gText_MysteryGiftCantBeUsed = "This data can't be used in\nthis version.";
-sText_Test = "テスト";
-sText_EonTicket = "むげんのチケット";
-sText_CollectedAllStamps = "You have collected all STAMPs!\nWant to input a CARD as a prize?";
-gExpandedPlaceholder_PokedexDescription = "";
-sText_GameFreak = "ゲーフリ";
-sPluralTxt = "IES";
-sText_OutOf30 = "/30";
-sText_S = "S";
-sText_IES = "IES";
-gExpandedPlaceholder_Empty = "";
-gExpandedPlaceholder_Kun = "";
-gExpandedPlaceholder_Chan = "";
-gExpandedPlaceholder_Sapphire = "SAPPHIRE";
-gExpandedPlaceholder_Ruby = "RUBY";
-gExpandedPlaceholder_Aqua = "AQUA";
-gExpandedPlaceholder_Magma = "MAGMA";
-gExpandedPlaceholder_Archie = "ARCHIE";
-gExpandedPlaceholder_Maxie = "MAXIE";
-gExpandedPlaceholder_Kyogre = "KYOGRE";
-gExpandedPlaceholder_Groudon = "GROUDON";
-gExpandedPlaceholder_Red = "RED";
-gExpandedPlaceholder_Green = "GREEN";
-gText_EggNickname = "EGG";
-gText_MenuPokemon = "POKéMON";
-gText_NewGame = "NEW GAME";
-gText_Continue = "CONTINUE";
-gTextJP_Options = "せっていを かえる";
-gUnusedText_MysteryGift = "MYSTERY GIFT";
-gText_MysteryGift = "MYSTERY GIFT";
-gText_WirelessNotConnected = "The Wireless Adapter is not\nconnected.";
-gText_MysteryGiftCantUse = "MYSTERY GIFT can't be used while\nthe Wireless Adapter is attached.";
-gText_UpdatingSaveExternalData = "がいぶデ-タにより レポ-トを こうしんします\nしばらく おまちください";
-gText_SaveFileUpdated = "レポ-トが こうしんされました!";
-gText_SaveFileUpdatedSwapBackup = "レポ-トが こうしんされました!\pこれいじょう\nレポ-トが かききれないので\lバックアップカ-トリッジを\lこうかんしてください!\pくわしくは\nにんてんどう サ-ビスセンタ- まで\lおといあわせ ください";
-gText_FailedUpdateSwapBackup = "レポ-トの こうしんは\nしっぱいしました!\pバックアップカ-トリッジを\nこうかんしてください!\pくわしくは\nにんてんどう サ-ビスセンタ- まで\lおといあわせ ください";
-gText_SaveFileCorrupted = "The save file is corrupted.\pThe previous save file will be\nloaded.";
-gText_SaveFileHasBeenDeleted = "The save file has been\ndeleted...";
-gText_1MSubCircuitBoardNotInstalled = "The 1M sub-circuit board is\nnot installed.";
-gTextJP_InternalBatteryHasRunDry = "でんちぎれの ために\nとけいが うごかなくなりました\pとけいに かんけいする できごとは おきませんが\nゲ-ムを つづけて あそぶことは できます";
-gText_PlayerUnused = "しゅじんこう";
-gText_PokedexUnused = "ポケモンずかん";
-gText_MainMenuTime = "TIME";
-gText_BadgesUnused = "もっているバッジ";
-gText_AButton = "Aボタン";
-gText_BButton = "Bボタン";
-gText_RButton = "Rボタン";
-gText_LButton = "Lボタン";
-gText_Start = "スタ-トボタン";
-gText_Select = "セレクトボタン";
-gText_ControlPad = "じゅうじボタン";
-gText_LButtonRButton = "Lボタン Rボタン";
-gText_Controls = "CONTROLS";
-gText_PickOk = "{DPAD_UPDOWN}えらぶ {A_BUTTON}けってい";
-gText_ABUTTONNext = "{A_BUTTON}NEXT";
-gText_ABUTTONNext_BBUTTONBack = "{A_BUTTON}NEXT {B_BUTTON}BACK";
-gText_UPDOWNPick_ABUTTONNext_BBUTTONBack = "{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL";
-gText_UPDOWNPick_ABUTTONBBUTTONCancel = "{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL";
-gText_ABUTTONExit = "{A_BUTTON}EXIT";
-gText_Boy = "BOY";
-gText_Girl = "GIRL";
-gText_PokedexTableOfContents = "POKéDEX   TABLE OF CONTENTS";
-gText_PickOK = "{DPAD_UPDOWN}PICK {A_BUTTON}OK";
-gText_Seen = "Seen:";
-gText_Owned = "Owned:";
-gText_Kanto = "KANTO";
-gText_National = "NATIONAL";
-gText_PokemonHabitats = "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}POKéMON HABITATS";
-gText_DexCategory_GrasslandPkmn = "Grassland POKéMON";
-gText_DexCategory_ForestPkmn = "Forest POKéMON";
-gText_DexCategory_WatersEdgePkmn = "Water's-edge POKéMON";
-gText_DexCategory_SeaPkmn = "Sea POKéMON";
-gText_DexCategory_CavePkmn = "Cave POKéMON";
-gText_DexCategory_MountainPkmn = "Mountain POKéMON";
-gText_DexCategory_RoughTerrainPkmn = "Rough-terrain POKéMON";
-gText_DexCategory_UrbanPkmn = "Urban POKéMON";
-gText_DexCategory_RarePkmn = "Rare POKéMON";
-gText_Search = "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}SEARCH";
-gText_NumericalMode = "NUMERICAL MODE";
-gText_AToZMode = "A TO Z MODE";
-gText_PokedexOther = "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}OTHER";
-gTextJP_HowToUsePokedex = "ずかんの つかいかた";
-gText_ClosePokedex = "CLOSE POKéDEX";
-gText_TypeMode = "TYPE MODE";
-gText_LightestMode = "LIGHTEST MODE";
-gText_SmallestMode = "SMALLEST MODE";
-gText_PokemonList = "{COLOR DYNAMIC_COLOR6}{SHADOW DYNAMIC_COLOR5}POKéMON LIST";
-gText_NumericalModeKanto = "NUMERICAL MODE: KANTO";
-gText_NumericalModeNational = "NUMERICAL MODE: NATIONAL";
-gText_PokemonListNoColor = "POKéMON LIST";
-gText_SearchNoColor = "SEARCH";
-gText_PickOKExit = "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL";
-gText_5Dashes = "-----";
-gText_PickFlipPageCheckCancel = "{DPAD_LEFTRIGHT}PICK{PLUS}FLIP PAGE {A_BUTTON}CHECK {B_BUTTON}CANCEL";
-gText_PokedexPokemon = " POKéMON";
-gText_HT = "HT";
-gText_WT = "WT";
-gText_PokedexQuotationMark = "”"; # Unused
-gText_Lbs = "lbs.";
-gTextJP_PokemonData = "ポケモンデ-タ";
-gText_Cry = "{START_BUTTON}CRY";
-gText_NextDataCancel = "{A_BUTTON}NEXT DATA {B_BUTTON}CANCEL";
-gText_Next = "{A_BUTTON}NEXT";
-gText_CancelPreviousData = "{A_BUTTON}CANCEL {B_BUTTON}PREVIOUS DATA";
-gText_Area = "AREA";
-gText_Size = "SIZE";
-gText_AreaUnknown = "AREA UNKNOWN";
-gText_PokedexNo = "{NO}";
-gText_Page = "PAGE";
-gText_WelcomeToHOF = "Welcome to the HALL OF FAME!";
-gText_HOFDexRating = "みつけた ポケモン {STR_VAR_1}!\nつかまえた ポケモン {STR_VAR_2}!\pオダマキはかせの\nポケモンずかん ひょうか!\pオダマキ“どれどれ\p";
-gText_HOFDexSaving = "ここまでの レポ-トを かきしるしています!\nでんげんを きらないでください";
-gText_HOFCorrupted = "The HALL OF FAME data is\ncorrupted.";
-gText_HOFNumber = "HALL OF FAME No. {STR_VAR_1}";
-gText_LeagueChamp = "LEAGUE CHAMPION!\nCONGRATULATIONS!";
-gText_Number = "No. ";
-gText_Level = "Lv. ";
-gText_Name = "NAME";
-gText_IDNumber = "IDNo.";
-gText_BirchInTrouble = "{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}オダマキはかせが ピンチだ!\nポケモンを だして たすけてあげよう!";
-gText_ConfirmStarterChoice = "{HIGHLIGHT DYNAMIC_COLOR6}{COLOR WHITE}このポケモンにしますか?";
-gText_Pokemon4 = "ポケモン";
-gText_SaveError_PleaseExchangeBackupMemory = "Save error.\pPlease exchange the\nbackup memory.";
-gSaveStatName_Player = "PLAYER";
-gSaveStatName_Badges = "BADGES";
-gSaveStatName_Pokedex = "POKéDEX";
-gSaveStatName_Time = "TIME";
-gText_FlyToWhere = "どこへ とびますか?";
-gOtherText_Use = "USE";
-gOtherText_Toss = "TOSS";
-gOtherText_Register = "REGISTER";
-gOtherText_Give = "GIVE";
-gMenuText_Confirm = "けってい";
-gOtherText_Walk = "WALK";
-gFameCheckerText_Cancel = "CANCEL";
-gOtherText_Exit = "EXIT";
-gString_Dummy = "";
-gText_Cancel7 = "キャンセル";
-gText_Item = "ITEM";
-gText_Mail = "MAIL";
-gText_Take = "TAKE";
-gText_Store = "STORE";
-gOtherText_Check = "CHECK";
-gText_PokeSum_Item_None = "NONE";
-gOtherText_Open = "OPEN";
-gOtherText_Deselect = "DESELECT";
-gText_PokeSum_DexNoUnknown = "???";
-gText_FiveMarks = "?????";
-gText_Slash = "/";
-gText_PokeSum_OneHyphen = "-";
-gText_PokeSum_TwoHyphens = "--";
-gText_ThreeHyphens = "---";
-gText_SevenHyphens = "-------";
-gText_MaleSymbol = "♂";
-gText_FemaleSymbol = "♀";
-gText_Lv = "{LV_2}";
-gText_NumberClear01 = "{NO}{CLEAR 0x01}";
-gText_Plus = "{PLUS}";
-gText_Escape3 = "{ESCAPE 0x03}"; # Unused, RIGHT_ARROW in pokeemerald
-gText_IDNumber2 = "{ID}{NO}";
-gText_PokeSum_PP = "{PP}";
-gText_SelectorArrow2 = "▶";
-gText_YesNo = "YES\nNO";
-gText_GoBackToThePreviousMenu = "Go back to the\nprevious menu.";
-gText_WhatWouldYouLikeToDo = "What would you like to do?";
-gText_MenuPokedex = "POKéDEX";
-gText_MenuBag = "BAG";
-gText_MenuPokenav = "ポケナビ";
-gText_MenuPlayer = "{PLAYER}";
-gText_MenuSave = "SAVE";
-gText_MenuOption = "OPTION";
-gText_MenuExit = "EXIT";
-gText_MenuRetire = "RETIRE";
-gText_MenuSafariStats = "{STR_VAR_1}/{STR_VAR_2}\nBALLS  {STR_VAR_3}";
-gText_TimesStrVar1 = "×{STR_VAR_1}";
-gText_Berry = " BERRY";
-gText_Coins = "{STR_VAR_1} COINS";
-gText_Items2 = "ITEMS";
-gText_PokeBalls2 = "POKé BALLS";
-gText_KeyItems2 = "KEY ITEMS";
-gText_DepositItem = "DEPOSIT ITEM";
-gText_CloseBag = "CLOSE BAG";
-gText_Var1IsSelected = "{STR_VAR_1} is\nselected.";
-gText_CantWriteMailHere = "You can't write\nMAIL here.";
-gText_ThereIsNoPokemon = "There is no\nPOKéMON.";
-gOtherText_WhereShouldTheStrVar1BePlaced = "Where should the {STR_VAR_1}\nbe placed?";
-gText_ItemCantBeHeld = "The {STR_VAR_1} can't be held.";
-gText_TheStrVar1CantBeHeldHere = "The {STR_VAR_1} can't be held\nhere.";
-gText_DepositHowManyStrVars1 = "Deposit how many\n{STR_VAR_1}(s)?";
-gText_DepositedStrVar2StrVar1s = "Deposited {STR_VAR_2}\n{STR_VAR_1}(s).";
-gText_NoRoomToStoreItems = "There's no room to\nstore items.";
-gText_TossOutHowManyStrVar1s = "Toss out how many\n{STR_VAR_1}(s)?";
-gText_ThrewAwayStrVar2StrVar1s = "Threw away {STR_VAR_2}\n{STR_VAR_1}(s).";
-gText_ThrowAwayStrVar2OfThisItemQM = "Throw away {STR_VAR_2} of\nthis item?";
-gText_OakForbidsUseOfItemHere = "OAK: {PLAYER}!\nThis isn't the time to use that!{PAUSE_UNTIL_PRESS}";
-gText_CantDismountBike = "You can't dismount your BIKE here.{PAUSE_UNTIL_PRESS}";
-gText_ItemfinderResponding = "Huh?\nThe ITEMFINDER's responding!\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}";
-gText_ItemfinderShakingWildly = "Oh!\nThe ITEMFINDER's shaking wildly!\pThere's an item buried underfoot!\p‥ ‥ ‥ ‥ ‥ ‥{PAUSE_UNTIL_PRESS}";
-gText_NopeTheresNoResponse = "‥ ‥ ‥ ‥Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}";
-gText_CoinCase = "Your COINS:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}";
-gText_BootedUpTM = "わざマシンを きどうした!";
-gText_BootedUpHM = "ひでんマシンを きどうした!";
-gText_TMHMContainedVar1 = "なかには {STR_VAR_1}が\nきろくされていた!\p{STR_VAR_1}を\nポケモンに おぼえさせますか?";
-gText_PlayerUsedVar2 = "{PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}";
-gText_RepelEffectsLingered = "But the effects of a REPEL\nlingered from earlier.{PAUSE_UNTIL_PRESS}";
-gText_UsedVar2WildLured = "{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be lured.{PAUSE_UNTIL_PRESS}";
-gText_UsedVar2WildRepelled = "{PLAYER} used the\n{STR_VAR_2}.\pWild POKéMON will be repelled.{PAUSE_UNTIL_PRESS}";
-gText_BoxFull = "The BOX is full.{PAUSE_UNTIL_PRESS}";
-gText_PowderQty = "POWDER QTY: {STR_VAR_1}{PAUSE_UNTIL_PRESS}";
-gOtherText_Powder = "POWDER";
-gText_PlayedPokeFluteCatchy = "Played the POKé FLUTE.\pNow, that's a catchy tune!{PAUSE_UNTIL_PRESS}";
-gText_PlayedPokeFlute = "Played the POKé FLUTE.";
-gText_PokeFluteAwakenedMon = "The POKé FLUTE awakened sleeping\nPOKéMON.{PAUSE_UNTIL_PRESS}";
-gText_TMCase = "TM CASE";
-gText_Close = "CLOSE";
-gText_TMCaseWillBePutAway = "The TM CASE will be\nput away.";
-gText_FontSmall = "{FONT_SMALL}";
-gText_FontNormal = "{FONT_NORMAL}";
-gText_EmptySpace = "  ";
-gText_BerryPouch = "BERRY POUCH";
-gText_TheBerryPouchWillBePutAway = "The BERRY POUCH will be\nput away.";
-gText_ShopBuy = "BUY";
-gText_ShopSell = "SELL";
-gText_ShopQuit = "SEE YA!";
-gText_InBagVar1 = "IN BAG:{FONT_SMALL} {STR_VAR_1}";
-gText_QuitShopping = "Quit shopping.";
-gText_Var1CertainlyHowMany = "{STR_VAR_1}? Certainly.\nHow many would you like?";
-gText_Var1AndYouWantedVar2 = "{STR_VAR_1}, and you want {STR_VAR_2}.\nThat will be ¥{STR_VAR_3}. Okay?";
-gText_Var1IsItThatllBeVar2 = "{STR_VAR_1} だね!\n{STR_VAR_2}¥ だけど かうかい?";
-gText_YouWantedVar1ThatllBeVar2 = "{STR_VAR_1} ですね!\n{STR_VAR_2}¥ だけど かいますか?";
-gText_HereYouGoThankYou = "Here you are!\nThank you!";
-gText_ThankYouIllSendItHome = "どうも ありがとう!\nじたくの パソコンに おくって おきますね!";
-gText_ThanksIllSendItHome = "どうも ありがとう!\nじたくの パソコンに おくって おくね!";
-gText_YouDontHaveMoney = "You don't have enough money.{PAUSE_UNTIL_PRESS}";
-gText_NoMoreRoomForThis = "You have no more room for this\nitem.{PAUSE_UNTIL_PRESS}";
-gText_SpaceForVar1Full = "{STR_VAR_1}を\nいれる ばしょが いっぱいです{PAUSE_UNTIL_PRESS}";
-gText_AnythingElseICanHelp = "Is there anything else I can do?";
-gText_CanIHelpWithAnythingElse = "その ほかに\nなにか ちからに なれることは?";
-gText_ThrowInPremierBall = "プレミアボ-ル 1コ\nおまけ しておきますね!{PAUSE_UNTIL_PRESS}";
-gText_OhNoICantBuyThat = "{STR_VAR_1}? Oh, no.\nI can't buy that.{PAUSE_UNTIL_PRESS}";
-gText_HowManyWouldYouLikeToSell = "{STR_VAR_1}?\nHow many would you like to sell?";
-gText_ICanPayThisMuch_WouldThatBeOkay = "I can pay ¥{STR_VAR_3}.\nWould that be okay?";
-gText_TurnedOverItemsWorthYen = "Turned over the {STR_VAR_1}シSス\nworth ¥{STR_VAR_3}.";
-gText_PokedollarVar1 = "¥{STR_VAR_1}";
-gText_Shift = "SHIFT";
-gText_SendOut = "SEND OUT";
-gText_Switch2 = "SWITCH";
-gText_Summary5 = "SUMMARY";
-gText_Moves = "つかえるわざ";
-gText_Enter = "ENTER";
-gText_NoEntry = "NO ENTRY";
-gText_Take2 = "TAKE";
-gText_Read2 = "READ";
-gText_Trade4 = "TRADE";
-gText_ItemEffect_HP = "HP";
-gText_ItemEffect_SpAtk = "SP. ATK";
-gText_ItemEffect_SpDef = "SP. DEF";
-gText_PartyMenu_OK = "OK";
-gText_Empty = "";
-gText_PauseUntilPress = "{PAUSE_UNTIL_PRESS}";
-gText_WontHaveEffect = "It won't have any effect.{PAUSE_UNTIL_PRESS}";
-gText_CantBeUsedOnPkmn = "This can't be used on\nthat POKéMON.{PAUSE_UNTIL_PRESS}";
-gText_PkmnCantSwitchOut = "{STR_VAR_1} can't be switched\nout!{PAUSE_UNTIL_PRESS}";
-gText_PkmnAlreadyInBattle = "{STR_VAR_1} is already\nin battle!{PAUSE_UNTIL_PRESS}";
-gText_PkmnAlreadySelected = "{STR_VAR_1} has already been\nselected.{PAUSE_UNTIL_PRESS}";
-gText_PkmnHasNoEnergy = "{STR_VAR_1} has no energy\nleft to battle!{PAUSE_UNTIL_PRESS}";
-gText_CantSwitchWithAlly = "You can't switch {STR_VAR_1}'s\nPOKéMON with one of yours!{PAUSE_UNTIL_PRESS}";
-gText_EggCantBattle = "An EGG can't battle!{PAUSE_UNTIL_PRESS}";
-gText_CantUseUntilNewBadge = "This can't be used until a new\nBADGE is obtained.{PAUSE_UNTIL_PRESS}";
-gText_NoMoreThanThreeMayEnter = "No more than three POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}";
-gText_NoMoreThanTwoMayEnter = "No more than two POKéMON\nmay enter.{PAUSE_UNTIL_PRESS}";
-gText_SendMailToPC = "Send the removed MAIL to\nyour PC?";
-gText_MailSentToPC = "The MAIL was sent to your PC.{PAUSE_UNTIL_PRESS}";
-gText_PCMailboxFull = "Your PC's MAILBOX is full.{PAUSE_UNTIL_PRESS}";
-gText_MailMessageWillBeLost = "If the MAIL is removed, the\nmessage will be lost. Okay?";
-gText_RemoveMailBeforeItem = "MAIL must be removed before\nholding an item.{PAUSE_UNTIL_PRESS}";
-gText_PkmnWasGivenItem = "{STR_VAR_1} was given the\n{STR_VAR_2} to hold.{PAUSE_UNTIL_PRESS}";
-gText_PkmnAlreadyHoldingItemSwitch = "{STR_VAR_1} is already holding\none {STR_VAR_2}.\pWould you like to switch the\ntwo items?";
-gText_PkmnNotHolding = "{STR_VAR_1} isn't holding\nanything.{PAUSE_UNTIL_PRESS}";
-gText_ReceivedItemFromPkmn = "Received the {STR_VAR_2}\nfrom {STR_VAR_1}.{PAUSE_UNTIL_PRESS}";
-gText_MailTakenFromPkmn = "MAIL was taken from the\nPOKéMON.{PAUSE_UNTIL_PRESS}";
-gText_SwitchedPkmnItem = "The {STR_VAR_2} was taken and\nreplaced with the {STR_VAR_1}.{PAUSE_UNTIL_PRESS}";
-gText_PkmnHoldingItemCantHoldMail = "This POKéMON is holding an\nitem. It cannot hold MAIL.{PAUSE_UNTIL_PRESS}";
-gText_MailTransferredFromMailbox = "MAIL was transferred from\nthe MAILBOX.{PAUSE_UNTIL_PRESS}";
-gText_BagFullCouldNotRemoveItem = "The {STR_VAR_1} is full. The POKéMON's\nitem could not be removed.{PAUSE_UNTIL_PRESS}";
-gText_PkmnLearnedMove3 = "{STR_VAR_1} learned\n{STR_VAR_2}!";
-gText_PkmnCantLearnMove = "{STR_VAR_1} and {STR_VAR_2}\nare not compatible.\p{STR_VAR_2} can't be\nlearned.{PAUSE_UNTIL_PRESS}";
-gText_PkmnNeedsToReplaceMove = "{STR_VAR_1} wants to learn the\nmove {STR_VAR_2}.\pHowever, {STR_VAR_1} already\nknows four moves.\pShould a move be deleted and\nreplaced with {STR_VAR_2}?";
-gText_StopLearningMove2 = "Stop trying to teach\n{STR_VAR_2}?";
-gText_MoveNotLearned = "{STR_VAR_1} did not learn the\nmove {STR_VAR_2}.{PAUSE_UNTIL_PRESS}";
-gText_WhichMoveToForget = "Which move should be forgotten?{PAUSE_UNTIL_PRESS}";
-gText_12PoofForgotMove = "1, {PAUSE 0x0F}2, and{PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p{STR_VAR_1} forgot how to\nuse {STR_VAR_2}.\pAnd...{PAUSE_UNTIL_PRESS}";
-gText_PkmnAlreadyKnows = "{STR_VAR_1} already knows\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}";
-gText_PkmnHPRestoredByVar2 = "{STR_VAR_1}'s HP was restored\nby {STR_VAR_2} point(s).{PAUSE_UNTIL_PRESS}";
-gText_PkmnCuredOfPoison = "{STR_VAR_1} was cured of its\npoisoning.{PAUSE_UNTIL_PRESS}";
-gText_PkmnCuredOfParalysis = "{STR_VAR_1} was cured of\nparalysis.{PAUSE_UNTIL_PRESS}";
-gText_PkmnWokeUp2 = "{STR_VAR_1} woke up.{PAUSE_UNTIL_PRESS}";
-gText_PkmnBurnHealed = "{STR_VAR_1}'s burn was healed.{PAUSE_UNTIL_PRESS}";
-gText_PkmnThawedOut = "{STR_VAR_1} was thawed out.{PAUSE_UNTIL_PRESS}";
-gText_PPWasRestored = "PP was restored.{PAUSE_UNTIL_PRESS}";
-gText_PkmnRegainhedHealth = "{STR_VAR_1}は\nげんきを とりもどした!{PAUSE_UNTIL_PRESS}";
-gText_PkmnBecameHealthy = "{STR_VAR_1} became healthy.{PAUSE_UNTIL_PRESS}";
-gText_MovesPPIncreased = "{STR_VAR_1}'s PP increased.{PAUSE_UNTIL_PRESS}";
-gText_PkmnElevatedToLvVar2 = "{STR_VAR_1} was elevated to\nLv. {STR_VAR_2}.";
-gText_PkmnBaseVar2StatIncreased = "{STR_VAR_1}'s base {STR_VAR_2}\nstat was raised.{PAUSE_UNTIL_PRESS}";
-gText_PkmnSnappedOutOfConfusion = "{STR_VAR_1} snapped out of its\nconfusion.{PAUSE_UNTIL_PRESS}";
-gText_PkmnGotOverInfatuation = "{STR_VAR_1} got over its\ninfatuation.{PAUSE_UNTIL_PRESS}";
-gText_OnlyPkmnForBattle = "That's your only\nPOKéMON for battle.";
-gText_PkmnCantBeTradedNow = "That POKéMON can't be traded\nnow.";
-gText_EggCantBeTradedNow = "An EGG can't be traded now.";
-gText_OtherTrainersPkmnCantBeTraded = "The other TRAINER's POKéMON\ncan't be traded now.";
-gText_OtherTrainerCantAcceptPkmn = "The other TRAINER can't accept\nthat POKéMON now.";
-gText_CantTradeWithTrainer = "You can't trade with that\nTRAINER now.";
-gText_NotPkmnOtherTrainerWants = "That isn't the type of POKéMON\nthat the other TRAINER wants.";
-gText_ThatIsntAnEgg = "That isn't an EGG.";
-gText_ChoosePokemon = "Choose a POKéMON.";
-gText_MoveToWhere = "Move to where?";
-gText_TeachWhichPokemon = "Teach which POKéMON?";
-gText_UseOnWhichPokemon = "Use on which POKéMON?";
-gText_GiveToWhichPokemon = "Give to which POKéMON?";
-gText_DoWhatWithPokemon = "Do what with this {PKMN}?";
-gText_NothingToCut = "There's nothing to CUT.";
-gText_CantSurfHere = "No SURFING here!";
-gText_AlreadySurfing = "You're already SURFING.";
-gText_CantUseHere = "Can't use that here.";
-gText_RestoreWhichMove = "Restore which move?";
-gText_BoostPp = "Boost PP of which?";
-gText_DoWhatWithItem = "Do what with an item?";
-gText_NoPokemonForBattle = "No battling this way!";
-gText_ChoosePokemon2 = "Choose a POKéMON.";
-gText_NotEnoughHp = "Not enough HP‥";
-gText_ThreePkmnAreNeeded = "Three {PKMN} are needed.";
-gText_PokemonCantBeSame = "{PKMN} can't be the same.";
-gText_NoIdenticalHoldItems = "No same hold items!";
-gText_CurrentIsTooFast = "The current is much too fast!";
-gText_DoWhatWithMail = "Do what with the MAIL?";
-gText_ChoosePokemonCancel = "Choose POKéMON or CANCEL.";
-gText_ChoosePokemonConfirm = "Choose POKéMON and confirm.";
-gText_TwoPokemonAreNeeded = "Two POKéMON are needed.";
-gText_EnjoyCycling = "Let's enjoy cycling!";
-gText_InUseAlready_PM = "This is in use already.";
-gText_NoUse = "No use.";
-gText_Able = "ABLE";
-gText_First_PM = "FIRST";
-gText_Second_PM = "SECOND";
-gText_Third_PM = "THIRD";
-gText_Able2 = "ABLE";
-gText_NotAble = "NOT ABLE";
-gText_Able3 = "ABLE!";
-gText_NotAble2 = "NOT ABLE!";
-gText_Learned = "LEARNED";
-gText_OakImportantToGetToKnowPokemonThroughly = "OAK: It's important to get to know\nyour POKéMON thoroughly.\p";
-gText_OakThisIsListOfPokemon = "This is a list of your POKéMON,\n{PLAYER}.\pOpen this to check the skills\nand moves of your POKéMON.\pYou also choose POKéMON here if\nyou want to use an item on one.{PAUSE_UNTIL_PRESS}";
-gText_CutATreeOrGrass = "Cut a tree or grass.";
-gText_FlyToAKnownTown = "Fly to a known town.";
-gText_TravelOnWater = "Travel on water.";
-gText_MoveHeavyBoulders = "Move heavy boulders.";
-gText_LightUpDarkness = "Light up darkness.";
-gText_ShatterACrackedRock = "Shatter a cracked rock.";
-gText_ClimbAWaterfall = "Climb a waterfall.";
-gText_DiveUnderwater = "すいちゅうに もぐる";
-gText_EscapeFromHere = "Escape from here.";
-gText_LureWildPokemon = "Lure wild POKéMON.";
-gText_ShareHp = "Share HP.";
-gText_ReturnToAHealingSpot = "Return to a healing spot.";
-gText_EscapeFromHereAndReturnTo = "Want to escape from here and return\nto {STR_VAR_1}?";
-gText_ReturnToHealingSpot = "Want to return to the healing spot\nused last in {STR_VAR_1}?";
-gText_ItemEffect_Attack = "ATTACK";
-gText_ItemEffect_Defense = "DEFENSE";
-gText_ItemEffect_SpAtk_Unused = "とくこう"; # A different SpAtk is used instead
-gText_ItemEffect_SpDef_Unused = "とくぼう"; # A different SpDef is used instead
-gText_ItemEffect_Speed = "SPEED";
-gText_ItemEffect_HP_Unused = "HP"; # A different HP is used instead
-gText_PkmnCantParticipate = "That POKéMON can't participate.{PAUSE_UNTIL_PRESS}";
-gText_CancelParticipation = "Cancel participation?";
-gText_Empty12 = "";
-gText_CancelBattle = "Cancel the battle?";
-gText_TurnOff = "TURN OFF";
-gText_Decoration = "もようがえ";
-gText_ItemStorage = "ITEM STORAGE";
-gText_Mailbox = "MAILBOX";
-gText_DepositItem2 = "DEPOSIT ITEM";
-gText_WithdrawItem2 = "WITHDRAW ITEM";
-gText_TossItem = "どうぐを すてる";
-gText_StoreItemsInThePC = "Store items in the PC.";
-gText_TakeOutItemsFromThePC = "Take out items from the PC.";
-gText_ThrowAwayItemsInPC = "パソコンに あずけている\nどうぐを すてます";
-gText_ThereAreNoItems = "There are no items.{PAUSE_UNTIL_PRESS}";
-gText_NoMoreRoomInBag = "There is no more\nroom in the BAG.";
-gText_WithdrawHowMany = "Withdraw how many\n{STR_VAR_1}(s)?";
-gText_WithdrewQuantItem = "Withdrew {STR_VAR_2}\n{STR_VAR_1}(s).";
-gOtherText_Read = "READ";
-gOtherText_MoveToBag = "MOVE TO BAG";
-gOtherText_Give2 = "GIVE";
-gText_TheresNoMailHere = "There's no MAIL here.{PAUSE_UNTIL_PRESS}";
-gText_WhatWouldYouLikeToDoWithPlayersMail = "What would you like to do with\n{STR_VAR_1}'s MAIL?";
-gText_MessageWillBeLost = "The message will be lost.\nIs that okay?";
-gText_BagIsFull = "The BAG is full.{PAUSE_UNTIL_PRESS}";
-gText_MailReturnedToBagMessageErased = "The MAIL was returned to the BAG\nwith its message erased.{PAUSE_UNTIL_PRESS}";
-gText_WithdrawItem = "WITHDRAW\nITEM";
-gText_Withdraw = "WITHDRAW";
-gText_ReturnToPC = "Return to the PC.";
-gText_LtSurge = "LT. SURGE";
-gText_Koga = "KOGA";
-gText_Participate = "さんか する";
-gText_Info = "INFO";
-gText_Eggs = "EGGS";
-gText_HallOfFame = "HALL OF FAME";
-gText_Victories = "VICTORIES";
-gText_Quit = "QUIT";
-gText_Psn = "PSN";
-gText_Par = "PAR";
-gText_Slp = "SLP";
-gText_Brn = "BRN";
-gText_Frz = "FRZ";
-gText_Toxic = "TOXIC";
-gText_OK = "OK";
-gOtherText_Quit = "QUIT";
-gText_SawIt = "みました";
-gText_NotYet = "これから";
-gText_Yes = "YES";
-gText_No = "NO";
-gText_Info4 = "せつめい";
-gText_SingleBattle = "SINGLE BATTLE";
-gText_DoubleBattle = "DOUBLE BATTLE";
-gText_MultiBattle = "MULTI BATTLE";
-gText_MakeAChallenge = "Make a challenge.";
-gText_Info_2 = "INFO";
-gText_FreshWater_200 = "FRESH WATER{CLEAR_TO 0x57}{FONT_SMALL}¥200";
-gText_SodaPop_300 = "SODA POP{CLEAR_TO 0x57}{FONT_SMALL}¥300";
-gText_Lemonade_350 = "LEMONADE{CLEAR_TO 0x57}{FONT_SMALL}¥350";
-gText_50Coins_1000 = "{FONT_SMALL} 50 COINS{CLEAR_TO 0x45}¥1,000";
-gText_500Coins_10000 = "{FONT_SMALL}500 COINS{CLEAR_TO 0x40}¥10,000";
-gText_Excellent = "Excellent";
-gText_NotSoBad = "Not so bad";
-gText_RedShard = "RED SHARD";
-gText_YellowShard = "YELLOW SHARD";
-gText_BlueShard = "BLUE SHARD";
-gText_GreenShard = "GREEN SHARD";
-gText_BattleTower = "バトルタワ-";
-gText_Right = "Right";
-gText_Left = "Left";
-gText_Tm13_4000Coins = "TM13{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS";
-gText_Tm23_3500Coins = "TM23{CLEAR_TO 0x48}{FONT_SMALL}3,500 COINS";
-gText_Tm24_4000Coins = "TM24{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS";
-gText_Tm30_4500Coins = "TM30{CLEAR_TO 0x48}{FONT_SMALL}4,500 COINS";
-gText_Tm35_4000Coins = "TM35{CLEAR_TO 0x48}{FONT_SMALL}4,000 COINS";
-gText_1F_2 = "1F";
-gText_2F_2 = "2F";
-gText_3F_2 = "3F";
-gText_4F_2 = "4F";
-gText_5F_2 = "5F";
-gText_Cool = "COOL";
-gText_Beauty = "BEAUTY";
-gText_Cute = "CUTE";
-gText_Smart = "SMART";
-gText_Tough = "TOUGH";
-gText_Normal = "NORMAL";
-gText_Black = "BLACK";
-gText_Pink = "PINK";
-gText_Sepia = "SEPIA";
-gText_Cool_2 = "COOL";
-gText_Beauty_2 = "BEAUTY";
-gText_Cute_2 = "CUTE";
-gText_Smart_2 = "SMART";
-gText_Tough_2 = "TOUGH";
-gText_Items = "ITEMS";
-gText_KeyItems = "KEY ITEMS";
-gText_PokeBalls = "POKé BALLS";
-gText_TMsAndHMs = "TMs & HMs";
-gText_Berries = "BERRIES";
-gText_Boulderbadge = "BOULDERBADGE";
-gText_Cascadebadge = "CASCADEBADGE";
-gText_Thunderbadge = "THUNDERBADGE";
-gText_Rainbowbadge = "RAINBOWBADGE";
-gText_Soulbadge = "SOULBADGE";
-gText_Marshbadge = "MARSHBADGE";
-gText_Volcanobadge = "VOLCANOBADGE";
-gText_Earthbadge = "EARTHBADGE";
-gText_SomeoneSPc = "SOMEONE'S PC";
-gText_BillSPc = "BILL'S PC";
-gText_SPc = "{PLAYER}'s PC";
-gText_HallOfFame_2 = "HALL OF FAME";
-gText_LogOff = "LOG OFF";
-gText_ProfOakSPc = "PROF. OAK's PC";
-gText_Eevee = "EEVEE";
-gText_Flareon = "FLAREON";
-gText_Jolteon = "JOLTEON";
-gText_Vaporeon = "VAPOREON";
-gText_QuitLooking = "Quit looking.";
-gText_FreshWater = "FRESH WATER";
-gText_SodaPop = "SODA POP";
-gText_Lemonade = "LEMONADE";
-gText_Coins_2 = "COINS";
-gText_Bicycle_Price = "BICYCLE{CLEAR_TO 0x49}{FONT_SMALL}¥1,000,000";
-gText_NoThanks = "NO THANKS";
-gText_Abra_180Coins = "ABRA{CLEAR_TO 0x55}{FONT_SMALL} 180 COINS";
-gText_Clefairy_500Coins = "CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 500 COINS";
-gText_Dratini_2800Coins = "DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 2,800 COINS";
-gText_Scyther_5500Coins = "SCYTHER{CLEAR_TO 0x4B}{FONT_SMALL} 5,500 COINS";
-gText_Porygon_9999Coins = "PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 9,999 COINS";
-gText_Abra_120Coins = "ABRA{CLEAR_TO 0x55}{FONT_SMALL} 120 COINS";
-gText_Clefairy_750Coins = "CLEFAIRY{CLEAR_TO 0x55}{FONT_SMALL} 750 COINS";
-gText_Pinsir_2500Coins = "PINSIR{CLEAR_TO 0x4B}{FONT_SMALL} 2,500 COINS";
-gText_Dratini_4600Coins = "DRATINI{CLEAR_TO 0x4B}{FONT_SMALL} 4,600 COINS";
-gText_Porygon_6500Coins = "PORYGON{CLEAR_TO 0x4B}{FONT_SMALL} 6,500 COINS";
-gText_NoThanks_2 = "NO THANKS";
-gText_HelixFossil = "HELIX FOSSIL";
-gText_DomeFossil = "DOME FOSSIL";
-gText_OldAmber = "OLD AMBER";
-gText_TradeCenter = "TRADE CENTER";
-gText_Colosseum = "COLOSSEUM";
-gText_GameLinkCable = "Game Link cable";
-gText_Wireless = "Wireless";
-gText_ItemsPocket = "ITEMS POCKET";
-gText_KeyItemsPocket = "KEY ITEMS POCKET";
-gText_PokeBallsPocket = "POKé BALLS POCKET";
-gText_TmCase = "TM CASE";
-gText_BerryPouch_2 = "BERRY POUCH";
-gText_Other = "OTHER";
-gText_OneIsland = "ONE ISLAND";
-gText_TwoIsland = "TWO ISLAND";
-gText_ThreeIsland = "THREE ISLAND";
-gText_FourIsland = "FOUR ISLAND";
-gText_FiveIsland = "FIVE ISLAND";
-gText_SixIsland = "SIX ISLAND";
-gText_SevenIsland = "SEVEN ISLAND";
-gText_Vermilion = "VERMILION";
-gText_Colosseum_2 = "COLOSSEUM";
-gText_BerryCrush = "BERRY CRUSH";
-gText_EmptyLinkService1 = "";
-gText_EmptyLinkService2 = "";
-gText_ListenToExplanation = "せつめいを きく";
-gText_RecordCorner = ""; # Dummied
-gText_PokemonJump = "POKéMON JUMP";
-gText_DodrioBerryPicking = "DODRIO BERRY-PICKING";
-gText_2Tinymushrooms = "2 TINYMUSHROOMS";
-gText_1BigMushroom = "1 BIG MUSHROOM";
-gText_SeviiIslands = "SEVII ISLANDS";
-gText_NavelRock = "NAVEL ROCK";
-gText_BirthIsland = "BIRTH ISLAND";
-gText_MiracleSeed_1000Coins = "MIRACLE SEED{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS";
-gText_Charcoal_1000Coins = "CHARCOAL{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS";
-gText_MysticWater_1000Coins = "MYSTIC WATER{CLEAR_TO 0x50}{FONT_SMALL}1,000 COINS";
-gText_YellowFlute_1600Coins = "YELLOW FLUTE{CLEAR_TO 0x50}{FONT_SMALL}1,600 COINS";
-gText_SmokeBall_800Coins = "SMOKE BALL{CLEAR_TO 0x5A}{FONT_SMALL}800 COINS";
-gText_Multichoice_Empty2 = "";
-gText_Multichoice_Empty1 = "";
-gText_BecomeLeader = "BECOME LEADER";
-gText_JoinGroup = "JOIN GROUP";
-gOtherText_Single = "SINGLE";
-gOtherText_Double = "DOUBLE";
-gOtherText_Knockout = "KNOCKOUT";
-gOtherText_Mixed = "MIXED";
-gText_99TimesPlus = "99かい いじょう";
-gText_1MinutePlus = "1ぷん いじょう";
-gText_SpaceSeconds = "びょう";
-gText_SpaceTimes = "かい";
-gText_DecimalPoint = ".";
-gText_BigGuy = "Big guy";
-gText_BigGirl = "Big girl";
-gText_Son = "son";
-gText_Daughter = "daughter";
-gText_BoulderBadge = "BOULDERBADGE";
-gText_CascadeBadge = "CASCADEBADGE";
-gText_ThunderBadge = "THUNDERBADGE";
-gText_RainbowBadge = "RAINBOWBADGE";
-gText_SoulBadge = "SOULBADGE";
-gText_MarshBadge = "MARSHBADGE";
-gText_VolcanoBadge = "VOLCANOBADGE";
-gText_EarthBadge = "EARTHBADGE";
-gText_1F = "1F";
-gText_2F = "2F";
-gText_3F = "3F";
-gText_4F = "4F";
-gText_5F = "5F";
-gText_6F = "6F";
-gText_7F = "7F";
-gText_8F = "8F";
-gText_9F = "9F";
-gText_10F = "10F";
-gText_11F = "11F";
-gText_B1F = "B1F";
-gText_B2F = "B2F";
-gText_B3F = "B3F";
-gText_B4F = "B4F";
-gText_Rooftop = "ROOFTOP";
-gText_NowOn = "Now on:";
-gText_LinkedGamePlay = "LINKED GAME PLAY";
-gText_DirectCorner = "DIRECT CORNER";
-gText_UnionRoom = "UNION ROOM";
-gText_Energypowder_50 = "ENERGYPOWDER{CLEAR_TO 0x74}{FONT_SMALL}50";
-gText_EnergyRoot_80 = "ENERGY ROOT{CLEAR_TO 0x74}{FONT_SMALL}80";
-gText_HealPowder_50 = "HEAL POWDER{CLEAR_TO 0x74}{FONT_SMALL}50";
-gText_RevivalHerb_300 = "REVIVAL HERB{CLEAR_TO 0x6F}{FONT_SMALL}300";
-gText_Protein_1000 = "PROTEIN{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_Iron_1000 = "IRON{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_Carbos_1000 = "CARBOS{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_Calcium_1000 = "CALCIUM{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_Zinc_1000 = "ZINC{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_HpUp_1000 = "HP UP{CLEAR_TO 0x65}{FONT_SMALL}1,000";
-gText_PpUp_3000 = "PP UP{CLEAR_TO 0x65}{FONT_SMALL}3,000";
-gString_BattleRecords_PlayersBattleResults = "{PLAYER}'s BATTLE RESULTS";
-gString_BattleRecords_TotalRecord = "TOTAL RECORD W:{STR_VAR_1} L:{STR_VAR_2} D:{STR_VAR_3}";
-gString_BattleRecords_ColumnHeaders = "WIN{CLEAR_TO 0x30}LOSE{CLEAR_TO 0x60}DRAW";
-gString_BattleRecords_7Dashes = "-------";
-gString_BattleRecords_4Dashes = "----";
-gFameCheckerText_FameCheckerWillBeClosed = "The FAME CHECKER will be closed.";
-gFameCheckerText_ClearTextbox = "\n                              ";
-gText_ExitUnused = "やめる";
-gText_ExitFromBox = "Exit from the BOX.";
-gText_WhatDoYouWantToDo = "What do you want to do?";
-gText_PleasePickATheme = "Please pick a theme.";
-gText_PickTheWallpaper = "Pick the wallpaper.";
-gText_PkmnIsSelected = "{DYNAMIC 0x00} is selected.";
-gText_JumpToWhichBox = "Jump to which BOX?";
-gText_DepositInWhichBox = "Deposit in which BOX?";
-gText_PkmnWasDeposited = "{DYNAMIC 0x00} was deposited.";
-gText_BoxIsFull2 = "The BOX is full.";
-gText_ReleaseThisPokemon = "Release this POKéMON?";
-gText_PkmnWasReleased = "{DYNAMIC 0x00} was released.";
-gText_ByeByePkmn = "Bye-bye, {DYNAMIC 0x00}!";
-gText_MarkYourPkmn = "Mark your POKéMON.";
-gText_ThatsYourLastPkmn = "That's your last POKéMON!";
-gText_YourPartysFull = "Your party's full!";
-gText_YoureHoldingAPkmn = "You're holding a POKéMON!";
-gText_WhichOneWillYouTake = "Which one will you take?";
-gText_YouCantReleaseAnEgg = "You can't release an EGG.";
-gText_ContinueBoxOperations = "Continue BOX operations?";
-gText_PkmnCameBack = "{DYNAMIC 0x00} came back!";
-gText_WasItWorriedAboutYou = "Was it worried about you?";
-gText_FourEllipsesExclamation = "‥ ‥ ‥ ‥ ‥!";
-gText_PleaseRemoveTheMail = "Please remove the MAIL.";
-gText_GiveToAPkmn = "GIVE to a POKéMON?";
-gText_PlacedItemInBag = "Placed item in the BAG.";
-gText_BagIsFull2 = "The BAG is full.";
-gText_PutItemInBag = "Put this item in the BAG?";
-gText_ItemIsNowHeld = "{DYNAMIC 0x00} is now held.";
-gText_ChangedToNewItem = "Changed to {DYNAMIC 0x00}.";
-gText_MailCantBeStored = "MAIL can't be stored!";
-gPCText_Cancel = "CANCEL";
-gPCText_Store = "STORE";
-gPCText_Withdraw = "WITHDRAW";
-gPCText_Shift = "SHIFT";
-gPCText_Move = "MOVE";
-gPCText_Place = "PLACE";
-gPCText_Summary = "SUMMARY";
-gPCText_Release = "RELEASE";
-gPCText_Mark = "MARK";
-gPCText_Name = "NAME";
-gPCText_Jump = "JUMP";
-gPCText_Wallpaper = "WALLPAPER";
-gPCText_Take = "TAKE";
-gPCText_Give = "GIVE";
-gPCText_Switch = "SWITCH";
-gPCText_Bag = "BAG";
-gPCText_Info = "INFO";
-gPCText_Scenery1 = "SCENERY 1";
-gPCText_Scenery2 = "SCENERY 2";
-gPCText_Scenery3 = "SCENERY 3";
-gPCText_Etcetera = "ETCETERA";
-gPCText_Forest = "FOREST";
-gPCText_City = "CITY";
-gPCText_Desert = "DESERT";
-gPCText_Savanna = "SAVANNA";
-gPCText_Crag = "CRAG";
-gPCText_Volcano = "VOLCANO";
-gPCText_Snow = "SNOW";
-gPCText_Cave = "CAVE";
-gPCText_Beach = "BEACH";
-gPCText_Seafloor = "SEAFLOOR";
-gPCText_River = "RIVER";
-gPCText_Sky = "SKY";
-gPCText_PolkaDot = "STARS";
-gPCText_Pokecenter = "POKéCENTER";
-gPCText_Machine = "TILES";
-gPCText_Simple = "SIMPLE";
-gText_PC_WhatWouldYouLikeToDo = "なにを しますか?";
-gText_WithdrawPokemon = "WITHDRAW POKéMON";
-gText_DepositPokemon = "DEPOSIT POKéMON";
-gText_MovePokemon = "MOVE POKéMON";
-gText_MoveItems = "MOVE ITEMS";
-gText_SeeYa = "SEE YA!";
-gText_WithdrawMonDescription = "You can withdraw a POKéMON if you\nhave any in a BOX.";
-gText_DepositMonDescription = "You can deposit your party\nPOKéMON in any BOX.";
-gText_MoveMonDescription = "You can move POKéMON that are\nstored in any BOX.";
-gText_MoveItemsDescription = "You can move items held by any\nPOKéMON in a BOX or your party.";
-gText_SeeYaDescription = "See you later!";
-gText_JustOnePkmn = "Can't deposit the last POKéMON!";
-gText_PartyFull = "Can't take any more POKéMON.";
-gText_Box = "BOX";
-gText_CombineFourWordsOrPhrases = "Combine four words or phrases";
-gText_AndMakeYourProfile = "and make your profile.";
-gText_MakeMessageSixPhrases = "Make a message of six phrases.";
-gText_MaxTwoTwelveLetterPhrases = "Max two 12-letter phrases/line.";
-gText_FindWordsThatDescribeYour = "Find words that describe your";
-gText_FeelingsRightNow = "feelings right now.";
-gText_WithFourPhrases = "4つの ことばで";
-gText_CombineNineWordsOrPhrases = "Combine nine words or phrases";
-gText_AndMakeAMessage = "and make a message.";
-gText_ChangeJustOneWordOrPhrase = "Change just one word or phrase";
-gText_AndImproveTheBardsSong = "and improve the BARD's song.";
-gText_AndFillOutTheQuestionnaire = "and fill out the questionnaire.";
-gText_YourProfile = "Your profile";
-gText_YourFeelingAtTheBattlesStart = "Your feeling at the battle's start";
-gText_WhatYouSayIfYouWin = "What you say if you win a battle";
-gText_WhatYouSayIfYouLose = "What you say if you lose a battle";
-gText_TheAnswer = "The answer";
-gText_TheMailMessage = "The MAIL message";
-gText_TheMailSalutation = "はがきに のせる あいさつは";
-gText_TheNewSong = "The new song";
-gText_CombineTwoWordsOrPhrases = "Combine two words or phrases";
-gText_AndMakeATrendySaying = "and make a trendy saying.";
-gText_TheTrendySaying = "The trendy saying";
-gText_IsAsShownOkay = "is as shown. Okay?";
-gText_CombineTwoWordsOrPhrases2 = "2つの ことばを くみあわせて";
-gText_ToTeachHerAGoodSaying = "いい ことばを おしえてあげよう!";
-gText_AllTextBeingEditedWill = "All the text being edited will";
-gText_BeDeletedThatOkay = "be deleted. Is that okay?";
-gText_PleaseEnterPhraseOrWord = "なにか ことばを いれてください!";
-gText_EntireTextCantBeDeleted = "ことばを ぜんぶ けすことは できません!";
-gText_OnlyOnePhrase = "かえられる ことばは 1つ までです!";
-gText_OriginalSongWillBeUsed = "うたを もとに もどします!";
-gText_ThatsTrendyAlready = "それは もう はやっています!";
-gText_CombineTwoWordsOrPhrases3 = "2つの ことばを くみあわせてください!";
-gText_QuitEditing = "Quit editing?";
-gText_StopGivingPkmnMail = "Stop giving the POKéMON MAIL?";
-gText_TheEditedWords = "へんしゅうした ことばは ほぞん";
-gText_WillNotBeSaved = "されませんが いいですか?";
-gText_Profile = "PROFILE";
-gText_AtTheBattlesStart = "At the battle's start:";
-gText_UponWinningABattle = "Upon winning a battle:";
-gText_UponLosingABattle = "Upon losing a battle:";
-gText_TheBardsSong = "The BARD's Song";
-gText_WhatsHipAndHappening = "What's hip and happening?";
-gText_Interview = "Interview";
-gText_GoodSaying = "いい ことば";
-gText_Questionnaire = "QUESTIONNAIRE";
-GiddyText_SoPretty = " きれい だよね-";
-GiddyText_SoDarling = " かわいい よね-";
-GiddyText_SoRelaxed = " のんびり だよね-";
-GiddyText_SoSunny = " ぽっかぽか だよね-";
-GiddyText_SoDesirable = " あこがれる よね-";
-GiddyText_SoExciting = " ドキドキ するよね-";
-GiddyText_SoAmusing = " おもしろい よね-";
-GiddyText_SoMagical = " ふしぎ だよね-";
-GiddyText_Is = "って";
-GiddyText_DontYouAgree = "\nそう おもわない?";
-GiddyText_ISoWantToGoOnAVacation = "たびに でたいな-\nどこか いい ところ しらない?";
-GiddyText_IBoughtCrayonsWith120Colors = "120しょくの クレヨン かったんだ-\nいいでしょう?";
-GiddyText_WouldntItBeNiceIfWeCouldFloat = "しゃぼんだまに のって とべるように\nならないかな-";
-GiddyText_WhenYouWriteOnASandyBeach = "すなはまに かいた もじは\nすぐに きえちゃうのが かなしいよね-";
-GiddyText_WhatsTheBottomOfTheSeaLike = "うみの そこって どうなってるのかな-\nいちどで いいから みて みたいな-";
-GiddyText_WhenYouSeeTheSettingSunDoesIt = "ゆうやけを みると\nウチに かえりたく ならない?";
-GiddyText_LyingBackInTheGreenGrass = "みどりの しばで ねころがると\nきもちいいよね-";
-GiddyText_SecretBasesAreSoWonderful = "ひみつきち って いいよね!\nなんか わくわく してこない?";
-gText_PokemonLeague = "ポケモン リ-グ";
-gText_PokemonCenter = "POKéMON CENTER";
-gText_GetsAPokeBlockQuestion = "に ポロックを あげますか?";
-gText_Coolness = "かっこよさ";
-gText_Beauty3 = "うつくしさ";
-gText_Cuteness = "かわいさ";
-gText_Smartness = "かしこさ";
-gText_Toughness = "たくましさ";
-gText_WasEnhanced = "に みがきが かかった!";
-gText_NothingChanged = "なにも かわらなかった!";
-gText_WontEatAnymore = "もう これいじょう たべない みたい‥";
-gText_SaveFailedCheckingBackup = "Save failed.\nChecking the backup memory‥\nPlease wait.\n“Time required:\nabout 1 minute”";
-gText_BackupMemoryDamaged = "The backup memory is damaged or\nthe game's battery has run dry.\nThe game can be played, but its\nprogress cannot be saved.\n“Please press the A Button.”";
-gText_GamePlayCannotBeContinued = "{COLOR DARK_GRAY}“このまま ぼうけんをつづけることは できません\nタイトルに もどります”";
-gText_CheckCompleted = "けんさが しゅうりょうしました!\nもういちど レポ-トを かきこみます\nしばらくおまちください";
-gText_SaveCompleteGameCannotContinue = "レポ-トの かきこみは しゅうりょうしました\n{COLOR DARK_GRAY}“このまま ぼうけんをつづけることは できません\nタイトルに もどります”";
-gText_SaveCompletePressA = "Save completed.\n“Please press the A Button.”";
-gText_Ferry = "れんらくせん";
-gText_SecretBase = "ひみつきち";
-gText_Hideout = "アジト";
-gText_YourName = "YOUR NAME?";
-gText_BoxName = "BOX NAME?";
-gText_PkmnsNickname = "'s nickname?";
-gText_RivalsName = "RIVAL's NAME?";
-gText_MoveOkBack = "{DPAD_ANY}MOVE {A_BUTTON}OK {B_BUTTON}BACK";
-gText_AlphabetUpperLower = "";
-gText_RegionMap_Space = " ";
-gText_RegionMap_AButtonGuide = "{A_BUTTON}GUIDE";
-gText_RegionMap_AButtonCancel = "{A_BUTTON}CANCEL";
-gText_RegionMap_AButtonCancel2 = "{A_BUTTON}CANCEL";
-gText_RegionMap_AButtonSwitch = "{A_BUTTON}SWITCH";
-gText_RegionMap_AButtonOK = "{A_BUTTON}OK";
-gText_RegionMap_DPadMove = "{DPAD_ANY}MOVE";
-gText_RegionMap_UpDownPick = "{DPAD_UPDOWN}PICK";
-gText_RegionMap_NoData = "No data";
-gText_RegionMap_AreaDesc_ViridianForest = "A deep and sprawling forest that\nextends around VIRIDIAN CITY.\nA natural maze, many people\nbecome lost inside.";
-gText_RegionMap_AreaDesc_MtMoon = "A mystical mountain that is known\nfor its frequent meteor falls.\nThe shards of stars that fall\nhere are known as MOON STONES.";
-gText_RegionMap_AreaDesc_DiglettsCave = "A seemingly plain tunnel that was\ndug by wild DIGLETT.\nIt is famous for connecting\nROUTES 2 and 11.";
-gText_RegionMap_AreaDesc_VictoryRoad = "A tunnel situated on ROUTE 23.\nIt earned its name because it\nmust be traveled by all TRAINERS\naiming for the top.";
-gText_RegionMap_AreaDesc_PokemonMansion = "A decrepit, burned-down mansion\non CINNABAR ISLAND.\nIt got its name because a famous\nPOKéMON researcher lived there.";
-gText_RegionMap_AreaDesc_SafariZone = "An amusement park outside FUCHSIA\nCITY where many rare POKéMON can\nbe observed in the wild.\nCatch them in a popular game!";
-gText_RegionMap_AreaDesc_RockTunnel = "A naturally formed underground\ntunnel. Because it has not been\ndeveloped, it is inky dark inside.\nA light is needed to get through.";
-gText_RegionMap_AreaDesc_SeafoamIslands = "A pair of islands that is situated\non ROUTE 20.\nThe two islands are shaped the\nsame, as if they were twins.";
-gText_RegionMap_AreaDesc_PokemonTower = "A tower that houses the graves of\ncountless POKéMON.\nMany people visit it daily to pay\ntheir respects to the fallen.";
-gText_RegionMap_AreaDesc_CeruleanCave = "A mysterious cave that is filled\nwith terribly tough POKéMON.\nIt is so dangerous, the POKéMON\nLEAGUE is in charge of it.";
-gText_RegionMap_AreaDesc_PowerPlant = "A power plant that was abandoned\nyears ago, though some of the\nmachines still work. It is infested\nwith electric POKéMON.";
-gText_RegionMap_AreaDesc_MtEmber = "Supposedly an inactive volcano.\nHowever, there are persistent\nreports that the peak blazes\nwith fire at night.";
-gText_RegionMap_AreaDesc_BerryForest = "A forest on a small islet off the\ncoast of THREE ISLAND. BERRIES\ngrow wildly in profusion, quickly\nreplenishing those that fall off.";
-gText_RegionMap_AreaDesc_IcefallCave = "A cave which is covered by water\nand ice on FOUR ISLAND.\nIt seems like the end of the cave\nis connected to the ocean.";
-gText_RegionMap_AreaDesc_LostCave = "A bewildering cave off the coast\nof RESORT GORGEOUS.\nSome curious thrill seekers have\nnever emerged from it.";
-gText_RegionMap_AreaDesc_TanobyRuins = "An ancient ruin that is rumored to\nbe home to a peculiar POKéMON.\nHowever, so far, the POKéMON\nremains an unconfirmed rumor.";
-gText_RegionMap_AreaDesc_AlteringCave = "This island has been known by this\nname since the distant past.\nNo one today knows where it got\nthis name, however.";
-gText_RegionMap_AreaDesc_PatternBush = "A lush and bush-like area. \nIn it are patterns where no grass\ngrows. Some study it in the belief\nthat a secret is concealed.";
-gText_RegionMap_AreaDesc_DottedHole = "A mysterious, just-discovered\nruin from an ancient time.\nIt got its name from the six dots\non its door.";
-gText_PokeSum_MetInATrade = "{DYNAMIC 0x00} nature.\nMet in a trade.";
-gText_PokeSum_MetInATrade_BoldGentleGrammar = "{DYNAMIC 0x00} nature.\nMet in a trade.";
-gText_PokeSum_FatefulEncounterMet = "{DYNAMIC 0x00} nature.\nMet in a fateful encounter when\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_FatefulEncounterMet_BoldGentleGrammar = "{DYNAMIC 0x00} nature.\nMet in a fateful encounter when\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_Met = "{DYNAMIC 0x00} nature.\nMet in {DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_Met_BoldGentleGrammar = "{DYNAMIC 0x00} nature.\nMet in {DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_ApparentlyMet = "{DYNAMIC 0x00} nature.\nApparently met in {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_ApparentlyMet_BoldGentleGrammar = "{DYNAMIC 0x00} nature.\nApparently met in {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_Hatched = "{DYNAMIC 0x00} nature.\nHatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_Hatched_BoldGentleGrammar = "{DYNAMIC 0x00} nature.\nHatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}.";
-gText_PokeSum_JP_ApparentlyHatched = "{DYNAMIC 0x00}なせいかく {LV_2}{DYNAMIC 0x01}のとき\n{DYNAMIC 0x02}で かえった ようだ";
-gText_PokeSum_JP_ApparentlyHatched_BoldGentleGrammar = "{DYNAMIC 0x00}せいかく {LV_2}{DYNAMIC 0x01}のとき\n{DYNAMIC 0x02}で かえった ようだ";
-gText_PokeSum_FatefulEncounterHatched = "{DYNAMIC 0x00} nature. Met in a fateful\nencounter (hatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).";
-gText_PokeSum_FatefulEncounterHatched_BoldGentleGrammar = "{DYNAMIC 0x00} nature. Met in a fateful\nencounter (hatched: {DYNAMIC 0x02}\nat {LV_2} {DYNAMIC 0x01}).";
-gText_PokeSum_ApparentlyFatefulEncounterHatched = "{DYNAMIC 0x00} nature. Apparently met in\na fateful encounter (hatched:\n{DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}).";
-gText_PokeSum_ApparentlyFatefulEncounterHatched_BoldGentleGrammar = "{DYNAMIC 0x00} nature. Apparently met in\na fateful encounter (hatched:\n{DYNAMIC 0x02} at {LV_2} {DYNAMIC 0x01}).";
-gText_PokeSum_EggOrigin_DayCare = "An odd POKéMON EGG found by the\nDAY-CARE couple.";
-gText_PokeSum_EggOrigin_TravelingMan = "An odd POKéMON EGG obtained from\nthe traveling man.";
-gText_PokeSum_EggOrigin_NicePlace = "A wondrously peculiar POKéMON EGG\nobtained at a nice place.";
-gText_PokeSum_EggOrigin_Spa = "An odd POKéMON EGG obtained from\nan old woman at the SPA.";
-gText_PokeSum_EggOrigin_Trade = "A peculiar POKéMON EGG obtained\nin a trade.";
-gText_PokeSum_EggHatch_LongTime = "It looks like this\nEGG will take a\nlong time to hatch.";
-gText_PokeSum_EggHatch_SomeTime = "What will hatch\nfrom this? It will\ntake some time.";
-gText_PokeSum_EggHatch_Soon = "It occasionally\nmoves. It should\nhatch soon.";
-gText_PokeSum_EggHatch_AlmostReady = "It's making sounds.\nIt's almost ready\nto hatch!";
-gText_PokeSum_ATrade = "a trade";
-gText_Somewhere = "Somewhere";
-gText_PokeSum_PageName_PokemonInfo = "POKéMON INFO";
-gText_PokeSum_PageName_PokemonSkills = "POKéMON SKILLS";
-gText_PokeSum_PageName_KnownMoves = "KNOWN MOVES";
-gText_PokeSum_NoData = "No data";
-gText_PokeSum_ExpPoints = "EXP. POINTS";
-gText_PokeSum_NextLv = "NEXT LV.";
-gText_PokeSum_Controls_PageCancel = "{DPAD_RIGHT}PAGE {A_BUTTON}CANCEL";
-gText_PokeSum_Controls_Cancel = "{A_BUTTON}CANCEL";
-gText_PokeSum_Controls_Page = "{DPAD_LEFTRIGHT}PAGE";
-gText_PokeSum_Controls_PageDetail = "{DPAD_LEFT}PAGE {A_BUTTON}DETAIL";
-gText_PokeSum_Controls_PickSwitch = "{DPAD_UPDOWN}PICK {A_BUTTON}SWITCH";
-gText_PokeSum_Controls_Pick = "{DPAD_UPDOWN}PICK";
-gText_PokeSum_Controls_PickDelete = "{DPAD_UPDOWN}PICK {A_BUTTON}DELETE";
-gText_PokeSum_HmMovesCantBeForgotten = "HM moves can't be\nforgotten now.";
-gText_TrainerCardName = "NAME: ";
-gText_TrainerCardIDNo = "IDNo.";
-gText_TrainerCardMoney = "MONEY";
-gText_TrainerCardYen = "¥";
-gText_TrainerCardPokedex = "POKéDEX";
-gText_TrainerCardNull = "";
-gText_Colon2 = ":";
-gText_Points = "てん";
-gText_TrainerCardTime = "TIME";
-gText_BattlePoints = "ゲ-ムポイント"; # Unused. Name presumed, translation is Game Points
-gText_Var1sTrainerCard = "'s TRAINER CARD";
-gText_HallOfFameDebut = "HALL OF FAME DEBUT  ";
-gText_LinkBattles = "LINK BATTLES";
-gText_LinkCableBattles = "LINK CABLE BATTLES";
-gText_WinLossRatio = "W:{CLEAR_TO 0x30}L:";
-gText_PokemonTrades = "POKéMON TRADES";
-gText_UnionRoomTradesBattles = "UNION TRADES & BATTLES";
-gText_BerryCrushes = "BERRY CRUSH";
-gText_WaitingTrainerFinishReading = "Waiting for the other TRAINER to\nfinish reading your TRAINER CARD.";
-gText_Option = "OPTION";
-gText_TextSpeed = "TEXT SPEED";
-gText_BattleScene = "BATTLE SCENE";
-gText_BattleStyle = "BATTLE STYLE";
-gText_Sound = "SOUND";
-gText_ButtonMode = "BUTTON MODE";
-gText_Frame = "FRAME";
-gText_OptionMenuCancel = "CANCEL";
-gText_TextSpeedSlow = "SLOW";
-gText_TextSpeedMid = "MID";
-gText_TextSpeedFast = "FAST";
-gText_BattleSceneOn = "ON";
-gText_BattleSceneOff = "OFF";
-gText_BattleStyleShift = "SHIFT";
-gText_BattleStyleSet = "SET";
-gText_SoundMono = "MONO";
-gText_SoundStereo = "STEREO";
-gTextJP_Type = "タイプ";
-gText_ButtonTypeHelp = "HELP";
-gText_ButtonTypeLEqualsA = "L=A";
-gText_ButtonTypeLR = "LR";
-gText_FrameType = "TYPE";
-gText_PickSwitchCancel = "{DPAD_UPDOWN}PICK {DPAD_LEFTRIGHT}SWITCH {A_BUTTON}{B_BUTTON}CANCEL";
-gText_ResetRTCConfirmCancel = "RTCを リセットします\nAで けってい Bで キャンセル";
-gText_PresentTime = "げんざいの ゲ-ムない じかん";
-gText_PreviousTime = "ぜんかいの ゲ-ムない じかん";
-gText_PleaseResetTime = "じかんを さいせってい してください";
-gText_ClockHasBeenReset = "じかんを さいせってい しました!\nレポ-トを かいています おまちください";
-gText_SaveCompleted = "レポ-トを かきこみました!";
-gText_SaveFailed = "レポ-トの かきこみに\nしっぱい しました‥";
-gText_NoSaveFileCantSetTime = "レポ-トが ないので\nじかんの せっていは できません!";
-gText_InGameClockUsable = "ゲ-ムない じかんの しゅうせい システムが\nつかえる ように なりました!";
-gText_SavingDontTurnOffThePower2 = "SAVING…\nDON'T TURN OFF THE POWER.";
-gStartMenuDesc_Pokedex = "A device that records POKéMON secrets\nupon meeting or catching them.";
-gStartMenuDesc_Pokemon = "Check and organize POKéMON that are\ntraveling with you in your party.";
-gStartMenuDesc_Bag = "Equipped with pockets for storing items\nyou bought, received, or found.";
-gStartMenuDesc_Player = "Check your money and other game data.";
-gStartMenuDesc_Save = "Save your game with a complete record\nof your progress to take a break.";
-gStartMenuDesc_Option = "Adjust various game settings such as text\nspeed, game rules, etc.";
-gStartMenuDesc_Exit = "Close this MENU window.";
-gStartMenuDesc_Retire = "Retire from the SAFARI GAME and return to\nthe registration counter.";
-gText_WasUsedOn = " was used on\n";
-gText_Period = ".";
-gText_LevelRoseTo = "'s level rose to\n";
-gText_Period2 = ".";
-gText_LevelUp_MaxHP = "{FONT_SMALL}MAX.{FONT_NORMAL} HP";
-gText_LevelUp_Attack = "ATTACK";
-gText_LevelUp_Defense = "DEFENSE";
-gText_LevelUp_Speed = "SPEED";
-gText_LevelUp_SpAtk = "SP. ATK";
-gText_LevelUp_SpDef = "SP. DEF";
-gText_LevelUp_Plus = "{FONT_SMALL}{PLUS}{FONT_NORMAL}";
-gText_LevelUp_Minus = "{FONT_SMALL}-{FONT_NORMAL}";
-gText_Counting_1 = "1, ";
-gText_Counting_2And = "2, and ‥ ‥ ‥ ";
-gText_Poof = "Poof!\p";
-gText_MonForgotMove = "{DYNAMIC 0x00} forgot\n{DYNAMIC 0x01}.\p";
-gText_And = "And‥\p";
-gText_MachineSet = "Machine set!\p";
-gText_Huh = "Huh?";
-gText_MonLearnedTMHM = "{DYNAMIC 0x00} learned\n{DYNAMIC 0x01}!";
-gText_Upper = "UPPER";
-gText_Lower = "lower";
-gText_Others = "OTHERS";
-gText_Symbols = "SYMBOLS";
-gText_Register2 = "REGISTER";
-gText_Exit = "EXIT";
-gText_QuitChatting = "Quit chatting?";
-gText_RegisterTextWhere = "Register text where?";
-gText_RegisterTextHere = "Register text here?";
-gText_InputText = "Input text.";
-gText_F700JoinedChat = "{DYNAMIC 0x00} joined the chat!";
-gText_F700LeftChat = "{DYNAMIC 0x00} left the chat.";
-gText_PlayersXPokemon = "{DYNAMIC 0x00}の{DYNAMIC 0x01}ひきめ:";
-gText_PlayersXPokmonDoesNotExist = "{DYNAMIC 0x00}の{DYNAMIC 0x01}ひきめは いません";
-gText_ExitingTheChat = "Exiting the chat‥";
-gText_LeaderHasLeftEndingChat = "The LEADER, {DYNAMIC 0x00}, has\nleft, ending the chat.";
-gText_RegisteredTextChanged_OKtoSave = "The registered text has been changed.\nIs it okay to save the game?";
-gText_RegisteredTextChanged_AlreadySavedFile = "There is already a saved file.\nIs it okay to overwrite it?";
-gText_RegisteredTextChanged_SavingDontTurnOff = "SAVING‥\nDON'T TURN OFF THE POWER.";
-gText_RegisteredTextChanged_SavedTheGame = "{DYNAMIC 0x00} saved the game.";
-gText_IfLeaderLeavesChatWillEnd = "If the LEADER leaves, the chat\nwill end. Is that okay?";
-gText_Hello = "HELLO";
-gText_Pokemon2 = "POKéMON";
-gText_Trade = "TRADE";
-gText_Battle = "BATTLE";
-gText_Lets = "LET'S";
-gText_Ok = "OK!";
-gText_Sorry = "SORRY";
-gText_YaySmileEmoji = "YAY{EMOJI_BIGSMILE}";
-gText_ThankYou = "THANK YOU";
-gText_ByeBye = "BYE-BYE!";
-gText_PlayerScurriedToCenter = "{PLAYER} scurried to a POKéMON CENTER,\nprotecting the exhausted and fainted\nPOKéMON from further harm‥\p";
-gText_PlayerScurriedBackHome = "{PLAYER} scurried back home, protecting\nthe exhausted and fainted POKéMON from\nfurther harm‥\p";
-gText_Diploma_Player = "PLAYER: {DYNAMIC 0x00}";
-gText_Diploma_ThisDocument = "This document is issued in\nrecognition of your magnificent\nachievement - the completion of\nthe {DYNAMIC 0x01} POKéDEX.";
-gText_Diploma_GameFreak = "GAME FREAK";
-gText_Diploma_National = "NATIONAL";
-gText_Diploma_Kanto = "KANTO";
-gText_ClearAllSaveData = "Clear all save data areas?";
-gText_ClearingData = "Clearing data‥\nPlease wait.";
-gText_Player = "PLAYER";
-gText_Time = "TIME";
-gText_Colon = ":";
-gText_Pokedex = "POKéDEX";
-gTextJPDummy_Hiki = "";
-gText_Badges = "BADGES";
-gTextJPDummy_Ko = "";
-gText_Register = "REGISTER";
-gText_HatchedFromEgg = "{STR_VAR_1} hatched from the EGG!";
-gText_NickHatchPrompt = "Would you like to nickname the newly\nhatched {STR_VAR_1}?";
-gString_OutOfCoins = "You've run out of COINS.\nGame over!";
-gString_QuitPlaying = "Quit playing?";
-gString_SlotMachineControls = "{DPAD_LEFTRIGHT}COMBOS {DPAD_DOWN}WAGER {A_BUTTON}STOP {B_BUTTON}EXIT";
-gText_TeachyTV = "おしえテレビ";
-gText_End = "おしまい";
-gString_Bill = "BILL";
-gString_Someone = "SOMEONE";
-gString_Help = "HELP";
-gString_HelpSystem_ClearTo8 = "{CLEAR_TO 8}";
-gText_SpacePoints2 = " points";
-gText_SpaceTimes3 = " time(s)";
-gText_PkmnJumpRecords = "POKéMON JUMP RECORDS";
-gText_JumpsInARow = "Jumps in a row:";
-gText_BestScore2 = "Best score:";
-gText_ExcellentsInARow = "EXCELLENTS in a row:";
-gText_AwesomeWonF701F700 = "Awesome score! You've\nwon {DYNAMIC 01} {DYNAMIC 00}!";
-gText_FilledStorageSpace2 = "There's no room left now.";
-gText_CantHoldMore = "You can't hold any more!";
-gText_WantToPlayAgain2 = "Want to play again?";
-gText_SomeoneDroppedOut2 = "Somebody dropped out.\nThe link will be canceled.";
-gText_SavingDontTurnOffPower = "SAVING…\nDON'T TURN OFF THE POWER.";
-gText_CommunicationStandby4 = "Communication standby…";
-gText_SavingDontTurnOffPower2 = "SAVING...\nDON'T TURN OFF THE POWER."; # Unused
-gText_BerryPickingRecords = "DODRIO BERRY-PICKING RECORDS";
-gText_BerriesPicked = "BERRIES picked:";
-gText_BestScore = "Best score:";
-gText_BerriesInRowFivePlayers = "BERRIES picked in a row with\nfive players:";
-gText_BerryPickingResults = "Announcing BERRY-PICKING results!";
-gText_10P30P50P50P = "10P     30P     50P     {EMOJI_MINUS}50P";
-gText_AnnouncingRankings = "Announcing rankings!";
-gText_AnnouncingPrizes = "Announcing prizes!";
-gText_1Colon = "1:";
-gText_2Colon = "2:";
-gText_3Colon = "3:";
-gText_4Colon = "4:";
-gText_5Colon = "5:";
-gText_FirstPlacePrize = "The first-place winner gets\nthis {DYNAMIC 00}!";
-gText_CantHoldAnyMore = "You can't hold any more...";
-gText_FilledStorageSpace = "It filled its storage space.";
-gText_WantToPlayAgain = "Want to play again?";
-gText_SomeoneDroppedOut = "Somebody dropped out.\nThe link will be canceled.";
-gText_SpacePoints = " points";
-gText_CommunicationStandby3 = "Communication standby…";
-gText_BerryCrush_AreYouReady = "Are you ready to BERRY-CRUSH?\nPlease pick a BERRY for use.\p";
-gText_BerryCrush_WaitForOthersToChooseBerry = "Please wait while each member\nchooses a BERRY.";
-gText_BerryCrush_GainedXUnitsOfPowder = "{PAUSE_MUSIC}{PLAY_BGM MUS_LEVEL_UP}You ended up with {STR_VAR_1} units of\nsilky-smooth BERRY POWDER.{RESUME_MUSIC}\pYour total amount of BERRY POWDER\nis {STR_VAR_2}.\p";
-gText_BerryCrush_RecordingGameResults = "Recording your game results in the\nsave file.\nPlease wait.";
-gText_BerryCrush_WantToPlayAgain = "Want to play BERRY CRUSH again?";
-gText_BerryCrush_NoBerries = "You have no BERRIES.\nThe game will be canceled.";
-gText_BerryCrush_MemberDroppedOut = "A member dropped out.\nThe game will be canceled.";
-gText_BerryCrush_TimeUp = "Time's up.\pGood BERRY POWDER could not be\nmade…\p";
-gText_BerryCrush_CommunicationStandby = "Communication standby…";
-gText_1_ClrBluShdwLtBlu_Dynamic0 = "1. {COLOR BLUE}{SHADOW LIGHT_BLUE}{DYNAMIC 0x00}";
-gText_1_Dynamic0 = "1. {DYNAMIC 0x00}";
-gText_SpaceTimes2 = " times";
-gText_XDotY = "{STR_VAR_1}.{STR_VAR_2}";
-gText_StrVar1Berry = "{STR_VAR_1} BERRY";
-gText_TimeColon = "Time:";
-gText_PressingSpeed = "Pressing Speed:";
-gText_Silkiness = "Silkiness:";
-gText_StrVar1 = "{STR_VAR_1}";
-gText_SpaceMin = "min.";
-gText_XDotY2 = "{STR_VAR_1}.{STR_VAR_2}";
-gText_SpaceSec = "sec.";
-gText_XDotY3 = "{STR_VAR_1}.{STR_VAR_2}";
-gText_TimesPerSec = "Times/sec.";
-gText_Var1Percent = "{STR_VAR_1}%";
-gText_PressesRankings = "No. of Presses Rankings";
-gText_CrushingResults = "Crushing Results";
-gText_NeatnessRankings = "Neatness Rankings";
-gText_CooperativeRankings = "Cooperative Rankings";
-gText_PressingPowerRankings = "Pressing-Power Rankings";
-gText_BerryCrush2 = "BERRY CRUSH";
-gText_PressingSpeedRankings = "Pressing-Speed Rankings";
-gText_Var1Players = "{STR_VAR_1} PLAYERS";
-gText_Ghost = "GHOST";
-gText_PokemonOnHook = "A POKéMON's on the hook!{PAUSE_UNTIL_PRESS}";
-gText_NotEvenANibble = "Not even a nibble‥{PAUSE_UNTIL_PRESS}";
-gText_ItGotAway = "It got away‥{PAUSE_UNTIL_PRESS}";
-gText_Rooftop2 = "ROOFTOP";
-gString_PokemonFireRed_Staff = "Pokémon FireRed Version\nStaff";
-gString_PokemonLeafGreen_Staff = "Pokémon LeafGreen Version\nStaff";
-gCreditsString_Director = "\n\nDirector\n\n\n\n";
-gCreditsString_Junichi_Masuda = "\n\n\nJunichi Masuda\n\n\n";
-gCreditsString_Art_Director_Battle_Director = "\nArt Director\n\nBattle Director\n\n\n";
-gCreditsString_Ken_Sugimori_Shigeki_Morimoto = "\n\nKen Sugimori\n\nShigeki Morimoto\n\n";
-gCreditsString_Program_Leader_Planning_Leader_Graphic_Design_Leader = "Program Leader\n\nPlanning Leader\n\nGraphic Design Leader\n\n";
-gCreditsString_Tetsuya_Watanabe_Koji_Nishino_Takao_Unno = "\nTetsuya Watanabe\n\nKoji Nishino\n\nTakao Unno\n";
-gCreditsString_Programmers = "Programmers\n\n\n\n\n";
-gCreditsString_Hiroyuki_Nakamura_Masao_Taya_Satoshi_Nohara_Miyuki_Iwasawa_Daisuke_Goto = "\nHiroyuki Nakamura\nMasao Taya\nSatoshi Nohara\nMiyuki Iwasawa\nDaisuke Goto\n";
-gCreditsString_System_Programmers = "System Programmers\n\n\n\n\n\n";
-gCreditsString_Tetsuya_Watanabe_Akito_Mori_Hisashi_Sogabe_Sousuke_Tamada = "\nTetsuya Watanabe\nAkito Mori\nHisashi Sogabe\nSousuke Tamada\n\n";
-gCreditsString_Graphic_Designers = "Graphic Designers\n\n\n\n\n\n";
-gCreditsString_Takao_Unno_Asuka_Iwashita_Kanako_Eo_Hiroki_Fuchino = "\nTakao Unno\nAsuka Iwashita\nKanako Eo\nHiroki Fuchino\n\n";
-gCreditsString_Graphic_Designers_2 = "\nGraphic Designers\n\n\n\n\n";
-gCreditsString_Ken_Sugimori_Hironobu_Yoshida = "\n\nKen Sugimori\nHironobu Yoshida\n\n\n";
-gCreditsString_Music_Composition = "\nMusic Composition\n\n\n\n\n";
-gCreditsString_Go_Ichinose_Junichi_Masuda = "\n\nGo Ichinose\nJunichi Masuda\n\n\n";
-gCreditsString_Sound_Effects = "\n\nSound Effects\n\n\n\n";
-gCreditsString_Go_Ichinose = "\n\n\nGo Ichinose\n\n\n";
-gCreditsString_Game_Designers = "\nGame Designers\n\n\n\n\n";
-gCreditsString_Junichi_Masuda_Koji_Nishino_Tetsuji_Ohta = "\n\nJunichi Masuda\nKoji Nishino\nTetsuji Ohta\n\n";
-gCreditsString_Game_Designers_2 = "\nGame Designers\n\n\n\n\n";
-gCreditsString_Hitomi_Sato_Shigeru_Ohmori_Tadashi_Takahashi = "\n\nHitomi Sato\nShigeru Ohmori\nTadashi Takahashi\n\n";
-gCreditsString_Game_Scenario = "\nGame Scenario\n\n\n\n\n";
-gCreditsString_Hitomi_Sato_Satoshi_Tajiri = "\n\nHitomi Sato\nSatoshi Tajiri\n\n\n";
-gCreditsString_Script_Designer_Map_Designer = "\nScript Designer\n\nMap Designer\n\n\n";
-gCreditsString_Satoshi_Nohara_Shigeru_Ohmori = "\n\nSatoshi Nohara\n\nShigeru Ohmori\n\n";
-gCreditsString_Parametric_Designers = "\nParametric Designers\n\n\n\n\n";
-gCreditsString_Koji_Nishino_Tetsuji_Ohta_Shigeki_Morimoto = "\n\nKoji Nishino\nTetsuji Ohta\nShigeki Morimoto\n\n";
-gCreditsString_POKeDEX_Text = "\n\nPOKéDEX Text\n\n\n\n";
-gCreditsString_Kenji_Matsushima = "\n\n\nKenji Matsushima\n\n\n";
-gCreditsString_POKeMON_Designers = "POKéMON Designers\n\n\n\n\n\n";
-gCreditsString_Ken_Sugimori_Motofumi_Fujiwara_Shigeki_Morimoto_Hironobu_Yoshida = "\nKen Sugimori\nMotofumi Fujiwara\nShigeki Morimoto\nHironobu Yoshida\n\n";
-gCreditsString_POKeMON_Designers_2 = "POKéMON Designers\n\n\n\n\n\n";
-gCreditsString_Satoshi_Ohta_Asuka_Iwashita_Takao_Unno_Kanako_Eo_Aimi_Tomita = "\nSatoshi Ohta\nAsuka Iwashita\nTakao Unno\nKanako Eo\nAimi Tomita\n";
-gCreditsString_POKeMON_Designers_3 = "POKéMON Designers\n\n\n\n\n\n";
-gCreditsString_Atsuko_Nishida_Muneo_Saito_Rena_Yoshikawa_Jun_Okutani = "\nAtsuko Nishida\nMuneo Saito\nRena Yoshikawa\nJun Okutani\n\n";
-gCreditsString_Supporting_Programmers = "Supporting Programmers\n\n\n\n";
-gCreditsString_Teruyuki_Yoshioka_Takao_Nakano_Satoshi_Mitsuhara_Daisuke_Hoshino = "\nTeruyuki Yoshioka\nTakao Nakano\n\nSatoshi Mitsuhara\nDaisuke Hoshino\n";
-gCreditsString_NCL_Product_Testing = "\n\nNCL Product Testing\n\n\n\n";
-gCreditsString_NCL_Super_Mario_Club = "\n\n\nNCL Super Mario Club\n\n\n";
-gCreditsString_Special_Thanks = "Special Thanks\n\n\n\n\n\n";
-gCreditsString_Hiro_Nakamura_Hiroyuki_Uesugi_Teruki_Murakawa_Kazuya_Suyama = "\nHiro Nakamura\nHiroyuki Uesugi\nTeruki Murakawa\n\nKazuya Suyama\n";
-gCreditsString_Special_Thanks_2 = "Special Thanks\n\n\n\n\n\n";
-gCreditsString_Kenji_Tominaga_Kenjiro_Ito_Tomotaka_Komura_Michiko_Takizawa = "\nKenji Tominaga\n\nKenjiro Ito\nTomotaka Komura\nMichiko Takizawa\n";
-gCreditsString_Special_Thanks_3 = "Special Thanks\n\n\n\n\n\n";
-gCreditsString_Makiko_Takada_Mikiko_Ohashi_Shusaku_Egami_Takanao_Kondo_Rui_Kawaguchi = "\nMakiko Takada\nMikiko Ohashi\nShusaku Egami\nTakanao Kondo\nRui Kawaguchi\n";
-gCreditsString_Braille_Code_Check = "\n\nBraille Code Check\n\n\n\n";
-gCreditsString_Japan_Braille_Library = "\n\n\nJapan Braille Library\n\n\n";
-gCreditsString_Information_Supervisors = "Information Supervisors\n\n\n\n\n\n";
-gCreditsString_Hiroki_Enomoto_Kazuyuki_Terada_Yuri_Sakurai_Yumi_Funasaka_Naoko_Yanase = "\nHiroki Enomoto\nKazuyuki Terada\nYuri Sakurai\nYumi Funasaka\nNaoko Yanase\n";
-gCreditsString_Coordinators = "Coordinators\n\n\n\n\n\n";
-gCreditsString_Azusa_Tajima_Akira_Kinashi_Kazuki_Yoshihara_Retsuji_Nomoto = "\nAzusa Tajima\nAkira Kinashi\nKazuki Yoshihara\n\nRetsuji Nomoto\n";
-gCreditsString_Task_Managers = "\nTask Managers\n\n\n\n\n";
-gCreditsString_Hitoshi_Yamagami_Gakuji_Nomoto = "\n\nHitoshi Yamagami\nGakuji Nomoto\n\n\n";
-gCreditsString_Producers = "\nProducers\n\n\n\n\n";
-gCreditsString_Hiroyuki_Jinnai_Takehiro_Izushi_Hiroaki_Tsuru = "\n\nHiroyuki Jinnai\nTakehiro Izushi\nHiroaki Tsuru\n\n";
-gCreditsString_Executive_Director = "\n\nExecutive Director\n\n\n\n";
-gCreditsString_Satoshi_Tajiri = "\n\n\nSatoshi Tajiri\n\n\n";
-gCreditsString_Executive_Producer = "\n\nExecutive Producer\n\n\n\n";
-gCreditsString_Satoru_Iwata = "\n\n\nSatoru Iwata\n\n\n";
-gCreditsString_Executive_Producer_2 = "\n\nExecutive Producer\n\n\n\n";
-gCreditsString_Tsunekaz_Ishihara = "\n\n\nTsunekaz Ishihara\n\n\n";
-gCreditsString_English_Version_Coordinators = "\nEnglish Version Coordinators\n\n\n\n\n";
-gCreditsString_Hiro_Nakamura_Seth_McMahill = "\n\nHiro Nakamura\nSeth McMahill\n\n\n";
-gCreditsString_Translator_Text_Editor = "\nTranslator\n\nText Editor\n\n\n";
-gCreditsString_Nob_Ogasawara_Teresa_Lillygren = "\n\nNob Ogasawara\n\nTeresa Lillygren\n\n";
-gCreditsString_Programmers_2 = "Programmers\n\n\n\n\n\n";
-gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Yuichiro_Ito_Akira_Kinashi = "\nTeruki Murakawa\nSouichi Yamamoto\nYuichiro Ito\nAkira Kinashi\n\n";
-gCreditsString_Environment_Tool_Programmers = "\nEnvironment & Tool Programmers\n\n\n\n\n";
-gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Kimiko_Nakamichi = "\n\nTeruki Murakawa\nSouichi Yamamoto\nKimiko Nakamichi\n\n";
-gCreditsString_NOA_Product_Testing = "NOA Product Testing\n\n\n\n\n\n";
-gCreditsString_Thomas_Hertzog_Kathy_Huguenard_Mika_Kurosawa = "\nThomas Hertzog\nKathy Huguenard\nMika Kurosawa\n\n\n";
-gCreditsString_Braille_Code_Check_2 = "Braille Code Check\n\n\n\n\n\n";
-gCreditsString_National_Federation_of_the_Blind_Patricia_A_Maurer_Japan_Braille_Library_European_Blind_Union = "\nNational Federation\n{CLEAR_TO 0x13}of the Blind\nPatricia A. Maurer\nJapan Braille Library\nEuropean Blind Union\n";
-gCreditsString_Braille_Code_Check_3 = "\nBraille Code Check\n\n\n\n\n";
-gCreditsString_National_Information_Library_Service_Margaret_Campion = "\n\nNational Information Library\n{CLEAR_TO 0x2D}Service\nMargaret Campion\n\n";
-gCreditsString_Special_Thanks_4 = "Special Thanks\n\n\n\n\n\n";
-gCreditsString_Takehiro_Izushi_Motoyasu_Tojima_Hitoshi_Yamagami_Hiroyuki_Uesugi = "\nTakehiro Izushi\nMotoyasu Tojima\nHitoshi Yamagami\nHiroyuki Uesugi\n\n";
-gCreditsString_Special_Thanks_5 = "Special Thanks\n\n\n\n\n\n";
-gCreditsString_Nicola_Pratt_Barlow_Shellie_Dow_Anthony_Howitt_Naoko_Saeki_Kyoko_Onishi = "\nNicola Pratt-Barlow\nShellie Dow\nAnthony Howitt\nNaoko Saeki\nKyoko Onishi\n";
-gCreditsString_Braille_Code_Check_4 = "\nBraille Code Check\n\n\n\n\n";
-gCreditsString_The_Royal_New_Zealand_Foundation_of_the_Blind_Greg_Moran = "\n\nThe Royal New Zealand\nFoundation of the Blind\nGreg Moran\n\n";
-gCreditsString_Graphic_Designer = "\n\nGraphic Designer\n\n\n\n";
-gCreditsString_Akira_Kinashi = "\n\n\nAkira Kinashi\n\n\n";
-gJPText_MysteryGift = "";
-gJPText_DecideStop = "";
-gJPText_ReceiveMysteryGiftWithEReader = "";
-gJPText_SelectConnectFromEReaderMenu = "";
-gJPText_SelectConnectWithGBA = "";
-gJPText_SelectConnectAndPressA = "カ-ドeリ-ダ-{PLUS}の ‘つうしん'を\nえらんで Aボタンを おしてください";
-gJPText_LinkIsIncorrect = "";
-gJPText_CardReadingHasBeenHalted = "";
-gJPText_UnableConnectWithEReader = "カ-ドeリ-ダ-{PLUS}と\nつうしん できません";
-gJPText_Connecting = "";
-gJPText_ConnectionErrorCheckLink = "";
-gJPText_ConnectionErrorTryAgain = "";
-gJPText_AllowEReaderToLoadCard = "";
-gJPText_ConnectionComplete = "";
-gJPText_NewTrainerHasComeToSevii = "";
-gJPText_PleaseWaitAMoment = "";
-gJPText_WriteErrorUnableToSaveData = "";
-gText_CommErrorCheckConnections = "Communication error…\nPlease check all connections,\nthen turn the power OFF and ON.";
-gText_CommErrorEllipsis = "Communication error…";
-gText_MoveCloserToLinkPartner = "Move closer to your link partner(s).\nAvoid obstacles between partners.";
-gText_ABtnRegistrationCounter = "A Button: Registration Counter";
-gText_ABtnTitleScreen = "A Button: Title Screen";
-gText_NumPlayerLink = "{STR_VAR_1}P LINK";
-gText_BronzeCard = "BRONZE";
-gText_CopperCard = "COPPER";
-gText_SilverCard = "SILVER";
-gText_GoldCard = "GOLD";
-gText_HelpSystemControls_A_Next = "{A_BUTTON}NEXT";
-gText_HelpSystemControls_PickOkEnd = "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}END";
-gText_HelpSystemControls_AorBtoCancel = "{A_BUTTON}{B_BUTTON}CANCEL";
-gText_HelpSystemControls_PickOkCancel = "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}CANCEL";
-gEasyChatGroupName_Pokemon = "POKéMON";
-gEasyChatGroupName_Trainer = "TRAINER";
-gEasyChatGroupName_Status = "STATUS";
-gEasyChatGroupName_Battle = "BATTLE";
-gEasyChatGroupName_Greetings = "GREETINGS";
-gEasyChatGroupName_People = "PEOPLE";
-gEasyChatGroupName_Voices = "VOICES";
-gEasyChatGroupName_Speech = "SPEECH";
-gEasyChatGroupName_Endings = "ENDINGS";
-gEasyChatGroupName_Feelings = "FEELINGS";
-gEasyChatGroupName_Conditions = "CONDITIONS";
-gEasyChatGroupName_Actions = "ACTIONS";
-gEasyChatGroupName_Lifestyle = "LIFESTYLE";
-gEasyChatGroupName_Hobbies = "HOBBIES";
-gEasyChatGroupName_Time = "TIME";
-gEasyChatGroupName_Misc = "MISC.";
-gEasyChatGroupName_Adjectives = "ADJECTIVES";
-gEasyChatGroupName_Events = "EVENTS";
-gEasyChatGroupName_Move1 = "MOVE 1";
-gEasyChatGroupName_Move2 = "MOVE 2";
-gEasyChatGroupName_TrendySaying = "TRENDY SAYING";
-gEasyChatGroupName_Pokemon2 = "POKéMON2";
-gText_ThreeQuestionMarks = "???";
-gText_UnusedEmpty = "";
-gText_UnusedLv = "Lv";
-gText_UnusedDashes = "---";
-gText_4Qmark = "????";
-gText_UnusedEmpty2 = "";
-gText_IsThisTradeOkay = "Is this trade okay?";
-gTradeText_Cancel = "CANCEL";
-gTradeText_ChooseAPokemon = "Choose a POKéMON.";
-gTradeText_Summary = "SUMMARY";
-gTradeText_Trade = "TRADE";
-gText_CancelTrade = "Cancel trade?";
-gTradeText_PressBButtonToExit = "Press the B Button to exit.";
-gText_TradeAction_Summary = "SUMMARY";
-gText_TradeAction_Trade = "TRADE";
-gText_Trade_CommunicationStandby = "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Communication standby…\nPlease wait.";
-gText_TradeHasBeenCanceled = "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}The trade has been canceled.";
-gText_Trade_OnlyPkmnForBattle = "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}That's your only POKéMON\nfor battle.";
-gText_WaitingForFriendToFinish = "{COLOR DARK_GRAY}{HIGHLIGHT WHITE}{SHADOW LIGHT_GRAY}Waiting for your friend\nto finish…";
-gText_FriendWantsToTrade = "Your friend wants\nto trade POKéMON.";
-gText_XWillBeSentToY = "{STR_VAR_2} will be\nsent to {STR_VAR_1}.";
-gText_ByeByeVar1 = "Bye-bye, {STR_VAR_2}!";
-gText_XSentOverY = "{STR_VAR_1} sent over {STR_VAR_3}.";
-gText_TakeGoodCareOfX = "Take good care of {STR_VAR_3}!";
-gText_From = "From ";
-gText_Empty1 = "";
-gText_Empty2 = "";
-gText_Empty3 = "";
-gText_Empty4 = "";
-gText_Empty5 = "";
-gText_Empty6 = "";
-gText_Empty7 = "";
-gText_Empty8 = "";
-gText_Empty9 = "";
-gText_Empty10 = "";
-gText_Empty11 = "";
-gText_WirelessCommunicationStatus = "Wireless Communication Status";
-gText_PeopleTrading = "People trading:";
-gText_PeopleBattling = "People battling:";
-gText_PeopleInUnionRoom = "People in the UNION ROOM:";
-gText_PeopleCommunicating = "People communicating:";
-gText_Dynamic0Players = "{DYNAMIC 0x00} players";
-gText_Dynamic1Players = "{DYNAMIC 0x01} player"; # Typo? This is "players" in Emerald
-gText_Dynamic2Players = "{DYNAMIC 0x02} players";
-gText_Dynamic3Players = "{DYNAMIC 0x03} players";
-gText_DPadChooseAButtonConfirm = "{DPAD_ANY}えらぶ:{A_BUTTON}けってい";
-gText_BButtonCancel = "{B_BUTTON}CANCEL";
-gText_ChooseBattleLineup = "{COLOR RED}{SHADOW LIGHT_RED}   たいせんの くみあわせ\n{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}じぶんの ばしょをきめて ください";
-gText_UnusedId = "{ID}";
-gText_CommunicationStandby5 = "Communication standby…";
-gDaycareText_GetAlongVeryWell = "The two seem to get along\nvery well.";
-gDaycareText_GetAlong = "The two seem to get along.";
-gDaycareText_DontLikeOther = "The two don't seem to like\neach other much.";
-gDaycareText_PlayOther = "The two prefer to play with other\nPOKéMON than each other.";
-gText_TeachWhichMoveToMon = "Teach which move to {STR_VAR_1}?";
-gText_TeachMoveQues = "Teach {STR_VAR_2}?";
-gText_MonLearnedMove = "{STR_VAR_1} learned\n{STR_VAR_2}.";
-gText_MonIsTryingToLearnMove = "{STR_VAR_1} is trying to learn\n{STR_VAR_2}.\pBut {STR_VAR_1} can't learn more\nthan four moves.\pDelete an older move to make\nroom for {STR_VAR_2}?";
-gText_StopLearningMove = "Stop learning {STR_VAR_2}?";
-gText_1_2_and_Poof = "{PAUSE 0x20}1, {PAUSE 0x0F}2, and {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}‥ {PAUSE 0x0F}{PLAY_SE SE_BALL_BOUNCE_1}Poof!\p";
-gText_MonForgotOldMoveAndMonLearnedNewMove = "{STR_VAR_1} forgot {STR_VAR_3}.\pAnd‥\p{STR_VAR_1}\nlearned {STR_VAR_2}.";
-gText_GiveUpTryingToTeachNewMove = "Give up trying to teach a new\nmove to {STR_VAR_1}?";
-gText_WhichMoveShouldBeForgotten = "Which move should be forgotten?\p";
-gText_TenDashes = "----------";
-gText_CommStandbyAwaitingOtherPlayer = "Communication standby‥\nAwaiting another player to choose.";
-gText_BattleWasRefused = "The battle was refused.{PAUSE 0x3C}";
-gText_RefusedBattle = "Refused the battle.{PAUSE 0x3C}";
-gFameCheckerText_MainScreenUI = "{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {A_BUTTON}OK";
-gFameCheckerText_PickScreenUI = "{START_BUTTON}PICK {DPAD_UPDOWN}SELECT {B_BUTTON}CANCEL";
-gFameCheckerText_FlavorTextUI = "{DPAD_ANY}PICK {A_BUTTON}READ {B_BUTTON}CANCEL";
-gFameCheckerOakName = "OAK";
-gFameCheckerDaisyName = "DAISY";
-gFameCheckerBillName = "BILL";
-gFameCheckerMrFujiName = "FUJI";
-gText_VarietyOfEventsImportedWireless = "A variety of events will be imported\nover Wireless Communication.";
-gText_WonderCardsInPossession = "Read the WONDER CARDS in your\npossession.";
-gText_ReadNewsThatArrived = "Read the NEWS that arrived.";
-gText_ReturnToTitle = "Return to the title screen.";
-gText_DontHaveCardNewOneInput = "You don't have a WONDER CARD,\nso a new CARD will be input.";
-gText_DontHaveNewsNewOneInput = "You don't have any WONDER NEWS,\nso new NEWS will be input.";
-gText_WhereShouldCardBeAccessed = "Where should the WONDER CARD\nbe accessed?";
-gText_WhereShouldNewsBeAccessed = "Where should the WONDER NEWS\nbe accessed?";
-gText_LinkStandyBButtonCancel = "Link standby...\n... ... B Button: Cancel";
-gText_Communicating = "Communicating…";
-gText_CommunicationCompleted = "Communication completed.";
-gText_CommunicationError = "Communication error.";
-gText_CommunicationCanceled = "Communication has been canceled.";
-gText_ThrowAwayWonderCard = "Throw away the WONDER CARD\nand input a new CARD?";
-gText_HaventReceivedCardsGift = "You haven't received the CARD's gift\nyet. Input a new CARD anyway?";
-gText_WonderCardReceivedFrom = "A WONDER CARD has been received\nfrom {STR_VAR_1}.";
-gText_WonderNewsReceivedFrom = "A WONDER NEWS item has been\nreceived from {STR_VAR_1}.";
-gText_WonderCardReceived = "A new WONDER CARD has been\nreceived.";
-gText_WonderNewsReceived = "A new WONDER NEWS item has been\nreceived.";
-gText_NewStampReceived = "A new STAMP has been received.";
-gText_NewTrainerReceived = "A new TRAINER has arrived.";
-gText_AlreadyHadCard = "You already had that\nWONDER CARD.";
-gText_AlreadyHadNews = "You already had that\nWONDER NEWS item.";
-gText_AlreadyHadStamp = "You already had that\nSTAMP.";
-gText_NoMoreRoomForStamps = "There's no more room for adding\nSTAMPS.";
-gText_RecordUploadedViaWireless = "Your record has been uploaded via\nWIRELESS COMMUNICATION.";
-gText_CantAcceptCardFromTrainer = "You can't accept a WONDER CARD\nfrom this TRAINER.";
-gText_CantAcceptNewsFromTrainer = "You can't accept WONDER NEWS\nfrom this TRAINER.";
-gText_NothingSentOver = "Nothing was sent over…";
-gText_WhatToDoWithCards = "What would you like to do\nwith the WONDER CARDS?";
-gText_WhatToDoWithNews = "What would you like to do\nwith the WONDER NEWS?";
-gText_SendingWonderCard = "Sending your WONDER CARD…";
-gText_SendingWonderNews = "Sending your WONDER NEWS item…";
-gText_WonderCardSentTo = "Your WONDER CARD has been sent\nto {STR_VAR_1}.";
-gText_WonderNewsSentTo = "Your WONDER NEWS item has been\nsent to {STR_VAR_1}.";
-gText_StampSentTo = "A STAMP has been sent to {STR_VAR_1}.";
-gText_GiftSentTo = "A GIFT has been sent to {STR_VAR_1}.";
-gText_OtherTrainerHasCard = "The other TRAINER has the same\nWONDER CARD already.";
-gText_OtherTrainerHasNews = "The other TRAINER has the same\nWONDER NEWS already.";
-gText_OtherTrainerHasStamp = "The other TRAINER has the same\nSTAMP already.";
-gText_OtherTrainerCanceled = "The other TRAINER canceled\ncommunication.";
-gText_CantSendGiftToTrainer = "You can't send a MYSTERY GIFT to\nthis TRAINER.";
-gText_IfThrowAwayCardEventWontHappen = "If you throw away the CARD,\nits event won't happen. Okay?";
-gText_OkayToDiscardNews = "Is it okay to discard this\nNEWS item?";
-gText_HaventReceivedGiftOkayToDiscard = "You haven't received the\nGIFT. Is it okay to discard?";
-gText_DataWillBeSaved = "Data will be saved.\nPlease wait.";
-gText_SaveCompletedPressA = "Save completed.\nPlease press the A Button.";
-gText_WonderCardThrownAway = "The WONDER CARD was thrown away.";
-gText_WonderNewsThrownAway = "The WONDER NEWS was thrown away.";
-gText_MysteryGift2 = "MYSTERY GIFT";
-gText_PickOKCancel = "{DPAD_UPDOWN}PICK {A_BUTTON}OK {B_BUTTON}EXIT";
-gText_WonderCards = "WONDER CARDS";
-gText_WonderNews = "WONDER NEWS";
-gText_WirelessCommunication = "WIRELESS COMMUNICATION";
-gText_Friend2 = "FRIEND";
-gText_Exit3 = "EXIT";
-gText_Receive = "RECEIVE";
-gText_Send = "SEND";
-gText_Toss = "TOSS";
-gText_DelAllCancelOk = "DEL. ALL{CLEAR_TO 0x57}CANCEL{CLEAR_TO 0xA4}OK";
-sText_ClearTo18 = "{CLEAR_TO 18}";
-sText_SingleSpace = " ";
-sText_Dummy = "";
-sText_ClrWhtHltTranspShdwDrkGry = "{COLOR WHITE}{HIGHLIGHT TRANSPARENT}{SHADOW DARK_GRAY}";
-gText_MaleSymbol4 = "♂";
-gText_FemaleSymbol4 = "♀";
-gText_GenderlessSymbol = "";
-sText_Dummy2 = "";
-sText_Newline = "\n";
-sText_Slash = "/";
-sText_ShedinjaJP = "ヌケニン";
-gText_Ellipsis = "…";
-gText_UR_EmptyString = "";
-gText_UR_Colon = ":";
-gText_UR_ID = "{ID}";
-gText_UR_PleaseStartOver = "Please start over from the beginning.";
-gText_UR_WirelessSearchCanceled = "The WIRELESS COMMUNICATION\nSYSTEM search has been canceled.";
-sText_AwaitingCommunucation2 = "ともだちからの れんらくを\nまっています";
-gText_UR_AwaitingCommunication = "{STR_VAR_1}! Awaiting\ncommunication from another player.";
-gText_UR_AwaitingLinkPressStart = "{STR_VAR_1}! Awaiting link!\nPress START when everyone's ready.";
-sText_SingleBattle = "シングルバトルを かいさいする";
-sText_DoubleBattle = "ダブルバトルを かいさいする";
-sText_MultiBattle = "マルチバトルを かいさいする";
-sText_TradePokemon = "ポケモンこうかんを かいさいする";
-sText_Chat = "チャットを かいさいする";
-sText_DistWonderCard = "ふしぎなカードをくばる";
-sText_DistWonderNews = "ふしぎなニュースをくばる";
-sText_DistMysteryEvent = "ふしぎなできごとを かいさいする";
-sText_HoldPokemonJump = "なわとびを かいさいする";
-sText_HoldBerryCrush = "きのみマッシャーを かいさいする";
-sText_HoldBerryPicking = "きのみどりを かいさいする";
-sText_HoldSpinTrade = "ぐるぐるこうかんを かいさいする";
-sText_HoldSpinShop = "ぐるぐるショップを かいさいする";
-sText_1PlayerNeeded = "1 player\nneeded.";
-sText_2PlayersNeeded = "2 players\nneeded.";
-sText_3PlayersNeeded = "3 players\nneeded.";
-sText_4PlayersNeeded = "あと4にん\nひつよう";
-sText_2PlayerMode = "2-PLAYER\nMODE";
-sText_3PlayerMode = "3-PLAYER\nMODE";
-sText_4PlayerMode = "4-PLAYER\nMODE";
-sText_5PlayerMode = "5-PLAYER\nMODE";
-gText_UR_BButtonCancel = "{B_BUTTON}CANCEL";
-sText_SearchingForParticipants = "ため\nさんかしゃ ぼしゅうちゅう です！";
-gText_UR_PlayerContactedYouForXAccept = "{STR_VAR_2} contacted you for\n{STR_VAR_1}. Accept?";
-gText_UR_PlayerContactedYouShareX = "{STR_VAR_2} contacted you.\nWill you share {STR_VAR_1}?";
-gText_UR_PlayerContactedYouAddToMembers = "{STR_VAR_2} contacted you.\nAdd to the members?";
-gText_UR_AreTheseMembersOK = "{STR_VAR_1}!\nAre these members OK?";
-gText_UR_CancelModeWithTheseMembers = "Cancel {STR_VAR_1} MODE\nwith these members?";
-gText_UR_AnOKWasSentToPlayer = "An “OK” was sent\nto {STR_VAR_1}.";
-sText_OtherTrainerUnavailableNow = "The other TRAINER doesn't appear\nto be available now…\p";
-sText_CantTransmitTrainerTooFar = "You can't transmit with a TRAINER\nwho is too far away.\p";
-sText_TrainersNotReadyYet = "The other TRAINER(S) is/are not\nready yet.\p";
-gText_UR_ModeWithTheseMembersWillBeCanceled = "The {STR_VAR_1} MODE with\nthese members will be canceled.{PAUSE 90}";
-sText_MemberNoLongerAvailable = "There is a member who can no\nlonger remain available.\p";
-sText_TrainerAppearsUnavailable = "The other TRAINER appears\nunavailable…\p";
-gText_UR_PlayerSentBackOK = "{STR_VAR_1} sent back an “OK”!";
-gText_UR_PlayerOKdRegistration = "{STR_VAR_1} OK'd your registration as\na member.";
-sText_PlayerRepliedNo = "{STR_VAR_1} replied, “No…”\p";
-gText_UR_AwaitingOtherMembers = "{STR_VAR_1}!\nAwaiting other members!";
-gText_UR_QuitBeingMember = "Quit being a member?";
-sText_StoppedBeingMember = "You stopped being a member.\p";
-gText_UR_WirelessLinkEstablished = "The WIRELESS COMMUNICATION\nSYSTEM link has been established.";
-gText_UR_WirelessLinkDropped = "The WIRELESS COMMUNICATION\nSYSTEM link has been dropped…";
-gText_UR_LinkWithFriendDropped = "The link with your friend has been\ndropped…";
-sText_PlayerRepliedNo2 = "{STR_VAR_1} replied, “No…”";
-sText_DoYouWantXMode = "Do you want the {STR_VAR_2}\nMODE?";
-sText_DoYouWantXMode2 = "Do you want the {STR_VAR_2}\nMODE?";
-sText_CommunicatingPleaseWait = "はなしかけています…\nしょうしょう おまちください"; # Unused
-gText_UR_AwaitingPlayersResponseAboutTrade = "Awaiting {STR_VAR_1}'s response about\nthe trade…";
-sText_Communicating = "Communicating{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.";
-sText_CommunicatingWithPlayer = "Communicating with {STR_VAR_1}{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.";
-sText_PleaseWaitAWhile = "Please wait a while{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\n{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.";
-sText_HiDoSomethingMale = "Hiya! Is there something that you\nwanted to do?";
-sText_HiDoSomethingFemale = "Hello!\nWould you like to do something?";
-sText_HiDoSomethingAgainMale = "{STR_VAR_1}: Hiya, we meet again!\nWhat are you up for this time?";
-sText_HiDoSomethingAgainFemale = "{STR_VAR_1}: Oh! {PLAYER}, hello!\nWould you like to do something?";
-sText_DoSomethingMale = "Want to do something?";
-sText_DoSomethingFemale = "Would you like to do something?";
-sText_DoSomethingAgainMale = "{STR_VAR_1}: What would you like to\ndo now?";
-sText_DoSomethingAgainFemale = "{STR_VAR_1}‘また なにかする？";
-sText_SomebodyHasContactedYou = "Somebody has contacted you.{PAUSE 60}";
-sText_PlayerHasContactedYou = "{STR_VAR_1} has contacted you.{PAUSE 60}";
-sText_AwaitingResponseFromTrainer = "Awaiting a response from\nthe other TRAINER…";
-sText_AwaitingResponseFromPlayer = "Awaiting a response from\n{STR_VAR_1}…";
-sText_AwaitingResponseCancelBButton = "あいての ていあんを まっています\nビーボタンで キャンセル";
-gText_UR_ShowTrainerCard = "The other TRAINER showed\nyou their TRAINER CARD.\pWould you like to show your\nTRAINER CARD?";
-gText_UR_BattleChallenge = "The other TRAINER challenges you\nto battle.\pWill you accept the battle\nchallenge?";
-gText_UR_ChatInvitation = "The other TRAINER invites you\nto chat.\pWill you accept the chat\ninvitation?";
-gText_UR_OfferToTradeMon = "There is an offer to trade your\nregistered Lv. {DYNAMIC 0} {DYNAMIC 1}\pin exchange for a\nLv. {DYNAMIC 2} {DYNAMIC 3}.\pWill you accept this trade\noffer?";
-gText_UR_OfferToTradeEgg = "There is an offer to trade your\nregistered EGG.\lWill you accept this trade offer?";
-gText_UR_ChatDropped = "The chat has been dropped.\p";
-gText_UR_OfferDeclined1 = "You declined the offer.\p";
-gText_UR_OfferDeclined2 = "You declined the offer.\p";
-gText_UR_ChatEnded = "The chat was ended.\p";
-sText_JoinChatMale = "Oh, hey! We're in a chat right now.\nWant to join us?";
-sText_PlayerJoinChatMale = "{STR_VAR_1}: Hey, {PLAYER}!\nWe're having a chat right now.\lWant to join us?";
-sText_JoinChatFemale = "Oh, hi! We're having a chat now.\nWould you like to join us?";
-sText_PlayerJoinChatFemale = "{STR_VAR_1}: Oh, hi, {PLAYER}!\nWe're having a chat now.\lWould you like to join us?";
-gText_UR_TrainerAppearsBusy = "……\nThe TRAINER appears to be busy…\p";
-sText_WaitForBattleMale = "A battle, huh?\nAll right, just give me some time.";
-sText_WaitForChatMale = "You want to chat, huh?\nSure, just wait a little.";
-sText_ShowTrainerCardMale = "Sure thing! As my “Greetings,”\nhere's my TRAINER CARD.";
-sText_WaitForBattleFemale = "A battle? Of course, but I need\ntime to get ready.";
-sText_WaitForChatFemale = "Did you want to chat?\nOkay, but please wait a moment.";
-sText_ShowTrainerCardFemale = "As my introduction, I'll show you\nmy TRAINER CARD.";
-sText_WaitForChatMale2 = "チャットだね！\nわかった ちょっと まってて！";
-sText_DoneWaitingBattleMale = "Thanks for waiting!\nLet's get our battle started!{PAUSE 60}";
-sText_DoneWaitingChatMale = "All right!\nLet's chat!{PAUSE 60}";
-sText_DoneWaitingBattleFemale = "Sorry I made you wait!\nLet's get started!{PAUSE 60}";
-sText_DoneWaitingChatFemale = "Sorry I made you wait!\nLet's chat.{PAUSE 60}";
-sText_TradeWillBeStarted = "The trade will be started.{PAUSE 60}";
-sText_BattleWillBeStarted = "The battle will be started.{PAUSE 60}";
-sText_EnteringChat = "Entering the chat…{PAUSE 60}";
-sText_BattleDeclinedMale = "Sorry! My POKéMON don't seem to\nbe feeling too well right now.\lLet me battle you another time.\p";
-sText_BattleDeclinedFemale = "I'm terribly sorry, but my POKéMON\naren't feeling well…\pLet's battle another time.\p";
-sText_ShowTrainerCardDeclinedMale = "Huh? My TRAINER CARD…\nWhere'd it go now?\lSorry! I'll show you another time!\p";
-sText_ShowTrainerCardDeclinedFemale = "Oh? Now where did I put my\nTRAINER CARD?…\lSorry! I'll show you later!\p";
-sText_IfYouWantToDoSomethingMale = "If you want to do something with\nme, just give me a shout!\p";
-sText_IfYouWantToDoSomethingFemale = "If you want to do something with\nme, don't be shy.\p";
-gText_UR_TrainerBattleBusy = "Whoops! Sorry, but I have to do\nsomething else.\lAnother time, okay?\p";
-gText_UR_NeedTwoMonsOfLevel30OrLower1 = "If you want to battle, you need\ntwo POKéMON that are below\lLv. 30.\p";
-gText_UR_NeedTwoMonsOfLevel30OrLower2 = "For a battle, you need two\nPOKéMON that are below Lv. 30.\p";
-sText_DeclineChatMale = "Oh, all right.\nCome see me anytime, okay?\p";
-stext_DeclineChatFemale = "Oh…\nPlease come by anytime.\p";
-sText_ChatDeclinedMale = "Oh, sorry!\nI just can't right this instant.\lLet's chat another time.\p";
-sText_ChatDeclinedFemale = "Oh, I'm sorry.\nI have too much to do right now.\lLet's chat some other time.\p";
-sText_YoureToughMale = "Whoa!\nI can tell you're pretty tough!\p";
-sText_UsedGoodMoveMale = "You used that move?\nThat's good strategy!\p";
-sText_BattleSurpriseMale = "Way to go!\nThat was an eye-opener!\p";
-sText_SwitchedMonsMale = "Oh! How could you use that\nPOKéMON in that situation?\p";
-sText_YoureToughFemale = "That POKéMON…\nIt's been raised really well!\p";
-sText_UsedGoodMoveFemale = "That's it!\nThis is the right move now!\p";
-sText_BattleSurpriseFemale = "That's awesome!\nYou can battle that way?\p";
-sText_SwitchedMonsFemale = "You have exquisite timing for\nswitching POKéMON!\p";
-sText_LearnedSomethingMale = "Oh, I see!\nThis is educational!\p";
-sText_ThatsFunnyMale = "Don't say anything funny anymore!\nI'm sore from laughing!\p";
-sText_RandomChatMale1 = "Oh?\nSomething like that happened.\p";
-sText_RandomChatMale2 = "Hmhm… What?\nSo is this what you're saying?\p";
-sText_LearnedSomethingFemale = "Is that right?\nI didn't know that.\p";
-sText_ThatsFunnyFemale = "Ahaha!\nWhat is that about?\p";
-sText_RandomChatFemale1 = "Yes, that's exactly it!\nThat's what I meant.\p";
-sText_RandomChatFemale2 = "In other words…\nYes! That's right!\p";
-sText_ShowedTrainerCardMale1 = "I'm just showing my TRAINER CARD\nas my way of greeting.\p";
-sText_ShowedTrainerCardMale2 = "I hope I get to know you better!\p";
-sText_ShowedTrainerCardFemale1 = "We're showing each other our\nTRAINER CARDS to get acquainted.\p";
-sText_ShowedTrainerCardFemale2 = "Glad to meet you.\nPlease don't be a stranger!\p";
-sText_MaleTraded1 = "Yeahah!\nI really wanted this POKéMON!\p";
-sText_MaleTraded2 = "Finally, a trade got me that\nPOKéMON I'd wanted a long time.\p";
-sText_FemaleTraded1 = "I'm trading POKéMON right now.\p";
-sText_FemaleTraded2 = "I finally got that POKéMON I\nwanted in a trade!\p";
-gText_UR_XCheckedTradingBoard = "{STR_VAR_1} checked the\nTRADING BOARD.\p";
-gText_UR_RegisterMonAtTradingBoard = "Welcome to the TRADING BOARD.\pYou may register your POKéMON\nand offer it up for a trade.\pWould you like to register one of\nyour POKéMON?";
-gText_UR_TradingBoardInfo = "This TRADING BOARD is used for\n"
-sText_ThankYouForRegistering = "こうかんけいじばん の とうろくが\nかんりょう しました\pごりよう ありがとう\nございました！\p";
-sText_NobodyHasRegistered = "けいじばんに だれも ポケモンを\nとうろく していません\p\n";
-gText_UR_ChooseRequestedMonType = "Please choose the type of POKéMON\nthat you would like in the trade.\n";
-gText_UR_WhichMonWillYouOffer = "Which of your party POKéMON will\nyou offer in trade?\p";
-gText_UR_RegistrationCanceled = "Registration has been canceled.\p";
-gText_UR_RegistraionCompleted = "Registration has been completed.\p";
-gText_UR_TradeCanceled = "The trade has been canceled.\p";
-gText_UR_CancelRegistrationOfMon = "Cancel the registration of your\nLv. {STR_VAR_2} {STR_VAR_1}?";
-gText_UR_CancelRegistrationOfEgg = "Cancel the registration of your\nEGG?";
-gText_UR_RegistrationCanceled2 = "The registration has been canceled.\p";
-sText_TradeTrainersWillBeListed = "こうかんを きぼうしているひとを\nひょうじします";
-sText_ChooseTrainerToTradeWith2 = "こうかん したい トレーナーを\nえらんで ください";
-gText_UR_AskTrainerToMakeTrade = "Would you like to ask {STR_VAR_1} to\nmake a trade?";
-sText_AwaitingResponseFromTrainer2 = "……\nあいての へんじを まっています";
-sText_NotRegisteredAMonForTrade = "あなたが こうかんにだす\nポケモンが とうろくされていません\p";
-gText_UR_DontHaveTypeTrainerWants = "You don't have a {STR_VAR_2}-type\nPOKéMON that {STR_VAR_1} wants.\p";
-gText_UR_DontHaveEggTrainerWants = "You don't have an EGG that\n{STR_VAR_1} wants.\p";
-sText_PlayerCantTradeForYourMon = "{STR_VAR_1} can't make a trade for\nyour POKéMON right now.\p";
-sText_CantTradeForPartnersMon = "You can't make a trade for\n{STR_VAR_1}'s POKéMON right now.\p";
-gText_UR_TradeOfferRejected = "Your trade offer was rejected.\p";
-gText_UR_EggTrade = "EGG TRADE";
-gText_UR_ChooseJoinCancel = "{DPAD_UPDOWN}CHOOSE  {A_BUTTON}JOIN  {B_BUTTON}CANCEL";
-gText_UR_ChooseTrainer = "Please choose a TRAINER.";
-sText_ChooseTrainerSingleBattle = "Please choose a TRAINER for\na SINGLE BATTLE.";
-sText_ChooseTrainerDoubleBattle = "Please choose a TRAINER for\na DOUBLE BATTLE.";
-sText_ChooseLeaderMultiBattle = "Please choose the LEADER\nfor a MULTI BATTLE.";
-sText_ChooseTrainerToTradeWith = "Please choose the TRAINER to\ntrade with.";
-sText_ChooseTrainerToShareWonderCards = "Please choose the TRAINER who is\nsharing WONDER CARDS.";
-sText_ChooseTrainerToShareWonderNews = "Please choose the TRAINER who is\nsharing WONDER NEWS.";
-sText_ChooseLeaderPokemonJump = "Jump with mini POKéMON!\nPlease choose the LEADER.";
-sText_ChooseLeaderBerryCrush = "BERRY CRUSH!\nPlease choose the LEADER.";
-sText_ChooseLeaderBerryPicking = "DODRIO BERRY-PICKING!\nPlease choose the LEADER.";
-gText_UR_SearchingForWirelessSystemWait = "Searching for a WIRELESS\nCOMMUNICATION SYSTEM. Wait...";
-sText_MustHaveTwoMonsForDoubleBattle = "ダブルバトルでは 2ひき いじょうの\nポケモンが ひつようです\p";
-gText_UR_AwaitingPlayersResponse = "Awaiting {STR_VAR_1}'s response…";
-gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait = "{STR_VAR_1} has been asked to register\nyou as a member. Please wait.";
-gText_UR_AwaitingResponseFromWirelessSystem = "Awaiting a response from the\nWIRELESS COMMUNICATION SYSTEM.";
-sText_PleaseWaitForOtherTrainersToGather = "ほかの さんかしゃが そろうまで\nしょうしょう おまちください";
-sText_NoCardsSharedRightNow = "No CARDS appear to be shared \nright now.";
-sText_NoNewsSharedRightNow = "No NEWS appears to be shared\nright now.";
-gText_UR_Battle = "BATTLE";
-gText_UR_Chat2 = "CHAT";
-gText_UR_Greetings = "GREETINGS";
-gText_UR_Exit = "EXIT";
-gText_UR_Exit2 = "EXIT";
-gText_UR_Info = "INFO";
-gText_UR_NameWantedOfferLv = "NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}LV.";
-gText_UR_SingleBattle = "SINGLE BATTLE";
-gText_UR_DoubleBattle = "DOUBLE BATTLE";
-gText_UR_MultiBattle = "MULTI BATTLE";
-gText_UR_PokemonTrades = "POKéMON TRADES";
-gText_UR_Chat = "CHAT";
-gText_UR_Cards = "CARDS";
-gText_UR_WonderCards = "WONDER CARDS";
-gText_UR_WonderNews = "WONDER NEWS";
-gText_UR_PokemonJump = "POKéMON JUMP";
-gText_UR_BerryCrush = "BERRY CRUSH";
-gText_UR_BerryPicking = "BERRY-PICKING";
-gText_UR_Search = "SEARCH";
-gText_UR_SpinTrade = "ぐるぐるこうかん";
-gText_UR_ItemTrade = "アイテムトレード";
-sText_ItsNormalCard = "It's a NORMAL CARD.";
-sText_ItsBronzeCard = "It's a BRONZE CARD!";
-sText_ItsCopperCard = "It's a COPPER CARD!";
-sText_ItsSilverCard = "It's a SILVER CARD!";
-sText_ItsGoldCard = "It's a GOLD CARD!";
-gText_UR_TrainerCardInfoPage1 = "This is {DYNAMIC 0} {DYNAMIC 1}'s\nTRAINER CARD…\l{DYNAMIC 2}\pPOKéDEX: {DYNAMIC 3}\nTIME:    {DYNAMIC 4}:{DYNAMIC 5}\p";
-gText_UR_TrainerCardInfoPage2 = "BATTLES: {DYNAMIC 0} WINS  {DYNAMIC 2} LOSSES\nTRADES:  {DYNAMIC 3} TIMES\p“{DYNAMIC 4} {DYNAMIC 5}\n{DYNAMIC 6} {DYNAMIC 7}”\p";
-sText_GladToMeetYouMale = "{DYNAMIC 1}: Glad to have met you!{PAUSE 60}";
-sText_GladToMeetYouFemale = "{DYNAMIC 1}: Glad to meet you!{PAUSE 60}";
-gText_UR_FinishedCheckingPlayersTrainerCard = "Finished checking {DYNAMIC 1}'s\nTRAINER CARD.{PAUSE 60}";
-sText_CanceledReadingCard = "Canceled reading the Card.";
-
 pokefirered_sym = [['02000000', 'g', '00000000', 'gHeap'],
 ['02000000', 'l', '00000000', 'EWRAM_START'],
 ['02000000', 'l', '00000000', 'ewram'],
@@ -64249,4 +59601,576 @@ pokefirered_sym = [['02000000', 'g', '00000000', 'gHeap'],
 ['08eafe80', 'g', '00000020', 'sEmptyPal'],
 ['08eafea0', 'g', '00000120', 'gBerryCrush_Crusher_Pal'],
 ['08eaffc0', 'g', '00000b1c', 'gBerryCrush_Crusher_Gfx'],
-['08eb0adc', 'g', '00000044', 'gBerryCrush_TextWindows_Tilemap']];
+['08eb0adc', 'g', '00000044', 'gBerryCrush_TextWindows_Tilemap']]
+
+charMap = {'À': 1, 'Á': 2, 'Â': 3, 'Ç': 4, 'È': 5, 'É': 6, 'Ê': 7, 'Ë': 8, 'Ì': 9, 'Î': 11, 'Ï': 12, 'Ò': 13, 'Ó': 14, 'Ô': 15, 'Œ': 16, 'Ù': 17, 'Ú': 18, 'Û': 19, 'Ñ': 20, 'ß': 21, 'à': 22, 'á': 23, 'ç': 25, 'è': 26, 'é': 27, '\\e': 27, 'ê': 28, 'ë': 29, 'ì': 30, 'î': 32, 'ï': 33, 'ò': 34, 'ó': 35, 'ô': 36, 'œ': 37, 'ù': 38, 'ú': 39, 'û': 40, 'ñ': 41, 'º': 42, 'ª': 43, '&': 45, '+': 46, '=': 53, ';': 54, '¿': 81, '¡': 82, 'Í': 90, '%': 91, '(': 92, ')': 93, 'â': 104, 'í': 111, '<': 133, '>': 134, '0': 161, '1': 162, '2': 163, '3': 164, '4': 165, '5': 166, '6': 167, '7': 168, '8': 169, '9': 170, '!': 171, '?': 172, '.': 173, '-': 174, '·': 175, '…': 176, '"': 177, '“': 177, '\\"': 178, '”': 178, '‘': 179, '’': 180, "'": 180, '♂': 181, '♀': 182, '\\$': 183, ',': 184, '*': 185, '/': 186, 'A': 187, 'B': 188, 'C': 189, 'D': 190, 'E': 191, 'F': 192, 'G': 193, 'H': 194, 'I': 195, 'J': 196, 'K': 197, 'L': 198, 'M': 199, 'N': 200, 'O': 201, 'P': 202, 'Q': 203, 'R': 204, 'S': 205, 'T': 206, 'U': 207, 'V': 208, 'W': 209, 'X': 210, 'Y': 211, 'Z': 212, 'a': 213, 'b': 214, 'c': 215, 'd': 216, 'e': 217, 'f': 218, 'g': 219, 'h': 220, 'i': 221, 'j': 222, 'k': 223, 'l': 224, 'm': 225, 'n': 226, 'o': 227, 'p': 228, 'q': 229, 'r': 230, 's': 231, 't': 232, 'u': 233, 'v': 234, 'w': 235, 'x': 236, 'y': 237, 'z': 238, '▶': 239, ':': 240, 'Ä': 241, 'Ö': 242, 'Ü': 243, 'ä': 244, 'ö': 245, 'ü': 246, '\\l': 250, '\\p': 251, '\\n': 254, '$': 255, ' ': 0}
+
+CharMap = {}
+for key, value in charMap.items():
+    CharMap[value] = key
+
+SpecialBuffersReverse = {
+	"SUPER_ER": "2C",
+	"LV": "34",
+	"PK": "53",
+	"PKMN": "5354",
+	"POKEBLOCK": "5556575859",
+	"UP_ARROW": "79",
+	"DOWN_ARROW": "7A",
+	"LEFT_ARROW": "7B",
+	"RIGHT_ARROW": "7C",
+	"SUPER_E": "84",
+	"SUPER_RE": "A0",
+	"TALL_PLUS": "FC0CFB",
+	"STRING": "FD",
+	"PLAYER": "FD01",
+	"STR_VAR_1": "FD02",
+	"STR_VAR_2": "FD03",
+	"STR_VAR_3": "FD04",
+	"KUN": "FD05",
+	"RIVAL": "FD06",
+	"VERSION": "FD07",
+	"EVIL_TEAM": "FD08",
+	"GOOD_TEAM": "FD09",
+	"EVIL_LEADER": "FD0A",
+	"GOOD_LEADER": "FD0B",
+	"EVIL_LEGENDARY": "FD0C",
+	"GOOD_LEGENDARY": "FD0D",
+	"UNKNOWN_STR": "FD00",
+	"ATTACKING_TRAINER": "FD08",
+	"DEFENDING_TRAINER": "FD09",
+	"ATTACKING_MON": "FD0C",
+	"DEFENDING_MON": "FD0D",
+	"B_BUFF1": "FD00",
+	"B_BUFF2": "FD01",
+	"B_COPY_VAR_1": "FD02",
+	"B_COPY_VAR_2": "FD03",
+	"B_COPY_VAR_3": "FD04",
+	"B_PLAYER_MON1_NAME": "FD05",
+	"B_OPPONENT_MON1_NAME": "FD06",
+	"B_PLAYER_MON2_NAME": "FD07",
+	"B_OPPONENT_MON2_NAME": "FD08",
+	"B_LINK_PLAYER_MON1_NAME": "FD09",
+	"B_LINK_OPPONENT_MON1_NAME": "FD0A",
+	"B_LINK_PLAYER_MON2_NAME": "FD0B",
+	"B_LINK_OPPONENT_MON2_NAME": "FD0C",
+	"B_ATK_NAME_WITH_PREFIX_MON1": "FD0D",
+	"B_ATK_PARTNER_NAME": "FD0E",
+	"B_ATK_NAME_WITH_PREFIX": "FD0F",
+	"B_DEF_NAME_WITH_PREFIX": "FD10",
+	"B_EFF_NAME_WITH_PREFIX": "FD11",
+	"B_ACTIVE_NAME_WITH_PREFIX": "FD12",
+	"B_SCR_ACTIVE_NAME_WITH_PREFIX": "FD13",
+	"B_CURRENT_MOVE": "FD14",
+	"B_LAST_MOVE": "FD15",
+	"B_LAST_ITEM": "FD16",
+	"B_LAST_ABILITY": "FD17",
+	"B_ATK_ABILITY": "FD18",
+	"B_DEF_ABILITY": "FD19",
+	"B_SCR_ACTIVE_ABILITY": "FD1A",
+	"B_EFF_ABILITY": "FD1B",
+	"B_TRAINER1_CLASS": "FD1C",
+	"B_TRAINER1_NAME": "FD1D",
+	"B_LINK_PLAYER_NAME": "FD1E",
+	"B_LINK_PARTNER_NAME": "FD1F",
+	"B_LINK_OPPONENT1_NAME": "FD20",
+	"B_LINK_OPPONENT2_NAME": "FD21",
+	"B_LINK_SCR_TRAINER_NAME": "FD22",
+	"B_PLAYER_NAME": "FD23",
+	"B_TRAINER1_LOSE_TEXT": "FD24",
+	"B_TRAINER1_WIN_TEXT": "FD25",
+	"B_26": "FD26",
+	"B_PC_CREATOR_NAME": "FD27",
+	"B_ATK_PREFIX1": "FD28",
+	"B_DEF_PREFIX1": "FD29",
+	"B_ATK_PREFIX2": "FD2A",
+	"B_DEF_PREFIX2": "FD2B",
+	"B_ATK_PREFIX3": "FD2C",
+	"B_DEF_PREFIX3": "FD2D",
+	"B_TRAINER2_LOSE_TEXT": "FD2E",
+	"B_TRAINER2_WIN_TEXT": "FD2F",
+	"B_BUFF3": "FD30",
+	"NAME_END": "FC00",
+	"DYNAMIC": "F7",
+	"COLOR": "FC01",
+	"HIGHLIGHT": "FC02",
+	"SHADOW": "FC03",
+	"COLOR_HIGHLIGHT_SHADOW": "FC04",
+	"PALETTE": "FC05",
+	"FONT": "FC06",
+	"RESET_FONT": "FC07",
+	"PAUSE": "FC08",
+	"PAUSE_UNTIL_PRESS": "FC09",
+	"WAIT_SE": "FC0A",
+	"PLAY_BGM": "FC0B",
+	"ESCAPE": "FC0C",
+	"SHIFT_RIGHT": "FC0D",
+	"SHIFT_DOWN": "FC0E",
+	"FILL_WINDOW": "FC0F",
+	"PLAY_SE": "FC10",
+	"CLEAR": "FC11",
+	"SKIP": "FC12",
+	"CLEAR_TO": "FC13",
+	"MIN_LETTER_SPACING": "FC14",
+	"JPN": "FC15",
+	"ENG": "FC16",
+	"PAUSE_MUSIC": "FC17",
+	"RESUME_MUSIC": "FC18",
+	"FONT_SMALL": "FC0600",
+	"FONT_NORMAL_COPY_1": "FC0601",
+	"FONT_NORMAL": "FC0602",
+	"FONT_NORMAL_COPY_2": "FC0603",
+	"FONT_MALE": "FC0604",
+	"FONT_FEMALE": "FC0605",
+	"TRANSPARENT": "00",
+	"WHITE": "01",
+	"DARK_GRAY": "02",
+	"LIGHT_GRAY": "03",
+	"RED": "04",
+	"LIGHT_RED": "05",
+	"GREEN": "06",
+	"LIGHT_GREEN": "07",
+	"BLUE": "08",
+	"LIGHT_BLUE": "09",
+	"DYNAMIC_COLOR1": "0A",
+	"DYNAMIC_COLOR2": "0B",
+	"DYNAMIC_COLOR3": "0C",
+	"DYNAMIC_COLOR4": "0D",
+	"DYNAMIC_COLOR5": "0E",
+	"DYNAMIC_COLOR6": "0F",
+	"MUS_DUMMY": "0000",
+	"SE_USE_ITEM": "0100",
+	"SE_PC_LOGIN": "0200",
+	"SE_PC_OFF": "0300",
+	"SE_PC_ON": "0400",
+	"SE_SELECT": "0500",
+	"SE_WIN_OPEN": "0600",
+	"SE_WALL_HIT": "0700",
+	"SE_RS_DOOR": "0800",
+	"SE_EXIT": "0900",
+	"SE_LEDGE": "0A00",
+	"SE_BIKE_BELL": "0B00",
+	"SE_NOT_EFFECTIVE": "0C00",
+	"SE_EFFECTIVE": "0D00",
+	"SE_SUPER_EFFECTIVE": "0E00",
+	"SE_BALL_OPEN": "0F00",
+	"SE_FAINT": "1000",
+	"SE_FLEE": "1100",
+	"SE_SLIDING_DOOR": "1200",
+	"SE_SHIP": "1300",
+	"SE_BANG": "1400",
+	"SE_PIN": "1500",
+	"SE_BOO": "1600",
+	"SE_BALL": "1700",
+	"SE_CONTEST_PLACE": "1800",
+	"SE_SUCCESS": "1900",
+	"SE_FAILURE": "1A00",
+	"SE_EXP": "1B00",
+	"SE_BIKE_HOP": "1C00",
+	"SE_SWITCH": "1D00",
+	"SE_CLICK": "1E00",
+	"SE_FU_ZAKU": "1F00",
+	"SE_CONTEST_CONDITION_LOSE": "2000",
+	"SE_LAVARIDGE_FALL_WARP": "2100",
+	"SE_ICE_STAIRS": "2200",
+	"SE_ICE_BREAK": "2300",
+	"SE_ICE_CRACK": "2400",
+	"SE_FALL": "2500",
+	"SE_UNLOCK": "2600",
+	"SE_WARP_IN": "2700",
+	"SE_WARP_OUT": "2800",
+	"SE_REPEL": "2900",
+	"SE_ROTATING_GATE": "2A00",
+	"SE_TRUCK_MOVE": "2B00",
+	"SE_TRUCK_STOP": "2C00",
+	"SE_TRUCK_UNLOAD": "2D00",
+	"SE_TRUCK_DOOR": "2E00",
+	"SE_BERRY_BLENDER": "2F00",
+	"SE_SAVE": "3000",
+	"SE_BALL_BOUNCE_1": "3100",
+	"SE_BALL_BOUNCE_2": "3200",
+	"SE_BALL_BOUNCE_3": "3300",
+	"SE_BALL_BOUNCE_4": "3400",
+	"SE_BALL_TRADE": "3500",
+	"SE_BALL_THROW": "3600",
+	"SE_NOTE_C": "3700",
+	"SE_NOTE_D": "3800",
+	"SE_NOTE_E": "3900",
+	"SE_NOTE_F": "3A00",
+	"SE_NOTE_G": "3B00",
+	"SE_NOTE_A": "3C00",
+	"SE_NOTE_B": "3D00",
+	"SE_NOTE_C_HIGH": "3E00",
+	"SE_PUDDLE": "3F00",
+	"SE_BRIDGE_WALK": "4000",
+	"SE_ITEMFINDER": "4100",
+	"SE_DING_DONG": "4200",
+	"SE_BALLOON_RED": "4300",
+	"SE_BALLOON_BLUE": "4400",
+	"SE_BALLOON_YELLOW": "4500",
+	"SE_BREAKABLE_DOOR": "4600",
+	"SE_MUD_BALL": "4700",
+	"SE_FIELD_POISON": "4800",
+	"SE_ESCALATOR": "4900",
+	"SE_THUNDERSTORM": "4A00",
+	"SE_THUNDERSTORM_STOP": "4B00",
+	"SE_DOWNPOUR": "4C00",
+	"SE_DOWNPOUR_STOP": "4D00",
+	"SE_RAIN": "4E00",
+	"SE_RAIN_STOP": "4F00",
+	"SE_THUNDER": "5000",
+	"SE_THUNDER2": "5100",
+	"SE_ELEVATOR": "5200",
+	"SE_LOW_HEALTH": "5300",
+	"SE_EXP_MAX": "5400",
+	"SE_ROULETTE_BALL": "5500",
+	"SE_ROULETTE_BALL2": "5600",
+	"SE_TAILLOW_WING_FLAP": "5700",
+	"SE_RS_SHOP": "5800",
+	"SE_CONTEST_HEART": "5900",
+	"SE_CONTEST_CURTAIN_RISE": "5A00",
+	"SE_CONTEST_CURTAIN_FALL": "5B00",
+	"SE_CONTEST_ICON_CHANGE": "5C00",
+	"SE_CONTEST_ICON_CLEAR": "5D00",
+	"SE_CONTEST_MONS_TURN": "5E00",
+	"SE_SHINY": "5F00",
+	"SE_INTRO_BLAST": "6000",
+	"SE_MUGSHOT": "6100",
+	"SE_APPLAUSE": "6200",
+	"SE_VEND": "6300",
+	"SE_ORB": "6400",
+	"SE_DEX_SCROLL": "6500",
+	"SE_DEX_PAGE": "6600",
+	"SE_POKENAV_ON": "6700",
+	"SE_POKENAV_OFF": "6800",
+	"SE_DEX_SEARCH": "6900",
+	"SE_EGG_HATCH": "6A00",
+	"SE_BALL_TRAY_ENTER": "6B00",
+	"SE_BALL_TRAY_BALL": "6C00",
+	"SE_BALL_TRAY_EXIT": "6D00",
+	"SE_GLASS_FLUTE": "6E00",
+	"SE_M_THUNDERBOLT": "6F00",
+	"SE_M_THUNDERBOLT2": "7000",
+	"SE_M_HARDEN": "7100",
+	"SE_M_NIGHTMARE": "7200",
+	"SE_M_VITAL_THROW": "7300",
+	"SE_M_VITAL_THROW2": "7400",
+	"SE_M_BUBBLE": "7500",
+	"SE_M_BUBBLE2": "7600",
+	"SE_M_BUBBLE3": "7700",
+	"SE_M_RAIN_DANCE": "7800",
+	"SE_M_CUT": "7900",
+	"SE_M_STRING_SHOT": "7A00",
+	"SE_M_STRING_SHOT2": "7B00",
+	"SE_M_ROCK_THROW": "7C00",
+	"SE_M_GUST": "7D00",
+	"SE_M_GUST2": "7E00",
+	"SE_M_DOUBLE_SLAP": "7F00",
+	"SE_M_DOUBLE_TEAM": "8000",
+	"SE_M_RAZOR_WIND": "8100",
+	"SE_M_ICY_WIND": "8200",
+	"SE_M_THUNDER_WAVE": "8300",
+	"SE_M_COMET_PUNCH": "8400",
+	"SE_M_MEGA_KICK": "8500",
+	"SE_M_MEGA_KICK2": "8600",
+	"SE_M_CRABHAMMER": "8700",
+	"SE_M_JUMP_KICK": "8800",
+	"SE_M_FLAME_WHEEL": "8900",
+	"SE_M_FLAME_WHEEL2": "8A00",
+	"SE_M_FLAMETHROWER": "8B00",
+	"SE_M_FIRE_PUNCH": "8C00",
+	"SE_M_TOXIC": "8D00",
+	"SE_M_SACRED_FIRE": "8E00",
+	"SE_M_SACRED_FIRE2": "8F00",
+	"SE_M_EMBER": "9000",
+	"SE_M_TAKE_DOWN": "9100",
+	"SE_M_BLIZZARD": "9200",
+	"SE_M_BLIZZARD2": "9300",
+	"SE_M_SCRATCH": "9400",
+	"SE_M_VICEGRIP": "9500",
+	"SE_M_WING_ATTACK": "9600",
+	"SE_M_FLY": "9700",
+	"SE_M_SAND_ATTACK": "9800",
+	"SE_M_RAZOR_WIND2": "9900",
+	"SE_M_BITE": "9A00",
+	"SE_M_HEADBUTT": "9B00",
+	"SE_M_SURF": "9C00",
+	"SE_M_HYDRO_PUMP": "9D00",
+	"SE_M_WHIRLPOOL": "9E00",
+	"SE_M_HORN_ATTACK": "9F00",
+	"SE_M_TAIL_WHIP": "A000",
+	"SE_M_MIST": "A100",
+	"SE_M_POISON_POWDER": "A200",
+	"SE_M_BIND": "A300",
+	"SE_M_DRAGON_RAGE": "A400",
+	"SE_M_SING": "A500",
+	"SE_M_PERISH_SONG": "A600",
+	"SE_M_PAY_DAY": "A700",
+	"SE_M_DIG": "A800",
+	"SE_M_DIZZY_PUNCH": "A900",
+	"SE_M_SELF_DESTRUCT": "AA00",
+	"SE_M_EXPLOSION": "AB00",
+	"SE_M_ABSORB_2": "AC00",
+	"SE_M_ABSORB": "AD00",
+	"SE_M_SCREECH": "AE00",
+	"SE_M_BUBBLE_BEAM": "AF00",
+	"SE_M_BUBBLE_BEAM2": "B000",
+	"SE_M_SUPERSONIC": "B100",
+	"SE_M_BELLY_DRUM": "B200",
+	"SE_M_METRONOME": "B300",
+	"SE_M_BONEMERANG": "B400",
+	"SE_M_LICK": "B500",
+	"SE_M_PSYBEAM": "B600",
+	"SE_M_FAINT_ATTACK": "B700",
+	"SE_M_SWORDS_DANCE": "B800",
+	"SE_M_LEER": "B900",
+	"SE_M_SWAGGER": "BA00",
+	"SE_M_SWAGGER2": "BB00",
+	"SE_M_HEAL_BELL": "BC00",
+	"SE_M_CONFUSE_RAY": "BD00",
+	"SE_M_SNORE": "BE00",
+	"SE_M_BRICK_BREAK": "BF00",
+	"SE_M_GIGA_DRAIN": "C000",
+	"SE_M_PSYBEAM2": "C100",
+	"SE_M_SOLAR_BEAM": "C200",
+	"SE_M_PETAL_DANCE": "C300",
+	"SE_M_TELEPORT": "C400",
+	"SE_M_MINIMIZE": "C500",
+	"SE_M_SKETCH": "C600",
+	"SE_M_SWIFT": "C700",
+	"SE_M_REFLECT": "C800",
+	"SE_M_BARRIER": "C900",
+	"SE_M_DETECT": "CA00",
+	"SE_M_LOCK_ON": "CB00",
+	"SE_M_MOONLIGHT": "CC00",
+	"SE_M_CHARM": "CD00",
+	"SE_M_CHARGE": "CE00",
+	"SE_M_STRENGTH": "CF00",
+	"SE_M_HYPER_BEAM": "D000",
+	"SE_M_WATERFALL": "D100",
+	"SE_M_REVERSAL": "D200",
+	"SE_M_ACID_ARMOR": "D300",
+	"SE_M_SANDSTORM": "D400",
+	"SE_M_TRI_ATTACK": "D500",
+	"SE_M_TRI_ATTACK2": "D600",
+	"SE_M_ENCORE": "D700",
+	"SE_M_ENCORE2": "D800",
+	"SE_M_BATON_PASS": "D900",
+	"SE_M_MILK_DRINK": "DA00",
+	"SE_M_ATTRACT": "DB00",
+	"SE_M_ATTRACT2": "DC00",
+	"SE_M_MORNING_SUN": "DD00",
+	"SE_M_FLATTER": "DE00",
+	"SE_M_SAND_TOMB": "DF00",
+	"SE_M_GRASSWHISTLE": "E000",
+	"SE_M_SPIT_UP": "E100",
+	"SE_M_DIVE": "E200",
+	"SE_M_EARTHQUAKE": "E300",
+	"SE_M_TWISTER": "E400",
+	"SE_M_SWEET_SCENT": "E500",
+	"SE_M_YAWN": "E600",
+	"SE_M_SKY_UPPERCUT": "E700",
+	"SE_M_STAT_INCREASE": "E800",
+	"SE_M_HEAT_WAVE": "E900",
+	"SE_M_UPROAR": "EA00",
+	"SE_M_HAIL": "EB00",
+	"SE_M_COSMIC_POWER": "EC00",
+	"SE_M_TEETER_DANCE": "ED00",
+	"SE_M_STAT_DECREASE": "EE00",
+	"SE_M_HAZE": "EF00",
+	"SE_M_HYPER_BEAM2": "F000",
+	"SE_DOOR": "F100",
+	"SE_CARD_FLIP": "F200",
+	"SE_CARD_FLIPPING": "F300",
+	"SE_CARD_OPEN": "F400",
+	"SE_BAG_CURSOR": "F500",
+	"SE_BAG_POCKET": "F600",
+	"SE_BALL_CLICK": "F700",
+	"SE_SHOP": "F800",
+	"SE_SS_ANNE_HORN": "F900",
+	"SE_HELP_OPEN": "FA00",
+	"SE_HELP_CLOSE": "FB00",
+	"SE_HELP_ERROR": "FC00",
+	"SE_DEOXYS_MOVE": "FD00",
+	"SE_POKE_JUMP_SUCCESS": "FE00",
+	"SE_POKE_JUMP_FAILURE": "FF00",
+	"MUS_HEAL": "0001",
+	"MUS_LEVEL_UP": "0101",
+	"MUS_OBTAIN_ITEM": "0201",
+	"MUS_EVOLVED": "0301",
+	"MUS_OBTAIN_BADGE": "0401",
+	"MUS_OBTAIN_TMHM": "0501",
+	"MUS_OBTAIN_BERRY": "0601",
+	"MUS_EVOLUTION_INTRO": "0701",
+	"MUS_EVOLUTION": "0801",
+	"MUS_RS_VS_GYM_LEADER": "0901",
+	"MUS_RS_VS_TRAINER": "0A01",
+	"MUS_SCHOOL": "0B01",
+	"MUS_SLOTS_JACKPOT": "0C01",
+	"MUS_SLOTS_WIN": "0D01",
+	"MUS_MOVE_DELETED": "0E01",
+	"MUS_TOO_BAD": "0F01",
+	"MUS_FOLLOW_ME": "1001",
+	"MUS_GAME_CORNER": "1101",
+	"MUS_ROCKET_HIDEOUT": "1201",
+	"MUS_GYM": "1301",
+	"MUS_JIGGLYPUFF": "1401",
+	"MUS_INTRO_FIGHT": "1501",
+	"MUS_TITLE": "1601",
+	"MUS_CINNABAR": "1701",
+	"MUS_LAVENDER": "1801",
+	"MUS_HEAL_UNUSED": "1901",
+	"MUS_CYCLING": "1A01",
+	"MUS_ENCOUNTER_ROCKET": "1B01",
+	"MUS_ENCOUNTER_GIRL": "1C01",
+	"MUS_ENCOUNTER_BOY": "1D01",
+	"MUS_HALL_OF_FAME": "1E01",
+	"MUS_VIRIDIAN_FOREST": "1F01",
+	"MUS_MT_MOON": "2001",
+	"MUS_POKE_MANSION": "2101",
+	"MUS_CREDITS": "2201",
+	"MUS_ROUTE1": "2301",
+	"MUS_ROUTE24": "2401",
+	"MUS_ROUTE3": "2501",
+	"MUS_ROUTE11": "2601",
+	"MUS_VICTORY_ROAD": "2701",
+	"MUS_VS_GYM_LEADER": "2801",
+	"MUS_VS_TRAINER": "2901",
+	"MUS_VS_WILD": "2A01",
+	"MUS_VS_CHAMPION": "2B01",
+	"MUS_PALLET": "2C01",
+	"MUS_OAK_LAB": "2D01",
+	"MUS_OAK": "2E01",
+	"MUS_POKE_CENTER": "2F01",
+	"MUS_SS_ANNE": "3001",
+	"MUS_SURF": "3101",
+	"MUS_POKE_TOWER": "3201",
+	"MUS_SILPH": "3301",
+	"MUS_FUCHSIA": "3401",
+	"MUS_CELADON": "3501",
+	"MUS_VICTORY_TRAINER": "3601",
+	"MUS_VICTORY_WILD": "3701",
+	"MUS_VICTORY_GYM_LEADER": "3801",
+	"MUS_VERMILLION": "3901",
+	"MUS_PEWTER": "3A01",
+	"MUS_ENCOUNTER_RIVAL": "3B01",
+	"MUS_RIVAL_EXIT": "3C01",
+	"MUS_DEX_RATING": "3D01",
+	"MUS_OBTAIN_KEY_ITEM": "3E01",
+	"MUS_CAUGHT_INTRO": "3F01",
+	"MUS_PHOTO": "4001",
+	"MUS_GAME_FREAK": "4101",
+	"MUS_CAUGHT": "4201",
+	"MUS_NEW_GAME_INSTRUCT": "4301",
+	"MUS_NEW_GAME_INTRO": "4401",
+	"MUS_NEW_GAME_EXIT": "4501",
+	"MUS_POKE_JUMP": "4601",
+	"MUS_UNION_ROOM": "4701",
+	"MUS_NET_CENTER": "4801",
+	"MUS_MYSTERY_GIFT": "4901",
+	"MUS_BERRY_PICK": "4A01",
+	"MUS_SEVII_CAVE": "4B01",
+	"MUS_TEACHY_TV_SHOW": "4C01",
+	"MUS_SEVII_ROUTE": "4D01",
+	"MUS_SEVII_DUNGEON": "4E01",
+	"MUS_SEVII_123": "4F01",
+	"MUS_SEVII_45": "5001",
+	"MUS_SEVII_67": "5101",
+	"MUS_POKE_FLUTE": "5201",
+	"MUS_VS_DEOXYS": "5301",
+	"MUS_VS_MEWTWO": "5401",
+	"MUS_VS_LEGEND": "5501",
+	"MUS_ENCOUNTER_GYM_LEADER": "5601",
+	"MUS_ENCOUNTER_DEOXYS": "5701",
+	"MUS_TRAINER_TOWER": "5801",
+	"MUS_SLOW_PALLET": "5901",
+	"MUS_TEACHY_TV_MENU": "5A01",
+	"A_BUTTON": "F800",
+	"B_BUTTON": "F801",
+	"L_BUTTON": "F802",
+	"R_BUTTON": "F803",
+	"START_BUTTON": "F804",
+	"SELECT_BUTTON": "F805",
+	"DPAD_UP": "F806",
+	"DPAD_DOWN": "F807",
+	"DPAD_LEFT": "F808",
+	"DPAD_RIGHT": "F809",
+	"DPAD_UPDOWN": "F80A",
+	"DPAD_LEFTRIGHT": "F80B",
+	"DPAD_ANY": "F80C",
+	"UP_ARROW_2": "F900",
+	"DOWN_ARROW_2": "F901",
+	"LEFT_ARROW_2": "F902",
+	"RIGHT_ARROW_2": "F903",
+	"PLUS": "F904",
+	"LV_2": "F905",
+	"PP": "F906",
+	"ID": "F907",
+	"NO": "F908",
+	"UNDERSCORE": "F909",
+	"CIRCLE_1": "F90A",
+	"CIRCLE_2": "F90B",
+	"CIRCLE_3": "F90C",
+	"CIRCLE_4": "F90D",
+	"CIRCLE_5": "F90E",
+	"CIRCLE_6": "F90F",
+	"CIRCLE_7": "F910",
+	"CIRCLE_8": "F911",
+	"CIRCLE_9": "F912",
+	"LEFT_PAREN": "F913",
+	"RIGHT_PAREN": "F914",
+	"CIRCLE_DOT": "F915",
+	"TRIANGLE": "F916",
+	"BIG_MULT_X": "F917",
+	"EMOJI_UNDERSCORE": "F9D0",
+	"EMOJI_PIPE": "F9D1",
+	"EMOJI_HIGHBAR": "F9D2",
+	"EMOJI_TILDE": "F9D3",
+	"EMOJI_LEFT_PAREN": "F9D4",
+	"EMOJI_RIGHT_PAREN": "F9D5",
+	"EMOJI_UNION": "F9D6",
+	"EMOJI_GREATER_THAN": "F9D7",
+	"EMOJI_LEFT_EYE": "F9D8",
+	"EMOJI_RIGHT_EYE": "F9D9",
+	"EMOJI_AT": "F9DA",
+	"EMOJI_SEMICOLON": "F9DB",
+	"EMOJI_PLUS": "F9DC",
+	"EMOJI_MINUS": "F9DD",
+	"EMOJI_EQUALS": "F9DE",
+	"EMOJI_SPIRAL": "F9DF",
+	"EMOJI_TONGUE": "F9E0",
+	"EMOJI_TRIANGLE_OUTLINE": "F9E1",
+	"EMOJI_ACUTE": "F9E2",
+	"EMOJI_GRAVE": "F9E3",
+	"EMOJI_CIRCLE": "F9E4",
+	"EMOJI_TRIANGLE": "F9E5",
+	"EMOJI_SQUARE": "F9E6",
+	"EMOJI_HEART": "F9E7",
+	"EMOJI_MOON": "F9E8",
+	"EMOJI_NOTE": "F9E9",
+	"EMOJI_BALL": "F9EA",
+	"EMOJI_BOLT": "F9EB",
+	"EMOJI_LEAF": "F9EC",
+	"EMOJI_FIRE": "F9ED",
+	"EMOJI_WATER": "F9EE",
+	"EMOJI_LEFT_FIST": "F9EF",
+	"EMOJI_RIGHT_FIST": "F9F0",
+	"EMOJI_BIGWHEEL": "F9F1",
+	"EMOJI_SMALLWHEEL": "F9F2",
+	"EMOJI_SPHERE": "F9F3",
+	"EMOJI_IRRITATED": "F9F4",
+	"EMOJI_MISCHIEVOUS": "F9F5",
+	"EMOJI_HAPPY": "F9F6",
+	"EMOJI_ANGRY": "F9F7",
+	"EMOJI_SURPRISED": "F9F8",
+	"EMOJI_BIGSMILE": "F9F9",
+	"EMOJI_EVIL": "F9FA",
+	"EMOJI_TIRED": "F9FB",
+	"EMOJI_NEUTRAL": "F9FC",
+	"EMOJI_SHOCKED": "F9FD",
+	"EMOJI_BIGANGER": "F9FE",
+}
+
+SpecialBuffers = {}
+for key, value in SpecialBuffersReverse.items():
+    SpecialBuffers[value] = key
