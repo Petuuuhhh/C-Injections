@@ -17,144 +17,171 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'SSAnne_Deck_Text_ShipDepartingSoon':
-        if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
-            if string in TextScripts:
-                constructedString = ''
-                constructedString2 = ''
-                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                ordROM = ord(rom.read(1))
-                num = 0
-                num2 = 0
-                try:
-                    while ordROM != 255:
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                        ordROM2 = rom.read(2)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
-                        ordROM3 = rom.read(3)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
-                        ordROM5 = rom.read(5)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
-                        ordROM_2 = ''
-                        ordROM_3 = ''
-                        ordROM_5 = ''
-                        for ordROM2_1 in list(ordROM2):
-                            if ordROM2_1 < 16:
-                                ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
-                        for ordROM3_1 in list(ordROM3):
-                            if ordROM3_1 < 16:
-                                ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
-                        for ordROM5_1 in list(ordROM5):
-                            if ordROM5_1 < 16:
-                                ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
-                        if ordROM in CharMap and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
-                            num2 = 0
-                            if num > -1:
-                                constructedString += CharMap[ordROM]
-                            num = num + 1
-                            offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+        if string == 'SSAnne_2F_Corridor_Text_RivalIntro' or string == 'SSAnne_2F_Corridor_Text_RivalDefeat':
+            if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
+                if string in TextScripts:
+                    constructedString = ''
+                    constructedString2 = ''
+                    rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                    ordROM = ord(rom.read(1))
+                    num = 0
+                    num2 = 0
+                    try:
+                        while ordROM != 255:
                             rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                            ordROM = ord(rom.read(1))
-                        else:
-                            num = 0
-                            if num2 > -1:
-                                if ordROM_2 in SpecialBuffers:
-                                    # print(2, SpecialBuffers[ordROM_2])
-                                    constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
-                                elif ordROM_3 in SpecialBuffers:
-                                    # print(3, SpecialBuffers[ordROM_3])
-                                    constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
-                                elif ordROM_5 in SpecialBuffers:
-                                    # print(5, SpecialBuffers[ordROM_5])
-                                    constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
-                            num2 = num2 + 1
+                            ordROM2 = rom.read(2)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                            ordROM3 = rom.read(3)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                            ordROM5 = rom.read(5)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                            ordROM_2 = ''
+                            ordROM_3 = ''
+                            ordROM_5 = ''
+                            for ordROM2_1 in list(ordROM2):
+                                if ordROM2_1 < 16:
+                                    ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
+                            for ordROM3_1 in list(ordROM3):
+                                if ordROM3_1 < 16:
+                                    ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
+                            for ordROM5_1 in list(ordROM5):
+                                if ordROM5_1 < 16:
+                                    ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
+                            if ordROM in CharMap and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
+                                num2 = 0
+                                if num > -1:
+                                    constructedString += CharMap[ordROM]
+                                num = num + 1
+                                offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                            else:
+                                num = 0
+                                if num2 > -1:
+                                    if ordROM_2 in SpecialBuffers:
+                                        # print(2, SpecialBuffers[ordROM_2])
+                                        constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
+                                    elif ordROM_3 in SpecialBuffers:
+                                        # print(3, SpecialBuffers[ordROM_3])
+                                        constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
+                                    elif ordROM_5 in SpecialBuffers:
+                                        # print(5, SpecialBuffers[ordROM_5])
+                                        constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
+                                num2 = num2 + 1
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                    except:
+                        pass
+                    rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
+                    ordROM = ord(rom.read(1))
+                    num = 0
+                    num2 = 0
+                    try:
+                        while ordROM != 255:
+                            global returnValue
+                            if ordROM < 16:
+                                returnValue = '0' + hex(ordROM).replace('0x', '').upper()
+                            else:
+                                returnValue = hex(ordROM).replace('0x', '').upper()
                             rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                            ordROM = ord(rom.read(1))
-                except:
-                    pass
-                rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
-                ordROM = ord(rom.read(1))
-                num = 0
-                num2 = 0
-                try:
-                    while ordROM != 255:
-                        global returnValue
-                        if ordROM < 16:
-                            returnValue = '0' + hex(ordROM).replace('0x', '').upper()
+                            ordROM2 = rom.read(2)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
+                            ordROM3 = rom.read(3)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
+                            ordROM5 = rom.read(5)
+                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
+                            ordROM_2 = ''
+                            ordROM_3 = ''
+                            ordROM_5 = ''
+                            for ordROM2_1 in list(ordROM2):
+                                if ordROM2_1 < 16:
+                                    ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
+                            for ordROM3_1 in list(ordROM3):
+                                if ordROM3_1 < 16:
+                                    ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
+                            for ordROM5_1 in list(ordROM5):
+                                if ordROM5_1 < 16:
+                                    ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
+                                else:
+                                    ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
+                            if returnValue in Japanese and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
+                                num2 = 0
+                                if num > -1:
+                                    constructedString2 += Japanese[returnValue]
+                                num = num + 1
+                                rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
+                                rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                            else:
+                                num = 0
+                                if num2 > -1:
+                                    if ordROM_2 in SpecialBuffers:
+                                        # print(2, SpecialBuffers[ordROM_2])
+                                        constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
+                                    elif ordROM_3 in SpecialBuffers:
+                                        # print(3, SpecialBuffers[ordROM_3])
+                                        constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
+                                    elif ordROM_5 in SpecialBuffers:
+                                        # print(5, SpecialBuffers[ordROM_5])
+                                        constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                        offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
+                                num2 = num2 + 1
+                                rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
+                                ordROM = ord(rom.read(1))
+                    except:
+                        pass
+                    langs = {}
+                    langs2 = {}
+                    translated_text = ''
+                    try:
+                        for lang in detect_langs(constructedString):
+                            langs[str(lang).split(':')[0]] = str(lang).split(':')[1]
+                        for lang in detect_langs(constructedString2):
+                            langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
+                        if 'en' not in langs and 'ja' in langs2:
+                            constructedString = constructedString2
+                            if '[' in constructedString:
+                                splitted_text = constructedString.split('[')
+                                for splitted_text_section in splitted_text:
+                                    if ']' in splitted_text_section:
+                                        splitted_text_2 = splitted_text_section.split(']')
+                                        for splitted_text_section_2 in splitted_text_2:
+                                            if splitted_text_section_2 not in SpecialBuffersReverse:
+                                                if ' ' in splitted_text_section_2:
+                                                    splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                    splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                    if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
+                                                        try:
+                                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                        except:
+                                                            pass
+                                            elif splitted_text_section_2 in SpecialBuffersReverse:
+                                                if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                    translated_text += '[' + splitted_text_section_2 + '] '
+                                                elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_section_2 + ']'
+                                                elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                    translated_text += ' [' + splitted_text_section_2 + '] '
+                                                else:
+                                                    translated_text += '[' + splitted_text_section_2 + ']'
                         else:
-                            returnValue = hex(ordROM).replace('0x', '').upper()
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                        ordROM2 = rom.read(2)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 2)
-                        ordROM3 = rom.read(3)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 3)
-                        ordROM5 = rom.read(5)
-                        rom.seek(int(('0x' + offset_actual), 16) - 0x08000000 - 5)
-                        ordROM_2 = ''
-                        ordROM_3 = ''
-                        ordROM_5 = ''
-                        for ordROM2_1 in list(ordROM2):
-                            if ordROM2_1 < 16:
-                                ordROM_2 += '0' + str(hex(ordROM2_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_2 += str(hex(ordROM2_1)).replace('0x', '').upper()
-                        for ordROM3_1 in list(ordROM3):
-                            if ordROM3_1 < 16:
-                                ordROM_3 += '0' + str(hex(ordROM3_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_3 += str(hex(ordROM3_1)).replace('0x', '').upper()
-                        for ordROM5_1 in list(ordROM5):
-                            if ordROM5_1 < 16:
-                                ordROM_5 += '0' + str(hex(ordROM5_1)).replace('0x', '').upper()
-                            else:
-                                ordROM_5 += str(hex(ordROM5_1)).replace('0x', '').upper()
-                        if returnValue in Japanese and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
-                            num2 = 0
-                            if num > -1:
-                                constructedString2 += Japanese[returnValue]
-                            num = num + 1
-                            rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
-                            rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
-                            ordROM = ord(rom.read(1))
-                        else:
-                            num = 0
-                            if num2 > -1:
-                                if ordROM_2 in SpecialBuffers:
-                                    # print(2, SpecialBuffers[ordROM_2])
-                                    constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
-                                elif ordROM_3 in SpecialBuffers:
-                                    # print(3, SpecialBuffers[ordROM_3])
-                                    constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
-                                elif ordROM_5 in SpecialBuffers:
-                                    # print(5, SpecialBuffers[ordROM_5])
-                                    constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
-                                    offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
-                            num2 = num2 + 1
-                            rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
-                            ordROM = ord(rom.read(1))
-                except:
-                    pass
-                langs = {}
-                langs2 = {}
-                translated_text = ''
-                try:
-                    for lang in detect_langs(constructedString):
-                        langs[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    for lang in detect_langs(constructedString2):
-                        langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    if 'en' not in langs and 'ja' in langs2:
-                        constructedString = constructedString2
+                            translated_text = constructedString
+                    except:
                         if '[' in constructedString:
                             splitted_text = constructedString.split('[')
                             for splitted_text_section in splitted_text:
@@ -179,350 +206,333 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                 translated_text += ' [' + splitted_text_section_2 + '] '
                                             else:
                                                 translated_text += '[' + splitted_text_section_2 + ']'
-                    else:
-                        translated_text = constructedString
-                except:
-                    if '[' in constructedString:
-                        splitted_text = constructedString.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 not in SpecialBuffersReverse:
-                                        if ' ' in splitted_text_section_2:
-                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
-                                                try:
-                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                                except:
-                                                    pass
-                                    elif splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
-                                        else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
-                    else:
-                        translated_text = constructedString
-                constructedString = translated_text
-                if constructedString and constructedString[-1] == '$':
-                    text = constructedString[:-1]
-                    text_newline = text.replace('\n', '\\n')
-                    if '[' in text:
-                        splitted_text = text_newline.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 not in SpecialBuffersReverse:
-                                        if ' ' in splitted_text_section_2:
-                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
-                                                try:
-                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                                except:
-                                                    pass
-                                    elif splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
-                                        else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
-                    if translated_text != '':
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                            wrapped_text = ''
-                            numWidth = 0
-                            width_ = 0
-                            actualWidth = 0
-                            limit = 39
-                            count = 0
-                            charIndex = 0
-                            while charIndex < len(sanitizedText):
-                                char = sanitizedText[charIndex]
-                                wrapped_text = wrapped_text + char
-                                width_ = width_ + 1
-                                if width_ >= limit and count % 2 == 0:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                elif width_ >= limit and count % 2 == 1:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                if char == '[':
-                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                    wrapped_text = wrapped_text + stringStore + ']'
-                                    if stringStore in nineWidths:
-                                        limit = limit + 9
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    else:
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    width_ = width_ + 2
-                                charIndex = charIndex + 1
-                            print(1, string)
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
-                        except:
+                        else:
+                            translated_text = constructedString
+                    constructedString = translated_text
+                    if constructedString and constructedString[-1] == '$':
+                        text = constructedString[:-1]
+                        text_newline = text.replace('\n', '\\n')
+                        if '[' in text:
+                            splitted_text = text_newline.split('[')
+                            for splitted_text_section in splitted_text:
+                                if ']' in splitted_text_section:
+                                    splitted_text_2 = splitted_text_section.split(']')
+                                    for splitted_text_section_2 in splitted_text_2:
+                                        if splitted_text_section_2 not in SpecialBuffersReverse:
+                                            if ' ' in splitted_text_section_2:
+                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
+                                                    try:
+                                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                    except:
+                                                        pass
+                                        elif splitted_text_section_2 in SpecialBuffersReverse:
+                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                translated_text += '[' + splitted_text_section_2 + '] '
+                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                translated_text += ' [' + splitted_text_section_2 + ']'
+                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                translated_text += ' [' + splitted_text_section_2 + '] '
+                                            else:
+                                                translated_text += '[' + splitted_text_section_2 + ']'
+                        if translated_text != '':
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
                             try:
-                                print(2, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                            except:
-                                pass
-                    else:
-                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                            wrapped_text = ''
-                            numWidth = 0
-                            width_ = 0
-                            actualWidth = 0
-                            limit = 39
-                            count = 0
-                            charIndex = 0
-                            while charIndex < len(sanitizedText):
-                                char = sanitizedText[charIndex]
-                                wrapped_text = wrapped_text + char
-                                width_ = width_ + 1
-                                if width_ >= limit and count % 2 == 0:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                elif width_ >= limit and count % 2 == 1:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                if char == '[':
-                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                    wrapped_text = wrapped_text + stringStore + ']'
-                                    if stringStore in nineWidths:
-                                        limit = limit + 9
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    else:
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    width_ = width_ + 2
-                                charIndex = charIndex + 1
-                            print(3, string)
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
-                        except:
-                            try:
-                                print(4, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                            except:
-                                pass
-                elif constructedString and constructedString[-1] != '$':
-                    text = constructedString
-                    text_newline = text.replace('\n', '\\n')
-                    translated_text = ''
-                    if '[' in text:
-                        splitted_text = text_newline.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 not in SpecialBuffersReverse:
-                                        if ' ' in splitted_text_section_2:
-                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
-                                                try:
-                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                                except:
-                                                    pass
-                                    elif splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                                wrapped_text = ''
+                                numWidth = 0
+                                width_ = 0
+                                actualWidth = 0
+                                limit = 39
+                                count = 0
+                                charIndex = 0
+                                newCharIndex = 0
+                                wrapped_text_store = ''
+                                while charIndex < len(sanitizedText):
+                                    char = sanitizedText[charIndex]
+                                    wrapped_text = wrapped_text + char
+                                    width_ = width_ + 1
+                                    if width_ >= limit and count % 2 == 0:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    elif width_ >= limit and count % 2 == 1:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    if char == '[':
+                                        stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                        wrapped_text = wrapped_text + stringStore + ']'
+                                        if stringStore in nineWidths:
+                                            limit = limit + 9
+                                            charIndex = charIndex + len(stringStore) + 1
                                         else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
-                    if translated_text != '':
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                            wrapped_text = ''
-                            numWidth = 0
-                            width_ = 0
-                            actualWidth = 0
-                            limit = 39
-                            count = 0
-                            charIndex = 0
-                            newCharIndex = 0
-                            wrapped_text_store = ''
-                            while charIndex < len(sanitizedText):
-                                char = sanitizedText[charIndex]
-                                wrapped_text = wrapped_text + char
-                                width_ = width_ + 1
-                                if width_ >= limit and count % 2 == 0:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                elif width_ >= limit and count % 2 == 1:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                if char == '[':
-                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                    wrapped_text = wrapped_text + stringStore + ']'
-                                    if stringStore in nineWidths:
-                                        limit = limit + 9
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    else:
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    width_ = width_ + 2
-                                charIndex = charIndex + 1
-                            print(5, string)
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
-                        except:
-                            print(6, string)
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                    else:
-                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                            wrapped_text = ''
-                            numWidth = 0
-                            width_ = 0
-                            actualWidth = 0
-                            limit = 39
-                            count = 0
-                            charIndex = 0
-                            while charIndex < len(sanitizedText):
-                                char = sanitizedText[charIndex]
-                                wrapped_text = wrapped_text + char
-                                width_ = width_ + 1
-                                if width_ >= limit and count % 2 == 0:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                elif width_ >= limit and count % 2 == 1:
-                                    for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
-                                        if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
-                                        elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                            wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
-                                            newCharIndex = charIndex + 3
-                                    wrapped_text = wrapped_text_store
-                                    width_ = 0
-                                    limit = 39
-                                    count = count + 1
-                                if char == '[':
-                                    stringStore = sanitizedText[charIndex + 1:].split(']')[0]
-                                    wrapped_text = wrapped_text + stringStore + ']'
-                                    if stringStore in nineWidths:
-                                        limit = limit + 9
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    else:
-                                        charIndex = charIndex + len(stringStore) + 1
-                                    width_ = width_ + 2
-                                charIndex = charIndex + 1
-                            print(7, string)
-                            f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
-                        except:
-                            try:
-                                print(8, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
+                                    charIndex = charIndex + 1
+                                print(1, string)
+                                f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
                             except:
-                                pass
+                                try:
+                                    print(2, string)
+                                    f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                except:
+                                    pass
+                        else:
+                            translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            try:
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                                wrapped_text = ''
+                                numWidth = 0
+                                width_ = 0
+                                actualWidth = 0
+                                limit = 39
+                                count = 0
+                                charIndex = 0
+                                newCharIndex = 0
+                                wrapped_text_store = ''
+                                while charIndex < len(sanitizedText):
+                                    char = sanitizedText[charIndex]
+                                    wrapped_text = wrapped_text + char
+                                    width_ = width_ + 1
+                                    if width_ >= limit and count % 2 == 0:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    elif width_ >= limit and count % 2 == 1:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    if char == '[':
+                                        stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                        wrapped_text = wrapped_text + stringStore + ']'
+                                        if stringStore in nineWidths:
+                                            limit = limit + 9
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        else:
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
+                                    charIndex = charIndex + 1
+                                print(3, string)
+                                f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
+                            except:
+                                try:
+                                    print(4, string)
+                                    f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                except:
+                                    pass
+                    elif constructedString and constructedString[-1] != '$':
+                        text = constructedString
+                        text_newline = text.replace('\n', '\\n')
+                        translated_text = ''
+                        if '[' in text:
+                            splitted_text = text_newline.split('[')
+                            for splitted_text_section in splitted_text:
+                                if ']' in splitted_text_section:
+                                    splitted_text_2 = splitted_text_section.split(']')
+                                    for splitted_text_section_2 in splitted_text_2:
+                                        if splitted_text_section_2 not in SpecialBuffersReverse:
+                                            if ' ' in splitted_text_section_2:
+                                                splitted_text_3 = splitted_text_section_2.split(' ')[0]
+                                                splitted_text_4 = splitted_text_section_2.split(' ')[1]
+                                                if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
+                                                    try:
+                                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                                    except:
+                                                        pass
+                                        elif splitted_text_section_2 in SpecialBuffersReverse:
+                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
+                                                translated_text += '[' + splitted_text_section_2 + '] '
+                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
+                                                translated_text += ' [' + splitted_text_section_2 + ']'
+                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
+                                                translated_text += ' [' + splitted_text_section_2 + '] '
+                                            else:
+                                                translated_text += '[' + splitted_text_section_2 + ']'
+                        if translated_text != '':
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            try:
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                                wrapped_text = ''
+                                numWidth = 0
+                                width_ = 0
+                                actualWidth = 0
+                                limit = 39
+                                count = 0
+                                charIndex = 0
+                                newCharIndex = 0
+                                wrapped_text_store = ''
+                                while charIndex < len(sanitizedText):
+                                    char = sanitizedText[charIndex]
+                                    wrapped_text = wrapped_text + char
+                                    width_ = width_ + 1
+                                    if width_ >= limit and count % 2 == 0:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    elif width_ >= limit and count % 2 == 1:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    if char == '[':
+                                        stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                        wrapped_text = wrapped_text + stringStore + ']'
+                                        if stringStore in nineWidths:
+                                            limit = limit + 9
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        else:
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
+                                    charIndex = charIndex + 1
+                                print(5, string)
+                                f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
+                            except:
+                                print(6, string)
+                                try:
+                                    print(8, string)
+                                    f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                except:
+                                    pass
+                        else:
+                            translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
+                            line_endings = 'npl'
+                            line_endings_store = ''
+                            pos = 0
+                            try:
+                                for char in translated_text:
+                                    if char == '\\':
+                                        try:
+                                            if translated_text[pos + 1] in line_endings:
+                                                line_endings_store = line_endings_store + translated_text[pos + 1]
+                                        except:
+                                            pass
+                                    pos = pos + 1
+                                sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                                wrapped_text = ''
+                                numWidth = 0
+                                width_ = 0
+                                actualWidth = 0
+                                limit = 39
+                                count = 0
+                                charIndex = 0
+                                newCharIndex = 0
+                                wrapped_text_store = ''
+                                while charIndex < len(sanitizedText):
+                                    char = sanitizedText[charIndex]
+                                    wrapped_text = wrapped_text + char
+                                    width_ = width_ + 1
+                                    if width_ >= limit and count % 2 == 0:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    elif width_ >= limit and count % 2 == 1:
+                                        for text_index in range(len(wrapped_text[newCharIndex:].split(' '))):
+                                            if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
+                                            elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                newCharIndex = charIndex + 3
+                                        wrapped_text = wrapped_text_store
+                                        width_ = 0
+                                        limit = 39
+                                        count = count + 1
+                                    if char == '[':
+                                        stringStore = sanitizedText[charIndex + 1:].split(']')[0]
+                                        wrapped_text = wrapped_text + stringStore + ']'
+                                        if stringStore in nineWidths:
+                                            limit = limit + 9
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        else:
+                                            charIndex = charIndex + len(stringStore) + 1
+                                        width_ = width_ + 2
+                                    charIndex = charIndex + 1
+                                print(7, string)
+                                f.write('#org @' + string + '\n' + wrapped_text + '\n\n')
+                            except:
+                                try:
+                                    print(8, string)
+                                    f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                except:
+                                    pass
 f.close()
