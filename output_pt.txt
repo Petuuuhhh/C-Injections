@@ -2740,3 +2740,183 @@ DICAS PARA O TREINADOR GUARD SPEC. protege\nPOK\eMON de movimentos de redução de
 #org @CeladonCity_Text_PrizeExchangeSignPortuguese
 MOEDAS trocadas por prêmios! TROCA DE PRÊMIOS
 
+#org @CeladonCity_Text_GameCornerSignPortuguese
+ROCKET GAME CORNER O playground para os\nadultos!
+
+#org @CeladonCity_Text_ScaldedTongueOnTeaPortuguese
+Aaaagh, ai… Queimei minha língua! Essa\nsimpática velhinha da MANSÃO me deu um\ppouco de CHÁ. Mas estava fervendo! Tenho\nque esfriar para beber.
+
+#org @Text_SoftboiledTeachPortuguese
+Olá! Tenho visto você por aí, mas nunca\ntive oportunidade de conversar. Deve ser\psorte que finalmente nos uniu. Gostaria\nde comemorar ensinando você o movimento\pSOFTBOILED.
+
+#org @Text_SoftboiledDeclinedPortuguese
+Estarei sempre de olho em você. Espero\nque possamos conversar novamente.
+
+#org @Text_SoftboiledWhichMonPortuguese
+Então, quem é o POK\eMON que tem a chance\nde aprender SOFTBOILED?
+
+#org @Text_SoftboiledTaughtPortuguese
+Te desejo muita sorte!
+
+#org @CeladonCity_Text_SomeoneStoleSilphScopePortuguese
+Oh, o que devo fazer... Alguém roubou nosso\nSILPH SCOPE. O ladrão veio correndo nesta\pdireção, tenho certeza disso. Mas eu o\nperdi de vista! Para onde ele foi?
+
+#org @FuchsiaCity_Text_DidYouTrySafariGamePortuguese
+Você experimentou o SAFARI GAME? Existem\nalguns POK\eMON raros que só podem ser\pcapturados lá.
+
+#org @FuchsiaCity_Text_SafariZoneZooInFrontPortuguese
+A ZONA SAFARI tem um zoológico na frente\nda entrada. atrás fica o JOGO SAFARI para\pcapturar POK\eMON.
+
+#org @FuchsiaCity_Text_WheresSaraPortuguese
+ERIK: Onde está SARA? Eu disse que a encontraria\naqui.
+
+#org @FuchsiaCity_Text_ItemBallInTherePortuguese
+Aquela bola de item aí… Você estava querendo\nisso? Eu também! …Huh? Isso é um POK\eMON?
+
+#org @FuchsiaCity_Text_CitySignPortuguese
+CIDADE FÚCSIA Eis! É Rosa Paixão!
+
+#org @FuchsiaCity_Text_SafariZoneSignPortuguese
+POK\eMON PARADISE ZONA SAFARI
+
+#org @FuchsiaCity_Text_SafariGameSignPortuguese
+JOGO SAFARI POK\eMON-U-CATCH!
+
+#org @FuchsiaCity_Text_WardensHomeSignPortuguese
+ZONA SAFARI CASA DO GUARDA
+
+#org @FuchsiaCity_Text_SafariZoneOfficeSignPortuguese
+POK\eMON PARADISE! Bem-vindo ao SAFARI\nZONE! SAFARI ZONE OFFICE
+
+#org @FuchsiaCity_Text_GymSignPortuguese
+FUCHSIA CITY POK\eMON GYM LÍDER: KOGA O\nMestre Ninja Venenoso
+
+#org @FuchsiaCity_Text_ChanseySignPortuguese
+Nome: CHANSEY Apanhar um depende do acaso.
+
+#org @FuchsiaCity_Text_VoltorbSignPortuguese
+Nome: VOLTORB A própria imagem de uma POK\e\nBALL.
+
+#org @FuchsiaCity_Text_KangaskhanSignPortuguese
+Nome: KANGASKHAN Um POK\eMON materno que\ncria seus jovens em uma bolsa na barriga.
+
+#org @FuchsiaCity_Text_SlowpokeSignPortuguese
+Nome: SLOWPOKE Amigável e muito lento.
+
+#org @FuchsiaCity_Text_LaprasSignPortuguese
+Nome: LAPRAS Também conhecido como o rei\ndos mares.
+
+#org @FuchsiaCity_Text_OmanyteSignPortuguese
+Nome: OMANYTE Um POK\eMON extremamente\nraro que foi regenerado de um fóssil.
+
+#org @FuchsiaCity_Text_KabutoSignPortuguese
+Nome: KABUTO Um POK\eMON extremamente raro\nque foi regenerado de um fóssil.
+
+#org @Text_SubstituteTeachPortuguese
+Ah, eu gostaria de ser um bebê KANGASKHAN.\nEu adoraria ser um substituto para o bebê...\pE me aconchegar na barriga bolsa da barriga\nda mãe KANGASKHAN. Mas apenas POK\eMON\ppode usar a tetécnica SUBSTITUTO...\ Quer\nque eu ensine SUBSTITUTO para enhum dos\pseus POK\eMON?
+
+#org @Text_SubstituteDeclinedPortuguese
+Ah, é mesmo? SUBSTITUTE parece tão divertido…
+
+#org @Text_SubstituteWhichMonPortuguese
+Qual POK\eMON quer aprender SUBSTITUIR?
+
+#org @Text_SubstituteTaughtPortuguese
+Rapaz, o que eu daria para entrar a bolsa\nabdominal KANGASKHAN...
+
+#org @FuchsiaCity_Text_MyFatherIsGymLeaderPortuguese
+Meu pai é o LÍDER DE GINÁSTICA desta cidade.\nEstou treinando para usar POISON POK\eMON\assim\pcomo meu pai.
+
+#org @CinnabarIsland_Text_DoorIsLockedPortuguese
+A porta está trancada…
+
+#org @CinnabarIsland_Text_BlaineLivedHereSinceBeforeLabPortuguese
+BLAINE, do CINNABAR GYM, é um sujeito estranho.\nEle mora na ilha desde muito antes da construção\pdo LAB.
+
+#org @CinnabarIsland_Text_ScientistsExperimentInMansionPortuguese
+Cientistas conduzem experimentos  no prédio\nincendiado. Você sabe, aquele que eles\pchamam de MANSÃO POK\eMON.
+
+#org @CinnabarIsland_Text_IslandSignPortuguese
+ILHA DE CINNABAR A Cidade Ardente do Desejo\nArdente
+
+#org @CinnabarIsland_Text_PokemonLabPortuguese
+Olá[SE_M_REFLECT]
+
+#org @CinnabarIsland_Text_GymSignPortuguese
+CINNABAR ISLAND POK\eMON GYM LÍDER: BLAINE\nO Mestre do Quiz Cabeça Quente!
+
+#org @CinnabarIsland_Text_HeyIfItIsntPlayerPortuguese
+Hein? Ei, se não for [B_BUFF2]À!
+
+#org @CinnabarIsland_Text_ComeWithMeToOneIslandPortuguese
+Olha, sou eu, BILL. Faz tempo que não nos\nvemos! Espero que você ainda esteja usando\pmeu sistema de PC. Bem, escute, já que\nnos encontramos aqui, que tal passar um\ptempo comigo? Há uma pequena ilha no extremo\nsul chamado UMA ILHA. Um amigo me convidou,\pentão estou indo para lá. Que tal? Você\ntem vontade de ir comigo?
+
+#org @CinnabarIsland_Text_AllRightLetsGoPortuguese
+Tudo bem então. Vamos!
+
+#org @CinnabarIsland_Text_IllBeWaitingInPokeCenterPortuguese
+O quê, você está muito ocupado? Bem, tudo\nbem. O barco ainda não chegou de qualquer\pmaneira. Estarei esperando no POK\eMON\nCENTER ali. Venha me ver quando terminar\\pseu negócio aqui.
+
+#org @CinnabarIsland_Text_MyPalsBoatArrivedPortuguese
+Parece que o barco do meu amigo também\nchegou. Ele o enviou especialmente aqui\ppara CINNABAR para me buscar.
+
+#org @CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgainPortuguese
+Ei, não foi um cruzeiro longo? Meu amigo\nCELIO pareceu gostar da sua companhia.\pTenho certeza que ele lhe daria as boas-vindas\nse você o visitasse novamente. Se você\ptiver um TRI-PASS, você  sempre posso pegar\numa balsa do VERMILION PORT. Tudo bem,\pobrigado pela sua companhia!
+
+#org @SaffronCity_Text_WhatDoYouWantGetLostPortuguese
+O que você quer? Se perca!
+
+#org @SaffronCity_Text_BossTakeTownForTeamRocketPortuguese
+BOSS disse que tomará esta cidade em nome\nde TEAM ROCKET!
+
+#org @SaffronCity_Text_DontGetDefiantOrIllHurtYouPortuguese
+Não seja desafiador! Ou terei que machucar\nvocê!
+
+#org @SaffronCity_Text_SaffronBelongsToTeamRocketPortuguese
+SAFFRON pertence à EQUIPE ROCKET!
+
+#org @SaffronCity_Text_CriminalLifeMakesMeFeelAlivePortuguese
+Minha vida como criminosa me faz sentir\ntão vivo!
+
+#org @SaffronCity_Text_WatchWhereYoureWalkingPortuguese
+Ai! Observe por onde você está andando!
+
+#org @SaffronCity_Text_WeCanExploitMonsAroundWorldPortuguese
+Com o SILPH sob controle, podemos explorar\nPOK\eMON em todo o mundo! Vamos ficar muito\pricos, sim!
+
+#org @SaffronCity_Text_YouBeatTeamRocketPortuguese
+Você venceu o TEAM ROCKET sozinho? Isso\né incrível!
+
+#org @SaffronCity_Text_SafeToGoOutAgainPortuguese
+Sim! A EQUIPE ROCKET se foi! É seguro sair\nde novo!
+
+#org @SaffronCity_Text_PeopleComingBackToSaffronPortuguese
+As pessoas fugiram daqui em massa quando\naqueles ROCKETS chegaram. Eles deveriam\pestar voltando para SAFFRON agora.
+
+#org @SaffronCity_Text_FlewHereOnPidgeotPortuguese
+Voei até aqui no meu PIDGEOT quando li\nsobre o SILPH. Já acabou? Perdi a ação\pda mídia…
+
+#org @SaffronCity_Text_PidgeotPortuguese
+PIDGEOT: Bi bibii!
+
+#org @SaffronCity_Text_SawRocketBossEscapingPortuguese
+Eu vi o ROCKET BOSS escapando do prédio\nde SILPH.
+
+#org @SaffronCity_Text_ImASecurityGuardPortuguese
+Sou segurança. Crianças suspeitas eu não\ndeixo entrar!
+
+#org @SaffronCity_Text_HesTakingASnoozePortuguese
+... Ronco... Hah! Ele está tirando uma\nsoneca!
+
+#org @SaffronCity_Text_CitySignPortuguese
+CIDADE DE AÇAFRÃO Brilhante, Terra Dourada\ndo Comércio
+
+#org @SaffronCity_Text_FightingDojoPortuguese
+DOJO DE LUTA
+
+#org @SaffronCity_Text_GymSignPortuguese
+SAFFRON CITY POK\eMON GYM LÍDER: SABRINA\nA Mestre do PSYCHIC POK\eMON!
+
+#org @SaffronCity_Text_FullHealCuresStatusPortuguese
+DICAS DO TREINADOR FULL HEAL cura todas\nas doenças como queimaduras, paralisia,\penvenenamento, congelamento e sono. Custa\num pouco mais, mas é mais conveniente do\pque comprar outros itens.
+
