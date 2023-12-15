@@ -707,12 +707,16 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             ordROM = ord(rom.read(1))
                 except:
                     pass
-                english = GoogleTranslator(source='auto', target='en').translate(constructedString2)
                 langs = {}
+                langs2 = {}
                 try:
                     for lang in detect_langs(constructedString):
                         langs[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    if 'en' not in langs or int(float(langs['en'])) < 70:
+                    for lang in detect_langs(constructedString2):
+                        langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
+                    if 'en' not in langs and 'ja' in langs2:
+                        english = GoogleTranslator(source='auto', target='en').translate(constructedString2)
+                        print(string, constructedString, constructedString2, english, langs, langs2)
                         constructedString = english
                 except:
                     constructedString = constructedString
@@ -736,11 +740,26 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                                 except:
                                                     pass
                                             else:
-                                                translated_text += '[' + splitted_text_section_2 + ']'
+                                                if constructedString.split('[')[0] == '':
+                                                    translated_text += '[' + splitted_text_section_2 + '] '
+                                                elif constructedString.split(']')[0] == '':
+                                                    translated_text += ' [' + splitted_text_section_2 + ']'
+                                                else:
+                                                    translated_text += ' [' + splitted_text_section_2 + '] '
                                         else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
+                                            if constructedString.split('[')[0] == '':
+                                                translated_text += '[' + splitted_text_section_2 + '] '
+                                            elif constructedString.split(']')[0] == '':
+                                                translated_text += ' [' + splitted_text_section_2 + ']'
+                                            else:
+                                                translated_text += ' [' + splitted_text_section_2 + '] '
                                     else:
-                                        translated_text += '[' + splitted_text_section_2 + ']'
+                                        if constructedString.split('[')[0] == '':
+                                            translated_text += '[' + splitted_text_section_2 + '] '
+                                        elif constructedString.split(']')[0] == '':
+                                            translated_text += ' [' + splitted_text_section_2 + ']'
+                                        else:
+                                            translated_text += ' [' + splitted_text_section_2 + '] '
                     if translated_text != '':
                         line_endings = 'npl'
                         line_endings_store = ''
