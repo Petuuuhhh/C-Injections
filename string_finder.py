@@ -143,7 +143,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
                                     offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
                                 else:
-                                    offset_actual = hex(int(offset_actual, 16) + int('01
+                                    offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                             num2 = num2 + 1
                             rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                             ordROM = ord(rom.read(1))
