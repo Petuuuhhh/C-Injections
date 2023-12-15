@@ -614,13 +614,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     # line_endings_store = ''
                     # pos = 0
                     # for char in translated_text:
-                        # if char == '\\':
-                            # try:
-                                # if translated_text[pos + 1] in line_endings:
-                                    # line_endings_store = line_endings_store + translated_text[pos + 1]
-                            # except:
-                                # pass
-                        # pos = pos + 1
+                        # try:
+                            # for char in translated_text:
+                                # if char == '\\':
+                                    # try:
+                                        # if translated_text[pos + 1] in line_endings:
+                                            # line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    # except:
+                                        # pass
+                                # pos = pos + 1
+                        # except:
+                            # pass
                     # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                     # wrapped_text = ''
                     # numWidth = 0
@@ -672,14 +676,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     # line_endings = 'npl'
                     # line_endings_store = ''
                     # pos = 0
-                    # for char in translated_text:
-                        # if char == '\\':
-                            # try:
-                                # if translated_text[pos + 1] in line_endings:
-                                    # line_endings_store = line_endings_store + translated_text[pos + 1]
-                            # except:
-                                # pass
-                        # pos = pos + 1
+                    # try:
+                        # for char in translated_text:
+                            # if char == '\\':
+                                # try:
+                                    # if translated_text[pos + 1] in line_endings:
+                                        # line_endings_store = line_endings_store + translated_text[pos + 1]
+                                # except:
+                                    # pass
+                            # pos = pos + 1
+                    # except:
+                        # pass
                     # sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                     # wrapped_text = ''
                     # numWidth = 0
@@ -831,14 +838,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
                         # num = 0
                         # wrapped_text_store = ''
@@ -858,14 +868,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         wrapped_text = wrapper.wrap(translated_text.replace('\\n', '').replace('\\p', '').replace('\\l', ''))
                         # num = 0
                         # wrapped_text_store = ''
@@ -927,14 +940,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
@@ -985,14 +1001,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
@@ -1123,14 +1142,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
@@ -1181,14 +1203,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
@@ -1258,14 +1283,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
@@ -1316,14 +1344,17 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         line_endings = 'npl'
                         line_endings_store = ''
                         pos = 0
-                        for char in translated_text:
-                            if char == '\\':
-                                try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
+                        try:
+                            for char in translated_text:
+                                if char == '\\':
+                                    try:
+                                        if translated_text[pos + 1] in line_endings:
+                                            line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    except:
+                                        pass
+                                pos = pos + 1
+                        except:
+                            pass
                         sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
                         wrapped_text = ''
                         numWidth = 0
