@@ -5,4 +5,4 @@ for symbol in pokefirered_sym:
     offset = symbol[0][2:]
     offset_actual = symbol[0]
     if string in TextScripts:
-        print(string + ' 08' + offset)
+        print(string + 'Portuguese 08' + offset)

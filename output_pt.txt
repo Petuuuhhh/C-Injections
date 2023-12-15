@@ -1,0 +1,78 @@
+#org @ViridianForest_Text_FriendsItchingToBattle
+Eu vim aqui com alguns amigos para pegar\nalguns BUG POK\eMON! Eles estão todos ansiosos\ppara entrar em algumas batalhas POK\eMON!
+
+#org @ViridianForest_Text_RickIntro
+Ei! Você tem POK\eMON! Vamos! Vamos batalhar\ncontra eles!
+
+#org @ViridianForest_Text_RickDefeat
+Não! CATERPIE não consegue hackear!
+
+#org @ViridianForest_Text_RickPostBattle
+Ssh! Você vai espantar os insetos. Outra\nhora, ok?
+
+#org @ViridianForest_Text_DougIntro
+Ei! Você não pode improvisar se for um\nPOK\eMON TRAINER!
+
+#org @ViridianForest_Text_DougDefeat
+Hein? Fiquei sem POK\eMON!
+
+#org @ViridianForest_Text_DougPostBattle
+Isso fede totalmente! Vou capturar alguns\nmais fortes!
+
+#org @ViridianForest_Text_SammyIntro
+Ei, espere! Qual é a pressa? Por que a\npressa?
+
+#org @ViridianForest_Text_SammyDefeat
+Eu dou! Você é bom nisso!
+
+#org @ViridianForest_Text_SammyPostBattle
+Às vezes, você pode encontrar coisas no\nchão. Estou procurando as coisas que deixei\pcair. Pode me ajudar?
+
+#org @ViridianForest_Text_AnthonyIntro
+Posso ser pequeno, mas não vou gostar se\nvocê pegar leve comigo!
+
+#org @ViridianForest_Text_AnthonyDefeat
+Ah, amor. Nada deu certo.
+
+#org @ViridianForest_Text_AnthonyPostBattle
+perdi parte da minha mesada...
+
+#org @ViridianForest_Text_CharlieIntro
+Você sabia que POK\eMON evolui?
+
+#org @ViridianForest_Text_CharlieDefeat
+Ah! Estou perdido!
+
+#org @ViridianForest_Text_CharliePostBattle
+BUG POK\eMON evoluem rapidamente. Eles\nsão muito divertidos!
+
+#org @ViridianForest_Text_RanOutOfPokeBalls
+Eu estava jogando POK\e BOLAS para pegar\nPOK\eMON e acabei correndo. É por isso\pque você nunca pode ter muitas POK\e BOLAS.
+
+#org @ViridianForest_Text_AvoidGrassyAreasWhenWeak
+DICAS DO TREINADOR Se seus POK\eMON estiverem\nfracos e você quiser evitar batalhas, fique\plonge de áreas gramadas!
+
+#org @ViridianForest_Text_UseAntidoteForPoison
+Para veneno, use ANTÍDOTO! Adquira no POK\eMON\nMARTS!
+
+#org @ViridianForest_Text_ContactOakViaPCToRatePokedex
+DICAS DO TREINADOR Entre em contato com\no PROF. OAK através de um PC para avaliar\pseu POK\eDEX!
+
+#org @ViridianForest_Text_CantCatchOwnedMons
+DICAS DO TREINADOR Você não pode pegar\num POK\eMON que pertence a outra pessoa.\pJogue POK\e BOLAS apenas em POK\eMON selvagens\npara pegá-los!
+
+#org @ViridianForest_Text_WeakenMonsBeforeCapture
+DICAS DO TREINADOR Enfraqueça o POK\eMON\nantes de tentar capturar! Quando saudáveis,\peles podem escapar!
+
+#org @ViridianForest_Text_LeavingViridianForest
+DEIXANDO A FLORESTA VIRIDIANA CIDADE DE\nPEWTER À FRENTE
+
+#org @MtMoon_1F_Text_MarcosIntro
+UAU! Você me chocou! …Oh, você é apenas\numa criança!
+
+#org @MtMoon_1F_Text_MarcosDefeat
+Uau! Chocado de novo!
+
+#org @MtMoon_1F_Text_MarcosPostBattle
+Crianças como você não deveriam estar vagando\npor aqui no escuro.
+
