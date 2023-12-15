@@ -5845,3 +5845,645 @@ Aún no te resulta muy familiar. POK\eMON\nson bastante cautelosos cuando los rec
 #org @PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou
 À, no me gusta la forma en que te mira.\n¿Podrías intentar ser un poco más amable\pcon él?
 
+#org @PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuch
+…Um, no es fácil para mí decir esto, pero…\n¿Hay alguna razón por la cual tu POK\eMON\pte odiaría tanto?
+
+#org @PalletTown_RivalsHouse_Text_LovelyAndSweetClefairy
+“La encantadora y dulce CLEFAIRY”
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround
+É: Qué, es sóloÀ? El abuelo no está por\naquí.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting
+É: ¡Abuelo! ¡Estoy harto de esperar!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe
+É: ¡Oye! ¡Abuelo! ¡No es justo! ¿Qué hay\nde mí?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer
+É: Je, no necesito ser codicioso como tú.\n¡Soy maduro! Adelante, elige,
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen
+É: ¡Entonces me quedo con este!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak
+É recibió elÁ del PROF. ¡ROBLE!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher
+É: Mi POK\eMON parece mucho más duro que\nel tuyo.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons
+Es: espera,À! ¡Echemos un vistazo a nuestro\nPOK\eMON! ¡Vamos, te llevaré!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalDefeat
+¿QUÉ? ¡Increíble! ¡Elegí el POK\eMON equivocado!
+
+#org @Text_RivalVictory
+É: ¡Sí! ¿Soy genial o qué?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon
+É: ¡Está bien! ¡Haré mi batalla POK\eMON\npara fortalecerlo! ¡A! ¡Abuelo! ¡Te huele\pmás tarde!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGramps
+o
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor
+É: ¡Casi lo olvido! ¿Para qué me llamaste?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps
+É: ¡Está bien, abuelo! ¡Déjamelo todo a\nmí!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap
+À, odio decirlo, pero no serás necesario\npara esto. ¡Lo sé! ¡Le pediré prestado\pun MAPA DE LA CIUDAD a mi hermana! Le diré\nque no te preste uno, ¡A! ¡Jajaja! ¡No\pte molestes en venir a mi casa después\nde esto!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne
+É? Déjame pensar... Oh, es cierto, ¡te\ndije que vinieras! ¡Solo espera! Aquí,À.\pHay tres POK\eMON aquí. ¡Jaja! Los POK\eMON\nse guardan dentro de estas POK\e BOLAS.\pCuando era joven, era un ENTRENADOR de\nPOK\eMON serio. Pero ahora, en mi vejez,\psólo me quedan estos tres. Puedes quedarte\ncon uno. ¡Vamos, elige!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakBePatientRival
+É. ¡Tú también puedes tener uno!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose
+À. Dentro de esas tres POK\e BALLS están\nPOK\eMON. ¿Cuál elegirás para ti?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet
+OAK: ¡Oye! ¡No te vayas todavía!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander
+À, ¿estás reclamando el FIRE POK\eMON CHARMANDER?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle
+À, ¿te has decidido por el POK DE AGUA\eMON\nSQUIRTLE?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur
+¿Quieres ir con el GRASS POK\eMON BULBASAUR?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic
+¡Este POK\eMON es realmente bastante enérgico!
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak
+Recibi elÁ del PROF. ¡ROBLE!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon
+OAK: Si aparece un POK\eMON salvaje, tu\nPOK\eMON puede luchar contra él. Con él\pa tu lado, deberías poder llegar a la siguiente\nciudad.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow
+À, cría a tu joven POK\eMON haciéndolo\nluchar. Tiene que luchar para que crezca.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe
+À! ¿Cómo está mi antiguo POK\eMON? Bueno,\nparece que está cada vez más apegado a\pti. Debes tener talento como POK\eMON ENTRENADOR.\n¿Qué es eso? ¿Tienes algo para mí?
+
+#org @PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel
+À entregué el PAQUETE DE OAK.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered
+¡Ah!  ¡Es la POK\e BALL personalizada!\nLa tenía en pedido. ¡Gracias!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwo
+OAK: ¡Oh, claro! Tengo una petición para\nustedes dos.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk
+En el escritorio está mi invento, el POK\eDEX!\nRegistra automáticamente datos sobre POK\eMON\pque has visto o capturado. ¡Es una enciclopedia\nde alta tecnología!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou
+Para yÉ. Llévate esto contigo.
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak
+À recibí el POK\eDEX del PROF. ROBLE.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese
+OAK: No puedes obtener datos o POK\eMON\ndetallados con sólo verlos. Debes capturarlos\ppara obtener datos completos. Entonces,\naquí tienes algunas herramientas para capturar\pPOK\eMON salvajes.
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls
+À recibió cinco POK\e BALLS.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakExplainCatching
+Cuando aparece un POK\eMON salvaje, es\nun juego limpio. ¡Simplemente tírale una\pPOK\e BOLA y intenta atraparla! Sin embargo,\nesto no siempre funcionará. Un POK\eMON\psano puede escapar.\ ¡Tienes que tener\nsuerte!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream
+Hacer una guía completa sobre todos los\nPOK\eMON del mundo... ¡Ese era mi sueño!\pPero soy demasiado mayor. No puedo hacer\nel trabajo. Así que quiero que ustedes\pdos cumplan mi sueño para mí. Muévanse,\nustedes dos. ¡Esta es una gran tarea en\pla historia de POK\eMON!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait
+¡POK\eMON de todo el mundo te espera ,\n[B_BUFF2]À!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex
+À! ¿Cómo se perfila tu POK\eDEX? É ya capturó\nalgunos POK\eMON y los agregó a los datos.\pEntonces,À, echemos un vistazo a tu POK\eDEX.\n... ¿Qué pasa? No has agregado ningún dato\pnuevo. Te daré estos, así que intenta un\npoco más.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometime
+OAK: Ven a verme alguna vez. Después de\ntodo, quiero saber cómo va tu POK\eDEX.
+
+#org @PalletTown_ProfessorOaksLab_Text_BlankEncyclopedia
+Es como una enciclopedia, pero las páginas\nestán en blanco.
+
+#org @PalletTown_ProfessorOaksLab_Text_ThoseArePokeBalls
+Esas son POK\e BOLAS. ¡Contienen POK\eMON!
+
+#org @PalletTown_ProfessorOaksLab_Text_OaksLastMon
+Ese es el PROF. El último POK\eMON de OAK.
+
+#org @PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenu
+¡Presione INICIO para abrir el MENÚ!
+
+#org @PalletTown_ProfessorOaksLab_Text_SaveOptionInMenu
+La opción GUARDAR está en el MENÚ. Úsela\nregularmente.
+
+#org @PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPoints
+Todos los tipos de POK\eMON tienen puntos\nfuertes y débiles frente a los demás.
+
+#org @PalletTown_ProfessorOaksLab_Text_EmailMessage
+Hay un mensaje de correo electrónico aquí.\n… ¡Por fin! ¡Los mejores ENTRENADORES de\pla LIGA POK\eMON están listos para enfrentarse\na todos los participantes! Trae tu mejor\pPOK\eMON y mira cómo calificas como ENTRENADOR\n! POK\eMON LEAGUE HQ INDIGO PLATEAU PROF.\pROBLE, ¡visítanos! …
+
+#org @PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide
+Estudio POK\eMON como PROF. La ayuda de\nOAK.
+
+#org @PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons
+A. Apuesto a que te has vuelto un buen\namigo de tu POK\eMON. Por cierto, ¿sabías\pacerca de DAISY? Si le muestras a DAISY\ntu POK\eMON, ella podrá darse cuenta de\pcuánto le gustas. Ocasionalmente, ella\nincluso preparará\un POK\eMON para ti.\pEsto es un secreto, así que por favor no\nse lo cuentes a nadie.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow
+PROFE. OAK pronto tendrá su propio programa\nde radio. El programa se llamará PROF.\pOAK's POK\eMON SEMINAR.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons
+PROFE. Puede que OAK no parezca gran cosa,\npero es la autoridad en POK\eMON. Muchos\pENTRENADORES POK\eMON lo tienen en gran\nrespeto.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer
+À, tengo otro favor importante que pedirte.\nNecesito que me escuches atentamente.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons
+À, Me gustaría que fueras en mi lugar.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything
+É: ¡Oye, ya escuché eso! Abuelo, ¿qué pasa\ncon los favores? ¿Estás encima de mí todo\pel tiempo? Fui y recogí más POK\eMON, y\nmás rápido también. Deberías dejarme encargarme\de\ptodo.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes
+OAK: Lo sé, lo sé. Por supuesto que también\nnecesito tu ayuda. Ahora necesito ver tus\pPOK\eDEXES.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits
+PROFE. OAK tomó ambas unidades POK\eDEX\n.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData
+… … … … … … … … … … … … …¡Y listo! Ahora\nestas unidades pueden registrar datos de\muchos\pmás POK\eMON.
+
+#org @PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded
+¡El POK\eDEX de À fue actualizado!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex
+Para y¡É! Esta vez, realmente debes trabajar\npara llenar tus POK\eDEXES. ¡Te insto a\pque los conviertas en los mejores y más\ncompletos de todos los tiempos! En verdad,\pesta es una empresa monumentalmente grandiosa\nen POK\eMON. ¡historia!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex
+É: Abuelo, cálmate. No te emociones tanto.\nCompletaré el POK\eDEX, o te preocupes\ppor nada. Creo que intentaré mirar alrededor\nUNA ISLA primero…  De todos modos, ¡me\pvoy de aquí!
+
+#org @ViridianCity_House_Text_NicknamingIsFun
+Crear apodos es divertido, pero no es tan\nfácil de hacer. Los nombres inteligentes\pson agradables, pero los simples son más\nfáciles de recordar.
+
+#org @ViridianCity_House_Text_MyDaddyLovesMonsToo
+A mi papá también le encanta POK\eMON.
+
+#org @ViridianCity_House_Text_Speary
+SPEARY: ¡Twitté!
+
+#org @ViridianCity_House_Text_SpearowNameSpeary
+SPEAROW Nombre: SPEAROW
+
+#org @ViridianCity_Gym_Text_GiovanniIntro
+¡Fwahahaha! ¡Bienvenido a mi escondite!\nAsí será hasta que pueda restaurar TEAM\pROCKET a su antigua gloria. Pero me has\nencontrado de nuevo. Que así sea. ¡Esta\pvez, no me contendré!  ¡Una vez más te\nenfrentarás GIOVANNI, el mejor ENTRENADOR![PLAY_BGM]Î\eÀ
+
+#org @ViridianCity_Gym_Text_GiovanniDefeat
+¡Ja! Esa fue una pelea realmente intensa.\n¡Has ganado! Como prueba, ¡aquí está el\pEARTHBADGE! [PAUSE_MUSIC]á[PLAY_BGM]ÎÇÀ[PAUSE]Ë [PAUSE]Ë[RESUME_MUSIC]
+
+#org @ViridianCity_Gym_Text_GiovanniPostBattle
+Habiendo perdido de esta manera,  no puedo\nenfrentar a mis seguidores. He traicionado\psu confianza. ¡A partir de hoy, TEAM ROCKET\nestá terminado para siempre! En cuanto\pa mí, dedicaré mi vida a entrenar nuevamente.\n p¡Volvamos a encontrarnos algún día! ¡Adiós!
+
+#org @ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis
+La EARTHBADGE hace que POK\eMON de cualquier\nnivel obedezcan sin cuestionar. Es una\pprueba de tu dominio como a ENTRENADOR\nPOK\eMON. Con él, puedes desafiar la LIGA\pPOK\eMON. Además, toma esta MT.  Considéralo\nun regalo por tu desafío POK\eMON LIGA.
+
+#org @ViridianCity_Gym_Text_ReceivedTM26FromGiovanni
+Para recibir TM26 de GIOVANNI.
+
+#org @ViridianCity_Gym_Text_ExplainTM26
+TM26 contiene TERREMOTO. Es un ataque poderoso\nque causa\un temblor masivo. Lo hice cuando\pdirigía el GYM aquí, hace demasiado tiempo...
+
+#org @ViridianCity_Gym_Text_YouDoNotHaveSpace
+¡No tienes espacio para esto!
+
+#org @ViridianCity_Gym_Text_YujiIntro
+¡Je! ¡Ya te debes estar quedando sin energía!\n¡A estas alturas!
+
+#org @ViridianCity_Gym_Text_YujiDefeat
+¡Me quedé sin gasolina!
+
+#org @ViridianCity_Gym_Text_YujiPostBattle
+Necesitarás energía para mantenerte al\ndía con nuestro LÍDER DE GIMNASIO.
+
+#org @ViridianCity_Gym_Text_AtsushiIntro
+¡Rrrroar! ¡Me estoy poniendo furioso!
+
+#org @ViridianCity_Gym_Text_AtsushiDefeat
+¡Guau!
+
+#org @ViridianCity_Gym_Text_AtsushiPostBattle
+¡Todavía no soy digno!
+
+#org @ViridianCity_Gym_Text_JasonIntro
+¡POK\eMON y yo hacemos música maravillosa\njuntos!
+
+#org @ViridianCity_Gym_Text_JasonDefeat
+¡Estás en perfecta armonía!
+
+#org @ViridianCity_Gym_Text_JasonPostBattle
+¿Conoces la identidad de nuestro GIMNASIO\nLÍDER?
+
+#org @ViridianCity_Gym_Text_KiyoIntro
+¡El karate es la forma definitiva de artes\nmarciales!
+
+#org @ViridianCity_Gym_Text_KiyoDefeat
+¡Ay!
+
+#org @ViridianCity_Gym_Text_KiyoPostBattle
+Si mi POK\eMON fuera tan bueno en karate\ncomo yo...
+
+#org @ViridianCity_Gym_Text_WarrenIntro
+Los verdaderamente talentosos ganan con\nestilo.
+
+#org @ViridianCity_Gym_Text_WarrenDefeat
+¡Perdí el control!
+
+#org @ViridianCity_Gym_Text_WarrenPostBattle
+El LÍDER me regañará por perder de esta\nmanera...
+
+#org @ViridianCity_Gym_Text_TakashiIntro
+¡Soy el REY DEL KARATE! ¡Tu destino depende\nde mí!
+
+#org @ViridianCity_Gym_Text_TakashiDefeat
+¡Ay!
+
+#org @ViridianCity_Gym_Text_TakashiPostBattle
+¿La LIGA POK\eMON? ¿Tú? ¡No seas arrogante!
+
+#org @ViridianCity_Gym_Text_ColeIntro
+¡Tu POK\eMON se encogerá ante el chasquido\nde mi látigo!
+
+#org @ViridianCity_Gym_Text_ColeDefeat
+¡Ay! ¡Latigazo cervical!
+
+#org @ViridianCity_Gym_Text_ColePostBattle
+¡Espera! ¡Simplemente fui descuidado!
+
+#org @ViridianCity_Gym_Text_SamuelIntro
+VIRIDIAN GYM estuvo cerrado por mucho tiempo.\nPero ahora, ¡nuestro LÍDER ha regresado!
+
+#org @ViridianCity_Gym_Text_SamuelDefeat
+¿Me golpearon?
+
+#org @ViridianCity_Gym_Text_SamuelPostBattle
+¡Puedes pasar a la LIGA POK\eMON solo derrotando\na nuestro LÍDER DE GIMNASIO!
+
+#org @ViridianCity_Gym_Text_GymGuyAdvice
+¡Yo! ¡Campeón en ciernes! Ni siquiera yo\nconozco la identidad del LÍDER VIRIDIAN.\pPero una cosa es segura. Este será el más\ndifícil de todos Los LÍDERES DE GIMNASIO.\pAdemás, escuché que los ENTRENADORES aquí\ncomo POK\eMON de tipo TIERRA.
+
+#org @ViridianCity_Gym_Text_GymGuyPostVictory
+¡Asombrarme! ¿GIOVANNI era el LÍDER DE\nGIMNASIO de VIRIDIAN?
+
+#org @ViridianCity_Gym_Text_GymStatue
+VIRIDIAN POK\eMON GYM LÍDER: ? ENTRENADORES\nGANADORES: [B_OPPONENT_MON1_NAME]É
+
+#org @ViridianCity_Gym_Text_GymStatuePlayerWon
+Y,
+
+#org @ViridianCity_School_Text_TryingToMemorizeNotes
+¡Uf! Estoy intentando memorizar todas mis\nnotas.
+
+#org @ViridianCity_School_Text_ReadBlackboardCarefully
+¡Bien! Asegúrate de leer atentamente lo\nque hay en la pizarra.
+
+#org @ViridianCity_School_Text_NotebookFirstPage
+Echemos un vistazo al cuaderno. Primera\npágina... POK\e LAS BOLAS se usan para\patrapar POK\eMON. Hasta seis POK\eMON se\npueden llevar en tu grupo. Personas que\pcrían y luchan con POK\eMON se llaman ENTRENADORES.
+
+#org @ViridianCity_School_Text_NotebookSecondPage
+Segunda página... Un POK\eMON sano puede\nser difícil de atrapar, así que debilítalo\pprimero. Envenena, quema o causa otro problema\nde estado para debilitarlo.
+
+#org @ViridianCity_School_Text_NotebookThirdPage
+Tercera página... Los ENTRENADORES POK\eMON\nbuscan a otros para participar en batallas\pPOK\eMON. Para los ENTRENADORES, el sabor\nde la victoria\es realmente dulce. Las\pbatallas se libran constantemente en GIMNASIOS\nPOK\eMON en todas partes.
+
+#org @ViridianCity_School_Text_NotebookFourthPage
+Cuarta página... El objetivo final de todos\nlos ENTRENADORES POK\eMON es simple. Es\pderrotar a los ocho mejores POK\eMON GYM\nLEADERS. Hazlo para ganarte el derecho\pa enfrentarte... Los CUATRO ÉLITE del POK\n eMON LIGA!
+
+#org @ViridianCity_School_Text_TurnThePage
+¿Voltea la página?
+
+#org @ViridianCity_School_Text_HeyDontLookAtMyNotes
+NIÑA: ¡Oye! ¡No mires mis notas!
+
+#org @ViridianCity_School_Text_BlackboardListsStatusProblems
+La pizarra enumera problemas de POK\eMON\nSTATUS durante las batallas.
+
+#org @ViridianCity_School_Text_ReadWhichTopic
+¿Qué tema quieres leer?
+
+#org @ViridianCity_School_Text_ExplainSleep
+Un POK\eMON no puede atacar si está dormido.\nPOK\eMON permanecerá dormido incluso después\pde las batallas. Usa DESPERTAR para despertar\na uno del sueño.
+
+#org @ViridianCity_School_Text_ExplainBurn
+Una quemadura reduce el poder de ATAQUE.\nTambién provoca una pérdida continua de\pHP. Una quemadura permanece después de\nuna batalla. Utiliza BURN HEAL para curar\puna quemadura.
+
+#org @ViridianCity_School_Text_ExplainPoison
+Cuando se envenena, la salud de un POK\ndisminuye constantemente. El veneno persiste\pdespués de las batallas. ¡Usa un ANTÍDOTO\npara curar el veneno!
+
+#org @ViridianCity_School_Text_ExplainFreeze
+Un POK\eMON congelado queda inmóvil sin\npoder hacer nada. Permanece congelado incluso\pdespués de que termina la batalla. Usa\nICE HEAL para descongelar el POK\eMON que\psufre.
+
+#org @ViridianCity_School_Text_ExplainParalysis
+La parálisis reduce la VELOCIDAD y puede\nevitar que el POK\eMON se mueva. La parálisis\ppermanece después de las batallas. Utiliza\nPALYZ HEAL como tratamiento.
+
+#org @ViridianCity_Mart_Text_YouCameFromPallet
+¡Oye! ¿Vienes de PALLET TOWN?
+
+#org @ViridianCity_Mart_Text_TakeThisToProfOak
+Ya conoces al PROF. ROBLE, ¿verdad? Llegó\nsu pedido. ¿Puedo pedirle que se lo lleve?
+
+#org @ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk
+À Recibí EL PAQUETE DE OAK del empleado\nde POK\eMON MART.
+
+#org @ViridianCity_Mart_Text_SayHiToOakForMe
+¡Bien gracias! Por favor saluda a PROF.\nROBLE para mí también.
+
+#org @ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes
+He oído que esta tienda hace buenos negocios\nen ANTÍDOTOS.
+
+#org @ViridianCity_Mart_Text_GotToBuySomePotions
+Tengo que comprar algunas POCIONES. Nunca\nse sabe cuándo tu POK\eMON necesitará una\pcuración rápida.
+
+#org @ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC
+Por favor, siéntete libre de usar esa PC\nen la esquina. La recepcionista me lo dijo.\p¡Es muy amable de su parte!
+
+#org @ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown
+Hay un CENTRO POK en cada ciudad más adelante.\nNo cobran dinero, así que no tengas miedo\pde curar POK\eMON.
+
+#org @ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons
+Los CENTROS POK\eMON curan a tus POK\eMON\ncansados, heridos o desmayados. Hacen que\ptodos los POK\eMON estén completamente\nsaludables.
+
+#org @PewterCity_Museum_1F_Text_Its50YForChildsTicket
+Sí, sí. El billete para niños cuesta \$50.\n¿Quieres entrar?
+
+#org @PewterCity_Museum_1F_Text_ComeAgain
+¡Llegar de nuevo!
+
+#org @PewterCity_Museum_1F_Text_Right50YThankYou
+¡Correcto, \$50! ¡Gracias!
+
+#org @PewterCity_Museum_1F_Text_DontHaveEnoughMoney
+No tienes suficiente dinero.
+
+#org @PewterCity_Museum_1F_Text_PleaseEnjoyYourself
+Por favor diviértete.
+
+#org @PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs
+¡No puedes colarte por la puerta de atrás!\nBuen intento, chico, pero no. ¡Oh, lo que\psea! ¿Sabes qué es ÁMBAR?
+
+#org @PewterCity_Museum_1F_Text_AmberContainsGeneticMatter
+AMBER contiene la materia genética de POK\eMON\nantiguo. Hay un LABORATORIO en algún lugar\pintentando resucitar POK\eMON de AMBER.
+
+#org @PewterCity_Museum_1F_Text_AmberIsFossilizedSap
+El ÁMBAR es en realidad savia, esa sustancia\npegajosa que rezuma de los árboles. La\psavia antigua se fosilizó con el tiempo\npara convertirse en ÁMBAR, duro como una\proca.
+
+#org @PewterCity_Museum_1F_Text_PleaseGoAround
+Por favor ve allí.
+
+#org @PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife
+Debería estar agradecido por mi larga vida.\n¡Nunca pensé que podría ver los huesos\pde un dragón!
+
+#org @PewterCity_Museum_1F_Text_WantYouToGetAmberExamined
+¡Ssh! Escucha, necesito compartir un secreto\ncon alguien. ¡Creo que este trozo de ÁMBAR\pcontiene ADN de POK\eMON! Sería un gran\navance científico si POK\eMON pudiera resucitar\pde él. Pero, mis colegas simplemente ignoran\nlo que tengo que decir. Entonces, ¡tengo\pque pedirte un favor! Quiero que examines\nesto en  POK\eMON LAB en alguna parte.
+
+#org @PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan
+À recibí el ÁMBAR VIEJO del hombre.
+
+#org @PewterCity_Museum_1F_Text_GetOldAmberChecked
+¡Ssh! ¡Revisa el ÁMBAR ANTIGUO!
+
+#org @PewterCity_Museum_1F_Text_DontHaveSpaceForThis
+No tienes espacio para esto.
+
+#org @PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit
+Tenemos dos fósiles de POK\eMON prehistóricos\nraros en exhibición.
+
+#org @PewterCity_Museum_1F_Text_BeautifulPieceOfAmber
+Hay una hermosa pieza de ÁMBAR en un color\ndorado claro.
+
+#org @PewterCity_Museum_1F_Text_AerodactylFossil
+AERODACTYL Fossil Un POK\eMON primitivo\ny raro.
+
+#org @PewterCity_Museum_1F_Text_KabutopsFossil
+KABUTOPS Fossil Un POK\eMON primitivo y\nraro.
+
+#org @Text_SeismicTossTeach
+Los secretos del espacio... Los misterios\nde la Tierra... Hay tantas cosas sobre\plas que sabemos muy poco. Pero eso debería\nestimularnos a estudiar más, no a tirar\pla toalla. Lo único que deberías tirar...\n Bueno, ¿qué tal SEISMIC TOSS? ¿Debería\penseñarle eso a un POK\eMON?
+
+#org @Text_SeismicTossDeclined
+¿Es así? Estoy seguro de que volverás.
+
+#org @Text_SeismicTossWhichMon
+¿Qué POK\eMON quiere aprender SEISMIC TOSS?
+
+#org @Text_SeismicTossTaught
+Espero que no tires la toalla. Sigue así.
+
+#org @PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone
+PIEDRA LUNA, ¿eh? ¿Qué tiene de especial?\nA mí me parece una roca normal.
+
+#org @PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding
+¡20 de julio de 1969! La humanidad pisó\nla luna por primera vez ese día. Compré\pun televisor en color para poder ver esas\nnoticias.
+
+#org @PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth
+Este mes vamos a organizar una exposición\nespacial.
+
+#org @PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu
+¡Quiero un PIKACHU! ¡Es tan lindo! ¡Le\npedí a mi papá que me atrapara uno!
+
+#org @PewterCity_Museum_1F_Text_PikachuSoonIPromise
+Sí, pronto un PIKACHU, ¡lo prometo!
+
+#org @PewterCity_Museum_1F_Text_SpaceShuttle
+Transbordador espacial
+
+#org @PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon
+Un meteorito que cayó sobre MT. LUNA. Se\ncree que es una PIEDRA LUNA.
+
+#org @PewterCity_Gym_Text_BrockIntro
+Entonces estás aquí. Soy BROCK. Soy el\nLÍDER DE GIMNASIO DE PEWTER. Mi fuerza\pde voluntad dura como una roca es evidente\nincluso en mi POK\eMON. Mis POK\eMON son\ptodos duros como una roca y tienen una\ndeterminación auténtica. Así es - ¡Mis\pPOK\eMON son todos del tipo ROCK! ¡Fuhaha!\n¿Vas a desafiarme sabiendo que perderás?\pEse es el honor del ENTRENADOR que te obliga\na desafiarme. ¡Bien, entonces! ¡Muéstrame\plo mejor que puedas![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @PewterCity_Gym_Text_BrockDefeat
+¡Recibí la BOULDERBADGE de BROCK!ÉÇEl solo\nhecho de tener la BOULDERBADGE hace tu\pPOK\eMON más poderoso. También permite\nel uso del movimiento FLASH fuera de la\pbatalla. Por supuesto, un POK\eMON debe\nconocer el movimiento FLASH para usarlo.
+
+#org @PewterCity_Gym_Text_TakeThisWithYou
+¡Espera! Llévate esto contigo.
+
+#org @PewterCity_Gym_Text_ReceivedTM39FromBrock
+Recibí TM39 de BROCK.
+
+#org @PewterCity_Gym_Text_ExplainTM39
+Una MT, Máquina Técnica, contiene una técnica\npara POK\eMON. El uso de una MT le enseña\pel movimiento que contiene a un POK\eMON.\nUna MT es válida para un solo uso. Entonces,\pcuando uses una, elige el POK\eMON con\ncuidado. De todos modos... TM39 contiene\pROCK TOMB. Lanza rocas al enemigo y reduce\nsu VELOCIDAD.
+
+#org @PewterCity_Gym_Text_BrockPostBattle
+Hay todo tipo de ENTRENADORES en este enorme\nmundo nuestro. Pareces tener mucho talento\pcomo ENTRENADOR POK\eMON. Así que déjame\nhacerte una sugerencia. Ve al GIMNASIO\pen CERULEAN y prueba tus habilidades.
+
+#org @PewterCity_Gym_Text_DontHaveRoomForThis
+No tienes espacio para esto.
+
+#org @PewterCity_Gym_Text_LiamIntro
+¡Detente ahí, chico! ¡Estás a diez mil\naños luz  de enfrentarte a BROCK!
+
+#org @PewterCity_Gym_Text_LiamDefeat
+¡Maldita sea! Años luz no es tiempo...\n¡Mide la distancia!
+
+#org @PewterCity_Gym_Text_LiamPostBattle
+Eres bastante sexy. … ¡Pero no tanto como\nBROCK!
+
+#org @PewterCity_Gym_Text_LetMeTakeYouToTheTop
+¡Hola! ¿Quieres soñar en grande? ¿Te atreves\na soñar con convertirte  en el campeón\pde POK\eMON? No soy un ENTRENADOR, pero\npuedo aconsejarte cómo ganar. Déjame llevarte\pal ¡arriba!
+
+#org @PewterCity_Gym_Text_LetsGetHappening
+¡Muy bien! ¡Comencemos!
+
+#org @PewterCity_Gym_Text_TryDifferentPartyOrders
+El primer POK\eMON que sale en una partida\nestá a la izquierda de la LISTA de POK\eMON.\pAl cambiar el orden de los POK\eMON, puedes\nobtener una ventaja. Prueba diferentes\pórdenes que se adapten al grupo de tu oponente.
+
+#org @PewterCity_Gym_Text_ItsFreeLetsGetHappening
+¡Es un servicio gratuito! ¡Comencemos!
+
+#org @PewterCity_Gym_Text_YoureChampMaterial
+¡Tal como pensaba! ¡Eres material de campeón\nde POK\eMON!
+
+#org @PewterCity_Gym_Text_GymStatue
+PEWTER POK\eMON GYM LÍDER: BROCK ENTRENADORES\nGANADORES: [B_OPPONENT_MON1_NAME]É
+
+#org @PewterCity_Gym_Text_GymStatuePlayerWon
+Y,
+
+#org @PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy
+¡Un viejo turbio me incitó a comprar este\nextraño pez POK\eMON! ¡Es totalmente débil\py cuesta \$500!
+
+#org @PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligently
+Pueden suceder cosas buenas si aumentas\nPOK\eMON con diligencia. Incluso los débiles\ppueden sorprenderte si no te rindes.
+
+#org @PewterCity_House1_Text_NidoranSit
+¡NIDORAN, siéntate!
+
+#org @PewterCity_House1_Text_TradeMonsAreFinicky
+Nuestro POK\eMON es un extraño, por lo\nque es  complicado y difícil de manejar.\pUn extraño es un POK\eMON que obtienes\nen un intercambio. Crece rápidamente, pero\ppuede ignorar a un ENTRENADOR no calificado\nen la batalla. Si solo teníamos algunas\pINSIGNIAS…
+
+#org @PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone
+¿¡Qué!? TEAM ROCKET está en MT. ¿LUNA?\n¿Eh? ¡Estoy hablando por teléfono! ¡Fuera!
+
+#org @PewterCity_PokemonCenter_1F_Text_Jigglypuff
+JIGGLYPUFF: ¡Un conejito de árbol!
+
+#org @PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy
+¡Bostezo! Cuando JIGGLYPUFF canta, POK\eMON\nse  adormece... ...Yo también... ronca...
+
+#org @PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu
+Realmente quiero un PIKACHU, así que cambio\nmi CLEFAIRY por uno.
+
+#org @PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid
+Estoy intercambiando POK\eMON con ese niño\nallí. Tenía dos PIKACHU, así que pensé\pque también podría intercambiar uno.
+
+#org @PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow
+Los POK\eMON aprenden nuevas técnicas a\nmedida que crecen. Pero la gente debe enseñarles\palgunos movimientos .
+
+#org @PewterCity_House2_Text_MonsEasierCatchIfStatused
+Un POK\eMON se vuelve más fácil de  catrapar\nsi tiene un problema de estado. Dormir,\penvenenar, quemar o paralizar... Todos\nellos son efectivos. ¡Pero atrapar un POK\eMON\pnunca es\una cosa segura!
+
+#org @CeruleanCity_House1_Text_BadgesHaveAmazingSecrets
+Sólo los ENTRENADORES expertos pueden recolectar\nPOK\eMON INSIGNIAS. Veo que tienes al menos\puna. Esas INSIGNIAS tienen secretos asombrosos,\n¿lo sabías?
+
+#org @CeruleanCity_House1_Text_DescribeWhichBadge
+Ahora bien… ¿Cuál de las ocho INSIGNIAS\ndebería describir?
+
+#org @CeruleanCity_House1_Text_ComeVisitAnytime
+Ven a visitarme cuando quieras.
+
+#org @CeruleanCity_House1_Text_AttackStatFlash
+La estadística de ATAQUE de todos tus POK\eMON\naumenta un poco. También te permite usar\pel movimiento FLASH fuera de la batalla.
+
+#org @CeruleanCity_House1_Text_ObeyLv30Cut
+POK\eMON hasta Lv. 30 te obedecerán. Eso\nincluye incluso a los forasteros que o\pobtienes en los intercambios. POK\eMON\nde niveles superiores será rebelde en la\pbatalla, también te permite usar el movimiento\nCUT fuera de la batalla.
+
+#org @CeruleanCity_House1_Text_SpeedStatFly
+La estadística de VELOCIDAD de todos tus\nPOK\eMON aumenta un poco. También te permite\pusar el movimiento VOLAR fuera de la batalla.
+
+#org @CeruleanCity_House1_Text_ObeyLv50Strength
+POK\eMON hasta Lv. 50 te obedecerán. Eso\nincluye incluso a los forasteros que o\pobtienes en los intercambios. POK\eMON\nde niveles más altos, sin embargo, será\prebelde en la batalla. También te permite\nusar el movimiento FUERZA fuera de la batalla.
+
+#org @CeruleanCity_House1_Text_DefenseStatSurf
+La estadística de DEFENSA de todos tus\nPOK\eMON aumenta un poco. También te permite\pusar el movimiento SURF fuera de la batalla.
+
+#org @CeruleanCity_House1_Text_ObeyLv70RockSmash
+POK\eMON hasta Lv. 70 te obedecerán. Eso\nincluye incluso a los forasteros que o\pobtienes en los intercambios. POK\eMON\nde niveles más altos, sin embargo, será\prebelde en la batalla. También te permite\nusar el movimiento ROCK SMASH fuera de\pla batalla.
+
+#org @CeruleanCity_House1_Text_SpStatsWaterfall
+El SP. ATK y SP. Las estadísticas de DEF\nde todos tus POK\eMON aumentan un poco.\pTambién te permite usar el movimiento CASCADA\nfuera de la batalla.
+
+#org @CeruleanCity_House1_Text_AllMonsWillObeyYou
+¡Todos los POK\eMON te obedecerán!
+
+#org @CeruleanCity_House2_Text_RocketsStoleTMForDig
+¡Esos miserables COHETES! ¡Mira lo que\nle han hecho a mi casa! ¡Robaron una MT\ppara enseñar POK\eMON a CAVAR agujeros!\nIba a usarla en un MANKEY o en un SANDSHREW...\pEso costó ¡Un paquete, lo hizo!
+
+#org @CeruleanCity_House2_Text_TeachDiglettDigWithoutTM
+Supongo que lo que se pierde, se pierde.\nDecidí enseñarle a DIGLETT cómo EXCAVAR\psin una MT.
+
+#org @CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood
+¡El TEAM ROCKET debe estar intentando EXCAVAR\npara no conseguir nada bueno!
+
+#org @CeruleanCity_House2_Text_TeamRocketLeftWayOut
+¡TEAM ROCKET dejó una salida!
+
+#org @CeruleanCity_House3_Text_PleaseTradeWithMyHusband
+A mi marido le gusta intercambiar POK\eMON.\nEstás recolectando POK\eMON para tu POK\eDEX,\p¿no? ¿Podrías intercambiar con él?
+
+#org @CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons
+¡Ese BILL! Escuché que hará lo que sea\n necesario para obtener POK\eMON raros.\pHe oído que no está por encima de hacer\ntodo tipo de cosas.
+
+#org @CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac
+¿Has oído hablar de BILL? ¡Todos lo llaman\nPOK\eMANIAC! Creo que la gente simplemente\pestá celosa de BILL. ¿Quién no querría\nalardear de su POK\eMON?
+
+#org @CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons
+¡BILL tiene muchos POK\eMON! ¡También colecciona\nalgunos raros!
+
+#org @CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs
+¿Por qué no subes e intentas intercambiar\nPOK\eMON con tus amigos? Podrías obtener\pmucha más variedad intercambiando. Los\nPOK\eMON que obtienes en los intercambios\ptambién crecen rápidamente.
+
+#org @CeruleanCity_Gym_Text_MistyIntro
+¡Hola, eres una cara nueva! Solo aquellos\nENTRENADORES que tienen una política sobre\pPOK\eMON pueden convertirse en profesionales.\n¿Cuál es tu estrategia cuando capturas\py entrenas POK\eMON? Mi política es una\nofensiva total  con POK tipo AGUA\eMON![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @CeruleanCity_Gym_Text_ExplainTM03
+TM03 enseña PULSO DE AGUA. ¡Úsalo en un\nPOK\eMON acuático!
+
+#org @CeruleanCity_Gym_Text_ExplainCascadeBadge
+El CASCADEBADGE hace que todos los POK\eMON\nhasta Lv. 30 obedece. Eso incluye incluso\pa los forasteros que tienes en el comercio.\nHay más. Ahora puedes usar CORTAR en cualquier\pmomento, incluso fuera de batalla. Puedes\nCORTAR árboles pequeños para oabrir nuevos\pcaminos. También puedes tener mi MT favorita.
+
+#org @CeruleanCity_Gym_Text_ReceivedTM03FromMisty
+Recibí TM03 de MISTY.
+
+#org @CeruleanCity_Gym_Text_BetterMakeRoomForThis
+¡Será mejor que dejes espacio para esto!
+
+#org @CeruleanCity_Gym_Text_MistyDefeat
+¡Guau! ¡Eres demasiado! ¡Muy bien! Puedes\ntener el CASCADEBADGE para mostrar que\pme venciste.
+
+#org @CeruleanCity_Gym_Text_DianaIntro
+¿Qué? ¿Tú? ¡Soy más que suficiente para\nti! MISTY no tendrá que preocuparse.
+
+#org @CeruleanCity_Gym_Text_DianaDefeat
+¡Me abrumaste!
+
+#org @CeruleanCity_Gym_Text_DianaPostBattle
+Tienes que enfrentarte a otros ENTRENADORES\npara ver lo bueno que eres realmente.
+
+#org @CeruleanCity_Gym_Text_LuisIntro
+¡Splash! ¡Soy el primero en subir! ¡Hagámoslo!
+
+#org @CeruleanCity_Gym_Text_LuisDefeat
+¡Eso no puede ser!
+
+#org @CeruleanCity_Gym_Text_LuisPostBattle
+MISTY es una ENTRENADORA que seguirá mejorando.\n¡No perderá contra alguien como tú!
+

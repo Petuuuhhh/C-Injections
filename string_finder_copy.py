@@ -10,7 +10,7 @@ nineWidths = ['B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2',
 SOURCE_ROM = "BPRE0.gba"
 num3 = 0
 
-f = open("output.txt", "w")
+f = open("output_pt-br.txt", "w")
 with open(SOURCE_ROM, 'rb+') as rom:
     for symbol_index in tqdm(range(len(pokefirered_sym))):
         symbol = pokefirered_sym[symbol_index]
