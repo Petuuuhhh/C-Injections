@@ -4819,3 +4819,4023 @@ Você é decente.
 #org @Route25_Text_JoeyPostBattlePortuguese
 Todos os POK\eMON têm pontos fracos. Mesmo\nos mais fortes. É por isso que é melhor\pcriar POK\eMON de tipos diferentes.
 
+#org @Route25_Text_DanIntroPortuguese
+Papai me levou para uma grande festa no\nS.S. ANNE em VERMILION CITY.
+
+#org @Route25_Text_DanDefeatPortuguese
+Eu não sou louco!
+
+#org @Route25_Text_DanPostBattlePortuguese
+No S.S. ANNE, vi TREINADORES de todo o\nmundo.
+
+#org @Route25_Text_FlintIntroPortuguese
+Sou um cara legal. Tenho namorada!
+
+#org @Route25_Text_FlintDefeatPortuguese
+Ah, droga…
+
+#org @Route25_Text_FlintPostBattlePortuguese
+Ah, bem. Minha namorada vai me animar.
+
+#org @Route25_Text_KelseyIntroPortuguese
+Olá! Meu namorado é legal!
+
+#org @Route25_Text_KelseyDefeatPortuguese
+Meu condicionamento não é dos melhores…
+
+#org @Route25_Text_KelseyPostBattlePortuguese
+Eu gostaria que meu namorado fosse tão\nbom\quanto você.
+
+#org @Route25_Text_ChadIntroPortuguese
+Tive essa sensação... Eu sabia que tinha\nque lutar com você!
+
+#org @Route25_Text_ChadDefeatPortuguese
+Eu sabia que também perderia!
+
+#org @Route25_Text_ChadPostBattlePortuguese
+Se o seu POK\eMON ficar confuso, desligue-o.\nEssa é uma boa tática.
+
+#org @Route25_Text_HaleyIntroPortuguese
+Meu amigo tem muitos POK\eMON fofos. Estou\ncom tanta inveja!
+
+#org @Route25_Text_HaleyDefeatPortuguese
+Eu não estou com tanto ciúme!
+
+#org @Route25_Text_HaleyPostBattlePortuguese
+Você veio de MT. LUA? Posso ter uma CLEFAIRY?
+
+#org @Route25_Text_FranklinIntroPortuguese
+Acabei de chegar de MT. LUA, mas ainda\ntenho gasolina no tanque!
+
+#org @Route25_Text_FranklinDefeatPortuguese
+Voce trabalhou muito!
+
+#org @Route25_Text_FranklinPostBattlePortuguese
+Droga! Um ZUBAT me mordeu naquela caverna.
+
+#org @Route25_Text_NobIntroPortuguese
+Vou ver uma coleção de POK\eMANIAC no cabo.
+
+#org @Route25_Text_NobDefeatPortuguese
+Você me pegou, e muito bem também!
+
+#org @Route25_Text_NobPostBattlePortuguese
+O POK\eMANIAC certamente faz jus ao seu\nnome. Sua coleção inclui muitas espécies\praras de POK\eMON.
+
+#org @Route25_Text_WayneIntroPortuguese
+Você vai ver o BILL? Primeiro, nós batalhamos!
+
+#org @Route25_Text_WayneDefeatPortuguese
+Você é alguma coisa.
+
+#org @Route25_Text_WaynePostBattlePortuguese
+A trilha abaixo é um atalho para CERULEAN\nCITY.
+
+#org @Route25_Text_SeaCottageSignPortuguese
+SEA COTTAGE BILL mora aqui!
+
+#org @Route25_Text_MistyHighHopesAboutThisPlacePortuguese
+Esta capa é um local famoso para encontros.\nMISTY, o LÍDER DO GYM, tem grandes hoesperanças\psobre este lugar.
+
+#org @Route25_Text_AreYouHereAlonePortuguese
+Olá, você está aqui sozinho? Se você estiver\nna capa de CERULEAN... Bem, deveria ser\pcomo um casal.
+
+#org @OneIsland_KindleRoad_Text_MariaIntroPortuguese
+O tempo está lindo! Perfeito para uma batalha!
+
+#org @OneIsland_KindleRoad_Text_MariaDefeatPortuguese
+Aeeeee!
+
+#org @OneIsland_KindleRoad_Text_MariaPostBattlePortuguese
+Por favor, não salpique meu rosto! Você\nvai estragar a maquiagem.
+
+#org @OneIsland_KindleRoad_Text_AbigailIntroPortuguese
+Estou começando a ficar com queimaduras\nsolares...
+
+#org @OneIsland_KindleRoad_Text_AbigailDefeatPortuguese
+Ah, você é tão horrível.
+
+#org @OneIsland_KindleRoad_Text_AbigailPostBattlePortuguese
+Gosto desse boné que você tem. Talvez eu\ndevesse usar um também...
+
+#org @OneIsland_KindleRoad_Text_FinnIntroPortuguese
+Visto daqui, MT. EMBER eleva-se o céu.
+
+#org @OneIsland_KindleRoad_Text_FinnDefeatPortuguese
+Bem, você não é durão?
+
+#org @OneIsland_KindleRoad_Text_FinnPostBattlePortuguese
+O céu é imenso em torno destas regiões.
+
+#org @OneIsland_KindleRoad_Text_GarrettIntroPortuguese
+Fiz uma pausa na natação\só para você me\ndesafiar?
+
+#org @OneIsland_KindleRoad_Text_GarrettDefeatPortuguese
+Ei, que diabos… Você é bom, você!
+
+#org @OneIsland_KindleRoad_Text_GarrettPostBattlePortuguese
+Em vez de usar o SURF o tempo todo, você\ndeveria nadar um pouco.
+
+#org @OneIsland_KindleRoad_Text_TommyIntroPortuguese
+Espere! Espere um segundo! Acho que fisguei\num grande problema!
+
+#org @OneIsland_KindleRoad_Text_TommyDefeatPortuguese
+Perdi tudo de novo...
+
+#org @OneIsland_KindleRoad_Text_TommyPostBattlePortuguese
+Não só eu perdi, como o grande também se\nafastou de mim!
+
+#org @OneIsland_KindleRoad_Text_SharonIntroPortuguese
+Você poderia me ajudar com meu treinamento?
+
+#org @OneIsland_KindleRoad_Text_SharonDefeatPortuguese
+Você estava um nível acima de mim.
+
+#org @OneIsland_KindleRoad_Text_SharonPostBattlePortuguese
+É evidente que você é habilidoso. Gosto\nde você!
+
+#org @OneIsland_KindleRoad_Text_TanyaIntroPortuguese
+Não há um dia em que não treinemos!
+
+#org @OneIsland_KindleRoad_Text_TanyaDefeatPortuguese
+Eu sou um tolo!
+
+#org @OneIsland_KindleRoad_Text_TanyaPostBattlePortuguese
+Vou treinar ainda mais forte a partir de\nagora!
+
+#org @OneIsland_KindleRoad_Text_SheaIntroPortuguese
+Todas as manhãs, antes do café da manhã,\nnado nesta ilha.
+
+#org @OneIsland_KindleRoad_Text_SheaDefeatPortuguese
+Suspiro… Suspiro…
+
+#org @OneIsland_KindleRoad_Text_SheaPostBattlePortuguese
+Perdi porque estou cansado de toda a corrida\nque fiz...
+
+#org @OneIsland_KindleRoad_Text_HughIntroPortuguese
+Vista-se adequadamente para a batalha!\nPerca essa roupa frívola!
+
+#org @OneIsland_KindleRoad_Text_HughDefeatPortuguese
+Por que eu?!
+
+#org @OneIsland_KindleRoad_Text_HughPostBattlePortuguese
+Até mesmo os artistas marciais estão se\ntornando conscientes da moda atualmente...
+
+#org @OneIsland_KindleRoad_Text_BryceIntroPortuguese
+Você sabe, tudo fica ótimo quando você\nestá na natureza.
+
+#org @OneIsland_KindleRoad_Text_BryceDefeatPortuguese
+Ah, estourado!
+
+#org @OneIsland_KindleRoad_Text_BrycePostBattlePortuguese
+A água nas regiões vulcânicas é delicioso.
+
+#org @OneIsland_KindleRoad_Text_ClaireIntroPortuguese
+Meu almoço nos encheu, então você quer\nlutar conosco por algum exercício?
+
+#org @OneIsland_KindleRoad_Text_ClaireDefeatPortuguese
+Isso me deixou todo suado.
+
+#org @OneIsland_KindleRoad_Text_ClairePostBattlePortuguese
+O que devo fazer? Sinto fome novamente.
+
+#org @OneIsland_KindleRoad_Text_KiaIntroPortuguese
+KIA: Meu irmão mais velho e eu fazemos\numa combinação incrível!
+
+#org @OneIsland_KindleRoad_Text_KiaDefeatPortuguese
+KIA: Hã?! Não acredito!
+
+#org @OneIsland_KindleRoad_Text_KiaPostBattlePortuguese
+KIA: Como poderia haver alguém melhor que\nmeu irmão mais velho?
+
+#org @OneIsland_KindleRoad_Text_KiaNotEnoughMonsPortuguese
+KIA: Se você quiser lutar contra us, você\ntem que trazer pelo menos dois POK\eMON\pcom você.
+
+#org @OneIsland_KindleRoad_Text_MikIntroPortuguese
+MIK: Juntamente com a KIA, não tenho medo\nde nada!
+
+#org @OneIsland_KindleRoad_Text_MikDefeatPortuguese
+MIK: Uau! Isso é demais!
+
+#org @OneIsland_KindleRoad_Text_MikPostBattlePortuguese
+MIK: Como minha combinação com KIA poderia\nfalhar?
+
+#org @OneIsland_KindleRoad_Text_MikNotEnoughMonsPortuguese
+MIK: Ei, você quer batalhar com nós dois?\nTraga dois ou mais POK\eMON com você, então.
+
+#org @OneIsland_KindleRoad_Text_RouteSignPortuguese
+Esta é a KINDLE ROAD. Vá direto para MT.\nBRASA.
+
+#org @OneIsland_KindleRoad_Text_EmberSpaSignPortuguese
+Acenda o fogo em seu coração! EMBER SPA
+
+#org @OneIsland_TreasureBeach_Text_AmaraIntroPortuguese
+Deitado, embalado pelas ondas… É maravilhoso.
+
+#org @OneIsland_TreasureBeach_Text_AmaraDefeatPortuguese
+Eu perdi… É horrível.
+
+#org @OneIsland_TreasureBeach_Text_AmaraPostBattlePortuguese
+O mar está agradavelmente quente por aqui.
+
+#org @OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeachPortuguese
+Coisas boas são levadas pela ocorrente\noceânica para esta praia. É por isso que\pvenho aqui com frequência para fazer uma\nbusca na praia.
+
+#org @ThreeIsland_BondBridge_Text_NikkiIntroPortuguese
+O sabor salgado do mar... Faz cócegas no\nmeu coração.
+
+#org @ThreeIsland_BondBridge_Text_NikkiDefeatPortuguese
+… Cheire, cheire… Algo cheira desagradável…
+
+#org @ThreeIsland_BondBridge_Text_NikkiPostBattlePortuguese
+Talvez esse fedor seja o odor corporal\ndo seu POK\eMON suado…
+
+#org @ThreeIsland_BondBridge_Text_VioletIntroPortuguese
+Para onde você vai com tanta pressa?
+
+#org @ThreeIsland_BondBridge_Text_VioletDefeatPortuguese
+Você está criando alguns POK\eMON maravilhosos.
+
+#org @ThreeIsland_BondBridge_Text_VioletPostBattlePortuguese
+Se você continuar por aqui, eventualmente\nchegará à BERRY FOREST.
+
+#org @ThreeIsland_BondBridge_Text_AmiraIntroPortuguese
+Minha mãe disse que não sei nadar sem minha\nboia.
+
+#org @ThreeIsland_BondBridge_Text_AmiraDefeatPortuguese
+Uau! Uau!
+
+#org @ThreeIsland_BondBridge_Text_AmiraPostBattlePortuguese
+Este ano, finalmente vou aprender a nadar!
+
+#org @ThreeIsland_BondBridge_Text_AlexisIntroPortuguese
+Sim, sim! POK\eMON!
+
+#org @ThreeIsland_BondBridge_Text_AlexisDefeatPortuguese
+O que acontece agora?
+
+#org @ThreeIsland_BondBridge_Text_AlexisPostBattlePortuguese
+Acabei de ganhar? Ou perdi?
+
+#org @ThreeIsland_BondBridge_Text_TishaIntroPortuguese
+Ah, não, não venha aqui! Por favor, fique\nlonge de mim!
+
+#org @ThreeIsland_BondBridge_Text_TishaDefeatPortuguese
+Ok, você ganhou! Agora, por favor, vá embora?
+
+#org @ThreeIsland_BondBridge_Text_TishaPostBattlePortuguese
+Um POK\eMON mordeu meu  smaiô. Não consigo\nsair da água!
+
+#org @ThreeIsland_BondBridge_Text_JoyIntroPortuguese
+JOY: Vamos te ensinar qual é nosso POK\eMON\nfavorito!
+
+#org @ThreeIsland_BondBridge_Text_JoyDefeatPortuguese
+JOY: Ohh… MEG!
+
+#org @ThreeIsland_BondBridge_Text_JoyPostBattlePortuguese
+JOY: Não foi divertido? Espero que possamos\nlutar novamente!
+
+#org @ThreeIsland_BondBridge_Text_JoyNotEnoughMonsPortuguese
+JOY: Eu realmente quero lutar com MEG.\nUm POK\eMON não é suficiente.
+
+#org @ThreeIsland_BondBridge_Text_MegIntroPortuguese
+MEG: Mostraremos nosso POK\eMON favorito.
+
+#org @ThreeIsland_BondBridge_Text_MegDefeatPortuguese
+MEG: Ohh… ALEGRIA!
+
+#org @ThreeIsland_BondBridge_Text_MegPostBattlePortuguese
+MEG: JOY, não foi divertido?
+
+#org @ThreeIsland_BondBridge_Text_MegNotEnoughMonsPortuguese
+MEG: Quero lutar junto com JOY. Um POK\eMON\nnão é suficiente.
+
+#org @ThreeIsland_BondBridge_Text_BerryForestAheadPortuguese
+FLORESTA DE BAGAS À FRENTE
+
+#org @ThreeIsland_BondBridge_Text_BondBridgeSignPortuguese
+BOND BRIDGE Por favor, fique quieto ao\natravessar. BERRY FOREST AHEAD
+
+#org @ThreeIsland_Port_Text_WereKantoRiderFederationPortuguese
+Somos a FEDERAÇÃO KANTO RIDER! Vroom! Vavavavooom!\nVroom! Minha bicicleta está fraca, então\peu mesmo tenho que fazer barulhos de escapamento!
+
+#org @ThreeIsland_Port_Text_ForkOverMoneyPortuguese
+Ei, ei, senhora! Ganhe algum dinheiro para\ngastar!
+
+#org @ThreeIsland_Port_Text_IllCallThePolicePortuguese
+Aiyeeh! Quem é você?! Eu... vou chamar\na polícia!
+
+#org @ThreeIsland_Port_Text_ThankGoodnessBikersGonePortuguese
+Aqueles MOTOCICLISTAS… Eles se foram? Oh,\ngraças a Deus! Eles certamente me deixaram\papavorado!
+
+#org @ThreeIsland_Port_Text_EverythingTurnedOutForBestPortuguese
+Aqueles MOTOCICLISTAS fugiram e LOSTELLE\nfoi encontrado em segurança. Tudo deu certo!
+
+#org @FiveIsland_ResortGorgeous_Text_DaisyIntroPortuguese
+Com estas mãos, criarei minha vitória!
+
+#org @FiveIsland_ResortGorgeous_Text_DaisyDefeatPortuguese
+Que vergonha disso… Estou com o rosto vermelho…
+
+#org @FiveIsland_ResortGorgeous_Text_DaisyPostBattlePortuguese
+Uh-oh, meus tubos de tinta sespalharam-se\npor todo lado!
+
+#org @FiveIsland_ResortGorgeous_Text_CelinaIntroPortuguese
+Com licença! Estou tentando pintar. Por\nfavor, fique fora da minha vista!
+
+#org @FiveIsland_ResortGorgeous_Text_CelinaDefeatPortuguese
+Essa perda… Sinto que estou desmaiando…
+
+#org @FiveIsland_ResortGorgeous_Text_CelinaPostBattlePortuguese
+GILLIAN? Por favor, incline ligeiramente\na cabeça... Ali! Esse é o visual que eu\pquero!
+
+#org @FiveIsland_ResortGorgeous_Text_RaynaIntroPortuguese
+Hmm… O ângulo, ainda não chegou…
+
+#org @FiveIsland_ResortGorgeous_Text_RaynaDefeatPortuguese
+Oh… Meus sentimentos, eles são azuis…
+
+#org @FiveIsland_ResortGorgeous_Text_JackiIntroPortuguese
+Estou visitando o retiro do meu amigo,\nse você quer saber.
+
+#org @FiveIsland_ResortGorgeous_Text_JackiDefeatPortuguese
+Oh, que coisa, tão forte.
+
+#org @FiveIsland_ResortGorgeous_Text_JackiPostBattlePortuguese
+Acho prazeroso batalhar com calma sob a\nsuave brisa do mar.
+
+#org @FiveIsland_ResortGorgeous_Text_GillianIntroPortuguese
+Estou pensando em fazer uma piscina feita\nespecialmente para POK\eMON.
+
+#org @FiveIsland_ResortGorgeous_Text_GillianDefeatPortuguese
+Oh, meu Deus, meu Deus!
+
+#org @FiveIsland_ResortGorgeous_Text_GillianPostBattlePortuguese
+Uma piscina seria agradável, mas devo dizer\nque um solário pode ser sublime.
+
+#org @FiveIsland_ResortGorgeous_Text_DestinIntroPortuguese
+Sou um bom corredor. Sou muito rápido!
+
+#org @FiveIsland_ResortGorgeous_Text_DestinDefeatPortuguese
+Ops! Apressei as coisas!
+
+#org @FiveIsland_ResortGorgeous_Text_DestinPostBattlePortuguese
+Quando corro com o vento, parece que posso\nvoar!
+
+#org @FiveIsland_ResortGorgeous_Text_TobyIntroPortuguese
+Eu digo, esta vida marinha aqui neste resort\nconcorda comigo.
+
+#org @FiveIsland_ResortGorgeous_Text_TobyDefeatPortuguese
+Isso é chocante! Você deve estar brincando.
+
+#org @FiveIsland_ResortGorgeous_Text_TobyPostBattlePortuguese
+Levando isso tão a sério… Que absurdo.
+
+#org @FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNowPortuguese
+SELPHY: Obrigada. Você pode ir agora.
+
+#org @FiveIsland_ResortGorgeous_Text_SelphysHousePortuguese
+CASA DE SELPHY
+
+#org @FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMonsPortuguese
+Você viaja por todos os lugares, ão é?\nVocê não está dirigindo seu POK\eMON muito\pduramente, não é? Deixe-me dar uma olhada.\n… … … … … …
+
+#org @FiveIsland_WaterLabyrinth_Text_HmmISeeIseePortuguese
+Ah, hmm… Entendo, entendo…
+
+#org @FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThisPortuguese
+Oh, impressionante. Você trata bem seu\nPOK\eMON. Acho que você pode confiar nisso\p. Por favor, gostaria que você ficasse\ncom isso.
+
+#org @FiveIsland_WaterLabyrinth_Text_ReceivedEggFromManPortuguese
+Àrecebi um OVO do homem!
+
+#org @FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourPartyPortuguese
+…Infelizmente, você não tem espaço para\nisso em seu grupo. É melhor você voltar\poutra hora.
+
+#org @FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEggPortuguese
+Ei, você veio me buscar um ovo.
+
+#org @FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYouPortuguese
+Recebi aquele OVO enquanto estava viajando.\nEstou feliz por ter conhecido alguém como\pvocê.
+
+#org @FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisyPortuguese
+Â. Vê-lo me lembra de uma menininha doce\nque conheci enquanto viajava. Ela estava\pcuidando gentilmente do POK\eMON... Ela\nera um anjinho. O nome daquela garotinha...\pAcho que era DAISY.
+
+#org @FiveIsland_WaterLabyrinth_Text_AlizeIntroPortuguese
+Este é um excelente ambiente para criar\nPOK\eMON.
+
+#org @FiveIsland_WaterLabyrinth_Text_AlizeDefeatPortuguese
+Seus POK\eMON estão crescendo admiravelmente\nbem!
+
+#org @FiveIsland_WaterLabyrinth_Text_AlizePostBattlePortuguese
+Sabe, acho que você tem talento para ser\num bom CRIADOR.
+
+#org @FiveIsland_Meadow_Text_DoorNeedsTwoPasswordsPortuguese
+Parece que preciso de uma senha para abrir\na porta.
+
+#org @FiveIsland_Meadow_Text_EnteredPasswordAnotherNeededPortuguese
+À digitou uma senha. “GOLDEEN precisa de\nregistro.” … … … … … …pOutra senha é necessária\ppara oabrir a porta…
+
+#org @FiveIsland_Meadow_Text_EnteredPasswordDoorOpenedPortuguese
+À digitou duas senhas. “GOLDEEN precisa\nde registro.” “Sim, não, CHANSEY.” … …\p… … … … A porta do ARMAZÉM se abriu!
+
+#org @FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpenPortuguese
+A porta do ARMAZÉM já está aberta.
+
+#org @FiveIsland_Meadow_Text_Rocket1IntroPortuguese
+Esta área está estritamente proibida! Fora,\nfora!
+
+#org @FiveIsland_Meadow_Text_Rocket1DefeatPortuguese
+Isso é pra valer?
+
+#org @FiveIsland_Meadow_Text_Rocket1PostBattlePortuguese
+Você não tem nada a tratar aqui! Vá para\ncasa!
+
+#org @FiveIsland_Meadow_Text_Rocket2IntroPortuguese
+Não há nada aqui além do nosso ARMAZÉM.\nEntão o que o traz aqui?
+
+#org @FiveIsland_Meadow_Text_Rocket2DefeatPortuguese
+Isso não era para acontecer…
+
+#org @FiveIsland_Meadow_Text_Rocket2PostBattlePortuguese
+Você está querendo saber o que há dentro\ndeste ARMAZÉM? É melhor que você não saiba.\pPara seu próprio bem, quero dizer.
+
+#org @FiveIsland_Meadow_Text_Rocket3IntroPortuguese
+Você estaria perdendo tempo mesmo se passasse\npor mim.
+
+#org @FiveIsland_Meadow_Text_Rocket3DefeatPortuguese
+Ah, isso me deixa furioso!
+
+#org @FiveIsland_Meadow_Text_Rocket3PostBattlePortuguese
+De qualquer forma, você não conseguirá\nentrar sem as senhas.
+
+#org @FiveIsland_MemorialPillar_Text_MiloIntroPortuguese
+Sou o mais velho dos IRMÃOS PÁSSAROS .\nA melhor coisa dos pássaros… Tem que ser\po bico.
+
+#org @FiveIsland_MemorialPillar_Text_MiloDefeatPortuguese
+Ah, tão afiado!
+
+#org @FiveIsland_MemorialPillar_Text_MiloPostBattlePortuguese
+Você pode voar para FOUR ISLAND aqui.
+
+#org @FiveIsland_MemorialPillar_Text_ChazIntroPortuguese
+Eu sou o filho do meio dos IRMÃOS BIRD\n. A melhor coisa sobre os pássaros… Tem\pque ser as asas.
+
+#org @FiveIsland_MemorialPillar_Text_ChazDefeatPortuguese
+Aba, aba!
+
+#org @FiveIsland_MemorialPillar_Text_ChazPostBattlePortuguese
+Havia um cara muito sombrio por ali.
+
+#org @FiveIsland_MemorialPillar_Text_HaroldIntroPortuguese
+Sou o mais novo dos IRMÃOS PÁSSAROS . A\nmelhor coisa dos pássaros… Tem que ser\pa penugem.
+
+#org @FiveIsland_MemorialPillar_Text_HaroldDefeatPortuguese
+Down é tão confortável... Isso me deixa\nsonolento...
+
+#org @FiveIsland_MemorialPillar_Text_HaroldPostBattlePortuguese
+Fico feliz quando bird POK\eMON implora\nde brincadeira…
+
+#org @FiveIsland_MemorialPillar_Text_ScrubScrubPortuguese
+Esfregue, esfregue…
+
+#org @FiveIsland_MemorialPillar_Text_YourMonsLookHealthyPortuguese
+Olá… Seu POK\eMON parece saudável…
+
+#org @FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnixPortuguese
+Foi aqui que enterrei meu ONIX… Ele se\nchamava TECTONIX…
+
+#org @FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOfferingPortuguese
+“Aqui jaz TECTONIX” está gravado numa pedra.\nHá uma LIMONADA colocada como ooferta em\pfrente ao túmulo.
+
+#org @FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOfferingPortuguese
+Gostaria de deixar outra LIMONADA como\noferenda?
+
+#org @FiveIsland_MemorialPillar_Text_PlacedCanOfLemonadePortuguese
+À colocou uma lata de LIMONADA na frente\ndo túmulo.
+
+#org @FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThisPortuguese
+O-obrigado... Essa era a minha bebida d\nfavorita do TECTONIX... Eu nem te conheço,\pmas seu ato de gentileza... Isso me animou\num pouco. Você pode aceitar isso como meu\pagradecimento?
+
+#org @FiveIsland_MemorialPillar_Text_BeGoodToYourMonsTooPortuguese
+Por favor, seja bom com seu POK\eMON também.
+
+#org @FiveIsland_MemorialPillar_Text_DontHaveRoomForItPortuguese
+Se você não tiver espaço para isso, eu\nguardarei para você até a próxima vez.
+
+#org @FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanksPortuguese
+Ah, é você daquela época... Ainda tenho\naquela coisa que queria que você tivesse\pcomo meu agradecimento.
+
+#org @FiveIsland_MemorialPillar_Text_ScrubScrubTectonixPortuguese
+Esfregue, esfregue… … … … TECTONIX…
+
+#org @FiveIsland_MemorialPillar_Text_HereLiesTectonixPortuguese
+Pedregulhos e rochas estão cuidadosamente\nempilhados como um marco. “Aqui jaz TECTONIX”\pestá gravado em um pedregulho.
+
+#org @SixIsland_OutcastIsland_Text_RocketIntroPortuguese
+Não há nenhum POK\eMON raro por aqui! Nem\num! Isso me queima, cara. Vou descontar\pem você!
+
+#org @SixIsland_OutcastIsland_Text_RocketDefeatPortuguese
+…Huh?
+
+#org @SixIsland_OutcastIsland_Text_RocketPostBattlePortuguese
+Então escute, você não viu nenhum POK\eMON\nraro, viu?
+
+#org @SixIsland_OutcastIsland_Text_TylorIntroPortuguese
+Não estou tendo sorte alguma. Uma batalha\nseria uma mudança de ritmo!
+
+#org @SixIsland_OutcastIsland_Text_TylorDefeatPortuguese
+Não, sem sorte…
+
+#org @SixIsland_OutcastIsland_Text_TylorPostBattlePortuguese
+Mas não posso voltar para casa sem pegar\nalguma coisa.
+
+#org @SixIsland_OutcastIsland_Text_MymoIntroPortuguese
+Suspiro... Suspiro... Nadei até aqui vindo\nde SIX ISLE PORT\de uma só vez.
+
+#org @SixIsland_OutcastIsland_Text_MymoDefeatPortuguese
+Suspiro… Suspiro…
+
+#org @SixIsland_OutcastIsland_Text_MymoPostBattlePortuguese
+Estou apenas na metade do caminho... Estou\nexausto...
+
+#org @SixIsland_OutcastIsland_Text_NicoleIntroPortuguese
+Não é tão fácil enviar POK\eMON enquanto\nnadamos, sabia?
+
+#org @SixIsland_OutcastIsland_Text_NicoleDefeatPortuguese
+Não perdi para você na natação. Isso não\nme incomoda.
+
+#org @SixIsland_OutcastIsland_Text_NicolePostBattlePortuguese
+Você está indo para a ilha passando por\naqui? Não vi nada de interessante lá.
+
+#org @SixIsland_OutcastIsland_Text_AvaIntroPortuguese
+AVA: Vamos travar uma batalha marítima\ndois contra dois!
+
+#org @SixIsland_OutcastIsland_Text_AvaDefeatPortuguese
+AVA: Ah, você é incrível! Melhor ainda,\nvocê está sozinho!
+
+#org @SixIsland_OutcastIsland_Text_AvaPostBattlePortuguese
+AVA: Você sabe, eu prefiro o mar a qualquer\npiscina.
+
+#org @SixIsland_OutcastIsland_Text_AvaNotEnoughMonsPortuguese
+AVA: Você está nos desafiando para uma\nbatalha? Você precisará de pelo menos dois\pPOK\eMON se quiser fazer isso.
+
+#org @SixIsland_OutcastIsland_Text_GebIntroPortuguese
+GEB: Irmã mais velha, ajude! Por favor,\nlute comigo!
+
+#org @SixIsland_OutcastIsland_Text_GebDefeatPortuguese
+GEB: Uau, irmã mais velha, essa pessoa\né muito boa!
+
+#org @SixIsland_OutcastIsland_Text_GebPostBattlePortuguese
+GEB: Estou agarrado à minha irmã porque\nnão consigo tocar no fundo.
+
+#org @SixIsland_OutcastIsland_Text_GebNotEnoughMonsPortuguese
+GEB: Por favor, lute contra mim e minha\nirmã! …Ah, você não tem dois POK\eMON?
+
+#org @SixIsland_GreenPath_Text_JaclynIntroPortuguese
+…Huh? Eu estava imaginando minha casa,\nmas é aqui que eu me teletransporto?
+
+#org @SixIsland_GreenPath_Text_JaclynDefeatPortuguese
+Grande boo-boo!
+
+#org @SixIsland_GreenPath_Text_JaclynPostBattlePortuguese
+Estou tão desmiolado! Preciso me concentrar\npara poder te teletransportar corretamente\ppara minha casa!
+
+#org @SixIsland_GreenPath_Text_LeftRouteSignPortuguese
+CAMINHO VERDE PADRÃO DE ARBUSTO À FRENTE
+
+#org @SixIsland_GreenPath_Text_RightRouteSignPortuguese
+CAMINHO VERDE Pense Verde, Mantenha a Natureza\nLimpa!
+
+#org @SixIsland_WaterPath_Text_RoseIntroPortuguese
+Deixei que uma brisa agradável me levasse\naté aqui.
+
+#org @SixIsland_WaterPath_Text_RoseDefeatPortuguese
+Risadinha... Você é tão fofo quando determinado.
+
+#org @SixIsland_WaterPath_Text_RosePostBattlePortuguese
+Eu quero ir para a floresta lá, mas… Há\nmuitos BUG POK\eMON. Eles me assustam um\ppouco.
+
+#org @SixIsland_WaterPath_Text_EdwardIntroPortuguese
+Estou praticando em segredo para que ninguém\npossa me ver.
+
+#org @SixIsland_WaterPath_Text_EdwardDefeatPortuguese
+Ninguém me viu perdendo, certo?
+
+#org @SixIsland_WaterPath_Text_EdwardPostBattlePortuguese
+Como artista, não quero que as pessoas\nsaibam do meu esforço.
+
+#org @SixIsland_WaterPath_Text_SamirIntroPortuguese
+O quê, você está sugerindo que está cansado\nde ver NADADORES como eu? Aww, não odeie!
+
+#org @SixIsland_WaterPath_Text_SamirDefeatPortuguese
+Ah, não, não, não.
+
+#org @SixIsland_WaterPath_Text_SamirPostBattlePortuguese
+Não consegui acabar com o estigma de ser\nNADADADOR…
+
+#org @SixIsland_WaterPath_Text_DeniseIntroPortuguese
+Meu namorado está sempre ocupado, então\nvenho nadar sozinha.
+
+#org @SixIsland_WaterPath_Text_DeniseDefeatPortuguese
+Ah, eu sabia que isso iria acontecer!
+
+#org @SixIsland_WaterPath_Text_DenisePostBattlePortuguese
+Quando não posso estar com meu namorado,\n passo tempo com o POK\eMON que ele me\pdeu.
+
+#org @SixIsland_WaterPath_Text_EarlIntroPortuguese
+Diga-me, onde estão as montanhas por aqui?
+
+#org @SixIsland_WaterPath_Text_EarlDefeatPortuguese
+Eu me perdi enquanto estava ocupado lutando!
+
+#org @SixIsland_WaterPath_Text_EarlPostBattlePortuguese
+Não há montanhas por aqui?
+
+#org @SixIsland_WaterPath_Text_MiuIntroPortuguese
+MIU: Olá, POK\eMON! É hora de brincar!
+
+#org @SixIsland_WaterPath_Text_MiuDefeatPortuguese
+MIU: Ah, não! Mamãe!
+
+#org @SixIsland_WaterPath_Text_MiuPostBattlePortuguese
+MIU: Fico muito triste quando perdemos...
+
+#org @SixIsland_WaterPath_Text_MiuNotEnoughMonsPortuguese
+MIU: MIA e eu somos GÊMEOS. Queremos lutar\njuntos.
+
+#org @SixIsland_WaterPath_Text_MiaIntroPortuguese
+MIA: Olá, POK\eMON! É hora de lutar!
+
+#org @SixIsland_WaterPath_Text_MiaDefeatPortuguese
+MIA: Você é mau! Você é ruim por vencer!
+
+#org @SixIsland_WaterPath_Text_MiaPostBattlePortuguese
+MIA: Ohh… Sinto muito, meu POK\eMON…
+
+#org @SixIsland_WaterPath_Text_MiaNotEnoughMonsPortuguese
+MIA: Ah, você só tem um POK\eMON? Você\nnão se sente solitário?
+
+#org @SixIsland_WaterPath_Text_WantedUltimateHornPortuguese
+Procura-se! O Chifre Supremo!
+
+#org @SixIsland_WaterPath_Text_RouteSignPortuguese
+CAMINHO DA ÁGUA Leva ao VALE RUIN
+
+#org @SixIsland_RuinValley_Text_CantFigureOutHowToGetInsidePortuguese
+Não consigo imaginar como\entrar lá dentro.
+
+#org @SixIsland_RuinValley_Text_IFoundThisPlacePortuguese
+Deixe-me dizer, encontrei este lugar. Não\nfique com tanta inveja, está bem?
+
+#org @SixIsland_RuinValley_Text_CheckDoorMoreThoroughlyPortuguese
+A porta não se move. Verificar mais detalhadamente?
+
+#org @SixIsland_RuinValley_Text_LeftDoorAlonePortuguese
+À deixou a porta sozinha.
+
+#org @SixIsland_RuinValley_Text_SeveralDotsOnTheDoorPortuguese
+Olhando mais de perto, há vários pontos\nna porta...
+
+#org @SixIsland_RuinValley_Text_DoorIsOpenPortuguese
+A porta está aberta.
+
+#org @SixIsland_RuinValley_Text_StanlyIntroPortuguese
+Parece haver muitos segredos ainda sem\nsolução neste mundo.
+
+#org @SixIsland_RuinValley_Text_StanlyDefeatPortuguese
+Hum…
+
+#org @SixIsland_RuinValley_Text_StanlyPostBattlePortuguese
+Sugiro que você também pense nos segredos\ne mistérios do nosso mundo uma vez por\pdia.
+
+#org @SixIsland_RuinValley_Text_FosterIntroPortuguese
+Estou curioso, o que o levou a vir aqui?
+
+#org @SixIsland_RuinValley_Text_FosterDefeatPortuguese
+Já faz tanto tempo que não lutei, meus\ninstintos estão errados.
+
+#org @SixIsland_RuinValley_Text_FosterPostBattlePortuguese
+Existem várias ruínas nas SEVII ILHAS.\nA maioria delas data de muito tempo atrás.
+
+#org @SixIsland_RuinValley_Text_LarryIntroPortuguese
+Dizem que existem pedras misteriosas nesta\nilha. Suspeito que tenha algo a ver com\pas ruínas daqui.
+
+#org @SixIsland_RuinValley_Text_LarryDefeatPortuguese
+Ah, interessante.
+
+#org @SixIsland_RuinValley_Text_LarryPostBattlePortuguese
+Aquelas ruínas ali... Não tive sorte em\ndescobrir como posso entrar.
+
+#org @SixIsland_RuinValley_Text_DarylIntroPortuguese
+Uma batalha com você, tão alto!
+
+#org @SixIsland_RuinValley_Text_DarylDefeatPortuguese
+Oh, que desgosto de perder tão\facilmente\npara você!
+
+#org @SixIsland_RuinValley_Text_DarylPostBattlePortuguese
+Experimente a alegria de escalar!
+
+#org @SixIsland_RuinValley_Text_HectorIntroPortuguese
+Estou bastante familiarizado com as terras\npor aqui.
+
+#org @SixIsland_RuinValley_Text_HectorDefeatPortuguese
+Você não precisa ser tão agressivo. Terei\nprazer em lhe contar.
+
+#org @SixIsland_RuinValley_Text_HectorPostBattlePortuguese
+A porta para as ruínas... Tem esses padrões\nestranhos gravados do lado de fora. Mas\pnão sei o que eles significam.
+
+#org @SevenIsland_TrainerTower_Text_DarioIntroPortuguese
+Eu senti sua abordagem.
+
+#org @SevenIsland_TrainerTower_Text_DarioDefeatPortuguese
+Desistir…
+
+#org @SevenIsland_TrainerTower_Text_DarioPostBattlePortuguese
+No seu futuro, sinto que vocês conhecerão\nmuitos outros. Acho que vocês estarão ligados\pem um ao outro por um poder estranho.
+
+#org @SevenIsland_TrainerTower_Text_RodetteIntroPortuguese
+Em algum lugar desta ilha, POK\eMON peculiares\nestão dormindo.
+
+#org @SevenIsland_TrainerTower_Text_RodetteDefeatPortuguese
+Que TREINADOR incrível!
+
+#org @SevenIsland_TrainerTower_Text_RodettePostBattlePortuguese
+Em algum lugar desta ilha, POK\eMON peculiares\nestão dormindo. Será que eles estão esperando\ppor você?
+
+#org @SevenIsland_TrainerTower_Text_TrainerTowerSignPortuguese
+ENTRADA DA TORRE DO TREINADOR Enfrentem\no desafio, TREINADORES!
+
+#org @SevenIsland_TrainerTower_Text_TrainerTowerAheadPortuguese
+TORRE DE TREINAMENTO À FRENTE
+
+#org @SevenIsland_TrainerTower_Text_LooksLikeTrainerTowerIsClosedPortuguese
+Parece que não posso entrar na torre do\ntreinador agora...
+
+#org @SevenIsland_TrainerTower_Text_TrainerTowerIsOpenLetsGoInPortuguese
+A torre do treinador está aberta! Vamos\nentrar imediatamente!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MiahIntroPortuguese
+Kyahaha! Vou te afastar sem esforço!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeatPortuguese
+Tch! Muito forte para mim!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattlePortuguese
+O que é isso? Eu não ajo como pareço? Heh,\nisso faz parte da minha estratégia!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MasonIntroPortuguese
+Olá! Você é membro do meu fã-clube?
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeatPortuguese
+Ah, então você não é fã... Bem, eu posso\nmudar isso. Deixe-me cantar para você!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattlePortuguese
+Lalalah… Meu POK\eMON, eu os envio,\todas\nas garotas gritam e gritam!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntroPortuguese
+Esta ilha é muito espalhada... Não é fácil\npatrulhar o local.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattlePortuguese
+TREINADORES como você, das cidades, com\ncerteza são durões. Você irá para a TORRE,\pnão é?
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntroPortuguese
+Eu castigo pessoas que abusam do POK\eMON!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeatPortuguese
+Você não parece ser um problema TREINADOR.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattlePortuguese
+Se você tratar seu POK\eMON com\bondade,\neles entenderão.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_EveIntroPortuguese
+EVE: Vou me juntar ao JON e batalhar juntos.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_EveDefeatPortuguese
+EVE: Eu e JON perdemos. Ehehe.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattlePortuguese
+EVE: Vou trabalhar mais com JON.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMonsPortuguese
+EVE: Quero me juntar ao JON quando eu batalhar\ncom você. Volte com dois POK\eMON, ok?
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_JonIntroPortuguese
+JON: Quando estou com EVE, parece que nunca\npoderíamos perder.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_JonDefeatPortuguese
+JON: Quando estou com EVE, ão parece que\nperdi!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattlePortuguese
+JON: Quando estou com EVE, fico gento,\nquer ganhe ou perca. É mágico!
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMonsPortuguese
+JON: Se for com EVE, ficarei feliz em batalhar\ncom você. Então, eu gostaria de fazer uma\pbatalha dois contra dois, se me permite.
+
+#org @SevenIsland_SevaultCanyon_Entrance_Text_RouteSignPortuguese
+ENTRADA DO SEVAULT CANYON Os TREINADORES\nsão solicitados a evitar de danificar as\pplantas no CANYON.
+
+#org @SevenIsland_SevaultCanyon_Text_CyndyIntroPortuguese
+Meu condicionamento está em ótima forma!
+
+#org @SevenIsland_SevaultCanyon_Text_CyndyDefeatPortuguese
+Hein? Algo não está certo...
+
+#org @SevenIsland_SevaultCanyon_Text_CyndyPostBattlePortuguese
+Do jeito que estou agora, talvez eu tenha\nque esperar na TRAINER TOWER...
+
+#org @SevenIsland_SevaultCanyon_Text_EvanIntroPortuguese
+Não importa se você tem o POK\eMON mais\nforte... Não significa nada se você não\psabe como usá-los corretamente!
+
+#org @SevenIsland_SevaultCanyon_Text_EvanDefeatPortuguese
+Você é um mestre nisso.
+
+#org @SevenIsland_SevaultCanyon_Text_EvanPostBattlePortuguese
+Você os vê de vez em quando, TREINADORES\ncom POK\eMON incríveis que não têm ideia\pdo que fazer. Antes de treinar POK\eMON,\nos próprios TREINADORES precisam crescer.
+
+#org @SevenIsland_SevaultCanyon_Text_JacksonIntroPortuguese
+Eu trabalho para proteger o meio ambiente.\nPor sua vez, a natureza me protege!
+
+#org @SevenIsland_SevaultCanyon_Text_JacksonDefeatPortuguese
+Uau! Você é durão! Que tal me proteger?
+
+#org @SevenIsland_SevaultCanyon_Text_JacksonPostBattlePortuguese
+Longe, entre as estrelas, nosso planeta\né apenas uma gota d'água. Mas queremos\pproteger essa gota de água para todos.
+
+#org @SevenIsland_SevaultCanyon_Text_KatelynIntroPortuguese
+Esses sapatos que você tem são muito elegantes.
+
+#org @SevenIsland_SevaultCanyon_Text_KatelynDefeatPortuguese
+Você é gostoso, apesar de sua aparência\nfofa.
+
+#org @SevenIsland_SevaultCanyon_Text_KatelynPostBattlePortuguese
+Sua mãe comprou aqueles TÊNIS DE CORRIDA\nestilosos para você? Ela deve adorar você.
+
+#org @SevenIsland_SevaultCanyon_Text_LeroyIntroPortuguese
+Você parece forte. Deixe-me lutar com você,\npor favor!
+
+#org @SevenIsland_SevaultCanyon_Text_LeroyDefeatPortuguese
+Eu sabia! Você é tão durão quanto eu pensava!
+
+#org @SevenIsland_SevaultCanyon_Text_LeroyPostBattlePortuguese
+A maneira como você luta me deu muitos\ndados úteis. Muito obrigado!
+
+#org @SevenIsland_SevaultCanyon_Text_MichelleIntroPortuguese
+Recebi a melhor educação possível para\nme tornar tão forte. Não quero perder para\pninguém!
+
+#org @SevenIsland_SevaultCanyon_Text_MichelleDefeatPortuguese
+Obrigado. Sinto que fui libertado ao perder\npara você.
+
+#org @SevenIsland_SevaultCanyon_Text_MichellePostBattlePortuguese
+Por alguma razão, fico furioso em qualquer\ncoisa. Vou me acalmar respirando profundamente.
+
+#org @SevenIsland_SevaultCanyon_Text_LexIntroPortuguese
+LEX: Minha querida NYA, juntos podemos\nvencer!
+
+#org @SevenIsland_SevaultCanyon_Text_LexDefeatPortuguese
+LEX: Parece que fui muito descuidado...
+
+#org @SevenIsland_SevaultCanyon_Text_LexPostBattlePortuguese
+LEX: Acho que foi uma boa experiência para\nNYA. Você tem minha gratidão.
+
+#org @SevenIsland_SevaultCanyon_Text_LexNotEnoughMonsPortuguese
+LEX: Posso pedir para você lutar contra\nnós ao mesmo tempo?
+
+#org @SevenIsland_SevaultCanyon_Text_NyaIntroPortuguese
+NYA: Farei o meu melhor para não arrastar\nmeu mentor, LEX!
+
+#org @SevenIsland_SevaultCanyon_Text_NyaDefeatPortuguese
+NYA: Ah, não... Sinto muito, eu...
+
+#org @SevenIsland_SevaultCanyon_Text_NyaPostBattlePortuguese
+NYA: Acho que vou precisar de muito mais\ntempero e aulas particulares under LEX…\p…Então, LEX, por favor, posso ficar com\nvocê assim?
+
+#org @SevenIsland_SevaultCanyon_Text_NyaNotEnoughMonsPortuguese
+NYA: Sinto muito, mas podemos batalhar\nno estilo dois contra dois?
+
+#org @SevenIsland_SevaultCanyon_Text_RouteSignPortuguese
+SEVAULT CANYON TANOBY RUÍNAS À FRENTE
+
+#org @SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawlyPortuguese
+Treinar sozinho certamente não é uma coisa\nruim. Mas também não é ruim almejar o topo\pcom um parceiro. Mesmo BRUNO... Ele treinou\ncom um colega chamado nome de BRAWLY antes.
+
+#org @SevenIsland_TanobyRuins_Text_BrandonIntroPortuguese
+Você sabe alguma coisa sobre esta câmara\nde pedra?
+
+#org @SevenIsland_TanobyRuins_Text_BrandonDefeatPortuguese
+Isso foi desnecessário. Você não precisava\nser tão rude.
+
+#org @SevenIsland_TanobyRuins_Text_BrandonPostBattlePortuguese
+As RUÍNAS DE TANOBY datam de pelo menos\n1.500 anos. Mas é um mistério desconcertante\ppor que foi construída.
+
+#org @SevenIsland_TanobyRuins_Text_BenjaminIntroPortuguese
+Dizem que um POK\eMON místico dorme aqui\ndentro.
+
+#org @SevenIsland_TanobyRuins_Text_BenjaminDefeatPortuguese
+Não sou muito bom em batalha.
+
+#org @SevenIsland_TanobyRuins_Text_BenjaminPostBattlePortuguese
+Ouvi dizer que existem outras ruínas como\nesta aqui. Serão elas os locais de descanso\pde outros POK\eMON místicos?
+
+#org @SevenIsland_TanobyRuins_Text_EdnaIntroPortuguese
+CLIFFORD está me ensinando a pintar.
+
+#org @SevenIsland_TanobyRuins_Text_EdnaDefeatPortuguese
+Podemos ter problemas por fazer barulho\naqui.
+
+#org @SevenIsland_TanobyRuins_Text_EdnaPostBattlePortuguese
+Eu disse que queria pintar um prédio antigo.\nEntão CLIFFORD me trouxe aqui.
+
+#org @SevenIsland_TanobyRuins_Text_CliffordIntroPortuguese
+Hoje, além da nossa aula, viemos ver a\ncâmara.
+
+#org @SevenIsland_TanobyRuins_Text_CliffordDefeatPortuguese
+Nossa, que extraordinário.
+
+#org @SevenIsland_TanobyRuins_Text_CliffordPostBattlePortuguese
+Ah, então você está estudando POK\eMON\nor conta própria... Sim, você certamente\pé uma pessoa\extraordinária, de fato.
+
+#org @PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYouPortuguese
+MÃE: …Certo. Todos os meninos saem de casa\nalgum dia. Disse isso na TV. Ah, sim. Prof.\pOAK, na casa ao lado, estava procurando\npor você.
+
+#org @PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYouPortuguese
+MÃE: …Certo. Todas as meninas sonham em\nviajar. Disse isso na TV. Ah, sim. Prof.\pOAK, na casa ao lado, estava procurando\npor você.
+
+#org @PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRestPortuguese
+À! Você deveria descansar um pouco.
+
+#org @PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCarePortuguese
+MÃE: Ah, que bom! Você e seu POK\eMON estão\nótimos. Tome cuidado agora!
+
+#org @PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroadPortuguese
+Tem um filme passando na TV. Quatro garotos\nestão andando nos trilhos da ferrovia.\p…É melhor eu ir também.
+
+#org @PalletTown_PlayersHouse_1F_Text_MovieOnTVGirlOnBrickRoadPortuguese
+Tem um filme passando na TV. Uma garota\ncom o cabelo preso em tranças está caminhando\ppor uma estrada de tijolos. …É melhor eu\nir também.
+
+#org @PalletTown_PlayersHouse_1F_Text_OopsWrongSidePortuguese
+Ops, lado errado…
+
+#org @PalletTown_PlayersHouse_2F_Text_PlayedWithNESPortuguese
+À joguei com o NES. …Ok! É hora de ir!
+
+#org @PalletTown_PlayersHouse_2F_Text_PressLRForHelpPortuguese
+É um aviso publicado... Se você estiver\nconfuso, peça AJUDA! Pressione o botão\pL ou R!
+
+#org @PalletTown_RivalsHouse_Text_HiBrothersAtLabPortuguese
+Para! Meu irmão,É, está no LAB do vovô.
+
+#org @PalletTown_RivalsHouse_Text_HeardYouBattledRivalPortuguese
+À, ouvi dizer que você travou a batalha\ncontraÉ. Eu gostaria de ter visto isso!
+
+#org @PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelpPortuguese
+Vovô pediu para você fazer uma errand?\nNossa, isso é preguiça da parte dele. Aqui,\pisso vai te ajudar.
+
+#org @PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisyPortuguese
+À recebeu um MAPA DA CIDADE de DAISY.
+
+#org @PalletTown_RivalsHouse_Text_DontHaveSpaceForThisPortuguese
+Você não tem espaço para isso sua BAG.
+
+#org @PalletTown_RivalsHouse_Text_ExplainTownMapPortuguese
+Você pode usar o MAPA DA CIDADE para descobrir\nonde você está ou verificar os nomes dos\plugares.
+
+#org @PalletTown_RivalsHouse_Text_PleaseGiveMonsRestPortuguese
+DAISY: Assim como as pessoas, os POK\eMON\nao seres vivos. Quando eles ficarem cansados,\ppor favor, descanse-os.
+
+#org @PalletTown_RivalsHouse_Text_ItsBigMapOfKantoPortuguese
+É um grande mapa da região KANTO. Isso\nseria útil!
+
+#org @PalletTown_RivalsHouse_Text_ShelvesCrammedFullOfBooksPortuguese
+As prateleiras estão abarrotadas de livros\nsobre POK\eMON.
+
+#org @PalletTown_RivalsHouse_Text_LikeMeToGroomMonPortuguese
+À! Boa hora. Estou prestes a tomar um chá.\nVocê gostaria de se juntar a mim? Ah, mas\polhe. Seus POK\eMON estão um pouco sujos.\nVocê gostaria que eu cuidasse de um?
+
+#org @PalletTown_RivalsHouse_Text_DontNeedAnyGroomingPortuguese
+Você não precisa de nenhum cuidado? Tudo\nbem, só tomaremos chá.
+
+#org @PalletTown_RivalsHouse_Text_GroomWhichOnePortuguese
+Qual deles devo preparar?
+
+#org @PalletTown_RivalsHouse_Text_LookingNiceInNoTimePortuguese
+DAISY: Ok, vou deixá-lo bom em pouco tempo.
+
+#org @PalletTown_RivalsHouse_Text_ThereYouGoAllDonePortuguese
+Á parece sonhadoramente contente… ÉÈDAISY:\nPronto! Tudo pronto. Viu? Não parece legal?\pGiggle… É um POK\eMON tão fofo.
+
+#org @PalletTown_RivalsHouse_Text_CantGroomAnEggPortuguese
+Oh, desculpe. Sinceramente, não consigo\npreparar um OVO.
+
+#org @PalletTown_RivalsHouse_Text_MayISeeFirstMonPortuguese
+À, posso ver seu primeiro POK\eMON?
+
+#org @PalletTown_RivalsHouse_Text_CouldntLoveYouMorePortuguese
+Ele não poderia te amar mais do que agora.\nSeu POK\eMON está feliz além palavras.
+
+#org @PalletTown_RivalsHouse_Text_ItLooksVeryHappyPortuguese
+É pude ver isso e aprender algo com isso.
+
+#org @PalletTown_RivalsHouse_Text_ItsQuiteFriendlyPortuguese
+Ele é bastante amigável com você. Continue\nsendo bom com isso!
+
+#org @PalletTown_RivalsHouse_Text_ItsWarmingUpToYouPortuguese
+Está aquecendo você. A confiança deve estar\ncrescendo entre vocês.
+
+#org @PalletTown_RivalsHouse_Text_NotFamiliarWithYouYetPortuguese
+Você ainda não está familiarizado com ele.\nPOK\eMON ficam bastante cautelosos quando\pvocê os pega pela primeira vez.
+
+#org @PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYouPortuguese
+À, eu não gosto do jeito que isso g olha\npara você. Você poderia tentar ser um pouco\pmais legal com isso?
+
+#org @PalletTown_RivalsHouse_Text_WhyWouldMonHateYouSoMuchPortuguese
+…Hum, não é fácil para mim dizer isso,\nmas… Existe alguma razão pela qual seu\pPOK\eMON te odiaria tanto?
+
+#org @PalletTown_RivalsHouse_Text_LovelyAndSweetClefairyPortuguese
+“A adorável e doce CLEFAIRY”
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAroundPortuguese
+É: O quê, é sóÀ? Vovô não está por perto.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaitingPortuguese
+É: Vovô! Estou farto de esperar!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMePortuguese
+É: Ei! Vovô! Não é justo! E eu?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayerPortuguese
+É: Heh, não preciso ser ganancioso como\nvocê. Sou maduro! Vá em frente e escolha,
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThenPortuguese
+É: Vou levar esse então!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOakPortuguese
+É recebeu oÁ do PROF. CARVALHO!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougherPortuguese
+É: Meu POK\eMON parece bem mais resistente\nque o seu.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMonsPortuguese
+É: Wait,À! Vamos conferir nosso POK\eMON!\nVamos, eu levo você!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalDefeatPortuguese
+O QUÊ? Inacreditável! Escolhi o POK\eMON\nerrado!
+
+#org @Text_RivalVictoryPortuguese
+É: Sim! Estou ótimo ou o quê?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMonPortuguese
+É: Ok! Farei minha batalha POK\eMON para\nfortalecê-lo! A! Vovô! Sinto seu cheiro\pmais tarde!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalGrampsPortuguese
+É: Gramps!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeForPortuguese
+É: Quase esqueci! Por que você me ligou?
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGrampsPortuguese
+É: Tudo bem, vovô! Deixa tudo comigo!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMapPortuguese
+À, odeio dizer isso, mas você não será\nnecessário para isso. Eu sei! Vou pegar\pemprestado um MAPA DA CIDADE da minha irmã!\nVou dizer a ela para não te emprestar um,\pA! Hahaha! Não se preocupe em vir até a\nminha casa depois disso!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOnePortuguese
+É? Deixe-me pensar... Ah, isso mesmo, eu\ndisse para você vir! Espere! Aqui,À. Existem\ptrês POK\eMON aqui. Haha! Os POK\eMON são\nmantidos dentro estas POK\e BOLAS. Quando\peu era jovem, eu era um sério POK\eMON\nTREINADOR. Mas agora, em minha velhice,\só\pme restam estes três. Você pode ficar com\num. Vá em frente, escolha!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakBePatientRivalPortuguese
+É. Você também pode ter um!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoosePortuguese
+À. Dentro dessas três BOLAS POK\e estão\nPOK\eMON. Qual você escolherá para você?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYetPortuguese
+OAK: Ei! Não vá embora ainda!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingCharmanderPortuguese
+À, você está reivindicando o FIRE POK\eMON\nCHARMANDER?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtlePortuguese
+À, você decidiu pelo WATER POK\eMON SQUIRTLE?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaurPortuguese
+À, você quer ir com o GRASS POK\eMON BULBASAUR?
+
+#org @PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergeticPortuguese
+Este POK\eMON é realmente bastante energético!
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOakPortuguese
+À recebeu oÁ do PROF. CARVALHO!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMonPortuguese
+OAK: Se um POK\eMON selvagem aparecer,\nseu POK\eMON poderá combatê-lo. Com ele\pao seu lado, você deverá ser capaz de chegar\nà próxima cidade.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrowPortuguese
+À, crie seu jovem POK\eMON fazendo-o lutar.\nEle tem que lutar para crescer.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMePortuguese
+À! Como está meu antigo POK\eMON? Bem,\nele parece estar cada vez mais apegado\pa você. Você deve ser talentoso como POK\eMON\nTREINADOR. O que é isso? Você tem algo\ppara mim?
+
+#org @PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcelPortuguese
+À entregue PACOTE DE CARVALHO.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrderedPortuguese
+Ah!  É a POK\e BALL personalizada! Encomendei-a.\nObrigado!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakHaveRequestForYouTwoPortuguese
+OAK: Ah, certo! Tenho um pedido para vocês\ndois.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakPokedexOnDeskPortuguese
+Sobre a mesa está minha invenção, o POK\eDEX!\nEle registra automaticamente dados sobre\pPOK\eMON que você viu ou capturou. É uma\nenciclopédia de alta tecnologia!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYouPortuguese
+Para eÉ. Leve isso com você.
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOakPortuguese
+À recebeu o POK\eDEX do PROF. CARVALHO.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThesePortuguese
+OAK: Você não pode obter dados detalhados\no POK\eMON apenas vendo-os. Você deve capturá-los\ppara obter dados completos. Então, aqui\nestão algumas ferramentas para capturar\pPOK\eMON selvagens.
+
+#org @PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBallsPortuguese
+À recebeu cinco POK\e BOLAS.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakExplainCatchingPortuguese
+Quando um POK\eMON selvagem aparece,\é\num jogo justo. Basta jogar uma POK\e BALL\pnele e tentar pegá-lo! No entanto, isso\nnem sempre funcionará. Um POK\eMON saudável\ppode escapar.\ nVocê tem que ter sorte!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDreamPortuguese
+Fazer um guia completo sobre todos os POK\eMON\ndo mundo… Esse era o meu sonho! Mas, estou\pmuito velho. Não consigo terminar o trabalho.\nEntão, quero que vocês dois cumpram meu\pdsonho para mim. Movimentem-se, vocês dois.\nEste é um grande empreendimento na história\pdo POK\eMON!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWaitPortuguese
+POK\eMON ao redor do mundo esperam por\nvocê, [B_BUFF2]À!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedexPortuguese
+À! Como está o seu POK\eDEX? É já capturou\nalguns POK\eMON e adicionou aos dados.\pEntão,À, vamos dar uma olhada no seu POK\eDEX.\n…Qual é o problema? Você não adicionou\pnenhum dado novo. Vou lhe dar isso, então\ntente um pouco mais.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakComeSeeMeSometimePortuguese
+OAK: Venha me ver algum dia. Afinal, quero\nsaber como está seu POK\eDEX.
+
+#org @PalletTown_ProfessorOaksLab_Text_BlankEncyclopediaPortuguese
+É como uma enciclopédia, mas as páginas\nestão em branco.
+
+#org @PalletTown_ProfessorOaksLab_Text_ThoseArePokeBallsPortuguese
+Essas são BOLAS POK\e. Elas contêm POK\eMON!
+
+#org @PalletTown_ProfessorOaksLab_Text_OaksLastMonPortuguese
+Esse é o PROF. O último POK\eMON do OAK.
+
+#org @PalletTown_ProfessorOaksLab_Text_PressStartToOpenMenuPortuguese
+Pressione INICIAR para abrir o MENU!
+
+#org @PalletTown_ProfessorOaksLab_Text_SaveOptionInMenuPortuguese
+A opção SALVAR está no MENU. Use-a regularmente.
+
+#org @PalletTown_ProfessorOaksLab_Text_AllMonTypesHaveStrongAndWeakPointsPortuguese
+Todos os tipos de POK\eMON têm pontos fortes\ne fracos contra outros.
+
+#org @PalletTown_ProfessorOaksLab_Text_EmailMessagePortuguese
+Há uma mensagem de e-mail aqui. … Finalmente!\nOs melhores TREINADORES da POK\eMON LEAGUE\pestão prontos para enfrentar todos! Traga\nseu melhor POK\eMON e veja como você se\pclassifica como TREINADOR ! POK\eMON LEAGUE\nHQ INDIGO PLATEAU PROF. OAK, visite-nos!\p…
+
+#org @PalletTown_ProfessorOaksLab_Text_StudyAsOaksAidePortuguese
+Eu estudo POK\eMON como PROF. AJUDA do\nOAK.
+
+#org @PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMonsPortuguese
+A. Aposto que você se tornou bom amigo\ndo seu POK\eMON. A propósito, você conhecia\pDAISY? Se você mostrar seu POK\eMON à DAISY,\nela saberá o quanto ele gosta de você.\pOcasionalmente, ela até preparará\um POK\eMON\npara você. Isso é um segredo, então, por\pfavor, não te conte a ninguém.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShowPortuguese
+Prof. OAK terá seu próprio programa de\nrádio em breve. O programa se chamará PROF.\pOAK's POK\eMON SEMINAR.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMonsPortuguese
+Prof. OAK pode não parecer muito, mas ele\né a autoridade em POK\eMON. Muitos TREINADORES\pDE POK\eMON o têm em alta conta.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayerPortuguese
+À, tenho outro favor importante para lhe\npedir. Preciso que você ouça com atenção.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMonsPortuguese
+À, gostaria que você fosse no meu lugar.
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverythingPortuguese
+É: Ei, ouvi isso! Vovô, o que há com favorecimento\nÀ sobre mim o tempo todo? Eu fui e coletei\pmais POK\eMON, e mais rápido também. Você\ndeveria me deixar cuidar de etudo.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexesPortuguese
+OAK: Eu sei, eu sei. Claro que preciso\nda sua ajuda também. Agora, preciso ver\pambos os seus POK\eDEXES.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnitsPortuguese
+Prof. OAK pegou ambas as unidades POK\eDEX\nunits.
+
+#org @PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreDataPortuguese
+… … … … … … … … … … … … …E pronto! Agora\nessas unidades podem gravar dados em a\pmuito mais POK\eMON.
+
+#org @PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgradedPortuguese
+O POK\eDEX de À foi atualizado!
+
+#org @PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedexPortuguese
+Para eÉ! Desta vez, você realmente deve\ntrabalhar para preencher seus POK\eDEXES.\pEu recomendo que você os torne os melhores\ne os mais completos de todos os tempos!\pVerdadeiramente, este é um empreendimento\nmonumentalmente grande no POK\eMON história!
+
+#org @PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedexPortuguese
+É: Vovô, acalme-se. Não fique tão animado.\nVou completar o POK\eDEX, não se preocupe\pcom nada. Acho que vou tentar dar uma olhada\nUMA ILHA primeiro…  De qualquer forma,\pvou embora!
+
+#org @ViridianCity_House_Text_NicknamingIsFunPortuguese
+Criar apelidos é divertido, mas não é tão\nfácil de fazer. Nomes inteligentes são\plegais, mas nomes simples são mais fáceis\nde lembrar.
+
+#org @ViridianCity_House_Text_MyDaddyLovesMonsTooPortuguese
+Meu pai também adora POK\eMON.
+
+#org @ViridianCity_House_Text_SpearyPortuguese
+SPEARY: Tetweet!
+
+#org @ViridianCity_House_Text_SpearowNameSpearyPortuguese
+SPEAROW Nome: SPEARY
+
+#org @ViridianCity_Gym_Text_GiovanniIntroPortuguese
+Fwahahaha! Bem-vindo ao meu esconderijo!\nSerá assim até que eu possa restaurar TEAM\pROCKET à sua antiga glória. Mas você me\nencontrou novamente. Assim seja. Desta\pvez, não vou me conter!  Mais uma vez você\nenfrentará GIOVANNI, o maior TREINADOR![PLAY_BGM]Î\eÀ
+
+#org @ViridianCity_Gym_Text_GiovanniDefeatPortuguese
+Ha! Essa foi uma luta realmente intensa.\nVocê venceu! Como prova, aqui está o EARTHBADGE!\p[PAUSE_MUSIC]á[PLAY_BGM]ÎÇÀ[PAUSE]Ë [PAUSE]Ë[RESUME_MUSIC]
+
+#org @ViridianCity_Gym_Text_GiovanniPostBattlePortuguese
+Tendo perdido desta forma,  não posso enfrentar\nmeus seguidores. Traí a confiança deles.\pA partir de hoje, o TEAM ROCKET está acabado\npara sempre! Quanto a mim, devo dedicar\pminha vida a treinar novamente.\ pVamos\nnos encontrar novamente algum dia! Adeus!
+
+#org @ViridianCity_Gym_Text_ExplainEarthBadgeTakeThisPortuguese
+O EARTHBADGE faz com que POK\eMON de qualquer\nnível obedeçam sem questionar. É uma evidência\pde sua maestria como a POK\eMON TRAINER.\nCom ele, você pode desafiar a POK\eMON\pLEAGUE. Além disso, pegue este TM.  Considere\nisso um presente para o seu desafio POK\eMON\pLEAGUE.
+
+#org @ViridianCity_Gym_Text_ReceivedTM26FromGiovanniPortuguese
+Para receber o TM26 de GIOVANNI.
+
+#org @ViridianCity_Gym_Text_ExplainTM26Portuguese
+O TM26 contém EARTHQUAKE. É um ataque poderoso\nque causa\um grande tremor. Eu o fiz quando\pdirigi o GYM aqui, muito tempo atrás...
+
+#org @ViridianCity_Gym_Text_YouDoNotHaveSpacePortuguese
+Você não tem espaço para isso!
+
+#org @ViridianCity_Gym_Text_YujiIntroPortuguese
+Heh! Você deve estar ficando sem energia\nagora!
+
+#org @ViridianCity_Gym_Text_YujiDefeatPortuguese
+Fiquei sem gasolina!
+
+#org @ViridianCity_Gym_Text_YujiPostBattlePortuguese
+Você precisará de energia para acompanhar\nosso LÍDER DE GYM.
+
+#org @ViridianCity_Gym_Text_AtsushiIntroPortuguese
+Rrrroar! Estou ficando furioso!
+
+#org @ViridianCity_Gym_Text_AtsushiDefeatPortuguese
+Wargh!
+
+#org @ViridianCity_Gym_Text_AtsushiPostBattlePortuguese
+Eu ainda não sou digno!
+
+#org @ViridianCity_Gym_Text_JasonIntroPortuguese
+POK\eMON e eu fazemos músicas maravilhosas\njuntos!
+
+#org @ViridianCity_Gym_Text_JasonDefeatPortuguese
+Você está em perfeita harmonia!
+
+#org @ViridianCity_Gym_Text_JasonPostBattlePortuguese
+Você conhece a identidade do nosso LÍDER\nDE GYM?
+
+#org @ViridianCity_Gym_Text_KiyoIntroPortuguese
+Karatê é a forma definitiva de artes marciais!
+
+#org @ViridianCity_Gym_Text_KiyoDefeatPortuguese
+Sim!
+
+#org @ViridianCity_Gym_Text_KiyoPostBattlePortuguese
+Se meu POK\eMON fosse tão bom em karatê\nquanto eu...
+
+#org @ViridianCity_Gym_Text_WarrenIntroPortuguese
+Os verdadeiramente talentosos vencem com\nestilo.
+
+#org @ViridianCity_Gym_Text_WarrenDefeatPortuguese
+Eu perdi o controle!
+
+#org @ViridianCity_Gym_Text_WarrenPostBattlePortuguese
+O LÍDER vai me repreender por perder desta\nforma…
+
+#org @ViridianCity_Gym_Text_TakashiIntroPortuguese
+Eu sou o REI DO KARATE! Seu destino está\ncomigo!
+
+#org @ViridianCity_Gym_Text_TakashiDefeatPortuguese
+Sim!
+
+#org @ViridianCity_Gym_Text_TakashiPostBattlePortuguese
+A LIGA POK\eMON? Você? Não seja arrogante!
+
+#org @ViridianCity_Gym_Text_ColeIntroPortuguese
+Seu POK\eMON vai se encolher ao estalo\ndo meu chicote!
+
+#org @ViridianCity_Gym_Text_ColeDefeatPortuguese
+Uau! Chicotada!
+
+#org @ViridianCity_Gym_Text_ColePostBattlePortuguese
+Espere! Eu fui simplesmente descuidado!
+
+#org @ViridianCity_Gym_Text_SamuelIntroPortuguese
+O VIRIDIAN GYM ficou muito tempo fechado.\nMas agora, nosso LÍDER está de volta!
+
+#org @ViridianCity_Gym_Text_SamuelDefeatPortuguese
+Eu fui espancado?
+
+#org @ViridianCity_Gym_Text_SamuelPostBattlePortuguese
+Você só pode ir para a POK\eMON LEAGUE\nderrotando nosso GYM LEADER!
+
+#org @ViridianCity_Gym_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! Nem eu sei a identidade\ndo LÍDER VIRIDIAN. Mas uma coisa é certa.\pEste será o mais difícil de todos LÍDERES\nDE GYM. Além disso, ouvi dizer que os TREINADORES\paqui como POK\eMON do tipo GROUND.
+
+#org @ViridianCity_Gym_Text_GymGuyPostVictoryPortuguese
+Exploda-me! GIOVANNI foi o LÍDER DE GINÁSTICA\ndo VIRIDIAN?
+
+#org @ViridianCity_Gym_Text_GymStatuePortuguese
+VIRIDIAN POK\eMON GYM LÍDER: ? TREINADORES\nVENCEDORES: [B_OPPONENT_MON1_NAME]É
+
+#org @ViridianCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @ViridianCity_School_Text_TryingToMemorizeNotesPortuguese
+Uau! Estou tentando memorizar todas as\nminhas notas.
+
+#org @ViridianCity_School_Text_ReadBlackboardCarefullyPortuguese
+Ok! Certifique-se de ler o que está no\nquadro com atenção!
+
+#org @ViridianCity_School_Text_NotebookFirstPagePortuguese
+Vamos dar uma olhada no caderno. Primeira\npágina… POK\e BOLAS são usadas para capturar\pPOK\eMON. Até seis POK\eMON podem ser carregados\no seu grupo. Pessoas que criam e batalham\pcom POK\eMON são chamados de TREINADORES.
+
+#org @ViridianCity_School_Text_NotebookSecondPagePortuguese
+Segunda página… Um POK\eMON saudável pode\nser difícil de cacapturar, então enfraqueça-o\pprimeiro. Envenene, queime ou cause outro\nproblema de status para enfraquecê-lo.
+
+#org @ViridianCity_School_Text_NotebookThirdPagePortuguese
+Terceira página… POK\eMON TRAINERS procuram\noutros para se envolver em batalhas POK\eMON.\pPara os TRAINERS, o sabor da vitória\é\ndoce, de fato. As batalhas são constantemente\ptravadas em POK\eMON GYMS em todos os lugares.
+
+#org @ViridianCity_School_Text_NotebookFourthPagePortuguese
+Quarta página… O objetivo final de todos\nos POK\eMON TREINADORES é simples. É derrotar\pos oito melhores POK\eMON GYM LEADERS.\nFaça isso para ganhar o direito de enfrentar…\pOs QUATRO ELITE do POK\ eMON LIGA!
+
+#org @ViridianCity_School_Text_TurnThePagePortuguese
+Vire a página?
+
+#org @ViridianCity_School_Text_HeyDontLookAtMyNotesPortuguese
+MENINA: Ei! Não olhe minhas anotações!
+
+#org @ViridianCity_School_Text_BlackboardListsStatusProblemsPortuguese
+O quadro negro lista problemas de POK\eMON\nSTATUS durante as batalhas.
+
+#org @ViridianCity_School_Text_ReadWhichTopicPortuguese
+Qual assunto você quer ler?
+
+#org @ViridianCity_School_Text_ExplainSleepPortuguese
+Um POK\eMON não pode atacar se estiver\no sono. POK\eMON permanecerá dormindo mesmo\pepós as batalhas. Use AWAKENING para despertar\num do sono.
+
+#org @ViridianCity_School_Text_ExplainBurnPortuguese
+Uma queimadura reduz o poder de ATAQUE.\nTambém causa perda contínua de HP. Uma\pqueimadura permanece após uma batalha.\nUse BURN HEAL para curar uma queimadura.
+
+#org @ViridianCity_School_Text_ExplainPoisonPortuguese
+Quando envenenado, a saúde de um POK\eMON\ncai constantemente. O veneno permanece\papós as batalhas. Use um ANTÍDOTO para\ncurar o veneno!
+
+#org @ViridianCity_School_Text_ExplainFreezePortuguese
+Um POK\eMON congelado fica indefeso e imóvel.\nEle permanece congelado mesmo depois que\pa batalha termina. Use ICE HEAL para descongelar\no POK eMON sofredor.
+
+#org @ViridianCity_School_Text_ExplainParalysisPortuguese
+A paralisia reduz a VELOCIDADE e pode impedir\nque o POK\eMON se mova. A paralisia permanece\papós as batalhas. Use PARLYZ HEAL para\ntratamento.
+
+#org @ViridianCity_Mart_Text_YouCameFromPalletPortuguese
+Ei! Você veio da CIDADE DE PALLET?
+
+#org @ViridianCity_Mart_Text_TakeThisToProfOakPortuguese
+Você conhece o PROF. OAK, certo? O pedido\ndele chegou. Posso pedir para você levar\ppara ele?
+
+#org @ViridianCity_Mart_Text_ReceivedOaksParcelFromClerkPortuguese
+À recebeu OAK'S PARCEL do funcionário do\nPOK\eMON MART.
+
+#org @ViridianCity_Mart_Text_SayHiToOakForMePortuguese
+Ok, obrigado! Diga oi para PROF. CARVALHO\npara mim também.
+
+#org @ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotesPortuguese
+Ouvi dizer que esta loja faz bons negócios\ncom ANTÍDOTOS.
+
+#org @ViridianCity_Mart_Text_GotToBuySomePotionsPortuguese
+Preciso comprar algumas POÇÕES. Você nunca\nsabe quando seu POK\eMON precisará de cura\prápida.
+
+#org @ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePCPortuguese
+Por favor, sinta-se à vontade para usar\naquele computador no canto. A recepcionista\pme disse isso. É muito gentil da parte\ndela!
+
+#org @ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTownPortuguese
+Há um CENTRO POK eMON em cada cidade à\nfrente. Eles não cobram dinheiro, então\pnão tenha vergonha de curar POK eMON.
+
+#org @ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMonsPortuguese
+CENTROS POK\eMON curam seus POK\eMON cansados,\nferidos ou desmaiados. Eles deixam todos\pos POK\eMON completamente saudáveis.
+
+#org @PewterCity_Museum_1F_Text_Its50YForChildsTicketPortuguese
+Sim, sim. O ingresso de criança custa \$50.\nVocê gostaria de entrar?
+
+#org @PewterCity_Museum_1F_Text_ComeAgainPortuguese
+Volte novamente!
+
+#org @PewterCity_Museum_1F_Text_Right50YThankYouPortuguese
+Certo, \$50! Obrigado!
+
+#org @PewterCity_Museum_1F_Text_DontHaveEnoughMoneyPortuguese
+Você não tem dinheiro suficiente.
+
+#org @PewterCity_Museum_1F_Text_PleaseEnjoyYourselfPortuguese
+Por favor, divirta-se.
+
+#org @PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIsPortuguese
+Você não pode se esgueirar pelos fundos!\nBoa tentativa, garoto, mas não. Ah, tanto\pfaz! Você sabe o que é AMBER?
+
+#org @PewterCity_Museum_1F_Text_AmberContainsGeneticMatterPortuguese
+AMBER contém a matéria genética o antigo\nPOK\eMON. Há um LABORATÓRIO em algum lugar\ptentando ressuscitar POK\eMON de AMBER.
+
+#org @PewterCity_Museum_1F_Text_AmberIsFossilizedSapPortuguese
+ÂMBAR é na verdade seiva, aquela substância\npegajosa que escorre das árvores. A seiva\pantiga fossilizou-se com o tempo para se\ntornar ÂMBAR duro como rocha.
+
+#org @PewterCity_Museum_1F_Text_PleaseGoAroundPortuguese
+Por favor, vá até lá.
+
+#org @PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLifePortuguese
+Eu deveria estar grato pela minha longa\nvida. Nunca pensei que veria os ossos de\pum dragão!
+
+#org @PewterCity_Museum_1F_Text_WantYouToGetAmberExaminedPortuguese
+Ssh! Ouça, preciso compartilhar um segredo\ncom alguém. Acho que esse pedaço de AMBER\pcontém DNA de POK\eMON! Seria um avanço\ncientífico destruidor se POK\eMON pudesse\pser ressuscitado dele. Mas, meus colegas\nsimplesmente ignoram o que tenho a dizer.\pEntão, tenho um favor a pedir! Quero que\nvocê leve isso para um  LABORATÓRIO POK\eMON\pem algum lugar.
+
+#org @PewterCity_Museum_1F_Text_ReceivedOldAmberFromManPortuguese
+À recebeu o OLD AMBER do homem.
+
+#org @PewterCity_Museum_1F_Text_GetOldAmberCheckedPortuguese
+Ssh! Verifique o OLD AMBER!
+
+#org @PewterCity_Museum_1F_Text_DontHaveSpaceForThisPortuguese
+Você não tem espaço para isso.
+
+#org @PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibitPortuguese
+Temos dois fósseis de POK\eMON raros e\npré-históricos em exposição.
+
+#org @PewterCity_Museum_1F_Text_BeautifulPieceOfAmberPortuguese
+Há um lindo pedaço de ÂMBAR em uma cor\ndourada transparente.
+
+#org @PewterCity_Museum_1F_Text_AerodactylFossilPortuguese
+Fóssil AERODÁCTIL Um POK\eMON primitivo\ne raro.
+
+#org @PewterCity_Museum_1F_Text_KabutopsFossilPortuguese
+Fóssil KABUTOPS Um POK\eMON primitivo e\nraro.
+
+#org @Text_SeismicTossTeachPortuguese
+Os segredos do espaço... Os mistérios da\nTerra... Há tantas coisas sobre as quais\psabemos tão pouco. Mas isso deve nos estimular\na estudar mais, e não a jogar a toalha.\pA única coisa que você deve jogar...  Bem,\nque tal SEISMIC TOSS? Devo ensinar isso\pa um POK\eMON?
+
+#org @Text_SeismicTossDeclinedPortuguese
+É isso mesmo? Tenho certeza que você voltará\npara isso.
+
+#org @Text_SeismicTossWhichMonPortuguese
+Qual POK\eMON quer aprender SEISMIC TOSS?
+
+#org @Text_SeismicTossTaughtPortuguese
+Espero que você não jogue a toalha. Continue\nassim.
+
+#org @PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStonePortuguese
+PEDRA DA LUA, hein? O que há de tão especial\nnisso? Parece uma pedra comum para mim.
+
+#org @PewterCity_Museum_1F_Text_BoughtColorTVForMoonLandingPortuguese
+20 de julho de 1969! A humanidade pisou\npela primeira vez na lua naquele dia. Comprei\puma TV em cores só para ver as notícias.
+
+#org @PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonthPortuguese
+Este mês, estamos realizando uma exposição\espacial.
+
+#org @PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachuPortuguese
+Eu quero um PIKACHU! É tão fofo! Pedi ao\nmeu pai para pegar um para mim!
+
+#org @PewterCity_Museum_1F_Text_PikachuSoonIPromisePortuguese
+Sim, um PIKACHU em breve, eu prometo!
+
+#org @PewterCity_Museum_1F_Text_SpaceShuttlePortuguese
+Nave espacial
+
+#org @PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoonPortuguese
+Um meteorito que caiu em MT. LUA. Pensa-se\nque seja uma PEDRA DA LUA.
+
+#org @PewterCity_Gym_Text_BrockIntroPortuguese
+Então, você está aqui. Eu sou BROCK. Sou\no LÍDER DE GYM DE PEWTER. Minha força de\pvontade é evidente emesmo em meu POK\eMON.\nMeus POK\eMON são todos duros como pedra\pe têm uma determinação verdadeira. Isso\nmesmo - meus POK\eMON são todos do tipo\pROCK! Fuhaha! Você vai me desafiar sabendo\nque vai perder? Essa é a honra do TREINADOR\pque obriga você a me desafiar. Tudo bem,\nentão! Mostre-me o seu melhor![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @PewterCity_Gym_Text_BrockDefeatPortuguese
+À recebeu o BOULDERBADGE do BROCK!ÉÇApenas\nter o BOULDERBADGE torna seu POK\eMON mais\ppoderoso. Ele também permite o uso do move\nFLASH fora da batalha. Claro, um POK eMON\pdeve conhecer o move FLASH para usá-lo.
+
+#org @PewterCity_Gym_Text_TakeThisWithYouPortuguese
+Espere! Leve isso com você.
+
+#org @PewterCity_Gym_Text_ReceivedTM39FromBrockPortuguese
+À recebeu TM39 de BROCK.
+
+#org @PewterCity_Gym_Text_ExplainTM39Portuguese
+Uma TM, Máquina Técnica, contém uma tetécnica\npara POK\eMON. Usar uma TM ensina o movimento\pque ela contém para um POK eMON. Uma TM\né válida apenas para um uso. Então, quando\pvocê usar uma, escolha o POK\eMON com cuidado.\nDe qualquer forma... TM39 contém ROCK TOMB.\pEle arremessa pedras no inimigo e diminui\nsua VELOCIDADE.
+
+#org @PewterCity_Gym_Text_BrockPostBattlePortuguese
+Existem todos os tipos de TREINADORES neste\nnosso enorme mundo. Você parece ser muito\ptalentoso como um TREINADOR DE POK\eMON.\nEntão deixe-me fazer uma sugestão. Vá para\pa academia em CERULEAN e teste suas habilidades.
+
+#org @PewterCity_Gym_Text_DontHaveRoomForThisPortuguese
+Você não tem espaço para isso.
+
+#org @PewterCity_Gym_Text_LiamIntroPortuguese
+Pare aí, garoto! Você está a dez mil anos-luz\n de enfrentar BROCK!
+
+#org @PewterCity_Gym_Text_LiamDefeatPortuguese
+Droga! Anos-luz não é tempo... Mede distância!
+
+#org @PewterCity_Gym_Text_LiamPostBattlePortuguese
+Você é muito gostoso. …Mas não tão gostoso\nquanto o BROCK!
+
+#org @PewterCity_Gym_Text_LetMeTakeYouToTheTopPortuguese
+Olá! Você quer sonhar grande? Você se atreve\na sonhar em se tornar o campeão POK\eMON?\pNão sou TREINADOR, mas posso aconselhá-lo\ncomo vencer. Deixe-me levá-lo ao principal!
+
+#org @PewterCity_Gym_Text_LetsGetHappeningPortuguese
+Tudo bem! Vamos começar!
+
+#org @PewterCity_Gym_Text_TryDifferentPartyOrdersPortuguese
+O primeiro POK\eMON eliminado em uma partida\nestá a esquerda da LISTA POK\eMON. Ao alterar\pa ordem dos POK\eMON, você pode ganhar\numa vantagem. Tente ordens diferentes para\pse adequar ao grupo o seu oponente.
+
+#org @PewterCity_Gym_Text_ItsFreeLetsGetHappeningPortuguese
+É um serviço gratuito! Vamos começar!
+
+#org @PewterCity_Gym_Text_YoureChampMaterialPortuguese
+Exatamente como eu pensei! Você é material\npara campeão POK\eMON!
+
+#org @PewterCity_Gym_Text_GymStatuePortuguese
+PEWTER POK\eMON GYM LÍDER: BROCK WINNING\nTRAINERS: [B_OPPONENT_MON1_NAME]É
+
+#org @PewterCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuyPortuguese
+Um velho suspeito me convenceu a comprar\nesse peixe estranho POK\eMON! É totalmente\pfraco e custou \$500!
+
+#org @PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligentlyPortuguese
+Coisas boas podem acontecer se você aumentar\nPOK\eMON diligentemente. Mesmo os fracos\ppodem surpreendê-lo se você não desistir\ndeles.
+
+#org @PewterCity_House1_Text_NidoranSitPortuguese
+NIDORAN, sente-se!
+
+#org @PewterCity_House1_Text_TradeMonsAreFinickyPortuguese
+Nosso POK\eMON é um estranho, então é meticuloso\ne difícil de lidar. Um estranho é um POK\eMON\pque você gessou em uma troca. Ele cresce\nrápido, mas pode ignorar um TREINADOR não\pqualificado em batalha. Se só que tínhamos\nalguns EMBLEMAS…
+
+#org @PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhonePortuguese
+O quê!? TEAM ROCKET está em MT. LUA? Huh?\nEstou no telefone! Vá embora!
+
+#org @PewterCity_PokemonCenter_1F_Text_JigglypuffPortuguese
+JIGGLYPUFF: Um coelhinho da árvore!
+
+#org @PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsyPortuguese
+Bocejo! Quando JIGGLYPUFF canta, POK\eMON\nfica dsonolento... ...Eu também... Ronco...
+
+#org @PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachuPortuguese
+Eu realmente quero um PIKACHU, então estou\ntrocando minha CLEFAIRY por um.
+
+#org @PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKidPortuguese
+Estou negociando POK\eMON com aquele garoto\nlá. Eu tinha dois PIKACHU, então pensei\pque poderia muito bem trocar um.
+
+#org @PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrowPortuguese
+Os POK\eMON aprendem novas técnicas à medida\nque crescem. Mas alguns movimentos devem\pser ensinados a eles por pessoas.
+
+#org @PewterCity_House2_Text_MonsEasierCatchIfStatusedPortuguese
+Um POK\eMON se torna mais fácil de  cacapturar\nse tiver um problema de status. Sono, veneno,\pqueimadura ou paralisia... Todos são eficazes.\nMas capturar POK\eMON nunca é\uma coisa\pcerta!
+
+#org @CeruleanCity_House1_Text_BadgesHaveAmazingSecretsPortuguese
+Somente TREINADORES habilidosos podem coletar\nEMBLEMAS POK\eMON. Vejo que você tem pelo\pmenos um. Esses EMBLEMAS têm segredos incríveis,\nvocê sabia?
+
+#org @CeruleanCity_House1_Text_DescribeWhichBadgePortuguese
+Agora então... Qual dos oito SELOS devo\ndescrever?
+
+#org @CeruleanCity_House1_Text_ComeVisitAnytimePortuguese
+Venha me visitar sempre que desejar.
+
+#org @CeruleanCity_House1_Text_AttackStatFlashPortuguese
+A estatística de ATAQUE de todos os seus\nPOK\eMON aumenta um pouco. Ele também permite\pque você use o movimento FLASH fora da\nbatalha.
+
+#org @CeruleanCity_House1_Text_ObeyLv30CutPortuguese
+POK\eMON até o Nv. 30 obedecerá você. Isso\ninclui até mesmo estranhos que você oobtém\pem trocas. POK\eMON de níveis mais altos\nserão indisciplinados na batalha, no entanto.\pTambém permite que você use o movimento\nCUT fora da batalha.
+
+#org @CeruleanCity_House1_Text_SpeedStatFlyPortuguese
+A estatística de VELOCIDADE de todos os\nseus POK\eMON aumenta um pouco. Ele também\ppermite que você use o movimento FLY fora\nda batalha.
+
+#org @CeruleanCity_House1_Text_ObeyLv50StrengthPortuguese
+POK\eMON até o Nv. 50 obedecerão você.\nIsso inclui até mesmo estranhos que você\poobtém em trocas. POK\eMON de níveis mais\naltos serão indisciplinados na batalha,\pno entanto. Também permite que você use\no movimento FORÇA fora da batalha.
+
+#org @CeruleanCity_House1_Text_DefenseStatSurfPortuguese
+A estatística de DEFESA de todos os seus\nPOK\eMON aumenta um pouco. Ele também permite\pque você use o movimento SURF fora da batalha.
+
+#org @CeruleanCity_House1_Text_ObeyLv70RockSmashPortuguese
+POK\eMON até o Nv. 70 obedecerá você. Isso\ninclui até mesmo estranhos que você oobtém\pem trocas. POK\eMON de níveis mais altos\nserão indisciplinados em batalha, no entanto.\pTambém permite que você use o movimento\nROCK SMASH fora da batalha.
+
+#org @CeruleanCity_House1_Text_SpStatsWaterfallPortuguese
+O SP. ATK e SP. As estatísticas de DEF\nde todos os seus POK\eMON aumentam um pouco.\pEle também permite que você use o movimento\nWATERFALL fora da batalha.
+
+#org @CeruleanCity_House1_Text_AllMonsWillObeyYouPortuguese
+Todos os POK\eMON irão obedecer a você!
+
+#org @CeruleanCity_House2_Text_RocketsStoleTMForDigPortuguese
+Aqueles FOGUETES miseráveis! Veja o que\neles fizeram com minha casa! Eles roubaram\pum TM para ensinar POK\eMON a CAVAR buracos!\nEu ia usá-lo em um MANKEY ou SANDSHREW…\pEsse custo me um pacote, ele fez!
+
+#org @CeruleanCity_House2_Text_TeachDiglettDigWithoutTMPortuguese
+Acho que o que está perdido está perdido.\nDecidi ensinar DIGLETT a Escavar sem TM.
+
+#org @CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGoodPortuguese
+A EQUIPE ROCKET deve estar tentando escavar\no caminho para o nada!
+
+#org @CeruleanCity_House2_Text_TeamRocketLeftWayOutPortuguese
+TEAM ROCKET deixou uma saída!
+
+#org @CeruleanCity_House3_Text_PleaseTradeWithMyHusbandPortuguese
+Meu marido gosta de negociar POK\eMON.\nVocê está coletando POK\eMON para seu POK\eDEX,\pnão é? Você poderia negociar com ele, por\nfavor?
+
+#org @CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMonsPortuguese
+Aquele BILL! Ouvi dizer que ele fará o\nque for preciso para conseguir POK\eMON\praro. Ele não hesita em fazer todo tipo\nde coisa, pelo que ouvi.
+
+#org @CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniacPortuguese
+Você já ouviu falar do BILL? Todo mundo\no chama de POK\eMANÍACO! Acho que as pessoas\pestão com inveja do BILL, no entanto. Quem\nnão gostaria de se gabar de seu POK\eMON?
+
+#org @CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMonsPortuguese
+BILL tem muitos POK\eMON! Ele também coleciona\nitens raros!
+
+#org @CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairsPortuguese
+Por que você não sobe e tenta negociar\nPOK\eMON com seus amigos? Você pode obter\pmuito mais variedade negociando. O POK\eMON\nque você recebe nas negociações também\pcresce rapidamente.
+
+#org @CeruleanCity_Gym_Text_MistyIntroPortuguese
+Olá, você é uma cara nova! Somente aqueles\nTREINADORES que têm uma política sobre\pPOK\eMON podem se tornar profissionais.\nQual é a sua abordagem quando você cacaptura\pe treina POK\eMON? Minha política é uma\nofensiva total  com POK tipo WATER\eMON![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @CeruleanCity_Gym_Text_ExplainTM03Portuguese
+TM03 ensina WATER PULSE. Use-o em um POK\eMON\naquático!
+
+#org @CeruleanCity_Gym_Text_ExplainCascadeBadgePortuguese
+O CASCADEBADGE faz todos os POK\eMON até\no Lv. 30 obedeça. Isso inclui até mesmo\ppessoas de fora\que você negocia. Tem mais.\nAgora você pode usar CUT a qualquer momento,\pmesmo fora da batalha. Você pode CORTAR\npequenas árvores para abrir novos caminhos.\pVocê também pode ter meu TM favorito.
+
+#org @CeruleanCity_Gym_Text_ReceivedTM03FromMistyPortuguese
+À recebeu o TM03 de MISTY.
+
+#org @CeruleanCity_Gym_Text_BetterMakeRoomForThisPortuguese
+É melhor você abrir espaço para isso!
+
+#org @CeruleanCity_Gym_Text_MistyDefeatPortuguese
+Uau! Você é demais! Tudo bem! Você pode\nficar com o CASCADEBADGE para mostrar que\pme venceu.
+
+#org @CeruleanCity_Gym_Text_DianaIntroPortuguese
+O que? Você? Sou mais do que bom o suficiente\npara você! MISTY não precisará ser incomodado.
+
+#org @CeruleanCity_Gym_Text_DianaDefeatPortuguese
+Você me sobrecarregou!
+
+#org @CeruleanCity_Gym_Text_DianaPostBattlePortuguese
+Você tem que enfrentar outros TREINADORES\npara ver o quão bom você realmente é.
+
+#org @CeruleanCity_Gym_Text_LuisIntroPortuguese
+Splash! Eu sou o primeiro! Vamos lá!
+
+#org @CeruleanCity_Gym_Text_LuisDefeatPortuguese
+Isso não pode ser!
+
+#org @CeruleanCity_Gym_Text_LuisPostBattlePortuguese
+MISTY é uma TREINADORA que continuará melhorando.\nEla não perderá para alguém como você!
+
+#org @CeruleanCity_Gym_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! Deixe-me dar um\nconselho! O LÍDER, MISTY, é um profissional\pque usa POK\eMON do tipo ÁGUA. Você pode\ndrenar toda a água deles com POK\eMON do\ptipo GRASS . Ou você pode usar o tipo ELECTRIC\nPOK\eMON e destruí-los!
+
+#org @CeruleanCity_Gym_Text_WeMakePrettyGoodTeamPortuguese
+Você venceu MISTY! Viu, o que eu te disse?\nVocê e eu, garoto, formamos um time muito\pbom de!
+
+#org @CeruleanCity_Gym_Text_GymStatuePortuguese
+CERULEAN POK\eMON GYM LÍDER: MISTY WINNING\nTRAINERS: [B_OPPONENT_MON1_NAME]É
+
+#org @CeruleanCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @CeruleanCity_BikeShop_Text_WelcomeToBikeShopPortuguese
+Olá! Bem-vindo à nossa LOJA DE BICICLETA.\nTemos a BICICLETA certa para você!
+
+#org @CeruleanCity_BikeShop_Text_SorryYouCantAffordItPortuguese
+Desculpe! Você não pode pagar!
+
+#org @CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGoPortuguese
+Ah, isso é… UM VOUCHER DE BICICLETA! Ok!\nAqui está!
+
+#org @CeruleanCity_BikeShop_Text_ExchangedVoucherForBicyclePortuguese
+À trocou o BIKE VOUCHER por uma BICICLETA.
+
+#org @CeruleanCity_BikeShop_Text_ThankYouComeAgainPortuguese
+Obrigado! Volte sempre!
+
+#org @CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicyclePortuguese
+O que você acha da sua nova BICICLETA?\nVocê gosta de como ela anda? Você pode\plevá-la para andar de bicicleta ESTRADA\ne até mesmo em cavernas!
+
+#org @CeruleanCity_BikeShop_Text_MakeRoomForBicyclePortuguese
+É melhor você abrir espaço para sua BICICLETA!
+
+#org @CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMePortuguese
+Uma bicicleta urbana simples é suficiente\npara mim. Afinal, você não pode colocar\puma cesta de compras em uma mountain bike.
+
+#org @CeruleanCity_BikeShop_Text_BikesCoolButExpensivePortuguese
+Essas bicicletas são legais, mas são muito\ncaras!
+
+#org @CeruleanCity_BikeShop_Text_WowYourBikeIsCoolPortuguese
+Uau. Sua BICICLETA é muito legal!
+
+#org @CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarketPortuguese
+Finalmente, Hatsubai! A melhor máquina\nde dobrar da Alemanha!
+
+#org @CeruleanCity_BikeShop_Text_ShinyNewBicyclePortuguese
+Uma BICICLETA novinha em folha!
+
+#org @CeruleanCity_Mart_Text_RepelWorksOnWeakMonsPortuguese
+REPEL não apenas mantém os bugs afastados,\nem também funciona em POK\eMON fracos.\pColoque seu POK\eMON mais forte à esquerda\nda LISTA DE POK\eMON. Se seu primeiro POK\eMON\pfor forte, o efeito de REPEL será aumentado\n.
+
+#org @CeruleanCity_Mart_Text_DoYouKnowAboutRareCandyPortuguese
+Você conhece o RARE CANDY? Eles não vendem\nem lojas. Acho que isso faz o POK\eMON\pcrescer muito rapidamente, de repente.
+
+#org @CeruleanCity_House4_Text_NothingEntertainingPortuguese
+Suspiro… Muito tempo, muito pouco para\nfazer… Não há nada de divertido acontecendo\palgum lugar?
+
+#org @CeruleanCity_House4_Text_NewNewsInformativeHaveThisPortuguese
+Ah! Uma nova reportagem! Hmm… Entendo!\nIsso foi bastante informativo! Aplaudo\pvocê por se interessar as notícias em sua\ntenra idade. Como agradecimento por compartilhar\pas notícias comigo, eu quero que você tenha\nisso.
+
+#org @CeruleanCity_House4_Text_IncredibleNewsHaveBerriesPortuguese
+Oh, oh! Esta notícia! Hmm… Incrível! Que\nnotícia incrível! Não vejo uma notícia\ptão crível há muito tempo! Obrigado por\ncompartilhar esta fantástica\ notícias.\pComa um monte de BAGAS!
+
+#org @CeruleanCity_House4_Text_WishCouldShareNewsWithOthersPortuguese
+Parece uma pena não compartilhar esta notícia\ncom outras pessoas… Eu gostaria de poder\pcontar a alguém… Contar a outros sobre\na notícia…
+
+#org @CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThisPortuguese
+Ah, você espalhou a notícia para mim? Boas\nnotícias valem a pena quando todos os tipos\pde pessoas as compartilham. Como agradecimento\npor você espalhar as notícias, aceite isto!
+
+#org @CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerriesPortuguese
+Você espalhou a notícia um pouco mais?\nMagnífico! Essa notícia deve ser de um\pprazer ser divulgada assim. Sim, de fato!\nConsidere isso uma demonstração de apreço\ppor mim e pela notícia. Eu irei dar-lhe\nmais BAGAS do que normalmente.
+
+#org @CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNewsPortuguese
+Estou me divertindo muito com todo tipo\nde novidades. Sim, estou satisfeito! Não\pficarei entediado por um tempo.
+
+#org @CeruleanCity_House4_Text_YourBerryPouchIsFullPortuguese
+Hum? Sua BERRY POUCH está cheia. Meu presente\nainda não foi entregue.
+
+#org @CeruleanCity_House1_Text_AnyInterestInBerriesPortuguese
+Eu preparo uma variedade de remédios com\no PÓ DE BAGA. Usando um bom PÓ DE BAGA,\pposso fazer qualquer tipo de remédio. Agora\nme diga, você tem algum interesse com BAGAS?
+
+#org @CeruleanCity_House1_Text_HaveJustTheThingPortuguese
+Ah bom! Para você, então, eu tenho exatamente\no que você precisa.
+
+#org @CeruleanCity_House1_Text_GoCrushBerriesAtDirectCornerPortuguese
+Há algo novo no segundo andar dos CENTROS\nPOK\eMON, no CANTO DIRETO. Eles instalaram\puma máquina de adaptador sem fio para esmagar\nBAGAS. É aqui que você entra. Tenho um\pfavor a pedir, um que  Só posso confiar\nem você. Você poderia fazer BERRY POWDER\ppara mim usando essa máquina? Não se esqueça,\na máquina está ESQUINA DIRETA dos CENTROS\pPOK\eMON. Eu prepararei remédios para você\nse  você me traz um pouco de BERRY POWDER.\pNão se esqueça, esmague as BAGAS em BERRY\nPOWDER e traga para mim.
+
+#org @CeruleanCity_House1_Text_WhyMustYouLieNoBerriesPortuguese
+Por que você tem que mentir para mim? Quantas\nBAGAS você tem? Nenhuma!
+
+#org @CeruleanCity_House1_Text_TakeInterestInAllSortsOfThingsPortuguese
+Você não tem interesse em BAGAS? Jovem,\né importante se interessar por todos os\ptipos de coisas.
+
+#org @CeruleanCity_House1_Text_HaveYouBroughtBerryPowderPortuguese
+Er-hem! Você me trouxe PÓ DE BAGA?
+
+#org @CeruleanCity_House5_Text_ExchangeWithWhatPortuguese
+Com o que você gostaria de  extrocá-lo?
+
+#org @CeruleanCity_House1_Text_YoullExchangeBerryPowderForItemPortuguese
+Tudo bem, você trocará seu BERRY POWDER\npor um [B_COPY_VAR_1]Á?
+
+#org @CeruleanCity_House1_Text_DontHaveEnoughBerryPowderPortuguese
+Hum? Você não tem PÓ DE BAGA suficiente.
+
+#org @CeruleanCity_House1_Text_TradeMoreBerryPowderPortuguese
+Este é realmente um ótimo PÓ DE BAGA. Será\num excelente remédio. Você gostaria de\ptrocar mais PÓ DE BAGA por outra coisa?
+
+#org @CeruleanCity_House1_Text_HopeToSeeYouAgainPortuguese
+Tudo bem então. Espero vê-lo de volta.
+
+#org @CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowderPortuguese
+Venha me ver se quiser trocar o seu BERRY\nPOWDER.
+
+#org @LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoneyPortuguese
+A EQUIPE ROCKET fará qualquer coisa por\numa questão de dinheiro! Não há trabalho\pmuito sujo, nenhuma ação muito hedionda,\nnenhum crime muito perverso!
+
+#org @LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRocketsPortuguese
+Eu vi a mãe do CUBONE tentando escapar\ndo TEAM ROCKET. Ela foi morta tentando\pfugir...
+
+#org @LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkullsPortuguese
+Você sabe como a espécie CUBONE usa crânios,\ncerto? As pessoas pagarão muito por um.
+
+#org @LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHerePortuguese
+Mudei-me recentemente para esta cidade.\nOuvi dizer que o SR. A FUJI também não\pé desta região originalmente.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGoPortuguese
+Isso é estranho, Sr. FUJI não está aqui.\nPara onde ele foi?
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMotherPortuguese
+SENHOR. FUJI estava orando sozinho pela\nmãe de CUBONE.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMonsPortuguese
+Este é realmente o senhor. A casa de FUJI.\nEle é muito gentil. Ele cuida de POK\eMON\pabandonados e\órfãos.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHugPortuguese
+Está tão quente! POK\eMON são tão bons\nde abraçar.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_NidorinoPortuguese
+NIDORINO: Gaoo!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_PsyduckPortuguese
+PSYDUCK: Bonito!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThisPortuguese
+À… Sua missão POK\eDEX é aquela que requer\nforte dedicação. Sem profundo amor por\pPOK\eMON, sua missão pode falhar. Não tenho\ncerteza se isso irá ajudá-lo, mas gostaria\pque você para tê-lo.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFujiPortuguese
+À recebeu um POK\e FLUTE do MR. Fuji.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlutePortuguese
+Ao ouvir a FLUTE POK\e, POK\eMON adormecido\nacordará. Tente usá-la em POK\eMON que\pestejam obstáculos para dormir.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThisPortuguese
+Você deve abrir espaço para isso!
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYouPortuguese
+SENHOR. FUJI: Minha POK\e FLUTE de ajudou\nvocê?
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClippedPortuguese
+POK\eMON FAN MAGAZINE Sorteio mensal do\nGrande Prêmio! O formulário de inscrição\pestá... Gone! Foi recortado. Alguém já\ndeve ter se inscrito.
+
+#org @LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelfPortuguese
+Revistas POK\eMON alinham-se na prateleira.\nPOK\eMON INSIDER… POK\eMON FAN…
+
+#org @LavenderTown_House1_Text_CubonePortuguese
+CUBONE: Kyarugoo!
+
+#org @LavenderTown_House1_Text_RocketsKilledCubonesMotherPortuguese
+Aqueles ROCKETS horríveis! Eles não merecem\npiedade! Aquela pobre mãe do CUBONE… Ele\pfoi morto tentando escapar da TEAM ROCKET.
+
+#org @LavenderTown_House1_Text_GhostOfPokemonTowerIsGonePortuguese
+O fantasma da POK\eMON TOWER desapareceu!\nAlguém deve ter acalmado seu espírito inquieto!
+
+#org @LavenderTown_House2_Text_WantMeToRateNicknamesPortuguese
+Olá, olá! Sou o AVALIADOR DE NOMES oficial!\nQuer que eu avalie os apelidos do seu POK\eMON?
+
+#org @LavenderTown_House2_Text_CritiqueWhichMonsNicknamePortuguese
+Qual apelido do POK\eMON devo criticar?
+
+#org @LavenderTown_House2_Text_GiveItANicerNamePortuguese
+Á, não é? Esse é um apelido decente! Mas,\nvocê gostaria que eu lhe desse\um nome\pmais bonito? Que tal?
+
+#org @LavenderTown_House2_Text_WhatShallNewNicknameBePortuguese
+Ah bom. Então, qual será o novo apelido?
+
+#org @LavenderTown_House2_Text_FromNowOnShallBeKnownAsNamePortuguese
+Á! É um nome melhor do que antes! Que sorte\npara você!
+
+#org @LavenderTown_House2_Text_ISeeComeVisitAgainPortuguese
+Entendo. Venha visitar novamente.
+
+#org @LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameNamePortuguese
+Á! Não parece diferente de antes, e ainda\nassim, é muito superior! Que sorte para\pvocê!
+
+#org @LavenderTown_House2_Text_TrulyImpeccableNamePortuguese
+Á, não é? Esse é um nome verdadeiramente\nimpecável! Cuide bem
+
+#org @LavenderTown_House2_Text_ThatIsMerelyAnEggPortuguese
+Agora, agora. Isso é apenas um OVO!
+
+#org @LavenderTown_Mart_Text_SearchingForStatRaiseItemsPortuguese
+Estou procurando itens que aumentem as\nestatísticas do POK\eMON. Eles são eficazes\pao longo de uma única batalha. X ATTACK,\nX DEFEND, X SPEED,  e X SPECIAL são o que\pprocuro . Você sabe onde posso consegui-los?
+
+#org @LavenderTown_Mart_Text_DidYouBuyRevivesPortuguese
+Você comprou alguns REVIVES? Eles revivem\nqualquer POK\eMON desmaiado!
+
+#org @LavenderTown_Mart_Text_TrainerDuosCanChallengeYouPortuguese
+Às vezes, uma dupla de TRAINER irá desafiá-lo\ncom dois POK\eMON a ao mesmo tempo. Se\pisso acontecer, você terá que enviar dois\nPOK\eMON para a batalha também.
+
+#org @LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000Portuguese
+Durante esse período, expanda seu Yamaoku-ken-no-tama!\nNão é algo que eu possa usar, mas quando\pexperimentei foi incrível.
+
+#org @VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFishPortuguese
+Eu sou o GURU DA PESCA! Eu simplesmente\nadoro pescar! Não suporto ficar sem. Diga-me,\pvocê gosta de pescar?
+
+#org @VermilionCity_House1_Text_TakeThisAndFishPortuguese
+Grande! Gosto do seu estilo. Acho que podemos\nser amigos. Pegue isso e pesque, jovem\pamigo!
+
+#org @VermilionCity_House1_Text_ReceivedOldRodFromFishingGuruPortuguese
+À recebeu uma VARA ANTIGA do FISHING GURU.
+
+#org @VermilionCity_House1_Text_FishingIsAWayOfLifePortuguese
+Pescar é um modo de vida! É como a melhor\npoesia. Dos mares aos rios, saia e desembarque\po grande, meu amigo.
+
+#org @VermilionCity_House1_Text_OhThatsSoDisappointingPortuguese
+Ah… Isso é tão decepcionante…
+
+#org @VermilionCity_House1_Text_HowAreTheFishBitingPortuguese
+À! Como os peixes estão mordendo?
+
+#org @VermilionCity_House1_Text_NoRoomForNiceGiftPortuguese
+Ah, não! Eu tinha um belo presente para\nvocê, mas você não tem espaço para ele!
+
+#org @VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWildPortuguese
+Mesmo que sejam do mesmo nível, POK\eMON\npode ter estatísticas e habilidades muito\pdiferentes. Um POK\eMON criado por um TRAINER\né mais forte que um na natureza.
+
+#org @VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalkingPortuguese
+Meu POK\eMON foi envenenado! Ele desmaiou\nenquanto caminhávamos!
+
+#org @VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypesPortuguese
+É verdade que um POK\eMON de nível superior\nserá mais poderoso... Mas todos os POK\eMON\pterão pontos fracos contra tipos específicos.\nEntão, parece não haver nenhum POK eMON\puniversalmente forte.
+
+#org @VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgainPortuguese
+A vontade de lutar com alguém com quem\nvocê já se envolveu antes... Você já teve\pessa vontade? Tenho certeza que sim. Eu\ntambém queria lutar contra certas pessoas\pde novo e de novo. Então, eu' estou distribuindo\nisso. Por favor, leve um!
+
+#org @VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematchesPortuguese
+Use esse dispositivo e você encontrará\nTREINADORES procurando uma revanche. Você\pprecisa carregar a bateria para usá-lo.
+
+#org @VermilionCity_PokemonCenter_1F_Text_ExplainVSSeekerPortuguese
+Como você usa o VS SEEKER? Não há nada\na fazer. Use-o como bip-beep-beep, e TREINADORES\pao seu redor notarão. Se algum TREINADOR\nquiser uma revanche,  avisará você imediatamente.\pCarregue sua bateria e use-a enquanto estiver\nna estrada.
+
+#org @VermilionCity_PokemonFanClub_Text_AdmirePikachusTailPortuguese
+Você não vai admirar a cauda adorável\do\nmeu PIKACHU?
+
+#org @VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCutePortuguese
+Humph! Meu PIKACHU é duas vezes mais fofo\nquele!
+
+#org @VermilionCity_PokemonFanClub_Text_AdoreMySeelPortuguese
+Eu simplesmente adoro meu SEEL! É tão adorável!\nEle grita, “Kyuuuh,” quando eu ho abraço!
+
+#org @VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractivePortuguese
+Nossa! Meu SEEL é muito mais atraente.\nEm dobro, eu diria.
+
+#org @VermilionCity_PokemonFanClub_Text_PikachuPortuguese
+PIKACHU: Chu!
+
+#org @VermilionCity_PokemonFanClub_Text_SeelPortuguese
+SEEL: Kyuoo!
+
+#org @VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMonsPortuguese
+Eu presido o Fã Clube POK\eMON! Eu arrecado\nmais de cem POK\eMON! Sou muito exigente\pquando se trata de POK\eMON! Com certeza\nestou! Então... Você veio me visitar para\pouvir sobre meu POK\eMON?
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmansStoryPortuguese
+Bom! Então escute! Meu RAPIDASH favorito…\nÉ…fofo…adorável…inteligente…  mais…incrível…você\pacha?… oh sim…é…deslumbrante… gentilmente…adoro!\nAbrace…quando …dormindo…quente e fofinho…espetacular…\parrebatador… …Oops! Veja a hora! Detive\nvocê por muito tempo! Obrigado por me ouvir!\pQuero que você fique com isso!
+
+#org @VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairmanPortuguese
+À recebeu um VOUCHER DE BICICLETA do PRESIDENTE.
+
+#org @VermilionCity_PokemonFanClub_Text_ExplainBikeVoucherPortuguese
+Leve esse VOUCHER DE BICICLETA para a BIKE\nSHOP em CERULEAN CITY. Troque-o por uma\pBICICLETA gratuitamente! Não se preocupe,\nmeu FEAROW favorito me levará para onde\peu precisar ir. Então, não preciso para\numa BICICLETA. Espero que você goste de\pandar de bicicleta!
+
+#org @VermilionCity_PokemonFanClub_Text_ComeBackToHearStoryPortuguese
+Oh. Volte quando quiser ouvir minha história!
+
+#org @VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgainPortuguese
+À! Você veio me ver sobre meu POK\eMON\nde novo? Não? Que pena!
+
+#org @VermilionCity_PokemonFanClub_Text_MakeRoomForThisPortuguese
+Abra espaço para isso!
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemonPortuguese
+Nosso PRESIDENTE fala muito sobre POK\eMON.
+
+#org @VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainersPortuguese
+Vamos todos ouvir educadamente os outros\nTREINADORES!
+
+#org @VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBackPortuguese
+Se alguém se gabar, gabe-se de volta!
+
+#org @VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMonsPortuguese
+Nosso PRESIDENTE realmente adora seu POK\eMON.\nMas a pessoa que o POK\eMON mais gosta\pé DAISY, eu acho.
+
+#org @VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMonPortuguese
+Á? Quer trocá-lo pelo meu 
+
+#org @VermilionCity_House2_Text_ThatsTooBadPortuguese
+Isso é ruim.
+
+#org @VermilionCity_House2_Text_ThisIsNoMonPortuguese
+Á. Se você conseguir um, por favor troque-o\comigo!
+
+#org @VermilionCity_House2_Text_ThankYouPortuguese
+Obrigado!
+
+#org @VermilionCity_House2_Text_HowIsMyOldMonPortuguese
+Â? MeuÁ está indo muito bem!
+
+#org @VermilionCity_Mart_Text_TeamRocketAreWickedPeoplePortuguese
+Existem pessoas perversas que usarão POK\eMON\npara atos criminosos. TEAM ROCKET trafica\pem POK\eMON raros, por exemplo. Eles também\nabandonam POK\eMON que consideram impopulares\pou inúteis. Esse é o tipo de coisa horrível\npessoas eles são, EQUIPE ROCKET.
+
+#org @VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainerPortuguese
+Acho que POK\eMON pode ser bom ou ruim.\nDepende do TREINADOR.
+
+#org @VermilionCity_Gym_Text_LtSurgeIntroPortuguese
+Ei, garoto! O que você pensa que está\fazendo\naqui? Você não viverá muito em combate!\pNão com seu poder insignificante! Eu lhe\ndigo, garoto, o POK\eMON elétrico me salvou\pdurante a guerra! Eles eletrocutaram meu\ninimigos paralisem! O mesmo que farei com\pvocê![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @VermilionCity_Gym_Text_LtSurgePostBattlePortuguese
+Um pequeno conselho, garoto! Eletricidade\né certamente poderosa! Mas, é inútil contra\pGROUND- type POK\eMON!
+
+#org @VermilionCity_Gym_Text_ExplainThunderBadgeTakeThisPortuguese
+O THUNDERBADGE aumenta a VELOCIDADE do\nseu POK\eMON! Ele também permite que seu\pPOK\eMON VOE rapidamente a qualquer hora,\ngaroto! Você é especial, garoto! Pegue\pisso!
+
+#org @VermilionCity_Gym_Text_ReceivedTM34FromLtSurgePortuguese
+À recebeu TM34 do LT. SURTO.
+
+#org @VermilionCity_Gym_Text_ExplainTM34Portuguese
+TM34 contém SHOCK WAVE! Ensine-o a um POK\nELÉTRICO\eMON!
+
+#org @VermilionCity_Gym_Text_MakeRoomInYourBagPortuguese
+Ei, garoto, abra espaço na sua BOLSA!
+
+#org @VermilionCity_Gym_Text_LtSurgeDefeatPortuguese
+Agora isso é um choque! Você é o verdadeiro,\ngaroto! Tudo bem, então, pegue o THUNDERBADGE!
+
+#org @VermilionCity_Gym_Text_TuckerIntroPortuguese
+Quando eu estava no Exército, LT. SURGE\nera meu comandante estrito. Ele era um\pcapataz duro.
+
+#org @VermilionCity_Gym_Text_TuckerDefeatPortuguese
+Pare! Você é muito bom!
+
+#org @VermilionCity_Gym_Text_TuckerPostBattlePortuguese
+Não é fácil abrir essa porta. LT. SURGE\nsempre foi famoso por sua natureza cautelosa\pno Exército.
+
+#org @VermilionCity_Gym_Text_BailyIntroPortuguese
+Sou leve, mas sou bom com eletricidade!\nÉ por isso que entrei nesta academia.
+
+#org @VermilionCity_Gym_Text_BailyDefeatPortuguese
+Frito!
+
+#org @VermilionCity_Gym_Text_BailyPostBattlePortuguese
+Ok, vou conversar! LT. SURGE disse que\nescondeu interruptores de porta dentro\pde alguma coisa.
+
+#org @VermilionCity_Gym_Text_DwayneIntroPortuguese
+Este não é lugar para crianças! Nem mesmo\nse você for bom!
+
+#org @VermilionCity_Gym_Text_DwayneDefeatPortuguese
+Uau! Me surpreendeu!
+
+#org @VermilionCity_Gym_Text_DwaynePostBattlePortuguese
+Tenente. O próprio SURGE instalou as armadilhas\nno GYM. Ele montou fechaduras duplas em\ptodos os lugares. Deixe-me dar uma dica.\nQuando você abre a primeira fechadura,\pa segunda fechadura fica bem ao lado dela.
+
+#org @VermilionCity_Gym_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! LT. SURGE tem\num apelido. As pessoas se referem a ele\pcomo o Americano Relâmpago! Ele é um especialista\nem POK\eMON elétrico. POK\eMON do tipo\pBIRD/WATER não combina com o tipo ELÉTRICO.\nCuidado com a paralisia também . LT. SURGE\pé muito cauteloso. Ele está trancado, então\nnão será fácil chegar até ele.
+
+#org @VermilionCity_Gym_Text_GymGuyPostVictoryPortuguese
+Uau! Essa partida foi eletrizante!
+
+#org @VermilionCity_Gym_Text_GymStatuePortuguese
+VERMILION POK\eMON GYM LÍDER: LT. SURGE\nTREINADORES VENCEDORES: [B_OPPONENT_MON1_NAME]É
+
+#org @VermilionCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @VermilionCity_Gym_Text_NopeOnlyTrashHerePortuguese
+Não! Só há lixo aqui.
+
+#org @VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpenedPortuguese
+Ei! Há um interruptor embaixo da lixeira!\nLigue! A primeira fechadura elétrica foi\paberta!
+
+#org @VermilionCity_Gym_Text_AnotherSwitchInTrashPortuguese
+Oxidado...! Ops! Ela colocou seu interruptor\nna lata de lixo novamente! Vamos tentar!\p...Clique.
+
+#org @VermilionCity_Gym_Text_SecondLockOpenedPortuguese
+A segunda fechadura elétrica abriu! A porta\nmotorizada abriu!
+
+#org @VermilionCity_Gym_Text_OnlyTrashLocksWereResetPortuguese
+Não! Só tem lixo aqui. Ei! As fechaduras\nelétricas foram reiniciadas!
+
+#org @VermilionCity_House3_Text_PidgeyFlyLetterToSaffronPortuguese
+Estou fazendo meu PIDGEY enviar uma carta\npara SAFFRON, no norte.
+
+#org @VermilionCity_House3_Text_PidgeyPortuguese
+PIDGEY: Kurukkoo!
+
+#org @VermilionCity_House3_Text_DearPippiLetterPortuguese
+Caro PIPPI, Espero vê-lo em breve. Ouvi\ndizer que o SAFFRON tem problemas com TEAM\pROCKET. VERMILION parece estar seguro.
+
+#org @VermilionCity_House3_Text_SendMyPidgeyToUnionRoomPortuguese
+Quero trocar MAIL com todos os tipos de\npessoas. Envio meu PIDGEY para uma SALA\pUNION para trocar MAIL para mim.
+
+#org @CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStorePortuguese
+Olá! Bem-vindo ao DEPARTAMENTO CELADON.\nLOJA. O quadro à direita descreve o layout\pda loja.
+
+#org @CeladonCity_DepartmentStore_1F_Text_FloorDescriptionsPortuguese
+1F: BALCÃO DE SERVIÇOS 2F: MERCADO DE TREINADORES\n3F: LOJA DE JOGOS DE TV 4F: PRESENTES DO\pHOMEM SÁBIO 5F: DROGARIA\PRAZA NO TELHADO:\nMÁQUINAS DE VENDA
+
+#org @CeladonCity_DepartmentStore_1F_Text_ServiceCounterPortuguese
+1F: CONTADOR DE SERVIÇO
+
+#org @CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepelPortuguese
+SUPER REPEL mantém POK\eMON fracos afastados...\nHmm, é um REPEL mais poderoso.
+
+#org @CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutingsPortuguese
+Para passeios longos, você deve comprar\nREVIVE.
+
+#org @CeladonCity_DepartmentStore_2F_Text_FloorSignPortuguese
+Itens de alta qualidade para TREINADORES!\n2F: MERCADO DE TREINADORES
+
+#org @CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapesPortuguese
+Temos um cliente, LANCE, que de vez em\nquando vem. Ele sempre compra capas. Eu\pme pergunto... Será que ele tem muitas\ncapas idênticas em casa?
+
+#org @CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainerPortuguese
+POK\eMON capturados são registrados com\num número de ID e o OT. OT significa “TREINADOR\pOriginal” - o TREINADOR que o capturou\nprimeiro.
+
+#org @CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunterPortuguese
+Tudo bem! Meu amigo vai me trocar seu KANGASKHAN\npelo meu HAUNTER!
+
+#org @CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTradePortuguese
+Vamos, HAUNTER! Eu adoro HAUNTER! Eu os\ncoleciono! Huh? HAUNTER se transformou\pem um POK\eMON diferente enquanto era negociado!
+
+#org @CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByIDPortuguese
+Você pode identificar o POK\eMON que recebe\nnegociações pelos seus números de identificação.
+
+#org @CeladonCity_DepartmentStore_3F_Text_ItsSuperNESPortuguese
+É um SuperNES.
+
+#org @CeladonCity_DepartmentStore_3F_Text_AnRPGPortuguese
+Um RPG! Não há tempo para isso!
+
+#org @CeladonCity_DepartmentStore_3F_Text_SportsGamePortuguese
+Um jogo de esportes! Papai vai gostar!
+
+#org @CeladonCity_DepartmentStore_3F_Text_PuzzleGamePortuguese
+Um jogo de quebra-cabeça! Parece viciante!
+
+#org @CeladonCity_DepartmentStore_3F_Text_FightingGamePortuguese
+Um jogo de luta! Parece difícil!
+
+#org @CeladonCity_DepartmentStore_3F_Text_TVGameShopPortuguese
+3F: LOJA DE JOGOS DE TV
+
+#org @CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemonPortuguese
+Vermelho e Verde! Ambos são POK\eMON!
+
+#org @Text_CounterTeachPortuguese
+Ah, oi! Finalmente terminei POK\eMON. Ainda\nnão terminou? Que tal eu lhe ensinar um\pbom movimento? O movimento que tenho em\nmente é COUNTER. Não é como aquele em que\pestou me apoiando, veja bem!
+
+#org @Text_CounterDeclinedPortuguese
+Você não está interessado? Venha me ver\nse mudar de ideia.
+
+#org @Text_CounterWhichMonPortuguese
+Para qual POK\eMON devo ensinar COUNTER?
+
+#org @Text_CounterTaughtPortuguese
+Você está usando aquele movimento COUNTER\nque ensinei ao seu POK\eMON?
+
+#org @CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresentPortuguese
+Estou ganhando um presente para minha namorada.\nAcho que será uma POK\e DOLL. É a coisa\pmais popular.
+
+#org @CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDollPortuguese
+Eu ouvi algo útil. Se um POK\eMON selvagem\naparecer, você pode distraí-lo com um POK\e\pDOLL. Você pode fugir enquanto o POK\eMON\nselvagem está distraído.
+
+#org @CeladonCity_DepartmentStore_4F_Text_FloorSignPortuguese
+Expresse-se com presentes! 4F: PRESENTES\nDO HOMEM SÁBIO Especial de evolução! Pedras\pElementais já à venda!
+
+#org @CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancersPortuguese
+Os melhoradores de estatísticas POK\eMON\npodem ser comprados somente aqui. HP UP\paumenta o HP base de um POK\eMON. CALCIUM\naumenta o SP base. ATK stat de um POK\eMON.\pZINC aumenta o SP base. DEF stat de um\nPOK\eMON. CARBOS aumenta a SPEED stat base.
+
+#org @CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancersPortuguese
+Estou aqui para POK\eMON stat enhancers.\nPROTEIN aumenta o poder base de ATAQUE\p. IRON aumenta a DEFESA base stat.
+
+#org @CeladonCity_DepartmentStore_5F_Text_DrugstorePortuguese
+5A: DROGARIA
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrinkPortuguese
+ÉÁDar uma bebida para ela?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrinkPortuguese
+Dar a ela qual bebida?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThisPortuguese
+Eba! ÁGUA FRESCA! Obrigado! Você pode ficar\ncom isso comigo!
+
+#org @Text_ReceivedItemFromLittleGirlPortuguese
+À recebeu um da menina.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM16Portuguese
+TM16 contém LIGHT SCREEN. É um movimento\nque enfraquece o poder dos ataques especiais\pdo seu inimigo.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThisPortuguese
+Oba! SODA POP! Obrigado! Você pode ficar\ncom isso comigo!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM20Portuguese
+TM20 contém SAFEGUARD. É um movimento que\nevita problemas de status entre seu POK\eMON.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThisPortuguese
+Oba! LEMONADE! Obrigado! Você pode ficar\ncom isso de mim!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ExplainTM33Portuguese
+TM33 contém REFLECT. É um movimento que\nenfraquece o poder dos ataques físicos\pdo seu inimigo.
+
+#org @CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThisPortuguese
+Você não tem espaço para isso!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAllPortuguese
+Não, obrigado! Afinal, não estou com sede!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmaturePortuguese
+Minha irmã é TREINADORA, acredite em não.\nMas ela é tão imatura que me deixa louco!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrinkPortuguese
+Estou com sede! Quero beber alguma coisa!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_FloorSignPortuguese
+PRAÇA NO TELHADO: MÁQUINAS DE VENDA
+
+#org @CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHavePortuguese
+Uma máquina de venda automática! O que\nela tem?
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoneyPortuguese
+Ops, não há dinheiro suficiente!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOutPortuguese
+Á apareceu!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuffPortuguese
+Não há mais espaço para coisas!
+
+#org @CeladonCity_DepartmentStore_Roof_Text_NotThirstyPortuguese
+Sem sede!
+
+#org @CeladonCity_Condominiums_1F_Text_MeowthPortuguese
+MIAU: Miau!
+
+#org @CeladonCity_Condominiums_1F_Text_TryThisDrinkInsteadPortuguese
+Você não deveria gastar todo o seu dinheiro\em\nbebidas. Tente fazer isso.
+
+#org @CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTeaPortuguese
+Nada supera a sede como um CHÁ quente.\nÉ realmente o melhor.
+
+#org @CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompanyPortuguese
+Meu querido POK\eMON me faça companhia.\nMEOWTH até traz dinheiro para casa!
+
+#org @CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTeaPortuguese
+Oh, olá, querido. Você gostou do meu CHÁ?\nA propósito, querido. Você por acaso é\pde PALLET TOWN? Uma garota de PALLET TOWN,\nDAISY, ela gosta de CHÁ todos os dias.\pEla visita o DEPARTAMENTO CELADON. ARMAZENE\nara comprar um pouco de CHÁ.
+
+#org @CeladonCity_Condominiums_1F_Text_ClefairyPortuguese
+CLEFAIRY: Pi pippippi!
+
+#org @CeladonCity_Condominiums_1F_Text_NidoranPortuguese
+NIDORAN: Por que o quê!
+
+#org @CeladonCity_Condominiums_1F_Text_ManagersSuitePortuguese
+MANSÃO CELADON Suíte do Gerente
+
+#org @CeladonCity_Condominiums_2F_Text_GameFreakMeetingRoomPortuguese
+Sala de reuniões GAME FREAK
+
+#org @CeladonCity_Condominiums_3F_Text_ImTheProgrammerPortuguese
+Eu? Sou o programador!
+
+#org @CeladonCity_Condominiums_3F_Text_ImTheGraphicArtistPortuguese
+Eu sou o artista gráfico! Eu desenhei você!
+
+#org @CeladonCity_Condominiums_3F_Text_IWroteTheStoryPortuguese
+Eu escrevi a história! ERIKA não é fofa?\nEu também gosto muito de MISTY! Ah, e SABRINA,\peu gosto dela!
+
+#org @CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedexPortuguese
+É isso mesmo? Sou o designer do jogo! Encher\nseu POK\eDEX é difícil, mas não desista!\pQuando terminar, venha me contar!
+
+#org @CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulationsPortuguese
+Uau! Excelente! Você completou seu POK\eDEX!\nParabéns! …
+
+#org @CeladonCity_Condominiums_3F_Text_ItsTheGameProgramPortuguese
+É o programa do jogo! Mexer com it pode\natrapalhar o jogo!
+
+#org @CeladonCity_Condominiums_3F_Text_SomeonesPlayingGamePortuguese
+Alguém está jogando em vez de trabalhar!
+
+#org @CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEndingPortuguese
+É o roteiro! É melhor não olhar para o\nfinal!
+
+#org @CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoomPortuguese
+Sala de Desenvolvimento GAME FREAK
+
+#org @CeladonCity_Condominiums_Roof_Text_IKnowEverythingPortuguese
+EU SEI TUDO!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnowPortuguese
+Não há nada que eu não saiba, como escrevi\nno quadro. Eu conheço o mundo do POK\eMON\po seu GAME BOY ADVANCE! Reúna-se com seus\namigos e divirta-se negociando POK\eMON!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEeveePortuguese
+À obtido em EEVEE!
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_BoxIsFullPortuguese
+Está cheio de Pokémon. Mude a caixa.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecturePortuguese
+Palestra POK\eMON Jogando com o adaptador\nsem fio
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeadingPortuguese
+Qual título você deseja ler?
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClubPortuguese
+O POK\eMON WIRELESS CLUB fica no andar\nde cima de qualquer POK\eMON CENTER. Visite\pum para se conectar com amigos\usando seu\nadaptador sem fio.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCornerPortuguese
+Para vincular apenas com um amigo, vá para\no DIRECT CORNER. É o balcão certo no POK\eMON\pWIRELESS CLUB. Vá para o TRADE CORNER ou\nno COLOSSEUM com seu amigo.
+
+#org @CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoomPortuguese
+Para se conectar e se comunicar com qualquer\npessoa, vá para a SALA UNION. É o balcão\pesquerdo do POK\eMON WIRELESS CLUB. Vá\npara a SALA UNION e aproveite conhecer\poutros TREINADORES.
+
+#org @CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMonsPortuguese
+Uma flauta POK\e desperta POK\eMON adormecido.\nVocê sabe disso. Ele faz isso com um som\pque só eles podem ouvir.
+
+#org @CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsiaPortuguese
+Vim de FÚCSIA para cá. É uma subida na\nESTRADA DE CICLISMO , então estou exausto.
+
+#org @CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBikePortuguese
+Se eu tivesse uma BICICLETA, iria para\nESTRADA DE CICLISMO!
+
+#org @CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoorPortuguese
+Bem-vindo! Você pode trocar suas MOEDAS\npor prêmios fabulosos ao lado.
+
+#org @CeladonCity_GameCorner_Text_WelcomeBuySomeCoinsPortuguese
+Bem-vindo ao ROCKET GAME CORNER! Você precisa\nde algumas MOEDAS do jogo? Gostaria de\pcomprar algumas?
+
+#org @CeladonCity_GameCorner_Text_ComePlaySometimePortuguese
+Não? Por favor, venha brincar algum dia!
+
+#org @CeladonCity_GameCorner_Text_SorryDontHaveCoinCasePortuguese
+Ah, sinto muito. Você não tem um COIN CASE.
+
+#org @CeladonCity_GameCorner_Text_CoinCaseIsFullPortuguese
+Ops! Sua caixa de moedas está cheia.
+
+#org @CeladonCity_GameCorner_Text_CantAffordCoinsPortuguese
+Você não pode pagar pelas MOEDAS.
+
+#org @CeladonCity_GameCorner_Text_HereAreYourCoinsPortuguese
+Obrigado. Aqui estão suas MOEDAS!
+
+#org @CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlacePortuguese
+Mantenha isso em segredo. Há rumores de\nque este lugar é administrado pela TEAM\pROCKET.
+
+#org @CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOddsPortuguese
+Acho que essas máquinas têm probabilidades\ndiferentes.
+
+#org @CeladonCity_GameCorner_Text_DoYouWantToPlayPortuguese
+Garoto, você quer brincar?
+
+#org @CeladonCity_GameCorner_Text_Received10CoinsFromManPortuguese
+À recebeu 10 MOEDAS do homem.
+
+#org @CeladonCity_GameCorner_Text_DontNeedMyCoinsPortuguese
+Você não precisa das minhas MOEDAS!
+
+#org @CeladonCity_GameCorner_Text_WinsComeAndGoPortuguese
+As vitórias parecem ir e vir. Nada é certo.
+
+#org @CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuckPortuguese
+Esses jogos de caça-níqueis… Ganhe ou perca,\né apenas sorte.
+
+#org @CeladonCity_GameCorner_Text_GymGuyAdvicePortuguese
+Ei! Você tem coisas melhores para fazer,\ncampeão em formação! A LÍDER do CELADON\pGYM é ERIKA. Ela é usuária do tipo GRASS\nPOK\eMON e está em harmonia com a natureza.\pEla pode parecer dócil por causa de  seus\narranjos de flores... Mas ela não deve\pser subestimada levianamente!
+
+#org @CeladonCity_GameCorner_Text_RareMonsForCoinsPortuguese
+Eles oferecem POK\eMON raros que podem\nser trocados por suas MOEDAS. Mas, simplesmente\pnão consigo vencer!
+
+#org @CeladonCity_GameCorner_Text_SoEasyToGetHookedPortuguese
+Os jogos são assustadores! É tão fácil\nficar viciado!
+
+#org @CeladonCity_GameCorner_Text_WantSomeCoinsPortuguese
+E aí? Quer algumas MOEDAS?
+
+#org @CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuyPortuguese
+Àrecebi 20 MOEDAS do cara legal.
+
+#org @CeladonCity_GameCorner_Text_YouHaveLotsOfCoinsPortuguese
+Você tem muitas MOEDAS!
+
+#org @CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWantPortuguese
+Droga! Preciso de mais MOEDAS para o POK\eMON\nque eu quero!
+
+#org @CeladonCity_GameCorner_Text_HereAreSomeCoinsShooPortuguese
+Ei o que? Você está me confundindo! Aqui\nestão algumas MOEDAS, então, xô!
+
+#org @CeladonCity_GameCorner_Text_Received20CoinsFromManPortuguese
+À recebeu 20 MOEDAS do homem.
+
+#org @CeladonCity_GameCorner_Text_YouveGotPlentyCoinsPortuguese
+Você já tem muitas MOEDAS!
+
+#org @CeladonCity_GameCorner_Text_WatchReelsCloselyPortuguese
+O truque é observar os rolos de perto.
+
+#org @CeladonCity_GameCorner_Text_GruntIntroPortuguese
+Estou guardando este pôster! Vá embora,\nou então!
+
+#org @CeladonCity_GameCorner_Text_GruntDefeatPortuguese
+Droga!
+
+#org @CeladonCity_GameCorner_Text_GruntPostBattlePortuguese
+O ESCONDERIJO DA EQUIPE ROCKET pode ser\ndescoberto! É melhor contar ao BOSS!
+
+#org @CeladonCity_GameCorner_Text_SwitchBehindPosterPushItPortuguese
+Ei! Um interruptor atrás do pôster!? Vamos\napertar!
+
+#org @CeladonCity_GameCorner_Text_CoinCaseIsRequiredPortuguese
+É necessário um CASO DE MOEDAS…
+
+#org @CeladonCity_GameCorner_Text_DontHaveCoinCasePortuguese
+Ops! Não tenho o CASO DE MOEDAS!
+
+#org @CeladonCity_GameCorner_Text_SlotMachineWantToPlayPortuguese
+Uma máquina caça-níqueis! Quer jogar?
+
+#org @CeladonCity_GameCorner_Text_OutOfOrderPortuguese
+FORA DE ORDEM Isso está quebrado.
+
+#org @CeladonCity_GameCorner_Text_OutToLunchPortuguese
+SAI PARA ALMOÇAR Isto está reservado.
+
+#org @CeladonCity_GameCorner_Text_SomeonesKeysPortuguese
+As chaves de alguém! Eles voltarão.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygonPortuguese
+Eu realmente gosto desse PORYGON! Mas é\ndifícil ganhar nos caça-níqueis!
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_RakedItInTodayPortuguese
+Hahaha! Eu arrecadei hoje! Se todos os\ndias fossem assim...
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequiredPortuguese
+É necessário um CASO DE MOEDAS…
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizesPortuguese
+Trocamos suas MOEDAS por prêmios.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_WhichPrizePortuguese
+Qual prêmio você gostaria?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_HereYouGoPortuguese
+olha Você aqui
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrizePortuguese
+Então, você quer o [B_COPY_VAR_1]Á?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantTMPortuguese
+É o que você quer?
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoinsPortuguese
+Desculpe, você precisará de mais MOEDAS\ndo que isso.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoomPortuguese
+Okyaku-san, não aguento mais.
+
+#org @CeladonCity_GameCorner_PrizeRoom_Text_OhFineThenPortuguese
+Eu vejo
+
+#org @CeladonCity_Gym_Text_ErikaIntroPortuguese
+Olá… Tempo maravilhoso, não é? Está tão\nagradável… …Oh, querido… Devo ter cochilado.\pBem-vindo. Meu nome é ERIKA. Sou a LÍDER\ndo CELADON GYM. Sou uma estudante da arte\pde arranjos de flores. Meus POK\eMON são\nexclusivamente do tipo GRASS. …Oh, eu'\pme desculpe, eu não tinha ideia de que\nvocê queria me desafiar. Muito bem, mas\pnão vou perder.[PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @CeladonCity_Gym_Text_ErikaDefeatPortuguese
+Oh! Eu admito a derrota. Você é notavelmente\nforte. Devo conferir a você ARCO-ÍRIS.
+
+#org @CeladonCity_Gym_Text_ErikaPostBattlePortuguese
+Você está catalogando POK\eMON? Devo dizer\nque estou impressionado. Eu nunca colecionaria\pPOK\eMON se eles não fossem atraentes.
+
+#org @CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThisPortuguese
+O RAINBOWBADGE fará POK\eMON até o Lv.\n50 obedecer. Isso também permite que o\pPOK\eMON use FORÇA dentro e fora da batalha.\nPor favor, leve isso com você.
+
+#org @CeladonCity_Gym_Text_ReceivedTM19FromErikaPortuguese
+À recebeu o TM19 de ERIKA.
+
+#org @CeladonCity_Gym_Text_ExplainTM19Portuguese
+TM19 contém GIGA DRAIN. Metade do dano\nque ele inflige é\drenado para curar seu\pPOK\eMON. Você não concorda que é um movimento\nmaravilhoso?
+
+#org @CeladonCity_Gym_Text_ShouldMakeRoomForThisPortuguese
+Você deveria abrir espaço para isso.
+
+#org @CeladonCity_Gym_Text_KayIntroPortuguese
+Eu deveria te contar sobre esse ACADEMIA.\nSó mulheres de verdade podem entrar aqui!
+
+#org @CeladonCity_Gym_Text_KayDefeatPortuguese
+Você é muito duro!
+
+#org @CeladonCity_Gym_Text_KayPostBattlePortuguese
+Bleaah! Espero que ERIKA acabe com você!
+
+#org @CeladonCity_Gym_Text_BridgetIntroPortuguese
+Bem-vindo. Eu estava ficando entediado.
+
+#org @CeladonCity_Gym_Text_BridgetDefeatPortuguese
+Minha maquiagem!
+
+#org @CeladonCity_Gym_Text_BridgetPostBattlePortuguese
+POK\eMON do tipo GRASS são difíceis acontra\nos do tipo WATER. Eles também têm uma vantagem\psobre os POK\eMON do tipo ROCK e GROUND.
+
+#org @CeladonCity_Gym_Text_TinaIntroPortuguese
+…Você não estava espiando aqui\mais perto?
+
+#org @CeladonCity_Gym_Text_TinaDefeatPortuguese
+Você é uma revelação!
+
+#org @CeladonCity_Gym_Text_TinaPostBattlePortuguese
+Ah, você estava olhando para ERIKA… Você\nnão estava olhando para mim…
+
+#org @CeladonCity_Gym_Text_TamiaIntroPortuguese
+Olha, olha! Veja meu POK\eMON! Eu gosto\ndo tipo GRASS. Gosto de como eles são fáceis\pde criar.
+
+#org @CeladonCity_Gym_Text_TamiaDefeatPortuguese
+Não!
+
+#org @CeladonCity_Gym_Text_TamiaPostBattlePortuguese
+Nós só usamos POK\eMON do tipo GRASS em\nossa academia. Por quê? Também os usamos\ppara fazer arranjos de flores!
+
+#org @CeladonCity_Gym_Text_LisaIntroPortuguese
+Ah, ei! Não gostamos do tipo BUG ou FIRE\nPOK\eMON aqui!
+
+#org @CeladonCity_Gym_Text_LisaDefeatPortuguese
+Ah! Você!
+
+#org @CeladonCity_Gym_Text_LisaPostBattlePortuguese
+Nossa LÍDER ERIKA pode ser quieta, mas\nela é famosa por aqui.
+
+#org @CeladonCity_Gym_Text_LoriIntroPortuguese
+Prazer em conhecê-lo. Meu hobby é treinar\nPOK\eMON.
+
+#org @CeladonCity_Gym_Text_LoriDefeatPortuguese
+Ah! Esplêndido!
+
+#org @CeladonCity_Gym_Text_LoriPostBattlePortuguese
+Tenho um encontro às cegas chegando. Tenho\nque aprender a ser educado, especialmente\pse tiver que lutar.
+
+#org @CeladonCity_Gym_Text_MaryIntroPortuguese
+Bem-vindo ao CELADON GYM! É melhor não\nsubestimar as simpáticas senhoras daqui.
+
+#org @CeladonCity_Gym_Text_MaryDefeatPortuguese
+Ah! Espancado!
+
+#org @CeladonCity_Gym_Text_MaryPostBattlePortuguese
+Não trouxe meu melhor POK\eMON. Espere\naté a próxima!
+
+#org @CeladonCity_Gym_Text_GymStatuePortuguese
+CELADON POK\eMON GYM LÍDER: ERIKA TREINADORES\nVENCEDORES: [B_OPPONENT_MON1_NAME]É
+
+#org @CeladonCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @CeladonCity_Restaurant_Text_TakingBreakRightNowPortuguese
+Olá! Desculpe, mas estamos fazendo uma\npausa agora.
+
+#org @CeladonCity_Restaurant_Text_OftenGoToDrugstorePortuguese
+Meus POK\eMON são fracos, então muitas\nvezes tenho que ir à DROGARIA.
+
+#org @CeladonCity_Restaurant_Text_PsstBasementUnderGameCornerPortuguese
+Psiu! Ouvi dizer que há um porão embaixo\ndo CANTO DO JOGO.
+
+#org @CeladonCity_Restaurant_Text_ManLostItAllAtSlotsPortuguese
+Munch… O homem naquela mesa perdeu tudo\na caça-níqueis.
+
+#org @CeladonCity_Restaurant_Text_TakeThisImBustedPortuguese
+Vá em frente! Ria! Estou completamente\nperdido! Não há mais vagas para mim! Vou\pdireto! Aqui! Não vou precisar mais disso!
+
+#org @CeladonCity_Restaurant_Text_ReceivedCoinCaseFromManPortuguese
+À recebeu uma CAIXA DE MOEDAS do homem.
+
+#org @CeladonCity_Restaurant_Text_MakeRoomForThisPortuguese
+Abra espaço para isso!
+
+#org @CeladonCity_Restaurant_Text_ThoughtIdWinItBackPortuguese
+Sempre pensei que iria reconquistá-lo...
+
+#org @CeladonCity_House1_Text_SlotsReelInTheDoughPortuguese
+Hehehe! Os caça-níqueis simplesmente enrolam\na massa, grande coisa!
+
+#org @CeladonCity_House1_Text_ShippedMonsAsSlotPrizesPortuguese
+CHEFE! Acabamos de enviar mais dois mil\nPOK\eMON como prêmios de caça-níqueis anovamente\phoje!
+
+#org @CeladonCity_House1_Text_DontTouchGameCornerPosterPortuguese
+Não toque no pôster no GAME CORNER! Não\nhá nenhum interruptor secreto por trás\pdele!
+
+#org @Text_ItsABuddhistAltarPortuguese
+É um solavanco...
+
+#org @CeladonCity_Hotel_Text_ThisHotelIsForPeoplePortuguese
+POK\eMON? Não, este é um hotel para pessoas.\nEstamos lotados, infelizmente.
+
+#org @CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriendPortuguese
+Estou de férias com meu irmão e namorado.\nCELADON é uma cidade tão linda!
+
+#org @CeladonCity_Hotel_Text_WhyDidSheBringBrotherPortuguese
+Por quê? Por que ela trouxe o irmão?
+
+#org @CeladonCity_Hotel_Text_SisBroughtMeOnVacationPortuguese
+Yippee! Estou de férias! Minha irmã me\ntrouxe! Incrível!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZonePortuguese
+Bem-vindo à ZONA SAFARI!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500Portuguese
+Por apenas \$500, você pode jogar o JOGO\nSAFARI. Você pode percorrer o safári aberto\pe pegar o que quiser. Gostaria de jogar?
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBallsPortuguese
+Isso custará \$500, por favor! Nós só usamos\num tipo especial de  POK\e BOLAS aqui.
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBallsPortuguese
+À recebeu 30 BOLAS SAFARI do atendente.
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOutPortuguese
+Ligaremos para você no PA quando ficar\nsem tempo ou SAFARI BALLS. Bem, desejo-lhe\pboa sorte!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgainPortuguese
+Ok. Por favor, volte novamente!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoneyPortuguese
+Ops! Não há dinheiro suficiente!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarlyPortuguese
+Você vai sair da ZONA SAFARI mais cedo?
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBallsPortuguese
+Por favor, devolva todas as BOLAS DE SAFARI\nque você possa ter deixado.
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_GoodLuckPortuguese
+Boa sorte!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgainPortuguese
+Você conseguiu sua parte? Volte!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZonePortuguese
+Oi! É a sua primeira vez aqui na SAFARI\nZONE?
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZonePortuguese
+A ZONA SAFARI na verdade tem quatro zonas.\nCada zona tem diferentes tipos de POK\eMON,\paté mesmo alguns raros. Use as BOLAS SAFARI\nfornecidas para cacapturá-las. Você também\ppode lançar ISCA ou PEDRAS além das BOLAS\nDE SAFARI. Se você jogar ISCA, o POK\eMON\pserá menos propenso a fugir, mas mais difícil\nde pegar. Se você jogar ROCKS, o POK\eMON\pserá mais propenso a fugir, mas mais fácil\nde pegar.\ pQuando você ficar sem tempo\pou SAFARI BOLAS, o jogo acaba para você!
+
+#org @FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHerePortuguese
+Desculpe, você é um frequentador assíduo\naqui!
+
+#org @FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennantsPortuguese
+Eles não têm nenhuma flâmula promovendo\na ZONA SAFARI? Que tal algumas lanternas\pde papel? Não há sequer calendários?
+
+#org @FuchsiaCity_Mart_Text_DidYouTryXSpeedPortuguese
+Você tentou o X SPEED? Ele acelera um POK\eMON\nem batalha.
+
+#org @FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpokePortuguese
+Nós apelidamos o GUARDA “SLOWPOKE”. Você\nsabe, ele tem aquela aparência vazia de\pSLOWPOKE.
+
+#org @FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeablePortuguese
+WARDEN SLOWPOKE é muito kentendido sobre\nPOK\eMON. Ele ainda tem alguns fósseis\pde POK\eMON raros e extinto.
+
+#org @FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWardenPortuguese
+O GUARDA SLOWPOKE entrou, mas não consegui\nentendê-lo. Acho que ele tem um problema\pde fala!
+
+#org @FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZonePortuguese
+WARDEN SLOWPOKE está realizando uma campanha\npromocional agora. Tente chegar ao canto\pmais distante oSAFARI ZONE. Se você conseguir,\nganhará um prêmio muito conveniente.
+
+#org @FuchsiaCity_Gym_Text_KogaIntroPortuguese
+KOGA: Fwahahaha! Uma simples criança como\nvocê se atreve a desafiar-me? A simples\pidéia me faz tremer de alegria! Muito bem,\nvou lhe mostrar o verdadeiro terror como\pum mestre ninja. O veneno traz a destruição\nconstante.\ nO sono deixa os inimigos indefesos.\pDesespero diante do horror arrepiante do\nPOK do tipo POISON\eMON![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @FuchsiaCity_Gym_Text_KogaDefeatPortuguese
+Humph! Você provou seu valor! Aqui! Pegue\no SOULBADGE!
+
+#org @FuchsiaCity_Gym_Text_KogaPostBattlePortuguese
+Quando afetado por TOXIC, um POK\eMON sofre\ncada vez mais. Ele sofre danos cada vez\pmaiores à medida que a batalha avança!\nEle certamente aterrorizará os inimigos!
+
+#org @FuchsiaCity_Gym_Text_KogaExplainSoulBadgePortuguese
+Agora que você tem o SOULBADGE, a DEFESA\ndo seu POK\eMON aumenta. Ele também permite\pque você SURF fora da batalha. Ah! Pegue\nisso também!
+
+#org @FuchsiaCity_Gym_Text_ReceivedTM06FromKogaPortuguese
+À recebeu o TM06 da KOGA.
+
+#org @FuchsiaCity_Gym_Text_KogaExplainTM06Portuguese
+Selado dentro desse TM06 está TÓXICO! É\numa técnica secreta que data cerca de quatrocentos\panos.
+
+#org @FuchsiaCity_Gym_Text_MakeSpaceForThisPortuguese
+Abra espaço para isso, criança!
+
+#org @FuchsiaCity_Gym_Text_KaydenIntroPortuguese
+Força não é a chave para POK\eMON. Você\nentende isso? POK\eMON é uma questão de\pestratégia! Vou mostrar como a estratégia\npode vencer a força bruta.
+
+#org @FuchsiaCity_Gym_Text_KaydenDefeatPortuguese
+O quê? Extraordinário!
+
+#org @FuchsiaCity_Gym_Text_KaydenPostBattlePortuguese
+Então, você mistura força com inteligência?\nBoa estratégia! Isso é notável para um\pTREINADOR infantil.
+
+#org @FuchsiaCity_Gym_Text_KirkIntroPortuguese
+Eu já fui um mágico. Mas eu sonhava em\nme tornar um ninja, então entrei nesta\pacademia.
+
+#org @FuchsiaCity_Gym_Text_KirkDefeatPortuguese
+Estou acabado!
+
+#org @FuchsiaCity_Gym_Text_KirkPostBattlePortuguese
+Mesmo tendo perdido, continuarei treinando\nde acordo com os ensinamentos\de KOGA,\pmeu mestre ninja.
+
+#org @FuchsiaCity_Gym_Text_NateIntroPortuguese
+Vamos ver você vencer minhas tetécnicas\nespeciais!
+
+#org @FuchsiaCity_Gym_Text_NateDefeatPortuguese
+Você me enganou!
+
+#org @FuchsiaCity_Gym_Text_NatePostBattlePortuguese
+Gosto de técnicas de veneno e sono, ois\nelas permanecem após a batalha!
+
+#org @FuchsiaCity_Gym_Text_PhilIntroPortuguese
+Pare aí! As famosas paredes invisíveis\ndo FUCHSIA GYM você ficou frustrado?
+
+#org @FuchsiaCity_Gym_Text_PhilDefeatPortuguese
+Uau! Você conseguiu!
+
+#org @FuchsiaCity_Gym_Text_PhilPostBattlePortuguese
+Você me impressionou! Aqui vai uma dica!\nProcure com atenção as lacunas nas paredes\pvisíveis!
+
+#org @FuchsiaCity_Gym_Text_EdgarIntroPortuguese
+Eu também estudo o caminho dos ninjas com\no Mestre KOGA! Os ninjas têm uma longa\phistória de uso de animais!
+
+#org @FuchsiaCity_Gym_Text_EdgarDefeatPortuguese
+Uau!
+
+#org @FuchsiaCity_Gym_Text_EdgarPostBattlePortuguese
+Ainda tenho muito que aprender.
+
+#org @FuchsiaCity_Gym_Text_ShawnIntroPortuguese
+Mestre KOGA vem de uma longa linhagem ode\nninjas. De onde você descende?
+
+#org @FuchsiaCity_Gym_Text_ShawnDefeatPortuguese
+Você é mais habilidoso do que eu pensava!
+
+#org @FuchsiaCity_Gym_Text_ShawnPostBattlePortuguese
+Onde há luz, há sombra! Luz e sombra! Qual\nvocê escolhe?
+
+#org @FuchsiaCity_Gym_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! FUCHSIA GYM é\num lugar complicado. Está repleto de paredes\pinvisíveis! KOGA pode parecer próximo,\nmas está bloqueado. Você precisa encontrar\pbrechas nas paredes ara alcançá-lo .
+
+#org @FuchsiaCity_Gym_Text_GymGuyPostVictoryPortuguese
+É incrível como os ninjas conseguem aterrorizar,\nmesmo agora!
+
+#org @FuchsiaCity_Gym_Text_GymStatuePortuguese
+FUCHSIA POK\eMON GYM LÍDER: KOGA WINNING\nTRAINERS: [B_OPPONENT_MON1_NAME]É
+
+#org @FuchsiaCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @FuchsiaCity_House1_Text_WardenIsOldHasFalseTeethPortuguese
+O GUARDA DA ZONA SAFARI é velho,  mas ainda\nmuito ativo. Todos os seus dentes são falsos.
+
+#org @FuchsiaCity_House1_Text_BillIsMyGrandsonPortuguese
+Hmm? Você conheceu o BILL? Ele é meu neto!\nEle sempre gostou de colecionar coisas,\pmesmo quando criança!
+
+#org @FuchsiaCity_House1_Text_BillFilesHisOwnMonDataPortuguese
+BILL arquiva seus próprios dados POK\eMON\nem seu PC. Ele mostrou a você?
+
+#org @FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMonPortuguese
+Você não pode se tornar um bom TREINADOR\ncom apenas um POK\eMON forte. Mas aumentar\pmuitos POK\eMON uniformemente também não\né uma tarefa fácil.
+
+#org @FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridianPortuguese
+Há uma trilha estreita a oeste de VIRIDIAN\nCITY. Ela vai para o QG da POK\eMON LEAGUE.\pO QG governa todos os TREINADORES.
+
+#org @FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedexPortuguese
+Se você estiver trabalhando em um POK\eDEX,\nvisite a SAFARI ZONE. Todos os tipos de\praças raras de POK\eMON lá.
+
+#org @FuchsiaCity_WardensHouse_Text_HifFuffHefifooPortuguese
+DIRETOR: Hif fuff hefifoo! Ha lof ha fef\nee hafahi ho. Heff hee fwee!
+
+#org @FuchsiaCity_WardensHouse_Text_AhHowheeHoHooPortuguese
+Ah, ei, ei, ei!
+
+#org @FuchsiaCity_WardensHouse_Text_HeOhayHeHaHooPortuguese
+Hein? Ele ohay heh ha hoo ee haheh!
+
+#org @FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWardenPortuguese
+Àdei os DENTES DE OURO ao GUARDA.
+
+#org @FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeethPortuguese
+O GUARDA estalou os dentes!
+
+#org @FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomethingPortuguese
+DIRETOR: Obrigado, filho! Você é um verdadeiro\nsalva-vidas! Ninguém conseguiu entender\puma palavra do que eu disse, nem uma! Eu\nestava com muita vergonha de mostrar meu\prosto no ESCRITÓRIO, mesmo. Deixe-me dar\nalgo para seu problema.
+
+#org @FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomethingPortuguese
+DIRETOR: Obrigado, moça! Você é um verdadeiro\nsalva-vidas! Ninguém conseguiu entender\puma palavra do que eu disse, nenhuma! Eu\nestava com muita vergonha de mostrar meu\prosto no ESCRITÓRIO, mesmo. Deixe-me dar-lhe\nalgo para problemas.
+
+#org @FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWardenPortuguese
+À recebeu HM04 do GUARDA.
+
+#org @FuchsiaCity_WardensHouse_Text_ExplainStrengthPortuguese
+GUARDA: Dentro do HM04 você encontrará\nFORÇA. Ele permite que o POK\eMON mova\ppedras quando você está fora da batalha.\nAh, sim, você encontrou a CASA SECRETA\pna ZONA DO SAFARI?
+
+#org @FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuffPortuguese
+Há tantas coisas!
+
+#org @FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplayPortuguese
+Fotos e fósseis POK\eMON estão em exibição.
+
+#org @FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplayPortuguese
+Mercadorias antigas do POK\eMON estão em\nexibição.
+
+#org @FuchsiaCity_House2_Text_DoYouLikeToFishPortuguese
+Eu sou o irmão mais velho do GURU DA PESCA.\nEu simplesmente adoro pescar! Não suporto\pficar sem. Diga-me, você gosta de pescar?
+
+#org @FuchsiaCity_House2_Text_LikeYourStyleTakeThisPortuguese
+Grande! Gosto do seu estilo. Acho que podemos\nser amigos. Pegue isso e pesque, jovem\pamigo!
+
+#org @FuchsiaCity_House2_Text_ReceivedGoodRodPortuguese
+À recebeu uma BOA VARA do irmão do GURU\nDA PESCA.
+
+#org @FuchsiaCity_House2_Text_GoodRodCanCatchBetterMonsPortuguese
+Pescar é um modo de vida! É como a melhor\npoesia. Uma VARA VELHA e miserável só poderia\ppegar MAGIKARP, certo? Mas com uma BOA\nVARA, você pode capturar POK\eMON muito\pmelhores.
+
+#org @FuchsiaCity_House2_Text_OhThatsDisappointingPortuguese
+Ah… Isso é tão decepcionante…
+
+#org @FuchsiaCity_House2_Text_HowAreTheFishBitingPortuguese
+À! Como os peixes estão mordendo?
+
+#org @FuchsiaCity_House2_Text_YouHaveNoRoomForGiftPortuguese
+Ah, não! Eu tinha um presente para você,\nmas você não tem espaço para ele!
+
+#org @FuchsiaCity_House3_Text_WouldYouLikeToForgetMovePortuguese
+Uh… Ah, sim, eu sou o MOVE DELETER. Posso\nfazer o POK\eMON esquecer seus movimentos.\pVocê gostaria que eu fizesse isso?
+
+#org @FuchsiaCity_House3_Text_WhichMonShouldForgetMovePortuguese
+Qual POK\eMON deve esquecer um movimento?
+
+#org @FuchsiaCity_House3_Text_WhichMoveShouldBeForgottenPortuguese
+Qual movimento deve ser esquecido?
+
+#org @FuchsiaCity_House3_Text_MonOnlyKnowsOneMovePortuguese
+Á parece conhecer apenas um movimento…
+
+#org @FuchsiaCity_House3_Text_MonsMoveShouldBeForgottenPortuguese
+Isso éÂ? Esse movimento deve ser esquecido?
+
+#org @FuchsiaCity_House3_Text_MonHasForgottenMoveCompletelyPortuguese
+Esqueceu completamente.
+
+#org @FuchsiaCity_House3_Text_ComeAgainToForgetOtherMovesPortuguese
+Volte novamente se houver outros movimentos\na serem esquecidos.
+
+#org @FuchsiaCity_House3_Text_NoEggShouldKnowMovesPortuguese
+O quê? Nenhum EGG deve saber nenhum movimento.
+
+#org @CinnabarIsland_Gym_Text_BlaineIntroPortuguese
+Hah! Eu sou BLAINE, o LÍDER em brasa do\nCINNABAR GYM! Meus POK\eMON de fogo estão\ptodos ásperos e prontos com calor intenso!\nEles incineram todos os desafiantes! Hah!\pÉ melhor você ter BURN HEAL![ PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @CinnabarIsland_Gym_Text_BlaineDefeatPortuguese
+Queimei até virar nada! Nem sobraram cinzas!\nVocê ganhou o VULCANOBADGE.
+
+#org @CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMovePortuguese
+FIRE BLAST é a técnica definitiva de fogo.\nNão a desperdice com WATER POK\eMON.
+
+#org @CinnabarIsland_Gym_Text_ExplainVolcanoBadgePortuguese
+Hah! O VOLCANOBADGE aumenta as estatísticas\nESPECIAIS do seu POK\eMON. Aqui você também\ppode ter isso!
+
+#org @CinnabarIsland_Gym_Text_ReceivedTM38FromBlainePortuguese
+À recebeu o TM38 de BLAINE.
+
+#org @CinnabarIsland_Gym_Text_BlainePostBattlePortuguese
+TM38 contém FIRE BLAST. Ensine-o a POK\eMON\ndo tipo FIRE. VULPIX ou CHARMELEON seriam\pideais para esse movimento.
+
+#org @CinnabarIsland_Gym_Text_MakeSpaceForThisPortuguese
+Abra espaço para isso, criança!
+
+#org @CinnabarIsland_Gym_Text_ErikIntroPortuguese
+Você sabe o quão quente o sopro de fogo\ndo POK\eMON pode ficar?
+
+#org @CinnabarIsland_Gym_Text_ErikDefeatPortuguese
+Uau! Quente, quente, quente!
+
+#org @CinnabarIsland_Gym_Text_ErikPostBattlePortuguese
+Fogo, ou para ser mais preciso, combustão…\n…Oxigênio no ar… Blá, blá, blá, blá…
+
+#org @CinnabarIsland_Gym_Text_QuinnIntroPortuguese
+Eu era um ladrão, mas fui direto\como TREINADOR.
+
+#org @CinnabarIsland_Gym_Text_QuinnDefeatPortuguese
+Eu me rendo!
+
+#org @CinnabarIsland_Gym_Text_QuinnPostBattlePortuguese
+Tenho uma vontade incontrolável de roubar\no POK\eMON de outras pessoas.
+
+#org @CinnabarIsland_Gym_Text_AveryIntroPortuguese
+Estudei POK\eMON completamente. Você não\npode vencer!
+
+#org @CinnabarIsland_Gym_Text_AveryDefeatPortuguese
+Waah! Meus estudos foram insuficientes!
+
+#org @CinnabarIsland_Gym_Text_AveryPostBattlePortuguese
+Minhas teorias são muito complicadas para\nvocê entender.
+
+#org @CinnabarIsland_Gym_Text_RamonIntroPortuguese
+Eu gosto de usar POK\eMON do tipo FIRE.\nEu simplesmente gosto.
+
+#org @CinnabarIsland_Gym_Text_RamonDefeatPortuguese
+Quente demais para manusear!
+
+#org @CinnabarIsland_Gym_Text_RamonPostBattlePortuguese
+Eu gostaria que houvesse um ladrão POK\eMON.\nEu usaria isso!
+
+#org @CinnabarIsland_Gym_Text_DerekIntroPortuguese
+Eu sei porque BLAINE se tornou TREINADOR.
+
+#org @CinnabarIsland_Gym_Text_DerekDefeatPortuguese
+Ai!
+
+#org @CinnabarIsland_Gym_Text_DerekPostBattlePortuguese
+Nosso LÍDER, BLAINE, se perdeu nas montanhas,\nmas foi bom. A noite caiu quando um pássaro\pde fogo POK\eMON apareceu. Sua luz permitiu\nque BLAINE encontrasse seu caminho para\pbaixo com segurança.
+
+#org @CinnabarIsland_Gym_Text_DustyIntroPortuguese
+Já frequentei muitas academias, mas esta\nenhuma combina melhor com meu estilo.
+
+#org @CinnabarIsland_Gym_Text_DustyDefeatPortuguese
+Uau! Muito quente!
+
+#org @CinnabarIsland_Gym_Text_DustyPostBattlePortuguese
+PONYTA, NINETALES… Esses são os populares\nFIRE POK\eMON.
+
+#org @CinnabarIsland_Gym_Text_ZacIntroPortuguese
+O fogo é fraco contra H2O.
+
+#org @CinnabarIsland_Gym_Text_ZacDefeatPortuguese
+Ah! Apagado!
+
+#org @CinnabarIsland_Gym_Text_ZacPostBattlePortuguese
+A água vence o fogo, é claro. Mas o fogo\nderrete o gelo, então o tipo FIRE  vence\po POK\eMON do tipo ICE.
+
+#org @CinnabarIsland_Gym_Text_GymGuyAdvicePortuguese
+Yo! Campeão em formação! O impetuoso BLAINE\né um FIRE POK\eMON profissional. Apague\pseus espíritos com água! É melhor você\ntomar alguns BURN HEALS também.
+
+#org @CinnabarIsland_Gym_Text_GymGuyPostVictoryPortuguese
+À! Você venceu aquele tição!
+
+#org @CinnabarIsland_Gym_Text_GymStatuePortuguese
+CINNABAR POK\eMON GYM LÍDER: BLAINE TREINADORES\nVENCEDORES: [B_OPPONENT_MON1_NAME]É
+
+#org @CinnabarIsland_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @CinnabarIsland_Gym_Text_PokemonQuizRulesPortuguese
+Quiz POK\eMON! Acerte e a porta se abrirá\npara a próxima sala. Erre e enfrente um\pTREINADOR! Se você quiser conservar seu\nPOK\eMON para o LÍDER DE GYM... Então pegue\pcerto! Aqui vamos nós!
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion1Portuguese
+CATERPIE evolui para METAPOD?
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion2Portuguese
+Existem nove POK\eMON LEAGUE BADGES certificados?
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion3Portuguese
+POLIWAG evolui três vezes?
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion4Portuguese
+Os movimentos elétricos são eficazes contra\nPOK\eMON do tipo GROUND?
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion5Portuguese
+POK\eMON do mesmo tipo e nível não são\nidênticos?
+
+#org @CinnabarIsland_Gym_Text_QuizQuestion6Portuguese
+TM28 contém TOMBSTONY?
+
+#org @CinnabarIsland_Gym_Text_CorrectGoOnThroughPortuguese
+Você está absolutamente correto! Continue!
+
+#org @CinnabarIsland_Gym_Text_SorryBadCallPortuguese
+Desculpe! Chamada errada!
+
+#org @CinnabarIsland_Gym_Text_PhotoOfBlaineAndFujiPortuguese
+É uma foto de BLAINE e MR. FUJI. Eles estão\nombro a ombro com grandes sorrisos.
+
+#org @CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensivelyPortuguese
+Estudamos POK\eMON extensivamente etodos\nos dias. As pessoas geralmente nos trazem\pPOK\eMON raros para exame.
+
+#org @CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFujiPortuguese
+Uma foto do fundador do LAB… DR. FÚJI?!
+
+#org @CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSignPortuguese
+POK\eMON LAB Sala de P&D
+
+#org @CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSignPortuguese
+POK\eMON LAB Sala de testes
+
+#org @CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoonPortuguese
+Encontrei este fóssil notável dentro de\nMT. LUA. Acho que é de um POK\eMON pré-histórico\pe raro.
+
+#org @CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMonsPortuguese
+EEVEE pode evoluir para um dos três tipos\nde POK\eMON.
+
+#org @CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmailPortuguese
+Há uma mensagem de e-mail. … … … Existem\ntrês pássaros lendários POK\eMON. Eles\psão ARTICUNO, ZAPDOS e MOLTRES. Seu paradeiro\né desconhecido. Planejamos explorar a caverna\pperto de CERULEAN. De: EQUIPE DE PESQUISA\nPOK\eMON…
+
+#org @CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipePortuguese
+Um cachimbo âmbar!
+
+#org @Text_MetronomeTeachPortuguese
+Tch-tch-tch! Vou te ensinar um movimento\nbacana. Ensine-o a um POK\eMON e veja a\pdiversão se desenrolar! É um movimento\nchamado METRONOME. Você gosta dele?
+
+#org @Text_MetronomeDeclinedPortuguese
+Eu te digo, é muito divertido!
+
+#org @Text_MetronomeWhichMonPortuguese
+Ok! Qual POK\eMON devo ensinar?
+
+#org @Text_MetronomeTaughtPortuguese
+Tch-tch-tch! Esse é o som de um METRONOME.\nEle ajusta o cérebro do seu POK\eMON para\usar\pmovimentos que ele nem conhece.
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMePortuguese
+Olá! Eu sou um médico importante. Sim,\nmuito mesmo. Aqui, eu estudo fósseis raros\pde POK\eMON. Eu estudo o tempo todo. Você!\nTem um fóssil para mim?
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBadPortuguese
+Não! É uma pena!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJPPortuguese
+Vai demorar algum tempo! Seria ótimo se\nvocê pudesse passear um pouco!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLifePortuguese
+Á como eu penso!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctorPortuguese
+À recebeu oÁ do médico.
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemonPortuguese
+Existem tantos Pokémon, mal posso esperar!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgainPortuguese
+Â, é! É fóssil deÁ, a POK\eMON que já está\nextinto! Minha Máquina de Ressurreição\pfará aquele POK\eMON viver novamente!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctorPortuguese
+À entregou o para o médico estranho.
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkPortuguese
+Demoro um pouquinho! Vá passear um pouquinho!
+
+#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgainPortuguese
+Aiyah! Você vem de novo!
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLockedPortuguese
+Vim visitar o CINNABAR GYM, mas a porta\nestá bem trancada. Deve haver uma chave\ppara isso em algum lugar. Poderia ser naquela\nmansão incendiada? O amigo do LÍDER DO\pGYM costumava morar lá, eles dizem.
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoomPortuguese
+Você tem muitos amigos? Conectar-se com\nos amigos habituais é divertido, claro.\pMas que tal visitar a UNION ROOM de vez\nem quando? Quem sabe você pode acabar fazendo\pnovos amigos. Acho valeria a pena\verificar\na SALA DA UNIÃO.
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMovesPortuguese
+POK\eMON ainda pode aprender técnicas após\ncancelar a evolução. A evolução pode esperar\paté que novos movimentos sejam aprendidos.
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIslandPortuguese
+BILL: Ei, você me deixou esperando! Pronto\npara navegar para UMA ILHA?
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYetPortuguese
+Ah, você ainda não terminou?
+
+#org @CinnabarIsland_PokemonCenter_1F_Text_LetsGoPortuguese
+Bem, é isso. Vamos!
+
+#org @CinnabarIsland_Mart_Text_DontTheyHaveXAttackPortuguese
+Eles não têm X ATTACK? Gosto porque aumenta\no status de ATAQUE em batalha.
+
+#org @CinnabarIsland_Mart_Text_ExtraItemsNeverHurtPortuguese
+Nunca é demais ter itens extras. Você nunca\nsabe o que pode acontecer.
+
+#org @IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! Na POK\eMON LEAGUE,\nvocê enfrentará os ELITE FOUR todos seguidos.\pSe você perder, terá que começar tudo ode\nnovo! É isso! Vá em frente isto!
+
+#org @IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuckPortuguese
+A partir daqui, você enfrenta os ELITE\nFOUR um por um. Se você vencer, uma porta\pse abre para o próximo TREINADOR. Boa sorte!
+
+#org @IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeingPortuguese
+Sinto muito, mas você perdeu seu tempo\nvindo aqui. LORELEI do ELITE FOUR está\paausente, sabe. Como resultado, a POK\eMON\nLEAGUE está fechada por enquanto.
+
+#org @IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUsPortuguese
+Os POK\eMON do tipo GHOST da AGATHA são\nterrivelmente aterrorizantes em termos\pde resistência. Peguei meu POK\eMON do\ntipo FIGHTING e aumentei-os ao máximo.\pFui até AGATHA me sentindo muito confiante,\nmas ela nos derrotou. Aquele velho a senhora\ptambém tem um pavio muito curto. Não é\npreciso nada para fazer aquela senhora\passustadora gritar.
+
+#org @IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAwayPortuguese
+Talvez se tornar um membro da ELITE FOUR\nesteja no sangue. Pelo que ouvi, LANCE\ptem um primo que é LÍDER DE GYM em algum\nlugar distante.
+
+#org @SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCenteredPortuguese
+Minha filha é tão egocêntrica. Ela tem\napenas alguns amigos.
+
+#org @SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeoplePortuguese
+Minha filha gosta de imitar as pessoas.\nÉ bastante irritante. Sua imitação lhe\prendeu o apelido COPYCAT por aqui.
+
+#org @SaffronCity_CopycatsHouse_1F_Text_ChanseyPortuguese
+CHANCEY: Chaan! Sim!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMalePortuguese
+À: Oi! Você gosta de POK\eMON? À: Uh, não,\nacabei de perguntar. À: Hã? Você é estranho!\pCOPYCAT: Hmm? Parou de imitar? Mas esse\né meu hobby favorito!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemalePortuguese
+À: Oi. Você deve gostar de POK\eMON. À:\nNão, eu não. Eu perguntei a você. À: Perdão?\pVocê é estranho!   COPYCAT: Hmm? Parar\nde imitar? Mas esse é meu hobby favorito!
+
+#org @Text_MimicTeachPortuguese
+Uau! UMA BONECA POK\e! Para mim? Obrigado!\nQuer saber? Posso ensinar o movimento MIMIC.
+
+#org @Text_MimicDeclinedPortuguese
+Você não gosta de MIMIC?
+
+#org @Text_MimicWhichMonPortuguese
+Eu realmente adoro MIMIC! Quem vai aprender?
+
+#org @Text_MimicTaughtMalePortuguese
+À: Olá! Obrigado por mais cedo! Para: Desculpe?\nÀ: É tão divertido imitar\cada movimento\pmeu? COPYCAT: Pode apostar! É um grito!
+
+#org @Text_MimicTaughtFemalePortuguese
+À: Olá! Obrigado pelo que você fez por\nnós. Para: Desculpe? À: É realmente divertido\pcopiar o que eu digo e faço? COPYCAT: Pode\napostar! É um grito!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_TooMuchInBagPortuguese
+Existem tantos motsuga!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJPPortuguese
+Aaah! Olá! Você gosta de Pokémon?Não estou\nperguntando a você, mas a você.Ah... que\pdiabos! Que cara estranho! Filha imitadora...\nO quê? Não imite alguém? Porque sou um\pimitador!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJPPortuguese
+Olá! Você gosta de Pokémon?Não sou eu ou\nela, ela está perguntando a você, mas ela\pestáAh... que diabos! Que coisa estranha!\nGarota imitadora... O quê? Não imite alguém?\pPorque você está me imitando!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_DoduoPortuguese
+DODUO: Giiih! ESPELHO BONITO OLHA PARA\nMIM, VEJA COMO POSSO SER BONITO?
+
+#org @SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDollPortuguese
+Este é um POK\eMON raro! Huh? É apenas\numa boneca!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucketPortuguese
+Um jogo com MARIO usando um balde na cabeça!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_MySecretsPortuguese
+… Meus segredos! Habilidade: Mimetismo!\nHobby: Colecionar bonecos! POK favorito\eMON:\pCLEFAIRY!
+
+#org @SaffronCity_CopycatsHouse_2F_Text_HuhCantSeePortuguese
+? Eu não consigo ver isso...
+
+#org @SaffronCity_Dojo_Text_MasterKoichiIntroPortuguese
+Grunt! Eu sou o MESTRE DE KARATE! Eu sou\no LÍDER aqui! Você deseja nos desafiar?\pNão espere piedade! Fwaaa!
+
+#org @SaffronCity_Dojo_Text_MasterKoichiDefeatPortuguese
+Hwa! Argh! Espancado!
+
+#org @SaffronCity_Dojo_Text_ChoosePrizedFightingMonPortuguese
+Na verdade, eu perdi! Mas, eu lhe imploro,\nnão tome osso emblema como troféu! Em troca,\peu lhe darei um premiado FIGHTING POK\eMON!\nEscolha o que você quiser!
+
+#org @SaffronCity_Dojo_Text_StayAndTrainWithUsPortuguese
+Grunt! Fique e treine caratê conosco!
+
+#org @SaffronCity_Dojo_Text_MikeIntroPortuguese
+Hoargh! Tire os sapatos!
+
+#org @SaffronCity_Dojo_Text_MikeDefeatPortuguese
+Desisto!
+
+#org @SaffronCity_Dojo_Text_MikePostBattlePortuguese
+Espere até ver nosso MESTRE! Sou um peixe\npequeno comparado a ele!
+
+#org @SaffronCity_Dojo_Text_HidekiIntroPortuguese
+Ouvi dizer que você é bom! Mostre-me!
+
+#org @SaffronCity_Dojo_Text_HidekiDefeatPortuguese
+Juiz! Um ponto!
+
+#org @SaffronCity_Dojo_Text_HidekiPostBattlePortuguese
+Nosso MESTRE é um lutador profissional.\nEsteja preparado para perder!
+
+#org @SaffronCity_Dojo_Text_AaronIntroPortuguese
+Olá! Não tenho medo de nada difícil! Eu\nquebro pedras para treinar em todos os\pdias!
+
+#org @SaffronCity_Dojo_Text_AaronDefeatPortuguese
+Uau! Dedos machucados!
+
+#org @SaffronCity_Dojo_Text_AaronPostBattlePortuguese
+A única coisa que nos assusta é o poder\npsíquico!
+
+#org @SaffronCity_Dojo_Text_HitoshiIntroPortuguese
+Hwaah! Você está invadindo nosso FIGHTING\nDOJO!
+
+#org @SaffronCity_Dojo_Text_HitoshiDefeatPortuguese
+Ufa! Eu desisto!
+
+#org @SaffronCity_Dojo_Text_HitoshiPostBattlePortuguese
+Os melhores lutadores de todo o país treinam\naqui.
+
+#org @SaffronCity_Dojo_Text_YouWantHitmonleePortuguese
+Você quer o chute forte HITMONLEE?
+
+#org @SaffronCity_Dojo_Text_ReceivedMonFromKarateMasterPortuguese
+À recebeu oÁ do MESTRE DE KARATE.
+
+#org @SaffronCity_Dojo_Text_YouWantHitmonchanPortuguese
+Você quer o HITMONCHAN de perfuração de\npistão?
+
+#org @SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2Portuguese
+Ah, eu recebido Karatê Daiou!
+
+#org @SaffronCity_Dojo_Text_BetterNotGetGreedyPortuguese
+Melhor não ser ganancioso…
+
+#org @SaffronCity_Dojo_Text_EnemiesOnEverySidePortuguese
+Inimigos por todos os lados!
+
+#org @SaffronCity_Dojo_Text_GoesAroundComesAroundPortuguese
+O que vai, volta.
+
+#org @SaffronCity_Dojo_Text_FightingDojoPortuguese
+DOJO DE LUTA
+
+#org @SaffronCity_Gym_Text_SabrinaIntroPortuguese
+Tive uma visão de sua chegada. Tenho poderes\npsíquicos desde que era criança. Tudo começou\pquando uma colher que artirei e dobrei\ndescuidadamente. Não gosto de lutar, mas\pse você quiser, vou lhe mostrar meu poderes![PLAY_BGM]Î[MUS_ENCOUNTER_GYM_LEADER]À
+
+#org @SaffronCity_Gym_Text_SabrinaDefeatPortuguese
+Essa derrota me choca! Mas uma derrota\né uma perda. Admito que não trabalhei duro\po suficiente para vencer. Sua vitória lhe\nrendeu o MARSHBADGE.
+
+#org @SaffronCity_Gym_Text_SabrinaPostBattlePortuguese
+O poder psíquico não é algo que\apenas\nalgumas pessoas têm. Todo mundo tem poder\ppsíquico. As pessoas simplesmente não percebem\nisso.
+
+#org @SaffronCity_Gym_Text_ExplainMarshBadgeTakeThisPortuguese
+O MARSHBADGE aumenta o POK\eMON até o Lv.\n70 obedecer você. POK\eMON mais forte se\ptornará selvagem,\ignorando suas ordens\nna batalha. Apenas não aumente muito seu\pPOK\eMON para evitar esse problema. Espere,\npor favor, leve este TM com você.
+
+#org @SaffronCity_Gym_Text_ReceivedTM04FromSabrinaPortuguese
+À recebeu o TM04 de SABRINA.
+
+#org @SaffronCity_Gym_Text_ExplainTM04Portuguese
+TM04 é CALM MIND. Faz com que o POK\eMON\nse concentre ara aumentar ambos os SP.\pATK e SP. DEF.
+
+#org @SaffronCity_Gym_Text_BagFullOfOtherItemsPortuguese
+Sua BOLSA está cheia de outros itens.
+
+#org @SaffronCity_Gym_Text_AmandaIntroPortuguese
+SABRINA é muito mais jovem do que eu, mas\nconquistou meu respeito.
+
+#org @SaffronCity_Gym_Text_AmandaDefeatPortuguese
+Não esta bom o suficiente!
+
+#org @SaffronCity_Gym_Text_AmandaPostBattlePortuguese
+Em uma batalha de iguais, aquele com a\nvontade mais forte vence. Se você deseja\pvencer SABRINA, concentre-se e concentre-se\nna vitória.
+
+#org @SaffronCity_Gym_Text_JohanIntroPortuguese
+Nosso poder invisível assusta você?
+
+#org @SaffronCity_Gym_Text_JohanDefeatPortuguese
+Eu nunca previ isso!
+
+#org @SaffronCity_Gym_Text_JohanPostBattlePortuguese
+PSYCHIC POK\eMON temem apenas fantasmas\ne insetos!
+
+#org @SaffronCity_Gym_Text_StacyIntroPortuguese
+POK\eMON assumem a aparência de seus TREINADORES.\nSeu POK\eMON deve ser resistente, então!
+
+#org @SaffronCity_Gym_Text_StacyDefeatPortuguese
+Eu sabia!
+
+#org @SaffronCity_Gym_Text_StacyPostBattlePortuguese
+Ainda tenho muito que aprender… Preciso\ndominar PSYCHIC e ensiná-lo o meu POK\eMON…
+
+#org @SaffronCity_Gym_Text_TyronIntroPortuguese
+Você entende, não é? Esse poder por si\nsó não é suficiente para vencer no mundo\pdo POK\eMON?
+
+#org @SaffronCity_Gym_Text_TyronDefeatPortuguese
+Eu não acredito nisso!
+
+#org @SaffronCity_Gym_Text_TyronPostBattlePortuguese
+SABRINA acabou de acabar com o MESTRE DE\nKARATE do vizinho.
+
+#org @SaffronCity_Gym_Text_TashaIntroPortuguese
+Você e eu, nosso POK\eMON irá batalhar!
+
+#org @SaffronCity_Gym_Text_TashaDefeatPortuguese
+Afinal, eu perdi!
+
+#org @SaffronCity_Gym_Text_TashaPostBattlePortuguese
+Eu sabia que isso iria acontecer.
+
+#org @SaffronCity_Gym_Text_CameronIntroPortuguese
+SABRINA é jovem, mas também ossa LÍDER\naltamente qualificada. Você não a alcançará\pfacilmente!
+
+#org @SaffronCity_Gym_Text_CameronDefeatPortuguese
+Ai! Para baixo e para fora!
+
+#org @SaffronCity_Gym_Text_CameronPostBattlePortuguese
+Costumava haver dois POK\eMON GYMS o SAFFRON.\nO FIGHTING DOJO ao lado perdeu its seu\pstatus de GYM. Nós simplesmente os derrotamos\nquando\decidimos ter apenas um GYM.
+
+#org @SaffronCity_Gym_Text_PrestonIntroPortuguese
+SAFFRON POK\eMON GYM é famoso por treinar\nmédiuns. Você quer ver SABRINA, não é?\pEu posso dizer!
+
+#org @SaffronCity_Gym_Text_PrestonDefeatPortuguese
+Arrgh!
+
+#org @SaffronCity_Gym_Text_PrestonPostBattlePortuguese
+Isso mesmo! Usei telepatia para ler sua\nmente!
+
+#org @SaffronCity_Gym_Text_GymGuyAdvicePortuguese
+Ei! Campeão em formação! SABRINA's POK\eMON\nusam poder psíquico em vez de força. FIGHTING\pPOK\eMON são especialmente fracos contra\nPSYCHIC POK\eMON. Eles serão destruídos\pantes mesmo de conseguirem mirar um soco\n!
+
+#org @SaffronCity_Gym_Text_GymGuyPostVictoryPortuguese
+Poder psíquico, hein? Se eu tivesse isso,\nganharia uma fortuna nos caça-níqueis!
+
+#org @SaffronCity_Gym_Text_GymStatuePortuguese
+SAFFRON POK\eMON GYM LÍDER: SABRINA TREINADORES\nVENCEDORES: [B_OPPONENT_MON1_NAME]É
+
+#org @SaffronCity_Gym_Text_GymStatuePlayerWonPortuguese
+É,
+
+#org @SaffronCity_House_Text_DontLookAtMyLetterPortuguese
+…Obrigado por escrever. Espero vê-lo em\nbreve! …Ei! Não olhe minha carta!
+
+#org @SaffronCity_House_Text_PidgeyPortuguese
+PIDGEY: Kurukkoo!
+
+#org @SaffronCity_House_Text_GettingCopycatPokeDollPortuguese
+O COPYCAT é fofo! Vou comprar uma BONECA\nPOK\e para ela.
+
+#org @SaffronCity_House_Text_ExplainPPUpPortuguese
+Recebi um PP UP de presente. Ele é usado\npara aumentar o PP do  move do POK\eMON.\pEu deveria usá-lo em um golpe poderoso\ncom apenas alguns PP.
+
+#org @SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuperPortuguese
+MAX REPEL evita que POK\eMON mais fracos\napareçam. MAX REPEL permanece efetivo por\pmais que SUPER REPEL.
+
+#org @SaffronCity_Mart_Text_ReviveIsCostlyPortuguese
+REVIVE custa caro, mas revive POK\eMON\ndesmaiado!
+
+#org @SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpeciesPortuguese
+As taxas de crescimento do POK\eMON diferem\nde espécie para espécie.
+
+#org @SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFamePortuguese
+A SILPH CO. é amplamente conhecida por\ntodos. É vítima de sua própria fama - atraiu\pa TEAM ROCKET.
+
+#org @SaffronCity_PokemonCenter_1F_Text_GreatIfEliteFourCameBeatRocketsPortuguese
+Suspiro… Isso não seria ótimo? Se o ELITE\nFOUR viesse e pisoteasse o TEAM ROCKET?
+
+#org @SaffronCity_PokemonCenter_1F_Text_TeamRocketTookOffPortuguese
+A EQUIPE ROCKET decolou! Podemos sair em\nsegurança novamente! Isso é ótimo!
+
+#org @SaffronCity_MrPsychicsHouse_Text_YouWantedThisPortuguese
+…Espere! Não diga uma palavra! Você queria\nisso!
+
+#org @SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychicPortuguese
+À recebeu TM29 de MR. PSÍQUICO.
+
+#org @SaffronCity_MrPsychicsHouse_Text_ExplainTM29Portuguese
+Você já sabe, não é? TM29 é PSÍQUICO. É\num ataque que também pode diminuir as estatísticas\pespeciais do alvo.
+
+#org @SaffronCity_MrPsychicsHouse_Text_YouveNoRoomPortuguese
+Onde você planeja colocar isso? Você não\ntem espaço.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_HuhYouPortuguese
+Hein? Você...
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_YourePlayerWereYourFansNowPortuguese
+À! Estávamos falando de você! Estávamos\nconversando sobre como um TREINADOR incrivelmente\pbom apareceu. E esse alguém é você! Você\né tão legal! Então, decidimos que nos tornaremos\pseu FÃ CLUBE! Todos esperamos que você\ncontinue lutando e nos mostre o quão legal\pvocê é. Dessa forma, talvez outras pessoas\nse tornem fãs como eu.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_AlwaysCheerForYouPortuguese
+Atrás!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_IllAlwaysBelieveInYouPortuguese
+À. Por favor, mostre aos outros como você\né quando luta seriamente.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WasYourFanNotAnymorePortuguese
+Á tem sido muito mais legal.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_EveryonesYourFanButICantBePortuguese
+À! Todo mundo está muito entusiasmado com\nvocê recentemente. Posso entender o porquê.\pEu sei que você é forte. Mas, quer saber?\nDepois que me torneiFã de Á, não posso\psimplesmente deixar de ser fã.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_TrainersCoolWhenBattlingPortuguese
+Eu acho que os TREINADORES são muito legais\nquando estão lutando. Você também não acha?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_CanYouAutographShortsPortuguese
+À! Muito legal! Oh! Ah, sim! Você pode\nautografar alguma coisa? Que tal meu short?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_CountingOnYouPortuguese
+Por mais quente que esteja... E por mais\nfrio que esteja... Sempre acreditei e usei\pshorts! Conto com você para continuar ganhando!\nEu acredito em você tanto quanto eu acredite\pem shorts!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_BrocksMyHeroPortuguese
+BROCK é meu herói! Ele é um homem entre\nos homens! Heheh, pedi para minha mãe fazer\palgo por mim. Pedi para ela bordar “BROCK”\no meu short!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_BrocksFanToBitterEndPortuguese
+… … … … Sou fã do BROCK! Mesmo se eu fosse\nseu único fã, juro pela minha vontade,\caí\pno meu short! Serei fã dele até o fim !
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_BrocksLastWordOnCoolPortuguese
+BROCK é a última palavra sobre legal, fim\nda história! Agora tem um cara com quem\peu quero ser!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_HadPleasureOfWatchingYouBattlePortuguese
+À, tive o prazer de ver você batalhar.\nIsso traz de volta doces lembranças da\pminha juventude há muito perdida. Que você\ncontinue tendo sucesso. Você tem um fã\pem mim!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_NeverSeenTrainerOfYourMagnificencePortuguese
+Eu viajei por toda parte através das terras.\nMas nunca vi um TREINADOR da sua magnificência.\pTenha coragem em suas habilidades e continue\nlutando! Faça uma promessa a mim, meu jovem\pídolo!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_HmmAndYouArePortuguese
+Hmm… E você está? Você esperava se inscrever\na adesão ao nosso FAN CLUB?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_YouveStillAWaysToGoPortuguese
+À. Você certamente tem a aparência de\um\nvencedor. Mas para eu aceitá-lo como\um\pverdadeiro POK\eMON ótimo... … ... Você\nainda tem um longo caminho a percorrer!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_YoullBeTalkedAboutIfYouKeepWinningPortuguese
+Todos nós aqui reunidos somos fãs oPOK\neMON TRAINERS. A aparência deles em batalha...\pEles são a imagem da frieza. Talvez falem\nsobre você aqui também, se continuar vencendo.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeYouOneDayPortuguese
+Ah! ÉÀ! Eu quero ser comoAté um dia!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_EveryoneButMeStoppedBeingYourFanPortuguese
+À's fã… Mas isso significa que posso terÀ\natudo para mim! Yay! Vá em frente! Meu\pprimeiro e único
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrinaPortuguese
+Quer saber? Eu quero ser como SABRINA!\nEu quero ser uma garota psíquica como ela!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingSabrinasFanPortuguese
+Mesmo sendo a única, não deixarei de ser\nfã da SABRINA. Meu sonho é ser como a SABRINA,\pfofa, mas legal. Quero ser uma garota psíquica\nigual a ela!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_CanIBecomeCoolTrainerOneDayPortuguese
+Será que um dia poderei me tornar um TREINADOR\nlegal?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_TheWayYouBattleIsCoolPortuguese
+Ah, cara, ah, cara! Legal! Muito legal!\n…Huh? Não, você não. Apenas a maneira como\pvocê luta. Isso é legal.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_ImOnlyOneLeftOfYourFansPortuguese
+À! Parece que sou o único de fora dos seus\nfãs. Mas, você sabe, eu gosto de ser um\púnico fã... É menos estressante. Continue!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_LoveWayTrainerTalksPortuguese
+É legal, hein? Adoro o jeito que ele fala.\nEu adoraria ter a oportunidade de conhecê-lo\ppessoalmente uma vez.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_ImLoneTrainerFanPortuguese
+Á fã? Eh, sendo o único Á fã é meu estilo,\nde qualquer maneira.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_AdoreWayYouBattlePortuguese
+À? Tenho que te dizer, adoro a maneira\ncomo você luta. Espero que você continue\passim. Serei seu fã número um!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_ImYourNumberOneFanPortuguese
+À! É tão decepcionante… Percebi que sou\nseu fã número um! Bem, não tem jeito! Deixe-me\ptorcer por você, pelo menos! Viva, viva,
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_TrainerHasBeenOnFirePortuguese
+Á está em chamas. O jeito que ele luta...\nÉ exatamente do jeito que eu gosto!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_EveryoneTalksAboutYouPortuguese
+À! Ultimamente, todo mundo fala é de você.\nEstou me sentindo solitário porque prefiro
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_YouReallyAreAmazingPortuguese
+À, você é realmente incrível! Em vez de\napenas assistir, talvez eu devesse me tornar\pum TREINADOR também.
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_ImYourOnlyFanPortuguese
+Sou seu único fã... Suspiro... Isso é solitário...\nVocê não pode se esforçar mais e fazer\pcom que os\outros notem você?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WhyCantOthersSeeMastersDignityPortuguese
+Á é tão digno... Ele é tão meu tipo. Por\nque os outros não conseguem ver a ddignidade\pque ele simplesmente exala?
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_BelieveInMasterWithAllMyHeartPortuguese
+Á de todo o coração. Mesmo que eu seja\no único a acreditar nele. Mas nunca me\psentirei solitário. Não se eu continuar\npensando no Mestre 
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_YourBattleStyleIsEducationalPortuguese
+Olá! Seu estilo de batalha é muito educativo.\nEspero que você continue se esforçando\ppara ter sucesso, olá!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_WontStopBeingYourFanPortuguese
+Em vez de apenas assistir os outros batalharem,\nlutem consigo mesmos! …O MESTRE do meu\pDOJO me repreendeu assim... Mas não vou\ndeixar que isso me impeça de ser seu fã!\pNão posso deixar de ser seu fã!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_OnlyMasterHasMyRespectPortuguese
+Olá! Há apenas um TREINADOR que tem meu\nrespeito. E esse não é outro senão meu\pMESTRE no DOJO DE LUTA. Você deveria se\ntornar um fã do meu MESTRE como eu! Olá!
+
+#org @SaffronCity_PokemonTrainerFanClub_Text_NeverBeFanOfAnyoneButMasterPortuguese
+Olá! Eu respeito meu MESTRE no DOJO DE\nLUTA. Nunca me tornarei fã de inguém além\pdo meu MESTRE! Eu até sairei furtivamente\ndo DOJO ara espalhar a notícia de sua grandeza.\pOi!
+
+#org @Route2_ViridianForest_SouthEntrance_Text_ForestIsMazePortuguese
+Você está indo para a FLORESTA VIRIDIANA?\nÉ um labirinto natural lá. Tenha cuidado\ppara não se perder.
+
+#org @Route2_ViridianForest_SouthEntrance_Text_RattataHasWickedBitePortuguese
+RATTATA pode ser pequeno, mas não subestime\nsua mordida perversa. Você já pegou um?
+
+#org @Route2_House_Text_FaintedMonsCanUseFieldMovesPortuguese
+Um POK\eMON desmaiado simplesmente não\ntem energia para a batalha. Ele ainda pode\pusar movimentos como CUT fora da batalha.
+
+#org @Route2_EastBuilding_Text_GiveHM05IfSeen10MonsPortuguese
+À, deixe-me perguntar. Você coletou dados\nsobre pelo menos dez tipos de POK\eMON?
+
+#org @Route2_EastBuilding_Text_GreatHereYouGoPortuguese
+Ç tipos de POK\eMON! Parabéns! Aqui está!
+
+#org @Route2_EastBuilding_Text_ReceivedHM05FromAidePortuguese
+À recebeu HM05 da AIDE.
+
+#org @Route2_EastBuilding_Text_ExplainHM05Portuguese
+HM05 contém o movimento oculto FLASH. FLASH\nilumina até as mais escuras cavernas e\pmasmorras.
+
+#org @Route2_EastBuilding_Text_CanGetThroughRockTunnelPortuguese
+Depois que um POK\eMON aprender FLASH,\nvocê poderá passar pelo ROCK TUNNEL.
+
+#org @Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForestsPortuguese
+Muitos POK\eMON vivem apenas em florestas\n e cavernas. Você precisa ser persistente\pe procurar em todos os lugares para encontrar\ntipos diferentes.
+
+#org @Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTreesPortuguese
+Você notou as árvores finas a beira da\nestrada? Elas podem ser cortadas com um\pmovimento especial POK\eMON, ouvi dizer.
+
+#org @Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolutionPortuguese
+Você conhece a técnica cancelar evolução?\nQuando um POK\eMON está evoluindo, você\ppode parar o processo. É uma técnica para\ncriar POK\eMON do jeito que eles estão.
+
+#org @Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYouPortuguese
+Ok, coloque seis POK\e BOLAS no meu cinto...\nSim, já basta. No máximo, você pode ter\pseis POK\eMON com você.
+
+#org @Route4_PokemonCenter_1F_Text_TeamRocketAttacksCeruleanPortuguese
+TEAM ROCKET ataca CERULEAN\cidadãos… Não\npassa um dia sem que TEAM ROCKET seja notícia.
+
+#org @Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500Portuguese
+HOMEM: Olá, rapaz! Tenho um acordo só para\nvocê! Vou deixar você ter um POK\eMON secreto\p- um MAGIKARP - por apenas \$500! Então,\nvocê vai comprá-lo, estou Eu certo?
+
+#org @Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500Portuguese
+HOMEM: Olá, docinho! Tenho um acordo só\npara você! Vou deixar você ter um POK\eMON\psecreto  - um MAGIKARP - por apenas \$500!\nEntão, você vai comprá-lo, Estou certo?
+
+#org @Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarpPortuguese
+Paguei exorbitantes \$500 e comprei o MAGIKARP…
+
+#org @Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYouPortuguese
+Não? Você diz não? Só estou fazendo isso\como\num favor a você!
+
+#org @Route4_PokemonCenter_1F_Text_NoRoomForMorePokemonPortuguese
+Parece que não há mais espaço para mais\nPOK\eMON.
+
+#org @Route4_PokemonCenter_1F_Text_YoullNeedMoreMoneyPortuguese
+Você precisará de mais dinheiro do que\nisso!
+
+#org @Route4_PokemonCenter_1F_Text_IDontGiveRefundsPortuguese
+HOMEM: Bem, eu não dou reembolsos. Você\nsabia o que estava recebendo!
+
+#org @Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPCPortuguese
+Às vezes, você terá muitos POK\eMON com\nvocê para adicionar mais. Nesse caso, você\pdeve armazenar alguns usando qualquer PC.
+
+#org @Route4_PokemonCenter_1F_Text_ItsANewspaperPortuguese
+É um jornal.
+
+#org @Route5_PokemonDayCare_Text_WantMeToRaiseMonPortuguese
+Eu administro o serviço DAY-CARE. Você\ngostaria que eu criasse um de seus POK\eMON?
+
+#org @Route5_PokemonDayCare_Text_ComeAgainPortuguese
+Volte novamente.
+
+#org @Route5_PokemonDayCare_Text_WhichMonShouldIRaisePortuguese
+Qual POK\eMON devo aumentar?
+
+#org @Route5_PokemonDayCare_Text_ComeAnytimeYouLikePortuguese
+Tudo bem. Venha quando quiser.
+
+#org @Route5_PokemonDayCare_Text_LookAfterMonForAWhilePortuguese
+Á por um tempo.
+
+#org @Route5_PokemonDayCare_Text_ComeSeeMeInAWhilePortuguese
+Venha me ver daqui a pouco.
+
+#org @Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTimePortuguese
+Á precisa passar mais tempo comigo.
+
+#org @Route5_PokemonDayCare_Text_OweMeXForMonsReturnPortuguese
+Â pelo retorno o deste POK\eMON.
+
+#org @Route5_PokemonDayCare_Text_ThankYouHeresMonPortuguese
+Obrigado! Aqui está seu POK\eMON.
+
+#org @Route5_PokemonDayCare_Text_PlayerGotMonBackPortuguese
+ProvarÁ volta do DAY-CARE MAN.
+
+#org @Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYouPortuguese
+Oh? Você só tem um POK\eMON com você.
+
+#org @Route5_PokemonDayCare_Text_WhatWillYouBattleWithPortuguese
+Se você me deixar aquele POK\eMON, contra\no que você lutará?
+
+#org @Route5_PokemonDayCare_Text_MonHasGrownByXLevelsPortuguese
+Á cresceu muito. Sim, bastante, eu diria.\nDeixe-me ver... Por nível, cresceuÂ. Não\pestou ótimo?
+
+#org @Route5_PokemonDayCare_Text_YouveGotNoRoomForItPortuguese
+Você não pode retirar este POK\eMON se\nnão tiver espaço para ele.
+
+#org @Route5_PokemonDayCare_Text_DontHaveEnoughMoneyPortuguese
+Você não tem dinheiro suficiente.
+
+#org @Route5_PokemonDayCare_Text_WantMeToTakeALookAtYoursPortuguese
+Você gostaria de dar uma olhada?
+
+#org @Route5_PokemonDayCare_Text_CantAcceptMonWithHMPortuguese
+É uma pena, mas não consigo me livrar dos\nPokémon com movimentos do Hiden.
+
+#org @Route5_SouthEntrance_Text_ThirstyOnGuardDutyPortuguese
+Estou de guarda. Puxa, mas estou com sede!\nAh, espere aí, a estrada está fechada.
+
+#org @Route5_SouthEntrance_Text_ThatTeaLooksTastyPortuguese
+Ah, aquele CHÁ… Parece muito gostoso…
+
+#org @Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuardsPortuguese
+Huh? Posso tomar esta bebida? Puxa, obrigado!\n… … Glug, glug… … … Gulp… Se você quiser\pir para SAFFRON CITY… … … Você pode continuar.\\nVou compartilhar esse CHÁ com os outros\pdeguardas!
+
+#org @Route5_SouthEntrance_Text_HiHowsItGoingPortuguese
+Oi como vai?
+
+#org @Route6_NorthEntrance_Text_ThirstyOnGuardDutyPortuguese
+Estou de guarda. Puxa, mas estou com sede!\nAh, espere aí, a estrada está fechada.
+
+#org @Route6_NorthEntrance_Text_ThatTeaLooksTastyPortuguese
+Ah, aquele CHÁ… Parece muito gostoso…
+
+#org @Route6_NorthEntrance_Text_ThanksIllShareTeaWithGuardsPortuguese
+Huh? Posso tomar esta bebida? Puxa, obrigado!\n… … Glug, glug… … … Gulp… Se você quiser\pir para SAFFRON CITY… … … Você pode continuar.\\nVou compartilhar esse CHÁ com os outros\pdeguardas!
+
+#org @Route6_NorthEntrance_Text_HiHowsItGoingPortuguese
+Oi como vai?
+
+#org @Route7_EastEntrance_Text_ThirstyOnGuardDutyPortuguese
+Estou de guarda. Puxa, mas estou com sede!\nAh, espere aí, a estrada está fechada.
+
+#org @Route7_EastEntrance_Text_ThatTeaLooksTastyPortuguese
+Ah, aquele CHÁ… Parece muito gostoso…
+
+#org @Route7_EastEntrance_Text_ThanksIllShareTeaWithGuardsPortuguese
+Huh? Posso tomar esta bebida? Puxa, obrigado!\n… … Glug, glug… … … Gulp… Se você quiser\pir para SAFFRON CITY… … … Você pode continuar.\\nVou compartilhar esse CHÁ com os outros\pdeguardas!
+
+#org @Route7_EastEntrance_Text_HiHowsItGoingPortuguese
+Oi como vai?
+
+#org @Route8_WestEntrance_Text_ThirstyOnGuardDutyPortuguese
+Estou de guarda. Puxa, mas estou com sede!\nAh, espere aí, a estrada está fechada.
+
+#org @Route8_WestEntrance_Text_ThatTeaLooksTastyPortuguese
+Ah, aquele CHÁ… Parece muito gostoso…
+
+#org @Route8_WestEntrance_Text_ThanksIllShareTeaWithGuardsPortuguese
+Huh? Posso tomar esta bebida? Puxa, obrigado!\n… … Glug, glug… … … Gulp… Se você quiser\pir para SAFFRON CITY… … … Você pode continuar.\\nVou compartilhar esse CHÁ com os outros\pdeguardas!
+
+#org @Route8_WestEntrance_Text_HiHowsItGoingPortuguese
+Oi como vai?
+
+#org @Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthersPortuguese
+Os tipos de POK\eMON combinam diferentemente\nentre si. Cada tipo é mais forte que alguns\ptipos e mais fraco que outros.
+
+#org @Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000Portuguese
+Um NUGGET é totalmente inútil. Então eu\no vendi por \$5.000.
+
+#org @Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavenderPortuguese
+Ouvi dizer que fantasmas assombram LAVENDER\nTOWN.
+
+#org @Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20MonsPortuguese
+À! Estava procurando por você! Sou eu,\num dos sempre presentes ASSESSORAS do PROF.\pOAK. Se o seu POK\eDEX tiver dados completos\de\nvinte espécies, devo dar-lhe uma recompensa\pdo PROF. OAK. Ele me confiou este EVERSTONE.\nEntão,À, deixe-me perguntar. Você reuniu\pdados sobre pelo menos tvinte tipos de\nPOK\eMON?
+
+#org @Route10_PokemonCenter_1F_Text_GreatHereYouGoPortuguese
+Ç tipos de POK\eMON! Parabéns! Aqui está!
+
+#org @Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAidePortuguese
+À recebeu o EVERSTONE do AIDE.
+
+#org @Route10_PokemonCenter_1F_Text_ExplainEverstonePortuguese
+Fazer com que o POK\eMON evolua certamente\npode ser adicionado ao POK\eDEX. No entanto,\pàs vezes, você pode não querer que um determinado\nPOK\eMON evolua. Nesse caso, dê o EVERSTONE\peste POK\eMON.\ pIsso impedirá a evolução\nde acordo com o PROFESSOR.
+
+#org @Route11_EastEntrance_1F_Text_BagIsFullPortuguese
+Parece que sua bolsa está cheia.
+
+#org @Route11_EastEntrance_1F_Text_ManInLavenderRatesNamesPortuguese
+Você não acha que é difícil pensar em bons\nnomes para POK\eMON? Especialmente se você\ppegou um grupo inteiro? Em LAVENDER TOWN,\nhá um homem que classifica os apelidos\pde POK\eMON. Ele pode até ajudá-lo a renomear\nseu POK\eMON também.
+
+#org @Route11_EastEntrance_1F_Text_RockTunnelToReachLavenderPortuguese
+Se você pretende chegar a LAVENDER TOWN,\npegue o ROCK TUNNEL. Você pode chegar ao\pROCK TUNNEL vindo de CERULEAN CITY.
+
+#org @Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30Portuguese
+Á espécie, eu deveria dar-lhe uma recompensa.\nPROF. OAK me confiou o para você. Então,À,\pdeixe-me perguntar. Você coletou dados\nsobre pelo menos Á tipos de POK\eMON?
+
+#org @Route11_EastEntrance_2F_Text_GreatHereYouGoPortuguese
+Ç tipos de POK\eMON! Parabéns! Aqui está!
+
+#org @Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAidePortuguese
+À recebeu o da AIDE.
+
+#org @Route11_EastEntrance_2F_Text_ExplainItemfinderPortuguese
+Existem itens no chão que podem estar ocultos.\nUse o ITEMFINDER para detectar quaisquer\pitens escondidos perto de você. A máquina\né um pouco limitada. Ela não consegue identificar\pa localização dos itens. O que ela faz\né mostre a direção onde o item está. Use-o\ppara se orientar e procure na área suspeita\nmanualmente.
+
+#org @Route11_EastEntrance_2F_Text_BigMonAsleepOnRoadPortuguese
+Vamos ver o que os binóculos mostram...\nUm grande POK\eMON está dormindo na estrada!
+
+#org @Route11_EastEntrance_2F_Text_WhatABreathtakingViewPortuguese
+Vamos ver o que os binóculos ara mostrar…\nQue vista deslumbrante!
+
+#org @Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavenderPortuguese
+Vamos ver o que os binóculos mostraram…\nPara chegar a LAVENDER TOWN vindo da CERULEAN\pCITY… ROCK TUNNEL parece ser um bom caminho\na seguir.
+
+#org @Route12_NorthEntrance_1F_Text_LookoutSpotUpstairsPortuguese
+Há um mirante no andar de cima. A vista\né magnífica.
+
+#org @Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMalePortuguese
+As cinzas do meu POK\eMON estão armazenadas\nna POK\eMON TOWER. Você pode ficar com\pesta TM. Não preciso mais dela…
+
+#org @Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemalePortuguese
+As cinzas do meu POK\eMON estão armazenadas\nna POK\eMON TOWER. Você pode ficar com\pesta TM. Não preciso mais dela…
+
+#org @Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirlPortuguese
+Àrecebeu o TM27 da menininha.
+
+#org @Route12_NorthEntrance_2F_Text_ExplainTM27Portuguese
+TM27 é um movimento chamado RETURN… Se\nvocê tratar bem seu POK\eMON,\ele retribuirá\pseu amor trabalhando its ao máximo na batalha.
+
+#org @Route12_NorthEntrance_2F_Text_DontHaveRoomForThisPortuguese
+Você não tem espaço para isso.
+
+#org @Route12_NorthEntrance_2F_Text_TheresManFishingPortuguese
+Vamos ver o que os binóculos ara mostrar…\nTem um homem pescando!
+
+#org @Route12_NorthEntrance_2F_Text_ItsPokemonTowerPortuguese
+Vamos ver o que os binóculos ara mostrar…\nÉ POK\eMON TOWER!
+
+#org @Route12_FishingHouse_Text_DoYouLikeToFishPortuguese
+Eu sou o irmão mais novo do GURU DA PESCA.\nEu simplesmente adoro pescar! Não suporto\pficar sem. Diga-me, você gosta de pescar?
+
+#org @Route12_FishingHouse_Text_TakeThisAndFishPortuguese
+Grande! Gosto do seu estilo. Acho que podemos\nser amigos. Pegue isso e pesque, jovem\pamigo!
+
+#org @Route12_FishingHouse_Text_ReceivedSuperRodPortuguese
+À recebeu uma SUPER ROD do irmão do FISHING\nGURU.
+
+#org @Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMePortuguese
+Pescar é um modo de vida! É como a melhor\npoesia. Dos mares aos rios, saia e desembarque\po grande, meu amigo. Agora, tenho um pedido.\nSe você pegar um grande MAGIKARP \ com\pessa vara, quero vê-lo. Por mais que eu\ngoste de pescar, também adoro ver MAGIKARP\pgigantesco.
+
+#org @Route12_FishingHouse_Text_OhThatsDisappointingPortuguese
+Ah… Isso é tão decepcionante…
+
+#org @Route12_FishingHouse_Text_TryFishingBringMeMagikarpPortuguese
+À! Você tem pescado? Tente pescar com a\nSUPER ROD em qualquer corpo de água. Você\pencontrará diferentes POK\eMON em lugares\ndiferentes. Ah, e não se esqueça de me\ptrazer gigante MAGIKARP .
+
+#org @Route12_FishingHouse_Text_OhMagikarpAllowMeToSeePortuguese
+À? Ora, se não é um MAGIKARP! Deixe-me\nver, rápido!
+
+#org @Route12_FishingHouse_Text_WhoaXInchesTakeThisPortuguese
+Polegadas! Você tem um raro apreço pelos\naspectos delicados e poéticos da pesca!\pVocê deve aceitar isso. Eu insisto!
+
+#org @Route12_FishingHouse_Text_LookForwardToGreaterRecordsPortuguese
+Estou ansioso para ver registros melhores\nde você!
+
+#org @Route12_FishingHouse_Text_HuhXInchesSameSizeAsLastPortuguese
+Â polegadas? Este é do mesmo tamanho daquele\nque vi antes.
+
+#org @Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUpPortuguese
+Â polegadas de comprimento. Não mede até\nÇ-polegada que você trouxe antes.
+
+#org @Route12_FishingHouse_Text_DoesntLookLikeMagikarpPortuguese
+Uh… Isso não se parece muito com a MAGIKARP.
+
+#org @Route12_FishingHouse_Text_NoRoomForGiftPortuguese
+Ah, não! Eu tinha um presente para você,\nmas você não tem espaço para ele.
+
+#org @Route12_FishingHouse_Text_MostGiganticMagikarpXInchesPortuguese
+C polegadas!
+
+#org @Route12_FishingHouse_Text_BlankChartOfSomeSortPortuguese
+É algum tipo de gráfico em branco. Tem\nespaços para escrever registros de algum\ptipo.
+
+#org @Route15_WestEntrance_1F_Text_OaksAideCameByHerePortuguese
+Você é o garoto que está trabalhando no\na POK\eDEX? PROF. O assessor de Oak passou\ppor aqui.
+
+#org @Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnoughPortuguese
+Á espécie, eu deveria dar-lhe uma recompensa.\nPROF. OAK me confiou o para você. Então,À,\pdeixe-me perguntar. Você coletou dados\nsobre pelo menos Á tipos de POK\eMON?
+
+#org @Route15_WestEntrance_2F_Text_GreatHereYouGoPortuguese
+Ç tipos de POK\eMON! Parabéns! Aqui está!
+
+#org @Route15_WestEntrance_2F_Text_ReceivedItemFromAidePortuguese
+À recebeu o da AIDE.
+
+#org @Route15_WestEntrance_2F_Text_ExplainExpSharePortuguese
+EXP. SHARE é um item que deve ser mantido\npor um POK\eMON. O POK\eMON receberá uma\pparte oEXP. Pontos sem ter que lutar.
+
+#org @Route15_WestEntrance_2F_Text_LargeShiningBirdPortuguese
+Vamos ver o que os binóculos mostraram...\nUm pássaro grande e brilhante está voando\pem direção ao mar.
+
+#org @Route15_WestEntrance_2F_Text_SmallIslandOnHorizonPortuguese
+Vamos ver o que os binóculos mostraram…\nParece uma pequena ilha no horizonte!
+
+#org @Route16_House_Text_FoundMySecretRetreatPortuguese
+Oh, querido. Você encontrou meu retiro\nsecreto. Por favor, não conte a ninguém\pque estou aqui. Vou compensar você com\nisso!
+
+#org @Route16_House_Text_ReceivedHM02FromGirlPortuguese
+À recebeu HM02 da garota.
+
+#org @Route16_House_Text_ExplainHM02Portuguese
+HM02 é FLY. É um movimento maravilhosamente\nconveniente. Por favor, faça bom uso dele.
+
+#org @Route16_House_Text_DontHaveAnyRoomForThisPortuguese
+Você não tem espaço para isso.
+
+#org @Route16_House_Text_FearowPortuguese
+MEDO: Kyueen!
+
+#org @Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoadPortuguese
+Não são permitidos pedestres na ESTRADA\nDE CICLISMO!
+
+#org @Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCoursePortuguese
+A ESTRADA DE CICLISMO é uma descida à beira-mar.\nÉ um ótimo passeio.
+
+#org @Route16_NorthEntrance_1F_Text_ExcuseMeWaitUpPortuguese
+Com licença! Espere, por favor!
+
+#org @Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffortPortuguese
+Como você entrou? Bom esforço!
+
+#org @Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriendPortuguese
+Estou fazendo um passeio relaxante na minha\nbicicleta nova com minha namorada.
+
+#org @Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikesPortuguese
+Vamos andar juntos em nossas ovas bicicletas.
+
+#org @Route16_NorthEntrance_2F_Text_ItsCeladonDeptStorePortuguese
+Vamos ver o que os binóculos ara mostrar…\nÉ o DEPARTAMENTO CELADON. LOJA!
+
+#org @Route16_NorthEntrance_2F_Text_LongPathOverWaterPortuguese
+Vamos ver o que os binóculos mostraram...\nHá um longo caminho sobre a água ao longe.
+
+#org @Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40Portuguese
+À, deixe-me perguntar. Você coletou dados\nsobre pelo menos 40 tipos de POK\eMON?
+
+#org @Route16_NorthEntrance_2F_Text_GreatHereYouGoPortuguese
+Ç tipos de POK\eMON! Parabéns! Aqui está!
+
+#org @Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAidePortuguese
+À recebeu a AMULET COIN do AIDE.
+
+#org @Route16_NorthEntrance_2F_Text_ExplainAmuletCoinPortuguese
+Uma AMULET COIN é um item que deve ser\npossuído por um POK\eMON. Se o POK\eMON\paparecer em uma batalha vencedora, você\nganhará mais dinheiro.
+
+#org @Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoadPortuguese
+Você precisa de uma BICICLETA para sair\nna ESTRADA DE CICLISMO!
+
+#org @Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHerePortuguese
+A ESTRADA DE CICLISMO é uma subida aqui.
+
+#org @Route18_EastEntrance_1F_Text_ExcuseMePortuguese
+Com licença!
+
+#org @Route18_EastEntrance_2F_Text_PalletTownInWestPortuguese
+Vamos ver o que os binóculos mostraram…\nCIDADE DE PALETES fica no oeste.
+
+#org @Route18_EastEntrance_2F_Text_PeopleSwimmingPortuguese
+Vamos ver o que os binóculos para mostrar…\nTem gente nadando.
+
+#org @Route25_SeaCottage_Text_ImBillHelpMeOutPalPortuguese
+Olá! Eu sou um POK\eMON… …Não, não sou!\nChame-me de BILL! Eu sou um verdadeiro\pPOK\eMANIAC! Ei! O que há com esse olhar\ncético? Não estou brincando você, amigo.\pEu estraguei um experimento e fui combinado\ncom um POK\eMON! Então, que tal? Ajude-me\paqui!
+
+#org @Route25_SeaCottage_Text_ImBillHelpMeOutLadyPortuguese
+Olá! Eu sou um POK\eMON… …Não, não sou!\nChame-me de BILL! Eu sou um verdadeiro\pPOK\eMANIAC! Ei! O que há com esse olhar\ncético? Não estou brincando você, senhora.\pEu estraguei um experimento e fui combinado\ncom um POK\eMON! Então, que tal? Ajude-me\paqui!
+
+#org @Route25_SeaCottage_Text_RunCellSeparationOnPCPortuguese
+Espere até eu entrar no TELEPORTER. Quando\neu entrar, vá para o meu PC e execute o\pSistema de Separação de Células.
+
+#org @Route25_SeaCottage_Text_NoPleaseChiefPortuguese
+Não!? Agora não seja tão frio! Vamos, você\ntem que ajudar um cara que está profundamente\pencrencado! O que você me diz, chefe? Por\nfavor? Tudo bem? Tudo bem!
+
+#org @Route25_SeaCottage_Text_NoPleaseBeautifulPortuguese
+Não!? Agora não seja tão frio! Vamos, você\ntem que ajudar um cara que está profundamente\pencrencado! O que você me diz, linda? Por\nfavor? Ok? Tudo bem!
+
+#org @Route25_SeaCottage_Text_ThanksBudTakeThisPortuguese
+BILL: Sim! Obrigado, amigo! Eu te devo\numa! Então, você veio ver minha coleção\pPOK\eMON? Você não veio? Isso é uma chatice.\nTenho que lhe agradecer... Ah, aqui, talvez\pisso sirva .
+
+#org @Route25_SeaCottage_Text_ThanksLadyTakeThisPortuguese
+BILL: Sim! Obrigado, senhora! Eu te devo\numa! Então, você veio ver minha coleção\pPOK\eMON? Você não veio? Isso é uma chatice.\nTenho que lhe agradecer... Ah, aqui, talvez\pisso sirva .
+
+#org @Route25_SeaCottage_Text_ReceivedSSTicketFromBillPortuguese
+À recebeu um S.S. TICKET de BILL.
+
+#org @Route25_SeaCottage_Text_YouveGotTooMuchStuffPortuguese
+Você tem muita coisa!
+
+#org @Route25_SeaCottage_Text_SSAnnePartyYouGoInsteadPortuguese
+Aquele navio de cruzeiro S.S. ANNE está\nem VERMILION CITY. Ouvi dizer que há muitos\pTREINADORES\que não estão a bordo também.\nEles me convidaram para a festa deles,\pmas não suporto coisas extravagantes. Por\nque você não vai em vez de mim? Vá em frente\pe divirta-se.
+
+#org @Route25_SeaCottage_Text_CheckOutRareMonsOnPCPortuguese
+BILL: Quer conferir alguns o meu POK\eMON\nraro no meu PC? Vá em frente, dê uma olhada\pno meu PC.
+
+#org @Route25_SeaCottage_Text_TeleporterIsDisplayedPortuguese
+TELEPORTER é exibido no monitor do PC .
+
+#org @Route25_SeaCottage_Text_InitiatedTeleportersCellSeparatorPortuguese
+À iniciou o Separador de Células do TELEPORTER.
+
+#org @Route25_SeaCottage_Text_BillsFavoriteMonListPortuguese
+Lista POK\eMON favorita do BILL!
+
+#org @Route25_SeaCottage_Text_SeeWhichMonPortuguese
+Qual POK\eMON você quer ver?
+
+#org @SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattlesPortuguese
+Posso não parecer muito agora, mas quando\nera mais jovem... Eu voava por toda parte,\pdesafiando TREINADORES onde quer que os\nencontrasse. Agora, minha única fonte de\pdiversão é relembrar o passado enquanto\nassistia às batalhas.
+
+#org @SevenIsland_House_Room1_Text_SlightBreezeAroundBoxPortuguese
+Há uma leve brisa soprando ao redor da\ncaixa.
+
+#org @SevenIsland_House_Room1_Text_ChallengeVisitingTrainerPortuguese
+Á está esperando lá agora. Diga-me, você\nveio para desafiar Á, estou certo?
+
+#org @SevenIsland_House_Room1_Text_OhYouWontBattlePortuguese
+Oh... Você não vai lutar... Entendo, entendo.\n... ... Bem, talvez se você mudar de ideia,\pvolte.
+
+#org @SevenIsland_House_Room1_Text_LimitThreeMonsPerSidePortuguese
+Ah! Você lutará por mim? Valeu a pena deixar\na caixa de lado, então. … ... Mas há um\ppequeno problema. Esta sala escondida não\né construída muito srobusta. Posso pegar\pvocê limitá-lo a batalhas de três POK\eMON\npor lado?
+
+#org @SevenIsland_House_Room1_Text_SaveProgressBeforeBattlePortuguese
+Multar! Antes da batalha, você gostaria\nde salvar o jogo?
+
+#org @SevenIsland_House_Room1_Text_DontHoldAnythingBackPortuguese
+Tudo bem. Não esconda nada!
+
+#org @SevenIsland_House_Room1_Text_StrVar1_1Portuguese
+[B_COPY_VAR_1]Á
+
+#org @SevenIsland_House_Room2_Text_MatchEndedUpDrawPortuguese
+A partida terminou empatada.
+
+#org @SevenIsland_House_Room1_Text_DrawWasItPortuguese
+Empate, não foi? No entanto, deixe-me dizer\nque foi\um espetáculo digno. Eu diria que\pfoi uma batalha maravilhosa com uma verdadeira\nsensação de profundidade!
+
+#org @SevenIsland_House_Room1_Text_StrVar1_2Portuguese
+[B_COPY_VAR_1]Á
+
+#org @SevenIsland_House_Room1_Text_AstoundingBattlePortuguese
+Bravo! Bravo, de fato! Que batalha surpreendente!\nFoi tão surpreendente, ora, que continua\penchendo meus olhos de lágrimas! O ataque\ne a defesa de técnicas\usadas habilmente!\pO choque de poder contra poder!\ pSim!\nFoi pura magnificência!
+
+#org @SevenIsland_House_Room1_Text_StrVar1_3Portuguese
+[B_COPY_VAR_1]
+
+#org @SevenIsland_House_Room1_Text_FeelYourDisappointmentPortuguese
+Que pena! Sinto sua decepção. No entanto,\nessa decepção é o que o tornará melhor.\pUse-a, aprenda com ela e faça com que ela\nmotive você a buscar a grandeza. Não se\pesqueça dessa decepção e redobre seu treinamento\n!
+
+#org @SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwnPortuguese
+POK\eMON têm personalidades próprias, assim\ncomo as pessoas. Meu PIKACHU tem uma natureza\pPRESSA, então ele cresceu e se tornou um\nPOK\eMON veloz.
+
+#org @SevenIsland_Mart_Text_PreparationsCompleteForRuinsPortuguese
+Ok, os preparativos estão completos para\neu explorar as RUÍNAS.
+
+#org @SevenIsland_Mart_Text_NeedToFishOnSevenIslandPortuguese
+Preciso pescar na ILHA SETE. Isso completará\nminha viagem de pesca nas SEVII ILHAS.\pÉ melhor eu estocar algumas POK\e BOLAS\nprimeiro, no entanto.
+
+#org @SevenIsland_PokemonCenter_1F_Text_EventsDependingOnConnectionsPortuguese
+Nesta ilha, diferentes eventos ocorrem\ndependendo das conexões. Quais são essas\pconexões? Elas devem ser descobertas por\nconta própria.
+
+#org @SevenIsland_PokemonCenter_1F_Text_DidYouRideSeagallopHerePortuguese
+Você pegou uma balsa SEAGALLOP ara chegar\naqui? Existem pelo menos dez desses navios\pde alta velocidade. Mas não sei para onde\ntodos eles vão.
+
+#org @SevenIsland_PokemonCenter_1F_Text_CheckOutTrainerTowerPortuguese
+Se você estiver confiante, confira o TRAINER\nTOWER.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillHeyThereCelioPortuguese
+BILL: Ei, você! CELIO!
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOutPortuguese
+CELIO: BILL! Não acredito que você veio\naté aqui.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComingPortuguese
+BILL: Bem, com certeza! Como está indo\nsua pesquisa? …Ah, espere um segundo.
+
+#org @OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelioPortuguese
+À, este é meu amigo CELIO. Ele é um PC\nMANIAC dedicado!
+
+#org @OneIsland_PokemonCenter_1F_Text_PlayerIsRisingPokemonChampPortuguese
+À, um concorrente em ascensão como POK\eMON\nCHAMP!
+
+#org @OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChampPortuguese
+Para, o campeão POK\eMY reinante!
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressivePortuguese
+CELIO: Isso é realmente impressionante.\nOdeio dizer isso, mas não tenho nenhuma\paptidão para lutar. De qualquer forma,\nestou feliz em conhecê-lo.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillBringMeUpToSpeedPortuguese
+BILL: Então, atualize-me. Como está o funcionamento\nda sua máquina?
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYoursPortuguese
+CELIO: Está funcionando bem, mas estamos\nmuito distantes aqui. Os PJs nesta ilha\psimplesmente não conseguem conectar-se\nao seu PC, BILL.
+
+#org @OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYouPortuguese
+BILL: Ah, sim? Ok, deixe-me dar uma olhada.\n…Espere aí… Acho que podemos fazer isso\pfuncionar. Deixe-me ajudá-lo, ok?
+
+#org @OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayerPortuguese
+À, posso fazer você esperar mim só um pouco?\n…Na verdade, posso pedir que você me faça\pum favor? A ilha próxima a esta chama-se\nILHA DUAS. Tem um cara lá que dirige  a\pCANTO DO JOGO. Ele tem uma queda por pedras\nraras e gemas. Nós mantemos contato, sendo\pcompanheiros maníacos. Então, posso fazer\ncom que você entregue este METEORITO para\pele?
+
+#org @OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBillPortuguese
+À aceitou o METEORITO de BILL.
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThisPortuguese
+À, se você estiver indo ara DUAS ILHAS,\npor favor leve isto.
+
+#org @OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslandsPortuguese
+É um PASSE para o serviço de balsa servindo\nas ilhas locais. Ele permitirá que você\pviaje entre as ILHAS UM, DOIS e TRÊS. Ah,\nvocê também deveria ter este.
+
+#org @OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMapPortuguese
+À recebeu uma página extra para o MAPA\nDA CIDADE!
+
+#org @OneIsland_PokemonCenter_1F_Text_ReceivedTownMapPortuguese
+À recebeu\um MAPA DA CIDADE!
+
+#org @OneIsland_PokemonCenter_1F_Text_BillCatchYouLaterPortuguese
+BILL: Te vejo mais tarde! Diga oi para\no cara por mim!
+
+#org @OneIsland_PokemonCenter_1F_Text_HmmHowAboutLikeThisPortuguese
+Hmm… Que tal tentarmos assim…
+
+#org @OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMorePortuguese
+À! Você viu? Estamos com o PC funcionando!\nTenho algumas coisas para mostrar CELIO\paqui. Você pode dar um passeio ou algo\nmais um pouco?
+
+#org @OneIsland_PokemonCenter_1F_Text_SorryForBeingPoorHostPortuguese
+Sinto muito por ocupar tanto tempo do BILL.\nTambém sinto muito por ter sido um anfitrião\ptão ruim em sua visita aqui.
+
+#org @OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailablePortuguese
+Os serviços normais do PC não estão disponíveis…
+
+#org @OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayerPortuguese
+BILL: Ah, ei! [B_BUFF2]À!
+
+#org @OneIsland_PokemonCenter_1F_Text_BillWeGotItDonePortuguese
+BILL: O que o manteve por tanto tempo?\nEstá se divertindo? Concluímos. Os PCs\pestão funcionando!
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioJobWentQuickPortuguese
+CELIO: O trabalho foi incrivelmente rápido.\nBILL é um cara incrível…
+
+#org @OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALotPortuguese
+BILL: Não, não! Não sobrou quase nada para\neu fazer. CELIO, tenho que reconhecer.\pVocê aprendeu muito.
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehePortuguese
+CELIO: Ah, é mesmo? Ehehe…
+
+#org @OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKantoPortuguese
+BILL: Bem, aí está. Terminei o trabalho.\nDevíamos voltar para KANTO. CELIO, verei\pvocê novamente.
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometimePortuguese
+À, sinto muito de termos mandado você embora\nsozinho hoje. Eu prometo que algum dia\pvou lhe mostrar estas ilhas.
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachinePortuguese
+CELIO: Olá! Você parece muito ocupado como\nsempre. Como estou? Bem, estou modificando\pminha Máquina de Rede. Quando terminar\nde usar a máquina, espero que você seja\po primeiro a usá-la , [B_BUFF2]À.
+
+#org @OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUsefulPortuguese
+À, como estão as coisas para você? Ah,\né isso mesmo? Você pegou mais POK\eMON.\pQuer saber? Talvez eu possa ser útil para\nvocê.
+
+#org @OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAwayPortuguese
+Estou modificando a Máquina de Rede agora.\nEstou mudando-a para que ela possa lidar\pcom negociações por longas distâncias.\nQuando eu terminar, você estará negociando\ppor POK\eMON exóticos de TRAINERS distantes.
+
+#org @OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstonePortuguese
+Mas há um pequeno problema. Para que o\nlink funcione, a Máquina precisa de uma\ppedra preciosa especial. Supõe-se que ela\nesteja em UMA ILHA, mas ainda não encontrei\pnenhuma. Quem sabe onde ela poderia estar.
+
+#org @OneIsland_PokemonCenter_1F_Text_TryingToFindGemPortuguese
+Eu estava tentando encontrar a joia em\nenquanto estudava. Como resultado, não\pfiz nenhum progresso tanto em minha pesquisa\nquanto em meus estudos... Se eu confiasse\pno BILL, tenho certeza que minha pesquisa\nprogrediria.  Mas desta vez, quero tentar\pfazer as coisas  sozinho.
+
