@@ -525,7 +525,7 @@ def main():
                         continue
                     if line.strip().startswith('#') or line.strip() == '':
                         continue
-                    print(line)
+
                     symbol, address = line.split()
                     offset = int(address, 16) - 0x08000000
 
