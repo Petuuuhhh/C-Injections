@@ -249,139 +249,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             translated_text += '[' + splitted_text_section_2 + ']'
                     else:
                         translated_text = constructedString
-                if constructedString and constructedString[-1] == '$':
-                    text = constructedString[:-1]
-                    text_newline = text.replace('\n', '\\n')
-                    if '[' in text:
-                        splitted_text = text_newline.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 not in SpecialBuffersReverse:
-                                        if ' ' in splitted_text_section_2:
-                                            splitted_text_3 = splitted_text_section_2.split(' ')[0]
-                                            splitted_text_4 = splitted_text_section_2.split(' ')[1]
-                                            if splitted_text_3 not in SpecialBuffersReverse and splitted_text_4 not in SpecialBuffersReverse:
-                                                try:
-                                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                                except:
-                                                    pass
-                                        elif splitted_text_3 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                                translated_text += '[' + splitted_text_3 + '] '
-                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_3 + ']'
-                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_3 + '] '
-                                            else:
-                                                translated_text += '[' + splitted_text_3 + ']'
-                                        elif splitted_text_4 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                                translated_text += '[' + splitted_text_4 + '] '
-                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_4 + ']'
-                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_4 + '] '
-                                            else:
-                                                translated_text += '[' + splitted_text_3 + ']'
-                                    elif splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
-                                        else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
-                    if translated_text != '':
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
-
-                            # Add '\\n' or '\\p' to the end of each section alternately
-                            formatted_sections = []
-                            for i, section in enumerate(sections):
-                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
-
-                            # Join the sections to form the final formatted string
-                            formatted_text = ''.join(formatted_sections)
-
-                            # Replace 'xxx' with the original square brackets and their contents
-                            for match in matches:
-                                formatted_text = formatted_text.replace('xxx', match, 1)
-
-                            # Remove the space before '\\n' or '\\p'
-                            formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
-
-                            # print(formatted_text)
-
-                            print(1, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                        except:
-                            try:
-                                print(2, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                            except:
-                                pass
-                    else:
-                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
-
-                            # Add '\\n' or '\\p' to the end of each section alternately
-                            formatted_sections = []
-                            for i, section in enumerate(sections):
-                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
-
-                            # Join the sections to form the final formatted string
-                            formatted_text = ''.join(formatted_sections)
-
-                            # Replace 'xxx' with the original square brackets and their contents
-                            for match in matches:
-                                formatted_text = formatted_text.replace('xxx', match, 1)
-
-                            # Remove the space before '\\n' or '\\p'
-                            formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
-
-                            # print(formatted_text)
-
-                            print(3, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                        except:
-                            try:
-                                print(4, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                            except:
-                                pass
-                elif constructedString and constructedString[-1] != '$':
+                if constructedString:
                     text = constructedString
                     text_newline = text.replace('\n', '\\n')
                     translated_text = ''
@@ -467,11 +335,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                             # print(formatted_text)
 
-                            print(5, string)
+                            print(1, string)
                             f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         except:
                             try:
-                                print(6, string)
+                                print(2, string)
                                 f.write('#org @' + string + '\n' + text_newline + '\n\n')
                             except:
                                 pass
@@ -516,11 +384,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                             # print(formatted_text)
 
-                            print(7, string)
+                            print(3, string)
                             f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         except:
                             try:
-                                print(8, string)
+                                print(4, string)
                                 f.write('#org @' + string + '\n' + text_newline + '\n\n')
                             except:
                                 pass
