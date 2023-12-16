@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'Text_OnlyPassWithBadgeOhGoAhead':
+        # if string == 'CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructedString = ''
@@ -159,44 +159,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             ordROM = ord(rom.read(1))
                 except:
                     pass
-                langs = {}
-                langs2 = {}
                 translated_text = ''
-                try:
-                    for lang in nlp(constructedString):
-                        langs[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    for lang in nlp(constructedString2):
-                        langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    if 'en' not in langs and 'ja' in langs2:
-                        constructedString = constructedString2
-                        if '[' in constructedString:
-                            splitted_text = constructedString.split('[')
-                            for splitted_text_section in splitted_text:
-                                if ']' in splitted_text_section:
-                                    splitted_text_2 = splitted_text_section.split(']')
-                                    for splitted_text_section_2 in splitted_text_2:
-                                        if splitted_text_section_2 in SpecialBuffersReverse:
-                                            if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                                translated_text += '[' + splitted_text_section_2 + '] '
-                                            elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_section_2 + ']'
-                                            elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                                translated_text += ' [' + splitted_text_section_2 + '] '
-                                            else:
-                                                translated_text += '[' + splitted_text_section_2 + ']'
-                                        else:
-                                            try:
-                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                            except:
-                                                translated_text += splitted_text_section_2
-                                else:
-                                    try:
-                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
-                                    except:
-                                        translated_text += splitted_text_section
-                    else:
-                        translated_text = constructedString
-                except:
+                lang = nlp(constructedString)._.language['language']
+                lang2 = nlp(constructedString2)._.language['language']
+                if lang != 'en' and lang2 == 'ja':
+                    constructedString = constructedString2
                     if '[' in constructedString:
                         splitted_text = constructedString.split('[')
                         for splitted_text_section in splitted_text:
@@ -216,146 +183,125 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         try:
                                             translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                         except:
-                                            translated_text += splitted_text_section_2
+                                            pass
                             else:
                                 try:
                                     translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
                                 except:
-                                    translated_text += splitted_text_section
+                                    pass
                     else:
-                        translated_text = constructedString
-                if constructedString:
-                    text = constructedString
-                    text_newline = text.replace('\n', '\\n')
-                    translated_text = ''
-                    if '[' in text:
-                        splitted_text = text_newline.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
-                                        else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
-                                    else:
-                                        try:
-                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                        except:
-                                            translated_text += splitted_text_section_2
-                            else:
-                                try:
-                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
-                                except:
-                                    translated_text += splitted_text_section
-                    if translated_text != '':
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
                         try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-
-                            # Identify and replace square brackets and their content with 'xxx'
-                            matches = re.findall(r'\[.+?\]', sanitizedText)
-                            for match in matches:
-                                sanitizedText = sanitizedText.replace(match, 'xxx', 1)
-
-                            # Check if sanitizedText is less than 39 characters
-                            if len(sanitizedText) <= 39:
-                                formatted_text = sanitizedText
-                            else:
-                                # Split the string into sections of 39 characters without breaking words
-                                sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
-
-                                # Add '\\n' or '\\p' to the end of each section alternately
-                                formatted_sections = []
-                                for i, section in enumerate(sections):
-                                    formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
-
-                                # Join the sections to form the final formatted string
-                                formatted_text = ''.join(formatted_sections)
-
-                            # Replace 'xxx' with the original square brackets and their contents
-                            for match in matches:
-                                formatted_text = formatted_text.replace('xxx', match, 1)
-
-                            # Remove the space before '\\n' or '\\p'
-                            formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
-
-                            # print(formatted_text)
-
-                            print(1, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                            translated_text += GoogleTranslator(source='auto', target='es').translate(constructedString)
                         except:
+                            pass
+                else:
+                    translated_text = constructedString
+            text_newline = translated_text.replace('\n', '\\n')
+            if translated_text:
+                line_endings = 'npl'
+                line_endings_store = ''
+                pos = 0
+                try:
+                    for char in translated_text:
+                        if char == '\\':
                             try:
-                                print(2, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                if translated_text[pos + 1] in line_endings:
+                                    line_endings_store = line_endings_store + translated_text[pos + 1]
                             except:
                                 pass
+                        pos = pos + 1
+                    sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+
+                    # Identify and replace square brackets and their content with 'xxx'
+                    matches = re.findall(r'\[.+?\]', sanitizedText)
+                    for match in matches:
+                        sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+
+                    # Check if sanitizedText is less than 39 characters
+                    if len(sanitizedText) <= 39:
+                        formatted_text = sanitizedText
                     else:
-                        translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
-                        line_endings = 'npl'
-                        line_endings_store = ''
-                        pos = 0
-                        try:
-                            for char in translated_text:
-                                if char == '\\':
-                                    try:
-                                        if translated_text[pos + 1] in line_endings:
-                                            line_endings_store = line_endings_store + translated_text[pos + 1]
-                                    except:
-                                        pass
-                                pos = pos + 1
-                            sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                        # Split the string into sections of 39 characters without breaking words
+                        sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
 
-                            # Identify and replace square brackets and their content with 'xxx'
-                            matches = re.findall(r'\[.+?\]', sanitizedText)
-                            for match in matches:
-                                sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+                        # Add '\\n' or '\\p' to the end of each section alternately
+                        formatted_sections = []
+                        for i, section in enumerate(sections):
+                            formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
 
-                            # Check if sanitizedText is less than 39 characters
-                            if len(sanitizedText) <= 39:
-                                formatted_text = sanitizedText
-                            else:
-                                # Split the string into sections of 39 characters without breaking words
-                                sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+                        # Join the sections to form the final formatted string
+                        formatted_text = ''.join(formatted_sections)
 
-                                # Add '\\n' or '\\p' to the end of each section alternately
-                                formatted_sections = []
-                                for i, section in enumerate(sections):
-                                    formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+                    # Replace 'xxx' with the original square brackets and their contents
+                    for match in matches:
+                        formatted_text = formatted_text.replace('xxx', match, 1)
 
-                                # Join the sections to form the final formatted string
-                                formatted_text = ''.join(formatted_sections)
+                    # Remove the space before '\\n' or '\\p'
+                    formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
 
-                            # Replace 'xxx' with the original square brackets and their contents
-                            for match in matches:
-                                formatted_text = formatted_text.replace('xxx', match, 1)
+                    # print(formatted_text)
 
-                            # Remove the space before '\\n' or '\\p'
-                            formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
-
-                            # print(formatted_text)
-
-                            print(3, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                        except:
+                    print(1, string)
+                    f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                except:
+                    try:
+                        print(2, string)
+                        f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                    except:
+                        print(3, string)
+                        f.write('#org @' + string + '\n' + text_newline + '\n\n')
+            else:
+                translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
+                line_endings = 'npl'
+                line_endings_store = ''
+                pos = 0
+                try:
+                    for char in translated_text:
+                        if char == '\\':
                             try:
-                                print(4, string)
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                if translated_text[pos + 1] in line_endings:
+                                    line_endings_store = line_endings_store + translated_text[pos + 1]
                             except:
-                                f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                                pass
+                        pos = pos + 1
+                    sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+
+                    # Identify and replace square brackets and their content with 'xxx'
+                    matches = re.findall(r'\[.+?\]', sanitizedText)
+                    for match in matches:
+                        sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+
+                    # Check if sanitizedText is less than 39 characters
+                    if len(sanitizedText) <= 39:
+                        formatted_text = sanitizedText
+                    else:
+                        # Split the string into sections of 39 characters without breaking words
+                        sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+
+                        # Add '\\n' or '\\p' to the end of each section alternately
+                        formatted_sections = []
+                        for i, section in enumerate(sections):
+                            formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+
+                        # Join the sections to form the final formatted string
+                        formatted_text = ''.join(formatted_sections)
+
+                    # Replace 'xxx' with the original square brackets and their contents
+                    for match in matches:
+                        formatted_text = formatted_text.replace('xxx', match, 1)
+
+                    # Remove the space before '\\n' or '\\p'
+                    formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
+
+                    # print(formatted_text)
+
+                    print(4, string)
+                    f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                except:
+                    try:
+                        print(5, string)
+                        f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                    except:
+                        print(6, string)
+                        f.write('#org @' + string + '\n' + text_newline + '\n\n')
 f.close()
