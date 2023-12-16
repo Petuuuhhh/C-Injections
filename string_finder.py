@@ -497,6 +497,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 charIndex = 0
                                 newCharIndex = 0
                                 wrapped_text_store = ''
+                                print(sanitizedText)
                                 while charIndex < len(sanitizedText):
                                     char = sanitizedText[charIndex]
                                     wrapped_text = wrapped_text + char

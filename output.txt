@@ -1,3 +1,3 @@
 #org @Help_Text_HowToEnterName
-[CIRCLE_1]Mueva el cursor a la letra que\n[MUS_DUMMY]ququiero con el[PLUS]Panel de control, luego\p[go\p[MUS_DUMMY]presiona el botón A para ingresar.\n[CIRCLE_2]P[CIRCLE_2]Presione el botón B para retroceder.\p[CIRCLE_3]Petroceder.\p[CIRCLE_3]Presione SELECCIONAR para cambiar entre\nCLE_3]Presione SELECCIONAR para cambiar entre\n[MUS_DUMMY]letras mayúsculas y minúsculas.\p[CIRCLE_4]Presione el botón A en "Aceptar".
+[CIRCLE_1]Mueva el cursor a la letra que\n[MUS_DUMMY]quero con el[PLUS]Panel de control, luego\p[US_DUMMY]presiona el botón A para ingresar.\n[CIRCLE_2]Pesione el botón B para retroceder.\p[CIRCLE_3]Pesione SELECCIONAR para cambiar entre\nMUS_DUMMY]letras mayúsculas y minúsculas.\p[CIRCLE_4]Presione el botón A en "Aceptar".
 
