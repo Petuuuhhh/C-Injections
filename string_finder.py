@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'ViridianForest_Text_DougIntro':
+        # if string == 'MtMoon_1F_Text_IrisDefeat':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructedString = ''
@@ -164,7 +164,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 lang_score = nlp(constructedString)._.language['score']
                 lang2 = nlp(constructedString2)._.language['language']
                 lang2_score = nlp(constructedString)._.language['score']
-                if lang != 'en' and lang2 == 'ja' and lang_score > .8 and lang2_score > .8:
+                print(string, lang, lang_score, lang2, lang2_score)
+                if lang != 'en' and lang2 == 'ja' and lang_score > .9 and lang2_score > .9:
                     constructedString = constructedString2
                     if '[' in constructedString:
                         splitted_text = constructedString.split('[')
@@ -195,8 +196,8 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
                 else:
                     translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
-                text_newline = translated_text.replace('\n', '\\n')
                 if translated_text:
+                    text_newline = translated_text.replace('\n', '\\n')
                     line_endings = 'npl'
                     line_endings_store = ''
                     pos = 0
