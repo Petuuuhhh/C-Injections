@@ -21556,3 +21556,3444 @@ Met and battled [B_COPY_VAR_1]. The match ended in\na [B_COPY_VAR_2].
 #org @gText_QuestLog_SoldNumOfItem
 [MUS_DUMMY]Fui al POK\eMON MART en À y vendí el\nartículo Á.
 
+#org @gText_QuestLog_SoldItemsIncludingItem
+Artículos vendidos, incluido À en el\nPOK\eMON MART en , por valor de \$Á.
+
+#org @gText_QuestLog_JustOne
+solo uno
+
+#org @gText_QuestLog_Num
+C
+
+#org @gText_QuestLog_UsedSoftboiled
+[B_COPY_VAR_1]compartió su HP usando el movimiento\nSOFTBOILED.
+
+#org @gText_QuestLog_UsedMilkDrink
+[B_COPY_VAR_1]compartió su HP usando el movimiento\nBEBIDA DE LECHE.
+
+#org @gText_QuestLog_MonLearnedMoveFromHM
+[B_COPY_VAR_1]aprendió el movimiento de forma\nsegura [B_COPY_VAR_2]utilizando un HM.
+
+#org @gText_QuestLog_MonReplacedMoveWithHM
+[B_COPY_VAR_1] securely learned the move [B_COPY_VAR_2] using\nan HM and forgot the move [B_COPY_VAR_3].
+
+#org @gText_QuestLog_DefeatedWildMon
+È logró derrotar al POK\eMON À en .
+
+#org @gText_QuestLog_DefeatedWildMons
+Derrotaste a un POK\eMON salvaje\nincluido À en .
+
+#org @gText_QuestLog_CaughtWildMon
+È logró atrapar el POK\eMON Â en .
+
+#org @gText_QuestLog_CaughtWildMons
+Lanza POK\e BOLAS con frenesí, atrapando\nÇ POK\eMON incluido aquí in .
+
+#org @gText_QuestLog_DefeatedWildMonAndCaughtWildMon
+È derrotó al POK\eMON À y atrapó a un Â\nin.
+
+#org @gText_QuestLog_DefeatedWildMonAndCaughtWildMons
+Derrotaste al POK\eMON À y atrapaste Ç\nPOK\eMON incluido Â en .
+
+#org @gText_QuestLog_DefeatedWildMonsAndCaughtWildMon
+È derrotó a Á POK\eMON incluido À y\natrapó a un Â in.
+
+#org @gText_QuestLog_DefeatedWildMonsAndCaughtWildMons
+Derrotaste Á POK\eMON incluido À y\natrapaste Ç POK\eMON incluido Â en .
+
+#org @gText_QuestLog_GaveMonHeldItem
+Made [B_COPY_VAR_1] hold the item [B_COPY_VAR_2].
+
+#org @gText_QuestLog_GaveMonHeldItem2
+[B_BUFF2] made [B_COPY_VAR_1] hold the item [B_COPY_VAR_2].
+
+#org @gText_QuestLog_UsedCut
+[B_COPY_VAR_1]Usé el movimiento oculto CUT aquí.
+
+#org @gText_QuestLog_UsedFly
+[B_COPY_VAR_1] used the Hidden Move FLY and flew to\n[B_COPY_VAR_2].
+
+#org @gText_QuestLog_UsedSurf
+[B_COPY_VAR_1]Usó el Movimiento Oculto SURF y montó\nlas olas.
+
+#org @gText_QuestLog_UsedStrength
+[B_COPY_VAR_1]Usé el movimiento oculto FUERZA aquí.
+
+#org @gText_QuestLog_UsedFlash
+[B_COPY_VAR_1]Usó el Movimiento Oculto FLASH e\niluminó una cueva ca negra como boca de\plobo.
+
+#org @gText_QuestLog_UsedRockSmash
+[B_COPY_VAR_1]Usé el movimiento oculto ROCK SMASH\naquí.
+
+#org @gText_QuestLog_UsedWaterfall
+[B_COPY_VAR_1]Usó el movimiento oculto CASCADA para\nescalar un torrente furioso.
+
+#org @gText_QuestLog_UsedDive
+[B_COPY_VAR_1]y êÉÁ Ñª& òÏ \e+ ¡& ÚÉŒ!
+
+#org @gText_QuestLog_UsedDigInLocation
+[B_COPY_VAR_1] used DIG to escape from [B_COPY_VAR_2].
+
+#org @gText_QuestLog_UsedSweetScent
+[B_COPY_VAR_1]usó DULCE AROMA para atraer POK\eMON\nsalvajes.
+
+#org @gText_QuestLog_UsedTeleportToLocation
+[B_COPY_VAR_1] used TELEPORT, transporting the\nparty to [B_COPY_VAR_2]'s [B_COPY_VAR_3].
+
+#org @gText_QuestLog_LeftTownsLocationForNextDestination
+[B_BUFF2]izquierda[B_COPY_VAR_1]'s [B_COPY_VAR_2]para el siguiente\ndestino.
+
+#org @gText_QuestLog_PlayedGamesAtGameCorner
+Played a lot of games at the ROCKET GAME\nCORNER in [B_COPY_VAR_1].
+
+#org @gText_QuestLog_RestedAtHome
+[B_BUFF2]Descansó cómodamente en casa.
+
+#org @gText_QuestLog_LeftOaksLab
+[B_BUFF2]se fue PROF. LABORATORIO DE\nINVESTIGACIÓN POK\eMON de OAK.
+
+#org @gText_QuestLog_GymWasFullOfToughTrainers
+[B_COPY_VAR_1]estaba lleno de ENTRENADORES duros...\nHabía que hacer preparativos.
+
+#org @gText_QuestLog_DepartedGym
+Departed the GYM in [B_COPY_VAR_1].
+
+#org @gText_QuestLog_HadGreatTimeInSafariZone
+[B_BUFF2]Lo pasé muy bien con POK\eMON  en la\nZONA SAFARI.
+
+#org @gText_QuestLog_ManagedToGetOutOfLocation
+[B_COPY_VAR_2] después de deambular.
+
+#org @gText_QuestLog_TookOnGymLeadersMonWithMonAndWon
+[MUS_DUMMY]¡Á del LÍDER DE GIMNASIO À con Â y\nganó Ç!
+
+#org @gText_QuestLog_TookOnEliteFoursMonWithMonAndWon
+¡Enfrentó ELITE FOUR's À con Á y ganó!
+
+#org @gText_QuestLog_TookOnTrainersMonWithMonAndWon
+¡En , se enfrentó al Á de À con Â y ganó\nÇ!
+
+#org @gText_QuestLog_Coolly
+fríamente
+
+#org @gText_QuestLog_Barely
+apenas
+
+#org @gText_QuestLog_UsedEscapeRope
+[B_BUFF2] used an ESCAPE ROPE to get out from\n[B_COPY_VAR_2].
+
+#org @gText_QuestLog_Draw
+dibujar
+
+#org @gText_QuestLog_DepartedTheLocationForNextDestination
+[B_COPY_VAR_2] para el próximo destino.
+
+#org @gText_QuestLog_DepartedFromLocationToNextDestination
+[B_BUFF2]partió de [B_COPY_VAR_2]y abrió camino al\nsiguiente destino.
+
+#org @gText_QuestLog_ObtainedItemInLocation
+Here in [B_COPY_VAR_1], [B_BUFF2] obtained the item [B_COPY_VAR_2].
+
+#org @gText_QuestLog_ArrivedInLocation
+Arrived in [B_COPY_VAR_1].
+
+#org @gText_QuestLog_SavedGameAtLocation
+And [B_BUFF2] saved the game at this location:\n[B_COPY_VAR_1].
+
+#org @gText_QuestLog_Home
+HOGAR
+
+#org @gText_QuestLog_OakResearchLab
+LABORATORIO DE INVESTIGACIÓN DEL ROBLE
+
+#org @gText_QuestLog_Gym
+GIMNASIA
+
+#org @gText_QuestLog_PokemonLeagueGate
+PUERTA DE LA LIGA POK\eMON
+
+#org @gText_QuestLog_ViridianForest
+BOSQUE VIRIDIANO
+
+#org @gText_QuestLog_PewterMuseumOfScience
+MUSEO DE CIENCIA DEL PEWTER
+
+#org @gText_QuestLog_MtMoon
+MONTE. LUNA
+
+#org @gText_QuestLog_BikeShop
+TIENDA DE BICICLETAS
+
+#org @gText_QuestLog_BillsHouse
+CASA DE BILL
+
+#org @gText_QuestLog_DayCare
+GUARDERÍA
+
+#org @gText_QuestLog_UndergroundPath
+CAMINO SUBTERRÁNEO
+
+#org @gText_QuestLog_PokemonFanClub
+CLUB DE FANS DE POK\eMON
+
+#org @gText_QuestLog_SSAnne
+SS ANA
+
+#org @gText_QuestLog_DiglettsCave
+CUEVA DE DIGLETT
+
+#org @gText_QuestLog_RockTunnel
+TÚNEL DE ROCA
+
+#org @gText_QuestLog_PowerPlant
+PLANTA DE ENERGÍA
+
+#org @gText_QuestLog_PokemonTower
+TORRE POK\eMON
+
+#org @gText_QuestLog_VolunteerHouse
+CASA DE VOLUNTARIADO
+
+#org @gText_QuestLog_NameRatersHouse
+NOMBRE CASA DEL EVALUADOR
+
+#org @gText_QuestLog_CeladonDeptStore
+DEPARTAMENTO DE CELADÓN. ALMACENAR
+
+#org @gText_QuestLog_CeladonMansion
+MANSIÓN DE CELADÓN
+
+#org @gText_QuestLog_RocketGameCorner
+ESQUINA DEL JUEGO DE COHETES
+
+#org @gText_QuestLog_Restaurant
+RESTAURANTE
+
+#org @gText_QuestLog_RocketHideout
+Escondite de cohetes
+
+#org @gText_QuestLog_SafariZone
+ZONA SAFARI
+
+#org @gText_QuestLog_WardensHome
+CASA DEL GUARDIÁN
+
+#org @gText_QuestLog_FightingDojo
+DOJO DE LUCHA
+
+#org @gText_QuestLog_SilphCo
+SILPH CO.
+
+#org @gText_QuestLog_SeafoamIslands
+ISLAS DE MARINA
+
+#org @gText_QuestLog_PokemonMansion
+MANSIÓN POK\eMON
+
+#org @gText_QuestLog_PokemonResearchLab
+LABORATORIO DE INVESTIGACIÓN POK\eMON
+
+#org @gText_QuestLog_VictoryRoad
+CAMINO DE LA VICTORIA
+
+#org @gText_QuestLog_PokemonLeague
+LIGA POK\eMON
+
+#org @gText_QuestLog_CeruleanCave
+CUEVA CERULEAN
+
+#org @gText_WasUsedOn
+fue usado en 
+
+#org @gText_Period
+.
+
+#org @gText_LevelRoseTo
+El nivel subió a 
+
+#org @gText_Period2
+.
+
+#org @gText_LevelUp_MaxHP
+[FONT][FONT_SMALL]X.[FONT][FONT_NORMAL]PAG
+
+#org @gText_LevelUp_Attack
+ATAQUE
+
+#org @gText_LevelUp_Defense
+DEFENSA
+
+#org @gText_LevelUp_Speed
+VELOCIDAD
+
+#org @gText_LevelUp_SpAtk
+SP. INFORMÁTICA
+
+#org @gText_LevelUp_SpDef
+SP. DEF
+
+#org @gText_LevelUp_Plus
+[FONT][FONT_SMALL][FONT][FONT_NORMAL]É[FONT_SMALL]É[FONT_NORMAL], 
+
+#org @gText_LevelUp_Minus
+[FONT][FONT_SMALL]É[FONT_NORMAL], 
+
+#org @gText_Counting_1
+1,
+
+#org @gText_Counting_2And
+2, y…………
+
+#org @gText_Poof
+¡Puf! 
+
+#org @gText_MonForgotMove
+[MUS_DUMMY]lo olvidé Para. 
+
+#org @gText_And
+Y P
+
+#org @gText_MachineSet
+¡Máquina preparada! 
+
+#org @gText_Huh
+¿Eh?
+
+#org @gText_MonLearnedTMHM
+[MUS_DUMMY]aprendido À!
+
+#org @gText_Upper
+SUPERIOR
+
+#org @gText_Lower
+más bajo
+
+#org @gText_Others
+OTROS
+
+#org @gText_Symbols
+SÍMBOLOS
+
+#org @gText_Register2
+REGISTRO
+
+#org @gText_Exit
+SALIDA
+
+#org @gText_QuitChatting
+¿Dejar de chatear?
+
+#org @gText_RegisterTextWhere
+Registrar texto ¿dónde?
+
+#org @gText_RegisterTextHere
+¿Registrar texto aquí?
+
+#org @gText_InputText
+Texto de entrada.
+
+#org @gText_F700JoinedChat
+[MUS_DUMMY]¡Únete al chat!
+
+#org @gText_F700LeftChat
+[MUS_DUMMY]dejó la conversación.
+
+#org @gText_PlayersXPokemon
+aquí:
+
+#org @gText_PlayersXPokmonDoesNotExist
+çÀ\eÊòè ÁÓ+
+
+#org @gText_ExitingTheChat
+Saliendo del chat...
+
+#org @gText_LeaderHasLeftEndingChat
+El LÍDER, se ha ido, finalizando el\nchat.
+
+#org @gText_RegisteredTextChanged_OKtoSave
+El texto registrado ha sido cambiado.\n¿Está bien guardar el juego?
+
+#org @gText_RegisteredTextChanged_AlreadySavedFile
+Ya hay un archivo guardado. ¿Está bien\nsobrescribirlo?
+
+#org @gText_RegisteredTextChanged_SavingDontTurnOff
+GUARDANDO… NO APAGUE LA CORRIENTE.
+
+#org @gText_RegisteredTextChanged_SavedTheGame
+[MUS_DUMMY]salvó el juego.
+
+#org @gText_IfLeaderLeavesChatWillEnd
+Si el LÍDER se va, el chat terminará.\n¿Está bien?
+
+#org @gText_Hello
+HOLA
+
+#org @gText_Pokemon2
+POK\eMON
+
+#org @gText_Trade
+COMERCIO
+
+#org @gText_Battle
+BATALLA
+
+#org @gText_Lets
+VAMOS
+
+#org @gText_Ok
+¡DE ACUERDO!
+
+#org @gText_Sorry
+LO SIENTO
+
+#org @gText_YaySmileEmoji
+[EMOJI_BIGSMILE]
+
+#org @gText_ThankYou
+GRACIAS
+
+#org @gText_ByeBye
+¡ADIÓS!
+
+#org @gText_PlayerScurriedToCenter
+[B_BUFF2]corrió a un CENTRO POK\eMON,\nprotegiendo al exhausto y desmayado\pPOK\eMON de mayores daños... 
+
+#org @gText_PlayerScurriedBackHome
+[B_BUFF2]corrió de vuelta a casa, protegiendo\nal exhausto y desmayado POK\eMON de más\pdaño... 
+
+#org @gText_Diploma_Player
+JUGADOR:
+
+#org @gText_Diploma_ThisDocument
+Este documento se emite en\nreconocimiento a su magnífico logro:\pcompletar el À POK\eDEX.
+
+#org @gText_Diploma_GameFreak
+ADICTO A LOS JUEGOS
+
+#org @gText_Diploma_National
+NACIONAL
+
+#org @gText_Diploma_Kanto
+KANTÓ
+
+#org @gText_ClearAllSaveData
+¿Borrar todas las áreas de datos\nguardados?
+
+#org @gText_ClearingData
+Borrando datos... Por favor, espera.
+
+#org @gText_Player
+JUGADOR
+
+#org @gText_Time
+TIEMPO
+
+#org @gText_Colon
+:
+
+#org @gText_Pokedex
+POK\eDEX
+
+#org @gText_Badges
+INSIGNIAS
+
+#org @gText_Register
+REGISTRO
+
+#org @gText_HatchedFromEgg
+[B_COPY_VAR_1]¡Nació del HUEVO!
+
+#org @gText_NickHatchPrompt
+Would you like to nickname the newly\nhatched [B_COPY_VAR_1]?
+
+#org @gString_OutOfCoins
+Te has quedado sin MONEDAS. ¡Se acabó el\njuego!
+
+#org @gString_QuitPlaying
+¿Deja de jugar?
+
+#org @gString_SlotMachineControls
+[DPAD_LEFTRIGHT]COMBINACIONES[DPAD_DOWN]APOSTAR[A_BUTTON]DETENER[B_BUTTON]SALIDA
+
+#org @gText_TeachyTV
+ÈÏÇ
+
+#org @gText_End
+LA MUERTE
+
+#org @gTeachyTvString_TeachBattle
+Enséñame a luchar.
+
+#org @gTeachyTvString_StatusProblems
+¿Qué son los problemas de estatus?
+
+#org @gTeachyTvString_TypeMatchups
+¿Qué son los enfrentamientos de tipos?
+
+#org @gTeachyTvString_CatchPkmn
+Quiero atrapar POK\eMON.
+
+#org @gTeachyTvString_AboutTMs
+Enséñame sobre las MT.
+
+#org @gTeachyTvString_RegisterItem
+¿Cómo registro un artículo?
+
+#org @gTeachyTvString_Cancel
+CANCELAR
+
+#org @gString_Bill
+FACTURA
+
+#org @gString_Someone
+ALGUIEN
+
+#org @gString_Help
+AYUDA
+
+#org @gString_HelpSystem_ClearTo8
+[CLEAR_TO]MI
+
+#org @gText_SpacePoints2
+puntos
+
+#org @gText_SpaceTimes3
+veces)
+
+#org @gText_PkmnJumpRecords
+RÉCORDES DE SALTO DE POK\eMON
+
+#org @gText_JumpsInARow
+Saltos seguidos:
+
+#org @gText_BestScore2
+Mejor puntuación:
+
+#org @gText_ExcellentsInARow
+EXCELENTES seguidos:
+
+#org @gText_AwesomeWonF701F700
+Impresionante puntuación! ¡Has ganado À!
+
+#org @gText_FilledStorageSpace2
+Ya no queda espacio.
+
+#org @gText_CantHoldMore
+¡No puedes aguantar más!
+
+#org @gText_WantToPlayAgain2
+¿Quieres volver a jugar?
+
+#org @gText_SomeoneDroppedOut2
+Alguien abandonó. El enlace se\ncancelará.
+
+#org @gText_SavingDontTurnOffPower
+GUARDANDO… NO APAGUE LA CORRIENTE.
+
+#org @gText_CommunicationStandby4
+Comunicación en espera…
+
+#org @gText_SavingDontTurnOffPower2
+GUARDANDO... NO APAGUE LA CORRIENTE.
+
+#org @gText_BerryPickingRecords
+REGISTROS DE RECOGIDA DE BAYAS DE DODRIO
+
+#org @gText_BerriesPicked
+BAYAS recogidas:
+
+#org @gText_BestScore
+Mejor puntuación:
+
+#org @gText_BerriesInRowFivePlayers
+BAYAS recogidas en fila con cinco\njugadores:
+
+#org @gText_BerryPickingResults
+¡Anunciamos los resultados de la\nRECOGIDA DE BAYAS!
+
+#org @gText_10P30P50P50P
+[MUS_DUMMY][MUS_DUMMY]30P[MUS_DUMMY][MUS_DUMMY]50P[MUS_DUMMY][MUS_DUMMY][EMOJI_MINUS]50P
+
+#org @gText_AnnouncingRankings
+¡Anunciando clasificaciones!
+
+#org @gText_AnnouncingPrizes
+¡Anunciando premios!
+
+#org @gText_1Colon
+1:
+
+#org @gText_2Colon
+2:
+
+#org @gText_3Colon
+3:
+
+#org @gText_4Colon
+4:
+
+#org @gText_5Colon
+5:
+
+#org @gText_FirstPlacePrize
+¡El ganador del primer lugar se lleva\nesto!
+
+#org @gText_CantHoldAnyMore
+No puedes aguantar más...
+
+#org @gText_FilledStorageSpace
+Llenó su espacio de almacenamiento.
+
+#org @gText_WantToPlayAgain
+¿Quieres volver a jugar?
+
+#org @gText_SomeoneDroppedOut
+Alguien abandonó. El enlace se\ncancelará.
+
+#org @gText_SpacePoints
+puntos
+
+#org @gText_CommunicationStandby3
+Comunicación en espera…
+
+#org @gText_BerryCrush_AreYouReady
+¿Estás listo para CRUSH DE BAYAS? Por\nfavor, elige una BAYA para usar. 
+
+#org @gText_BerryCrush_WaitForOthersToChooseBerry
+Espere mientras cada miembro elige una\nBAYA.
+
+#org @gText_BerryCrush_GainedXUnitsOfPowder
+[PAUSE_MUSIC][PLAY_BGM]"Terminaste con[B_COPY_VAR_1]unidades de\nPOLVO DE BAYAS suave como la seda.[RESUME_MUSIC] Tu\pcantidad total de POLVO DE BAYAS is[B_COPY_VAR_2].\nag
+
+#org @gText_BerryCrush_RecordingGameResults
+Grabando los resultados de tu juego en\nel archivo guardado. Espera.
+
+#org @gText_BerryCrush_WantToPlayAgain
+¿Quieres volver a jugar a BERRY CRUSH?
+
+#org @gText_BerryCrush_NoBerries
+No tienes BAYAS. El juego será\ncancelado.
+
+#org @gText_BerryCrush_MemberDroppedOut
+Un miembro se dio de baja. El juego será\ncancelado.
+
+#org @gText_BerryCrush_TimeUp
+Se acabó el tiempo. No se pudo hacer un\nbuen POLVO DE BAYAS ... 
+
+#org @gText_BerryCrush_CommunicationStandby
+Comunicación en espera…
+
+#org @gText_1_ClrBluShdwLtBlu_Dynamic0
+[COLOR]MI[SHADOW]I
+
+#org @gText_1_Dynamic0
+1.
+
+#org @gText_SpaceTimes2
+veces
+
+#org @gText_XDotY
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
+
+#org @gText_StrVar1Berry
+[B_COPY_VAR_1]BAYA
+
+#org @gText_TimeColon
+Tiempo:
+
+#org @gText_PressingSpeed
+Velocidad de prensado:
+
+#org @gText_Silkiness
+Suavidad:
+
+#org @gText_StrVar1
+[B_COPY_VAR_1]
+
+#org @gText_SpaceMin
+mín.
+
+#org @gText_XDotY2
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
+
+#org @gText_SpaceSec
+segundo.
+
+#org @gText_XDotY3
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
+
+#org @gText_TimesPerSec
+Tiempos/seg.
+
+#org @gText_Var1Percent
+[B_COPY_VAR_1]%
+
+#org @gText_PressesRankings
+Número de rankings de imprentas
+
+#org @gText_CrushingResults
+Resultados aplastantes
+
+#org @gText_NeatnessRankings
+Clasificaciones de limpieza
+
+#org @gText_CooperativeRankings
+Clasificaciones cooperativas
+
+#org @gText_PressingPowerRankings
+Clasificaciones de poder de presión
+
+#org @gText_BerryCrush2
+TRITURACIÓN DE BAYAS
+
+#org @gText_PressingSpeedRankings
+Clasificaciones de velocidad de prensado
+
+#org @gText_Var1Players
+[B_COPY_VAR_1]JUGADORES
+
+#org @gText_Ghost
+FANTASMA
+
+#org @gText_PokemonOnHook
+[PAUSE_UNTIL_PRESS]
+
+#org @gText_NotEvenANibble
+[PAUSE_UNTIL_PRESS]
+
+#org @gText_ItGotAway
+[PAUSE_UNTIL_PRESS]
+
+#org @gText_Rooftop2
+TECHO
+
+#org @gString_PokemonFireRed_Staff
+Pokémon\emon Versión Rojo Fuego Personal
+
+#org @gString_PokemonLeafGreen_Staff
+Pokémon\emon Versión Verde Hoja Personal
+
+#org @gCreditsString_Director
+  Director    
+
+#org @gCreditsString_Junichi_Masuda
+   Junichi Masuda   
+
+#org @gCreditsString_Art_Director_Battle_Director
+ Director de arte  Director de batalla 
+
+#org @gCreditsString_Ken_Sugimori_Shigeki_Morimoto
+  Ken Sugimori  Shigeki Morimoto  
+
+#org @gCreditsString_Program_Leader_Planning_Leader_Graphic_Design_Leader
+Líder de programa  Líder de\nplanificación  Líder de diseño gráfico 
+
+#org @gCreditsString_Tetsuya_Watanabe_Koji_Nishino_Takao_Unno
+ Tetsuya Watanabe  Koji Nishino  Takao\nUnno 
+
+#org @gCreditsString_Programmers
+Programadores     
+
+#org @gCreditsString_Hiroyuki_Nakamura_Masao_Taya_Satoshi_Nohara_Miyuki_Iwasawa_Daisuke_Goto
+ Hiroyuki Nakamura Masao Taya Satoshi\nNohara Miyuki Iwasawa Daisuke Goto 
+
+#org @gCreditsString_System_Programmers
+Programadores del sistema      
+
+#org @gCreditsString_Tetsuya_Watanabe_Akito_Mori_Hisashi_Sogabe_Sousuke_Tamada
+ Tetsuya Watanabe Akito Mori Hisashi\nSogabe Sousuke Tamada 
+
+#org @gCreditsString_Graphic_Designers
+Diseñadores gráficos      
+
+#org @gCreditsString_Takao_Unno_Asuka_Iwashita_Kanako_Eo_Hiroki_Fuchino
+ Takao Unno Asuka Iwashita Kanako Eo\nHiroki Fuchino 
+
+#org @gCreditsString_Graphic_Designers_2
+ Diseñadores gráficos     
+
+#org @gCreditsString_Ken_Sugimori_Hironobu_Yoshida
+  Ken Sugimori Hironobu Yoshida   
+
+#org @gCreditsString_Music_Composition
+ Composición musical     
+
+#org @gCreditsString_Go_Ichinose_Junichi_Masuda
+  Ve Ichinose Junichi Masuda   
+
+#org @gCreditsString_Sound_Effects
+  Efectos de sonido    
+
+#org @gCreditsString_Go_Ichinose
+   Vaya Ichinose   
+
+#org @gCreditsString_Game_Designers
+ Diseñadores de juegos     
+
+#org @gCreditsString_Junichi_Masuda_Koji_Nishino_Tetsuji_Ohta
+  Junichi Masuda Koji Nishino Tetsuji\nOhta 
+
+#org @gCreditsString_Game_Designers_2
+ Diseñadores de juegos     
+
+#org @gCreditsString_Hitomi_Sato_Shigeru_Ohmori_Tadashi_Takahashi
+  Hitomi Sato Shigeru Ohmori Tadashi\nTakahashi 
+
+#org @gCreditsString_Game_Scenario
+ Escenario del juego     
+
+#org @gCreditsString_Hitomi_Sato_Satoshi_Tajiri
+  Hitomi Sato Satoshi Tajiri   
+
+#org @gCreditsString_Script_Designer_Map_Designer
+ Diseñador de scripts  Diseñador de\nmapas 
+
+#org @gCreditsString_Satoshi_Nohara_Shigeru_Ohmori
+  Satoshi Nohara  Shigeru Ohmori  
+
+#org @gCreditsString_Parametric_Designers
+ Diseñadores paramétricos     
+
+#org @gCreditsString_Koji_Nishino_Tetsuji_Ohta_Shigeki_Morimoto
+  Koji Nishino Tetsuji Ohta Shigeki\nMorimoto 
+
+#org @gCreditsString_POKeDEX_Text
+  POK\eDEX Texto    
+
+#org @gCreditsString_Kenji_Matsushima
+   Kenji Matsushima   
+
+#org @gCreditsString_POKeMON_Designers
+POK\eMON Diseñadores      
+
+#org @gCreditsString_Ken_Sugimori_Motofumi_Fujiwara_Shigeki_Morimoto_Hironobu_Yoshida
+ Ken Sugimori Motofumi Fujiwara Shigeki\nMorimoto Hironobu Yoshida 
+
+#org @gCreditsString_POKeMON_Designers_2
+POK\eMON Diseñadores      
+
+#org @gCreditsString_Satoshi_Ohta_Asuka_Iwashita_Takao_Unno_Kanako_Eo_Aimi_Tomita
+ Satoshi Ohta Asuka Iwashita Takao Unno\nKanako Eo Aimi Tomita 
+
+#org @gCreditsString_POKeMON_Designers_3
+POK\eMON Diseñadores      
+
+#org @gCreditsString_Atsuko_Nishida_Muneo_Saito_Rena_Yoshikawa_Jun_Okutani
+ Atsuko Nishida Muneo Saito Rena\nYoshikawa Jun Okutani 
+
+#org @gCreditsString_Supporting_Programmers
+Programadores de apoyo    
+
+#org @gCreditsString_Teruyuki_Yoshioka_Takao_Nakano_Satoshi_Mitsuhara_Daisuke_Hoshino
+ Teruyuki Yoshioka Takao Nakano  Satoshi\nMitsuhara Daisuke Hoshino 
+
+#org @gCreditsString_NCL_Product_Testing
+  Pruebas de productos NCL    
+
+#org @gCreditsString_NCL_Super_Mario_Club
+   NCL Super Mario Club   
+
+#org @gCreditsString_Special_Thanks
+Gracias especiales      
+
+#org @gCreditsString_Hiro_Nakamura_Hiroyuki_Uesugi_Teruki_Murakawa_Kazuya_Suyama
+ Hiro Nakamura Hiroyuki Uesugi Teruki\nMurakawa  Kazuya Suyama 
+
+#org @gCreditsString_Special_Thanks_2
+Gracias especiales      
+
+#org @gCreditsString_Kenji_Tominaga_Kenjiro_Ito_Tomotaka_Komura_Michiko_Takizawa
+ Kenji Tominaga  Kenjiro Ito Tomotaka\nKomura Michiko Takizawa 
+
+#org @gCreditsString_Special_Thanks_3
+Gracias especiales      
+
+#org @gCreditsString_Makiko_Takada_Mikiko_Ohashi_Shusaku_Egami_Takanao_Kondo_Rui_Kawaguchi
+ Makiko Takada Mikiko Ohashi Shusaku\nEgami Takanao Kondo Rui Kawaguchi 
+
+#org @gCreditsString_Braille_Code_Check
+  Comprobación del código Braille    
+
+#org @gCreditsString_Japan_Braille_Library
+   Biblioteca Braille de Japón   
+
+#org @gCreditsString_Information_Supervisors
+Supervisores de información      
+
+#org @gCreditsString_Hiroki_Enomoto_Kazuyuki_Terada_Yuri_Sakurai_Yumi_Funasaka_Naoko_Yanase
+ Hiroki Enomoto Kazuyuki Terada Yuri\nSakurai Yumi Funasaka Naoko Yanase 
+
+#org @gCreditsString_Coordinators
+Coordinadores      
+
+#org @gCreditsString_Azusa_Tajima_Akira_Kinashi_Kazuki_Yoshihara_Retsuji_Nomoto
+ Azusa Tajima Akira Kinashi Kazuki\nYoshihara  Retsuji Nomoto 
+
+#org @gCreditsString_Task_Managers
+ Administradores de tareas     
+
+#org @gCreditsString_Hitoshi_Yamagami_Gakuji_Nomoto
+  Hitoshi Yamagami Gakuji Nomoto   
+
+#org @gCreditsString_Producers
+ Productores     
+
+#org @gCreditsString_Hiroyuki_Jinnai_Takehiro_Izushi_Hiroaki_Tsuru
+  Hiroyuki Jinnai Takehiro Izushi\nHiroaki Tsuru 
+
+#org @gCreditsString_Executive_Director
+  Director Ejecutivo    
+
+#org @gCreditsString_Satoshi_Tajiri
+   Satoshi Tajiri   
+
+#org @gCreditsString_Executive_Producer
+  Productor ejecutivo    
+
+#org @gCreditsString_Satoru_Iwata
+   Satoru Iwata   
+
+#org @gCreditsString_Executive_Producer_2
+  Productor ejecutivo    
+
+#org @gCreditsString_Tsunekaz_Ishihara
+   Tsunekaz Ishihara   
+
+#org @gCreditsString_English_Version_Coordinators
+ Coordinadores de la versión en inglés 
+
+#org @gCreditsString_Hiro_Nakamura_Seth_McMahill
+  Hiro Nakamura Seth McMahill   
+
+#org @gCreditsString_Translator_Text_Editor
+ Traductor  Editor de texto   
+
+#org @gCreditsString_Nob_Ogasawara_Teresa_Lillygren
+  Nob Ogasawara  Teresa Lillygren  
+
+#org @gCreditsString_Programmers_2
+Programadores      
+
+#org @gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Yuichiro_Ito_Akira_Kinashi
+ Teruki Murakawa Souichi Yamamoto\nYuichiro Ito Akira Kinashi 
+
+#org @gCreditsString_Environment_Tool_Programmers
+ Programadores de entornos y\nherramientas 
+
+#org @gCreditsString_Teruki_Murakawa_Souichi_Yamamoto_Kimiko_Nakamichi
+  Teruki Murakawa Souichi Yamamoto\nKimiko Nakamichi 
+
+#org @gCreditsString_NOA_Product_Testing
+Pruebas de productos NOA      
+
+#org @gCreditsString_Thomas_Hertzog_Kathy_Huguenard_Mika_Kurosawa
+ Thomas Hertzog Kathy Huguenard Mika\nKurosawa 
+
+#org @gCreditsString_Braille_Code_Check_2
+Comprobación del código Braille      
+
+#org @gCreditsString_National_Federation_of_the_Blind_Patricia_A_Maurer_Japan_Braille_Library_European_Blind_Union
+[CLEAR_TO]Ûde los ciegos Patricia A. Maurer\nBiblioteca Braille de Japón Unión\pEuropea de Ciegos 
+
+#org @gCreditsString_Braille_Code_Check_3
+ Comprobación del código Braille     
+
+#org @gCreditsString_National_Information_Library_Service_Margaret_Campion
+[CLEAR_TO]&Servicio Margaret Campion  
+
+#org @gCreditsString_Special_Thanks_4
+Gracias especiales      
+
+#org @gCreditsString_Takehiro_Izushi_Motoyasu_Tojima_Hitoshi_Yamagami_Hiroyuki_Uesugi
+ Takehiro Izushi Motoyasu Tojima Hitoshi\nYamagami Hiroyuki Uesugi 
+
+#org @gCreditsString_Special_Thanks_5
+Gracias especiales      
+
+#org @gCreditsString_Nicola_Pratt_Barlow_Shellie_Dow_Anthony_Howitt_Naoko_Saeki_Kyoko_Onishi
+ Nicola Pratt-Barlow Shellie Dow Anthony\nHowitt Naoko Saeki Kyoko Onishi 
+
+#org @gCreditsString_Braille_Code_Check_4
+ Comprobación del código Braille     
+
+#org @gCreditsString_The_Royal_New_Zealand_Foundation_of_the_Blind_Greg_Moran
+  La Fundación Real de Nueva Zelanda\nFundación para Ciegos Greg Moran 
+
+#org @gCreditsString_Graphic_Designer
+  Diseñador gráfico    
+
+#org @gCreditsString_Akira_Kinashi
+   Akira Kinashi   
+
+#org @gJPText_SelectConnectAndPressA
+[PLUS]ç ‘ÚÂÏ+'& Çú+ A& ÈÏÛËÎÁ
+
+#org @gJPText_UnableConnectWithEReader
+[PLUS]Ñ ÚÂÏ+ ÊÓ+
+
+#org @gText_CommErrorCheckConnections
+Error de comunicación... Compruebe todas\nlas conexiones, luego apague y encienda\pla alimentación.
+
+#org @gText_CommErrorEllipsis
+Error de comunicación…
+
+#org @gText_MoveCloserToLinkPartner
+Acércate a tus socios de enlace. Evita\nlos obstáculos entre socios.
+
+#org @gText_ABtnRegistrationCounter
+Un botón: contador de registro
+
+#org @gText_ABtnTitleScreen
+Un botón: pantalla de título
+
+#org @gText_NumPlayerLink
+[B_COPY_VAR_1]ENLACE P
+
+#org @gText_BronzeCard
+BRONCE
+
+#org @gText_CopperCard
+COBRE
+
+#org @gText_SilverCard
+PLATA
+
+#org @gText_GoldCard
+ORO
+
+#org @gText_HelpSystemControls_A_Next
+[A_BUTTON]PRÓXIMO
+
+#org @gText_HelpSystemControls_PickOkEnd
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]FIN
+
+#org @gText_HelpSystemControls_AorBtoCancel
+[A_BUTTON][B_BUTTON]CANCELAR
+
+#org @gText_HelpSystemControls_PickOkCancel
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]CANCELAR
+
+#org @gEasyChatGroupName_Pokemon
+POK\eMON
+
+#org @gEasyChatGroupName_Trainer
+ENTRENADOR
+
+#org @gEasyChatGroupName_Status
+ESTADO
+
+#org @gEasyChatGroupName_Battle
+BATALLA
+
+#org @gEasyChatGroupName_Greetings
+SALUDOS
+
+#org @gEasyChatGroupName_People
+GENTE
+
+#org @gEasyChatGroupName_Voices
+VOCES
+
+#org @gEasyChatGroupName_Speech
+DISCURSO
+
+#org @gEasyChatGroupName_Endings
+FINALES
+
+#org @gEasyChatGroupName_Feelings
+SENTIMIENTOS
+
+#org @gEasyChatGroupName_Conditions
+CONDICIONES
+
+#org @gEasyChatGroupName_Actions
+COMPORTAMIENTO
+
+#org @gEasyChatGroupName_Lifestyle
+ESTILO DE VIDA
+
+#org @gEasyChatGroupName_Hobbies
+AFICIONES
+
+#org @gEasyChatGroupName_Time
+TIEMPO
+
+#org @gEasyChatGroupName_Misc
+MISC.
+
+#org @gEasyChatGroupName_Adjectives
+ADJETIVOS
+
+#org @gEasyChatGroupName_Events
+EVENTOS
+
+#org @gEasyChatGroupName_Move1
+MOVER 1
+
+#org @gEasyChatGroupName_Move2
+MOVER 2
+
+#org @gEasyChatGroupName_TrendySaying
+DICHO DE MODA
+
+#org @gEasyChatGroupName_Pokemon2
+POK\eMON2
+
+#org @gText_ThreeQuestionMarks
+???
+
+#org @gText_UnusedLv
+Lv
+
+#org @gText_UnusedDashes
+---
+
+#org @gText_4Qmark
+????
+
+#org @gText_IsThisTradeOkay
+¿Está bien este intercambio?
+
+#org @gTradeText_Cancel
+CANCELAR
+
+#org @gTradeText_ChooseAPokemon
+Elige un POK\eMON.
+
+#org @gTradeText_Summary
+RESUMEN
+
+#org @gTradeText_Trade
+COMERCIO
+
+#org @gText_CancelTrade
+¿Cancelar el comercio?
+
+#org @gTradeText_PressBButtonToExit
+Presione el botón B para salir.
+
+#org @gText_TradeAction_Summary
+RESUMEN
+
+#org @gText_TradeAction_Trade
+COMERCIO
+
+#org @gText_Trade_CommunicationStandby
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]ÂEspera de\ncomunicación... Por favor, espere.
+
+#org @gText_TradeHasBeenCanceled
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]La operación ha sido\ncancelada.
+
+#org @gText_Trade_OnlyPkmnForBattle
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]ÂEse es tu único\nPOK\eMON para la batalla.
+
+#org @gText_WaitingForFriendToFinish
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]Esperando a que tu amigo\n termine...
+
+#org @gText_FriendWantsToTrade
+Tu amigo quiere intercambiar POK\eMON.
+
+#org @gText_XWillBeSentToY
+[B_COPY_VAR_2] will be sent to [B_COPY_VAR_1].
+
+#org @gText_ByeByeVar1
+Bye-bye, [B_COPY_VAR_2]!
+
+#org @gText_XSentOverY
+[B_COPY_VAR_1] sent over [B_COPY_VAR_3].
+
+#org @gText_TakeGoodCareOfX
+Take good care of [B_COPY_VAR_3]!
+
+#org @gText_From
+De
+
+#org @gText_WirelessCommunicationStatus
+Estado de comunicación inalámbrica
+
+#org @gText_PeopleTrading
+Comercio de personas:
+
+#org @gText_PeopleBattling
+Personas luchando:
+
+#org @gText_PeopleInUnionRoom
+Personas en la SALA DE LA UNIÓN:
+
+#org @gText_PeopleCommunicating
+Personas que se comunican:
+
+#org @gText_Dynamic0Players
+[MUS_DUMMY]jugadores
+
+#org @gText_Dynamic1Players
+Jugar
+
+#org @gText_Dynamic2Players
+Sobre los jugadores
+
+#org @gText_Dynamic3Players
+jugadores
+
+#org @gText_DPadChooseAButtonConfirm
+[DPAD_ANY]Çú:[A_BUTTON]ÍÛÁ
+
+#org @gText_BButtonCancel
+[B_BUTTON]CANCELAR
+
+#org @gText_ChooseBattleLineup
+[COLOR]C[SHADOW]Y[MUS_DUMMY]ŒÁÓ+ç ËîÀÓ [COLOR]En[SHADOW]Â+ç Ï;&ÊòÛ\nËÎÁ
+
+#org @gText_UnusedId
+[ID]
+
+#org @gText_CommunicationStandby5
+Comunicación en espera…
+
+#org @gDaycareText_GetAlongVeryWell
+Los dos parecen llevarse muy bien.
+
+#org @gDaycareText_GetAlong
+Los dos parecen llevarse bien.
+
+#org @gDaycareText_DontLikeOther
+Los dos no parecen agradarse mucho.
+
+#org @gDaycareText_PlayOther
+Los dos prefieren jugar con otros\nPOK\eMON que entre ellos.
+
+#org @gText_TeachWhichMoveToMon
+Teach which move to [B_COPY_VAR_1]?
+
+#org @gText_TeachMoveQues
+Teach [B_COPY_VAR_2]?
+
+#org @gText_MonLearnedMove
+[B_COPY_VAR_1] learned [B_COPY_VAR_2].
+
+#org @gText_MonIsTryingToLearnMove
+[B_COPY_VAR_1] is trying to learn [B_COPY_VAR_2]. But [B_COPY_VAR_1]\ncan't learn more than four moves. Delete\pan older move to make room for [B_COPY_VAR_2]?
+
+#org @gText_StopLearningMove
+Stop learning [B_COPY_VAR_2]?
+
+#org @gText_1_2_and_Poof
+[PAUSE]i1,[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS[PLAY_SE]¡Puf!
+
+#org @gText_MonForgotOldMoveAndMonLearnedNewMove
+[B_COPY_VAR_1] forgot [B_COPY_VAR_3]. And… [B_COPY_VAR_1] learned [B_COPY_VAR_2].
+
+#org @gText_GiveUpTryingToTeachNewMove
+Give up trying to teach a new move to\n[B_COPY_VAR_1]?
+
+#org @gText_WhichMoveShouldBeForgotten
+¿Qué movimiento debería olvidarse? 
+
+#org @gText_TenDashes
+----------
+
+#org @gText_CommStandbyAwaitingOtherPlayer
+Comunicación en espera... Esperando que\notro jugador elija.
+
+#org @gText_BattleWasRefused
+[PAUSE]
+
+#org @gText_RefusedBattle
+[PAUSE]
+
+#org @gFameCheckerText_MainScreenUI
+[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[A_BUTTON]DE ACUERDO
+
+#org @gFameCheckerText_PickScreenUI
+[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[B_BUTTON]CANCELAR
+
+#org @gFameCheckerText_FlavorTextUI
+[DPAD_ANY]ELEGIR[A_BUTTON]LEER[B_BUTTON]CANCELAR
+
+#org @gFameCheckerOakName
+ROBLE
+
+#org @gFameCheckerDaisyName
+MARGARITA
+
+#org @gFameCheckerBillName
+FACTURA
+
+#org @gFameCheckerMrFujiName
+fuji
+
+#org @gText_VarietyOfEventsImportedWireless
+Se importarán una variedad de eventos\a\ntravés de comunicación inalámbrica.
+
+#org @gText_WonderCardsInPossession
+Lee las TARJETAS MARAVILLAS que tienes\nen tu poder.
+
+#org @gText_ReadNewsThatArrived
+Lea las NOTICIAS que llegaron.
+
+#org @gText_ReturnToTitle
+Regresa a la pantalla de título.
+
+#org @gText_DontHaveCardNewOneInput
+No tienes una TARJETA WONDER, por lo que\nse ingresará una TARJETA nueva.
+
+#org @gText_DontHaveNewsNewOneInput
+No tienes ninguna NOTICIA MARAVILLA, por\nlo que se ingresarán nuevas NOTICIAS.
+
+#org @gText_WhereShouldCardBeAccessed
+¿Dónde se debe acceder a la WONDER CARD\n?
+
+#org @gText_WhereShouldNewsBeAccessed
+¿Dónde se debe acceder a WONDER NEWS ?
+
+#org @gText_LinkStandyBButtonCancel
+Enlace en espera... ... ... Botón B:\nCancelar
+
+#org @gText_Communicating
+Comunicado…
+
+#org @gText_CommunicationCompleted
+Comunicación completada.
+
+#org @gText_CommunicationError
+Error de comunicación.
+
+#org @gText_CommunicationCanceled
+La comunicación ha sido cancelada.
+
+#org @gText_ThrowAwayWonderCard
+¿Desechar la TARJETA MARAVILLA y\nintroducir una nueva TARJETA?
+
+#org @gText_HaventReceivedCardsGift
+Aún no has recibido el regalo de la\nTARJETA. ¿Ingresar una nueva TARJETA de\ptodos modos?
+
+#org @gText_WonderCardReceivedFrom
+A WONDER CARD has been received from\n[B_COPY_VAR_1].
+
+#org @gText_WonderNewsReceivedFrom
+A WONDER NEWS item has been received\nfrom [B_COPY_VAR_1].
+
+#org @gText_WonderCardReceived
+Se ha recibido una nueva WONDER CARD.
+
+#org @gText_WonderNewsReceived
+Se ha recibido un nuevo artículo de\nWONDER NEWS.
+
+#org @gText_NewStampReceived
+Se ha recibido un nuevo SELLO.
+
+#org @gText_NewTrainerReceived
+Ha llegado un nuevo ENTRENADOR.
+
+#org @gText_AlreadyHadCard
+Ya tenías esa WONDER CARD.
+
+#org @gText_AlreadyHadNews
+Ya tenías ese artículo MARAVILLOSO DE\nNOTICIAS.
+
+#org @gText_AlreadyHadStamp
+Ya tenías ese SELLO.
+
+#org @gText_NoMoreRoomForStamps
+Ya no hay espacio para agregar SELLOS.
+
+#org @gText_RecordUploadedViaWireless
+Su registro se ha subido mediante\nCOMUNICACIÓN INALÁMBRICA.
+
+#org @gText_CantAcceptCardFromTrainer
+No puedes aceptar una WONDER CARD de\neste ENTRENADOR.
+
+#org @gText_CantAcceptNewsFromTrainer
+No puedes aceptar WONDER NEWS de este\nENTRENADOR.
+
+#org @gText_NothingSentOver
+No se envió nada...
+
+#org @gText_WhatToDoWithCards
+¿Qué te gustaría hacer con las WONDER\nCARDS?
+
+#org @gText_WhatToDoWithNews
+¿Qué te gustaría hacer con WONDER NEWS?
+
+#org @gText_SendingWonderCard
+Enviando tu TARJETA MARAVILLA...
+
+#org @gText_SendingWonderNews
+Enviando su artículo MARAVILLA DE\nNOTICIAS...
+
+#org @gText_WonderCardSentTo
+Your WONDER CARD has been sent to [B_COPY_VAR_1].
+
+#org @gText_WonderNewsSentTo
+Your WONDER NEWS item has been sent to\n[B_COPY_VAR_1].
+
+#org @gText_StampSentTo
+A STAMP has been sent to [B_COPY_VAR_1].
+
+#org @gText_GiftSentTo
+A GIFT has been sent to [B_COPY_VAR_1].
+
+#org @gText_OtherTrainerHasCard
+El otro ENTRENADOR ya tiene la misma\nWONDER CARD.
+
+#org @gText_OtherTrainerHasNews
+El otro ENTRENADOR ya tiene las mismas\nNOTICIAS MARAVILLAS.
+
+#org @gText_OtherTrainerHasStamp
+El otro ENTRENADOR ya tiene el mismo\nSELLO.
+
+#org @gText_OtherTrainerCanceled
+El otro ENTRENADOR canceló la\ncomunicación.
+
+#org @gText_CantSendGiftToTrainer
+No puedes enviar un REGALO MISTERIOSO a\neste ENTRENADOR.
+
+#org @gText_IfThrowAwayCardEventWontHappen
+Si tiras la TARJETA, su evento no\nocurrirá. ¿Bueno?
+
+#org @gText_OkayToDiscardNews
+¿Está bien descartar este elemento NEWS?
+
+#org @gText_HaventReceivedGiftOkayToDiscard
+No has recibido el REGALO. ¿Está bien\ndescartarlo?
+
+#org @gText_DataWillBeSaved
+Los datos se guardarán. Espere.
+
+#org @gText_SaveCompletedPressA
+Guardar completado. Presione el botón A.
+
+#org @gText_WonderCardThrownAway
+La WONDER CARD fue desechada.
+
+#org @gText_WonderNewsThrownAway
+Las NOTICIAS MARAVILLAS fueron\ndesperdiciadas.
+
+#org @gText_MysteryGift2
+REGALO MISTERIOSO
+
+#org @gText_PickOKCancel
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]SALIDA
+
+#org @gText_WonderCards
+TARJETAS MARAVILLAS
+
+#org @gText_WonderNews
+NOTICIAS MARAVILLAS
+
+#org @gText_WirelessCommunication
+COMUNICACIÓN INALÁMBRICA
+
+#org @gText_Friend2
+AMIGO
+
+#org @gText_Exit3
+SALIDA
+
+#org @gText_Receive
+RECIBIR
+
+#org @gText_Send
+ENVIAR
+
+#org @gText_Toss
+SACUDIDA
+
+#org @gText_DelAllCancelOk
+[CLEAR_TO]CANCELAR[CLEAR_TO]3OK
+
+#org @sText_Akito
+АÊÑ
+
+#org @sText_Underscore
+[UNDERSCORE]
+
+#org @sText_Clear17
+[CLEAR]Ù
+
+#org @sListItemTextColor_RegularItem
+[COLOR_HIGHLIGHT_SHADOW]Á
+
+#org @sListItemTextColor_TmCase_BerryPouch
+[COLOR_HIGHLIGHT_SHADOW]Ë Ì
+
+#org @sDotSeparatedValues
+·TIENE
+
+#org @gText_UR_Colon
+:
+
+#org @gText_UR_ID
+[ID]
+
+#org @gText_UR_PleaseStartOver
+Por favor, empiece de nuevo desde el\nprincipio.
+
+#org @gText_UR_WirelessSearchCanceled
+La búsqueda del SISTEMA DE COMUNICACIÓN\nINALÁMBRICA ha sido cancelada.
+
+#org @sText_AwaitingCommunucation2
+ÑóÙÉúç º+úË& ÛÁÒ
+
+#org @gText_UR_AwaitingCommunication
+[B_COPY_VAR_1]! Esperando comunicación de otro\njugador.
+
+#org @gText_UR_AwaitingLinkPressStart
+[B_COPY_VAR_1]! ¡Esperando enlace! Presiona INICIO\ncuando todos estén listos.
+
+#org @sText_SingleBattle
+(& ÉÁÎÁÒñ
+
+#org @sText_DoubleBattle
+&
+
+#org @sText_MultiBattle
+en& ÉÁÎÁÒñ
+
+#org @sText_TradePokemon
+ÂÉ+& ÉÁÎÁÒñ
+
+#org @sText_Chat
+&
+
+#org @sText_DistWonderCard
+êÏß-&Ëñ
+
+#org @sText_DistWonderNews
+êÏß<-)&Ëñ
+
+#org @sText_DistMysteryEvent
+êÏßÊÑ& ÉÁÎÁÒñ
+
+#org @sText_HoldPokemonJump
+ßÑ& ÉÁÎÁÒñ
+
+#org @sText_HoldBerryCrush
+Êçîí(-& ÉÁÎÁÒñ
+
+#org @sText_HoldBerryPicking
+Êçîû& ÉÁÎÁÒñ
+
+#org @sText_HoldSpinTrade
+ññÂÉ+& ÉÁÎÁÒñ
+
+#org @sText_HoldSpinShop
+ññ(>& ÉÁÎÁÒñ
+
+#org @sText_1PlayerNeeded
+Se necesita 1 jugador.
+
+#org @sText_2PlayersNeeded
+Se necesitan 2 jugadores.
+
+#org @sText_3PlayersNeeded
+Se necesitan 3 jugadores.
+
+#org @sText_4PlayersNeeded
+ÀÑ4à+ \eÚùÂ
+
+#org @sText_2PlayerMode
+MODO 2 JUGADORES 
+
+#org @sText_3PlayerMode
+MODO 3 JUGADORES 
+
+#org @sText_4PlayerMode
+MODO 4 JUGADORES 
+
+#org @sText_5PlayerMode
+MODO 5 JUGADORES 
+
+#org @gText_UR_BButtonCancel
+[B_BUTTON]CANCELAR
+
+#org @sText_SearchingForParticipants
+Œò Î+ÉÏ Ï=ÂÙ=Â Ò!
+
+#org @gText_UR_PlayerContactedYouForXAccept
+[B_COPY_VAR_2]contactado contigo para [B_COPY_VAR_1].\n¿Aceptar?
+
+#org @gText_UR_PlayerContactedYouShareX
+[B_COPY_VAR_2] contacted you. Will you share [B_COPY_VAR_1]?
+
+#org @gText_UR_PlayerContactedYouAddToMembers
+[B_COPY_VAR_2]Me comuniqué con usted. ¿Agregar a\nlos miembros?
+
+#org @gText_UR_AreTheseMembersOK
+[B_COPY_VAR_1]! ¿Están bien estos miembros?
+
+#org @gText_UR_CancelModeWithTheseMembers
+[B_COPY_VAR_1]MODE con estos miembros?
+
+#org @gText_UR_AnOKWasSentToPlayer
+An “OK” was sent to [B_COPY_VAR_1].
+
+#org @sText_OtherTrainerUnavailableNow
+El otro ENTRENADOR no parece estar\ndisponible ahora... 
+
+#org @sText_CantTransmitTrainerTooFar
+No puedes transmitir con un ENTRENADOR\nque esté demasiado lejos. 
+
+#org @sText_TrainersNotReadyYet
+Los otros ENTRENADORES aún no están\nlistos. 
+
+#org @gText_UR_ModeWithTheseMembersWillBeCanceled
+[B_COPY_VAR_1]El MODE con estos miembros será\ncancelado.[PAUSE]En
+
+#org @sText_MemberNoLongerAvailable
+Hay un miembro que ya no puede\npermanecer disponible. 
+
+#org @sText_TrainerAppearsUnavailable
+El otro ENTRENADOR aparece no\ndisponible... 
+
+#org @gText_UR_PlayerSentBackOK
+[B_COPY_VAR_1]¡Envió un “OK”!
+
+#org @gText_UR_PlayerOKdRegistration
+[B_COPY_VAR_1]Acepté su registro como miembro.
+
+#org @sText_PlayerRepliedNo
+[B_COPY_VAR_1]respondió: “No…” 
+
+#org @gText_UR_AwaitingOtherMembers
+[B_COPY_VAR_1]! ¡Esperando a otros miembros!
+
+#org @gText_UR_QuitBeingMember
+¿Dejar de ser miembro?
+
+#org @sText_StoppedBeingMember
+Dejaste de ser miembro. 
+
+#org @gText_UR_WirelessLinkEstablished
+Se ha establecido el enlace SISTEMA DE\nCOMUNICACIÓN INALÁMBRICA.
+
+#org @gText_UR_WirelessLinkDropped
+El enlace SISTEMA DE COMUNICACIÓN\nINALÁMBRICA se ha eliminado...
+
+#org @gText_UR_LinkWithFriendDropped
+El enlace con tu amigo ha sido\neliminado...
+
+#org @sText_PlayerRepliedNo2
+[B_COPY_VAR_1]respondió: "No..."
+
+#org @sText_DoYouWantXMode
+[B_COPY_VAR_2] ¿MODO?
+
+#org @sText_DoYouWantXMode2
+[B_COPY_VAR_2] ¿MODO?
+
+#org @sText_CommunicatingPleaseWait
+èßÏÉÌÛÁÒ… Ï;ÂÏ;Â ÈÙËÎÁ
+
+#org @gText_UR_AwaitingPlayersResponseAboutTrade
+[B_COPY_VAR_1]La respuesta de el comercio...
+
+#org @sText_Communicating
+[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
+
+#org @sText_CommunicatingWithPlayer
+[B_COPY_VAR_1][PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
+
+#org @sText_PleaseWaitAWhile
+[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
+
+#org @sText_HiDoSomethingMale
+¡Hola! ¿Hay algo que quieras hacer?
+
+#org @sText_HiDoSomethingFemale
+¡Hola! ¿Te gustaría hacer algo?
+
+#org @sText_HiDoSomethingAgainMale
+[B_COPY_VAR_1]: ¡Hola, nos volvemos a encontrar!\n¿Qué te apetece esta vez?
+
+#org @sText_HiDoSomethingAgainFemale
+[B_COPY_VAR_1]: ¡Oh![B_BUFF2]¡Hola! ¿Te gustaría hacer\nalgo?
+
+#org @sText_DoSomethingMale
+¿Querer hacer algo?
+
+#org @sText_DoSomethingFemale
+¿Te gustaría hacer algo?
+
+#org @sText_DoSomethingAgainMale
+[B_COPY_VAR_1]: ¿Qué te gustaría\hacer ahora?
+
+#org @sText_DoSomethingAgainFemale
+[B_COPY_VAR_1]‘Œ ßàÉÒñ?
+
+#org @sText_SomebodyHasContactedYou
+[PAUSE]
+
+#org @sText_PlayerHasContactedYou
+[B_COPY_VAR_1]se ha puesto en contacto contigo.[PAUSE]
+
+#org @sText_AwaitingResponseFromTrainer
+Esperando respuesta del otro\nENTRENADOR...
+
+#org @sText_AwaitingResponseFromPlayer
+Awaiting a response from [B_COPY_VAR_1]…
+
+#org @sText_AwaitingResponseCancelBButton
+ÀÁÛç ÛÁÀ+& ÛÁÒ -
+
+#org @gText_UR_ShowTrainerCard
+El otro ENTRENADOR te mostró  su TARJETA\nDE ENTRENADOR. ¿Te gustaría mostrar tu\pTARJETA DE ENTRENADOR?
+
+#org @gText_UR_BattleChallenge
+El otro ENTRENADOR te desafía a la\nbatalla. ¿Aceptarás el desafío de\pbatalla?
+
+#org @gText_UR_ChatInvitation
+El otro ENTRENADOR te invita a chatear.\n¿Aceptarás la invitación de chat?
+
+#org @gText_UR_OfferToTradeMon
+[MUS_DUMMY]À\cambio de pin por un Lv. Á Â.\n¿Aceptará esta oferta o comercial?
+
+#org @gText_UR_OfferToTradeEgg
+Hay una oferta para intercambiar su EGG\nregistrado. ¿Aceptará esta oferta\pcomercial?
+
+#org @gText_UR_ChatDropped
+El chat se ha cerrado. 
+
+#org @gText_UR_OfferDeclined1
+Rechazaste la oferta. 
+
+#org @gText_UR_OfferDeclined2
+Rechazaste la oferta. 
+
+#org @gText_UR_ChatEnded
+El chat finalizó. 
+
+#org @sText_JoinChatMale
+¡Oh hola! Estamos en un chat en este\nmomento. ¿Quieres unirte a nosotros?
+
+#org @sText_PlayerJoinChatMale
+[B_COPY_VAR_1]: Ey,[B_BUFF2]! Estamos conversando ahora\nmismo. ¿Quieres unirte a nosotros?
+
+#org @sText_JoinChatFemale
+¡Oh hola! Estamos conversando ahora. ¿Te\ngustaría unirte a nosotros?
+
+#org @sText_PlayerJoinChatFemale
+[B_COPY_VAR_1]: Oh hola,[B_BUFF2]! Estamos conversando\nahora. ¿Te gustaría unirte a nosotros?
+
+#org @gText_UR_TrainerAppearsBusy
+…… El ENTRENADOR parece estar ocupado… 
+
+#org @sText_WaitForBattleMale
+Una batalla, ¿eh? Está bien, sólo dame\nalgo de tiempo.
+
+#org @sText_WaitForChatMale
+Quieres charlar, ¿eh? Claro, espera un\npoco.
+
+#org @sText_ShowTrainerCardMale
+¡Cosa segura! Como mis “Saludos”, aquí\nestá mi TARJETA DE ENTRENADOR.
+
+#org @sText_WaitForBattleFemale
+¿Una batalla? Por supuesto, pero\nnecesito tiempo para prepararme.
+
+#org @sText_WaitForChatFemale
+¿Querías chatear? Está bien, pero espera\nun momento.
+
+#org @sText_ShowTrainerCardFemale
+Como introducción, te mostraré mi\nTARJETA DE ENTRENADOR.
+
+#org @sText_WaitForChatMale2
+! ÉŒ Ù;Ñ ÛÛ!
+
+#org @sText_DoneWaitingBattleMale
+[PAUSE]
+
+#org @sText_DoneWaitingChatMale
+[PAUSE]
+
+#org @sText_DoneWaitingBattleFemale
+[PAUSE]
+
+#org @sText_DoneWaitingChatFemale
+[PAUSE]
+
+#org @sText_TradeWillBeStarted
+[PAUSE]
+
+#org @sText_BattleWillBeStarted
+[PAUSE]
+
+#org @sText_EnteringChat
+[PAUSE]
+
+#org @sText_BattleDeclinedMale
+¡Lo siento! Mi POK\eMON no parece\n encontrarse muy bien en este momento.\pDéjame luchar contigo en otro momento. 
+
+#org @sText_BattleDeclinedFemale
+Lo siento mucho, pero mi POK\eMON ar no\nse siente bien... Luchemos en otro\pmomento. 
+
+#org @sText_ShowTrainerCardDeclinedMale
+¿Eh? Mi TARJETA DE ENTRENADOR... ¿Adónde\nfue ahora? ¡Lo siento! ¡Te lo mostraré\pen otra ocasión! 
+
+#org @sText_ShowTrainerCardDeclinedFemale
+¿Oh? Ahora, ¿dónde puse mi TARJETA DE\nENTRENADOR?... ¡Lo siento! ¡Te lo\pmostraré más tarde! 
+
+#org @sText_IfYouWantToDoSomethingMale
+Si quieres hacer algo conmigo ¡solo\nllámame! 
+
+#org @sText_IfYouWantToDoSomethingFemale
+Si quieres hacer algo conmigo, no seas\ntímido. 
+
+#org @gText_UR_TrainerBattleBusy
+¡Vaya! Lo siento, pero tengo que hacer\nalgo más. En otro momento, ¿vale? 
+
+#org @gText_UR_NeedTwoMonsOfLevel30OrLower1
+Si quieres luchar, necesitas dos\nPOK\eMON que estén por debajo Lv. 30. 
+
+#org @gText_UR_NeedTwoMonsOfLevel30OrLower2
+Para una batalla, necesitas dos POK\eMON\nque estén por debajo del nivel. 30. 
+
+#org @sText_DeclineChatMale
+Oh, está bien. Ven a verme cuando\nquieras, ¿de acuerdo? 
+
+#org @stext_DeclineChatFemale
+Oh... Por favor, ven cuando quieras. 
+
+#org @sText_ChatDeclinedMale
+¡Oh, lo siento! No puedo corregir este\ninstante. Charlemos en otro momento. 
+
+#org @sText_ChatDeclinedFemale
+Oh, lo siento. Tengo mucho que hacer\nahora. Charlemos en otro momento. 
+
+#org @sText_YoureToughMale
+¡Vaya! ¡Puedo ver que eres bastante\nduro! 
+
+#org @sText_UsedGoodMoveMale
+¿Usaste ese movimiento? ¡Esa es una\nbuena estrategia! 
+
+#org @sText_BattleSurpriseMale
+¡Así se hace! ¡Eso fue una revelación! 
+
+#org @sText_SwitchedMonsMale
+¡Oh! ¿Cómo podrías usar ese POK\eMON en\nesa situación? 
+
+#org @sText_YoureToughFemale
+Ese POK\eMON... ¡Se ha criado muy bien! 
+
+#org @sText_UsedGoodMoveFemale
+¡Eso es todo! ¡Este es el movimiento\ncorrecto ahora! 
+
+#org @sText_BattleSurpriseFemale
+¡Es increíble! ¿Puedes luchar de esa\nmanera? 
+
+#org @sText_SwitchedMonsFemale
+¡Tienes un momento exquisito para\ncambiar POK\eMON! 
+
+#org @sText_LearnedSomethingMale
+¡Oh, ya veo! ¡Esto es educativo! 
+
+#org @sText_ThatsFunnyMale
+¡Ya no digas nada gracioso! ¡Me duele de\ntanto reír! 
+
+#org @sText_RandomChatMale1
+¿Oh? Algo así sucedió. 
+
+#org @sText_RandomChatMale2
+Hmhm... ¿Qué? Entonces, ¿es esto lo que\nestás diciendo? 
+
+#org @sText_LearnedSomethingFemale
+¿Es cierto? No lo sabía. 
+
+#org @sText_ThatsFunnyFemale
+¡Jajaja! ¿De qué se trata eso? 
+
+#org @sText_RandomChatFemale1
+¡Sí, eso es exactamente! Eso es lo que\nquise decir. 
+
+#org @sText_RandomChatFemale2
+En otras palabras… ¡Sí! ¡Eso es\ncorrecto! 
+
+#org @sText_ShowedTrainerCardMale1
+Sólo estoy mostrando mi TARJETA DE\nENTRENADOR\como mi forma de saludar. 
+
+#org @sText_ShowedTrainerCardMale2
+¡Espero llegar a conocerte mejor! 
+
+#org @sText_ShowedTrainerCardFemale1
+Nos mostramos nuestras TARJETAS DE\nENTRENADOR para conocernos. 
+
+#org @sText_ShowedTrainerCardFemale2
+Encantado de conocerte. ¡Por favor, no\nseas un extraño! 
+
+#org @sText_MaleTraded1
+¡Sí! ¡Realmente quería este POK\eMON! 
+
+#org @sText_MaleTraded2
+Finalmente, un intercambio me consiguió\nese POK\eMON que había deseado durante\pmucho tiempo. 
+
+#org @sText_FemaleTraded1
+Estoy intercambiando POK\eMON ahora\nmismo. 
+
+#org @sText_FemaleTraded2
+¡Finalmente conseguí ese POK\eMON que\nquería en un intercambio! 
+
+#org @gText_UR_XCheckedTradingBoard
+[B_COPY_VAR_1]revisó la JUNTA COMERCIAL. 
+
+#org @gText_UR_RegisterMonAtTradingBoard
+Bienvenido al TABLERO DE COMERCIO.\nPuedes registrar tu POK\eMON y ofrecerlo\ppara un intercambio. ¿Te gustaría\nregistrar uno de tus POK\eMON?
+
+#org @gText_UR_TradingBoardInfo
+Esta TABLA DE COMERCIO se utiliza para\nofrecer un POK\eMON para un intercambio.\pTodo lo que necesitas hacer es registrar\nun POK\eMON para un intercambio. Otro\pENTRENADOR puede ofrecer un grupo\nPOK\eMON a cambio del intercambio.\p Esperamos que registres POK\eMON y los\nintercambies con muchos, muchos\otros\pENTRENADORES. ¿Te gustaría registrar uno\nde tus POK\eMON?
+
+#org @sText_ThankYouForRegistering
+ÂÉ+ÌÁ+ ç ÑÂªË É+û;Â ÏÏŒ ûùÂ ÀûÑÂ ÁÏŒ! 
+
+#org @sText_NobodyHasRegistered
+ÍÁ+à ºó & ÑÂªË ÏÛÁÓ+  
+
+#org @gText_UR_ChooseRequestedMonType
+Por favor, elige el tipo de POK\eMON\n que te gustaría intercambiar. 
+
+#org @gText_UR_WhichMonWillYouOffer
+¿Cuál POK\eMON de tu grupo ofrecerás a\ncambio? 
+
+#org @gText_UR_RegistrationCanceled
+La inscripción ha sido cancelada. 
+
+#org @gText_UR_RegistraionCompleted
+El registro se ha completado. 
+
+#org @gText_UR_TradeCanceled
+La operación ha sido cancelada. 
+
+#org @gText_UR_CancelRegistrationOfMon
+Cancel the registration of your Lv. [B_COPY_VAR_2]\n[B_COPY_VAR_1]?
+
+#org @gText_UR_CancelRegistrationOfEgg
+¿Cancelar el registro de tu EGG?
+
+#org @gText_UR_RegistrationCanceled2
+El registro ha sido cancelado. 
+
+#org @sText_TradeTrainersWillBeListed
+ÂÉ+&ÊÂÏÛÁñ\eÑ& \e;ÂÏÒ
+
+#org @sText_ChooseTrainerToTradeWith2
+ÂÉ+ ÏŒÁ --& Çú+ ËÎÁ
+
+#org @gText_UR_AskTrainerToMakeTrade
+[B_COPY_VAR_1]para hacer un intercambio?
+
+#org @sText_AwaitingResponseFromTrainer2
+…… ÀÁÛç ë+& ÛÁÒ
+
+#org @sText_NotRegisteredAMonForTrade
+ÀßŒ ÂÉ+àÒ  ÑÂªËÎºÛÁÓ+ 
+
+#org @gText_UR_DontHaveTypeTrainerWants
+[B_COPY_VAR_2]-escribe POK\eMON que[B_COPY_VAR_1]quiere. 
+
+#org @gText_UR_DontHaveEggTrainerWants
+[B_COPY_VAR_1]quiere. 
+
+#org @sText_PlayerCantTradeForYourMon
+[B_COPY_VAR_1]No puedo realizar un intercambio por\ntu POK\eMON en este momento. 
+
+#org @sText_CantTradeForPartnersMon
+[B_COPY_VAR_1]es POK\eMON en este momento. 
+
+#org @gText_UR_TradeOfferRejected
+Su oferta comercial fue rechazada. 
+
+#org @gText_UR_EggTrade
+COMERCIO DE HUEVOS
+
+#org @gText_UR_ChooseJoinCancel
+[DPAD_UPDOWN]ELEGIR[MUS_DUMMY][A_BUTTON]UNIRSE[MUS_DUMMY][B_BUTTON]CANCELAR
+
+#org @gText_UR_ChooseTrainer
+Por favor elige un ENTRENADOR.
+
+#org @sText_ChooseTrainerSingleBattle
+Elige un ENTRENADOR para a BATALLA\nÚNICA.
+
+#org @sText_ChooseTrainerDoubleBattle
+Por favor, elige un ENTRENADOR para a\nDOBLE BATALLA.
+
+#org @sText_ChooseLeaderMultiBattle
+Elige al LÍDER para una BATALLA\nMÚLTIPLE.
+
+#org @sText_ChooseTrainerToTradeWith
+Por favor, elija el ENTRENADOR con el\nque comerciar.
+
+#org @sText_ChooseTrainerToShareWonderCards
+Elija el ENTRENADOR que comparte WONDER\nCARDS.
+
+#org @sText_ChooseTrainerToShareWonderNews
+Elija el ENTRENADOR que comparte\nNOTICIAS MARAVILLOSAS.
+
+#org @sText_ChooseLeaderPokemonJump
+¡Salta con mini POK\eMON! Por favor,\nelige el LÍDER.
+
+#org @sText_ChooseLeaderBerryCrush
+¡BAYA CRUSH! Por favor, elija el LÍDER.
+
+#org @sText_ChooseLeaderBerryPicking
+¡DODRIO RECOGIENDO BAYAS! Por favor,\nelige al LÍDER.
+
+#org @gText_UR_SearchingForWirelessSystemWait
+Buscando un SISTEMA DE COMUNICACIÓN\nINALÁMBRICO. Esperar...
+
+#org @sText_MustHaveTwoMonsForDoubleBattle
+y 2\eÊ Á;Âç  \eÚùÂÒ 
+
+#org @gText_UR_AwaitingPlayersResponse
+[B_COPY_VAR_1]La respuesta...
+
+#org @gText_UR_PlayerHasBeenAskedToRegisterYouPleaseWait
+[B_COPY_VAR_1]Se le ha pedido que lo registre como\nmiembro. Espere por favor.
+
+#org @gText_UR_AwaitingResponseFromWirelessSystem
+Esperando respuesta del SISTEMA DE\nCOMUNICACIÓN INALÁMBRICA.
+
+#org @sText_PleaseWaitForOtherTrainersToGather
+ìÉç Î+ÉÏ ÔªÂ Ï;ÂÏ;Â ÈÙËÎÁ
+
+#org @sText_NoCardsSharedRightNow
+No parece haber TARJETAS compartidas  en\neste momento.
+
+#org @sText_NoNewsSharedRightNow
+No parece haber NOTICIAS compartidas en\neste momento.
+
+#org @gText_UR_Battle
+BATALLA
+
+#org @gText_UR_Chat2
+CHARLAR
+
+#org @gText_UR_Greetings
+SALUDOS
+
+#org @gText_UR_Exit
+SALIDA
+
+#org @gText_UR_Exit2
+SALIDA
+
+#org @gText_UR_Info
+INFORMACIÓN
+
+#org @gText_UR_NameWantedOfferLv
+[CLEAR_TO]BUSCADO[CLEAR_TO]OFERTA[CLEAR_TO]55
+
+#org @gText_UR_SingleBattle
+BATALLA ÚNICA
+
+#org @gText_UR_DoubleBattle
+DOBLE BATALLA
+
+#org @gText_UR_MultiBattle
+BATALLA MÚLTIPLE
+
+#org @gText_UR_PokemonTrades
+POK\eMON TRADES
+
+#org @gText_UR_Chat
+CHARLAR
+
+#org @gText_UR_Cards
+TARJETAS
+
+#org @gText_UR_WonderCards
+TARJETAS MARAVILLAS
+
+#org @gText_UR_WonderNews
+NOTICIAS MARAVILLAS
+
+#org @gText_UR_PokemonJump
+POK\eMON SALTO
+
+#org @gText_UR_BerryCrush
+TRITURACIÓN DE BAYAS
+
+#org @gText_UR_BerryPicking
+RECOGIDA DE BAYAS
+
+#org @gText_UR_Search
+BUSCAR
+
+#org @gText_UR_SpinTrade
+ññÂÉ+
+
+#org @gText_UR_ItemTrade
+¿¡-
+
+#org @sText_ItsNormalCard
+Es una TARJETA NORMAL.
+
+#org @sText_ItsBronzeCard
+¡Es una TARJETA DE BRONCE!
+
+#org @sText_ItsCopperCard
+¡Es una TARJETA DE COBRE!
+
+#org @sText_ItsSilverCard
+¡Es una TARJETA PLATA!
+
+#org @sText_ItsGoldCard
+¡Es una TARJETA ORO!
+
+#org @gText_UR_TrainerCardInfoPage1
+[MUS_DUMMY]À's TARJETA DE ENTRENADOR… Á\nPOK\eDEX: Â HORA:[MUS_DUMMY][MUS_DUMMY]Ç:È 
+
+#org @gText_UR_TrainerCardInfoPage2
+[MUS_DUMMY]GANA[MUS_DUMMY]Á LOSSES TRADES:[MUS_DUMMY]Â VECES “Ç\nÈ É Ê” 
+
+#org @sText_GladToMeetYouMale
+[PAUSE]
+
+#org @sText_GladToMeetYouFemale
+[PAUSE]
+
+#org @gText_UR_FinishedCheckingPlayersTrainerCard
+[PAUSE]
+
+#org @sText_CanceledReadingCard
+Cancelada la lectura de la Tarjeta.
+
+#org @gText_Ellipsis
+…
+
+#org @sText_ClearTo18
+[CLEAR_TO]Ú
+
+#org @sText_SingleSpace
+
+
+#org @sHardyNatureName
+RESISTENTE
+
+#org @sLonelyNatureName
+SOLITARIO
+
+#org @sBraveNatureName
+CORAJUDO
+
+#org @sAdamantNatureName
+FIRME
+
+#org @sNaughtyNatureName
+TRAVIESO
+
+#org @sBoldNatureName
+ATREVIDO
+
+#org @sDocileNatureName
+DÓCIL
+
+#org @sRelaxedNatureName
+RELAJADO
+
+#org @sImpishNatureName
+TRAVIESO
+
+#org @sLaxNatureName
+FLOJO
+
+#org @sTimidNatureName
+TÍMIDO
+
+#org @sHastyNatureName
+APRESURADO
+
+#org @sSeriousNatureName
+GRAVE
+
+#org @sJollyNatureName
+ALEGRE
+
+#org @sNaiveNatureName
+INGENUO
+
+#org @sModestNatureName
+MODESTO
+
+#org @sMildNatureName
+LEVE
+
+#org @sQuietNatureName
+TRANQUILO
+
+#org @sBashfulNatureName
+TÍMIDO
+
+#org @sRashNatureName
+ERUPCIÓN
+
+#org @sCalmNatureName
+CALMA
+
+#org @sGentleNatureName
+AMABLE
+
+#org @sSassyNatureName
+ATREVIDO
+
+#org @sCarefulNatureName
+CUIDADOSO
+
+#org @sQuirkyNatureName
+PECULIAR
+
+#org @sText_Space
+
+
+#org @sText_Test
+)
+
+#org @sText_EonTicket
+ï+ç
+
+#org @sText_CollectedAllStamps
+¡Has recolectado todos los SELLOS!\n¿Quieres ingresar una TARJETA como\ppremio?
+
+#org @sPluralTxt
+IES
+
+#org @sJPText_Vowels
+ÀÁÂÇÈÉÊ
+
+#org @sText_Letters
+ABCDEFG
+
+#org @sText_Digits
+0123456
+
+#org @gText_EasyChatKeyboard_ABCDEFothers
+[CLEAR]ACEPTA[CLEAR]NÓTESE\nBIEN[CLEAR]CE[CLEAR]èD[CLEAR]EE.UU.[CLEAR]FE[CLEAR]otros
+
+#org @gText_EasyChatKeyboard_GHIJKL
+[CLEAR]YO G[CLEAR]puaj[CLEAR]ÉI[CLEAR]ehJ[CLEAR]CUÑA[CLEAR]ÉL
+
+#org @gText_EasyChatKeyboard_MNOPQRS
+[CLEAR]SOY[CLEAR]I[CLEAR]EW[CLEAR]èP[CLEAR]Ecualizador[CLEAR]VEHÍCULO[CLEAR]Y[CLEAR]Y
+
+#org @gText_EasyChatKeyboard_TUVWXYZ
+[CLEAR]alto\nvoltaje[CLEAR]I[CLEAR]AÑO[CLEAR]èW[CLEAR]ÉX[CLEAR]Ey[CLEAR]EZ[CLEAR]Y
+
+#org @gText_NamingScreenKeyboard_abcdef
+[CLEAR]Acepta[CLEAR]Mib[CLEAR]CE[CLEAR]ayuda[CLEAR]Eh[CLEAR]Ef[CLEAR]Y[CLEAR]Y.
+
+#org @gText_NamingScreenKeyboard_ghijkl
+[CLEAR]Yo\nG[CLEAR]puaj[CLEAR]Ey[CLEAR]\ej[CLEAR]Cuña[CLEAR]Él[CLEAR]mi[CLEAR]Y,
+
+#org @gText_NamingScreenKeyboard_mnopqrs
+[CLEAR]Soy[CLEAR]I[CLEAR]Sí[CLEAR]isp[CLEAR]ecuación[CLEAR]Sí[CLEAR]Y[CLEAR]\mi
+
+#org @gText_NamingScreenKeyboard_tuvwxyz
+[CLEAR]Él[CLEAR]I[CLEAR]Año[CLEAR]èw[CLEAR]É[CLEAR]xEy[CLEAR]ez[CLEAR]Y
+
+#org @gText_NamingScreenKeyboard_ABCDEF
+[CLEAR]ACEPTA[CLEAR]NÓTESE\nBIEN[CLEAR]CE[CLEAR]èD[CLEAR]EE.UU.[CLEAR]FE[CLEAR]Y[CLEAR]Y.
+
+#org @gText_NamingScreenKeyboard_GHIJKL
+[CLEAR]YO\nG[CLEAR]puaj[CLEAR]ÉI[CLEAR]ehJ[CLEAR]CUÑA[CLEAR]ÉL[CLEAR]Y[CLEAR]Y,
+
+#org @gText_NamingScreenKeyboard_MNOPQRS
+[CLEAR]SOY[CLEAR]I[CLEAR]EW[CLEAR]èP[CLEAR]Ecualizador[CLEAR]VEHÍCULO[CLEAR]Y[CLEAR]Y
+
+#org @gText_NamingScreenKeyboard_TUVWXYZ
+[CLEAR]alto\nvoltaje[CLEAR]I[CLEAR]AÑO[CLEAR]èW[CLEAR]ÉX[CLEAR]Ey[CLEAR]EZ[CLEAR]Y
+
+#org @gText_NamingScreenKeyboard_01234
+[CLEAR]I0[CLEAR]Œ1[CLEAR]Œ2[CLEAR]Œ3[CLEAR]Œ4[CLEAR]Œ
+
+#org @gText_NamingScreenKeyboard_56789
+[CLEAR]Q5[CLEAR]Œ6[CLEAR]Œ7[CLEAR]Œ8[CLEAR]Œ9[CLEAR]Œ
+
+#org @gText_NamingScreenKeyboard_Symbols1
+[CLEAR]¡I![CLEAR]¿Œ?[CLEAR]Œ♂[CLEAR]Œ♀[CLEAR]Œ/[CLEAR]Œ-
+
+#org @gText_NamingScreenKeyboard_Symbols2
+[CLEAR]I…[CLEAR]Œ“[CLEAR]Œ”[CLEAR]Ú‘[CLEAR]Ú'[CLEAR]Ú
+
+#org @gText_UnionRoomChatKeyboard_ABCDE
+A B C D E
+
+#org @gText_UnionRoomChatKeyboard_FGHIJ
+FGHIJ
+
+#org @gText_UnionRoomChatKeyboard_KLMNO
+KLMNO
+
+#org @gText_UnionRoomChatKeyboard_PQRST
+PQRST
+
+#org @gText_UnionRoomChatKeyboard_UVWXY
+UVWXY
+
+#org @gText_UnionRoomChatKeyboard_Z
+[MUS_DUMMY][MUS_DUMMY]
+
+#org @gText_UnionRoomChatKeyboard_01234Upper
+01234
+
+#org @gText_UnionRoomChatKeyboard_56789Upper
+56789
+
+#org @gText_UnionRoomChatKeyboard_PunctuationUpper
+.,!? 
+
+#org @gText_UnionRoomChatKeyboard_SymbolsUpper
+-/&… 
+
+#org @gText_UnionRoomChatKeyboard_abcde
+a B C D e
+
+#org @gText_UnionRoomChatKeyboard_fghij
+fghij
+
+#org @gText_UnionRoomChatKeyboard_klmno
+klmno
+
+#org @gText_UnionRoomChatKeyboard_pqrst
+primero
+
+#org @gText_UnionRoomChatKeyboard_uvwxy
+uvwxy
+
+#org @gText_UnionRoomChatKeyboard_z
+[MUS_DUMMY][MUS_DUMMY]
+
+#org @gText_UnionRoomChatKeyboard_01234Lower
+01234
+
+#org @gText_UnionRoomChatKeyboard_56789Lower
+56789
+
+#org @gText_UnionRoomChatKeyboard_PunctuationLower
+.,!? 
+
+#org @gText_UnionRoomChatKeyboard_SymbolsLower
+-/&… 
+
+#org @gText_UnionRoomChatKeyboard_Emoji1
+[EMOJI_MISCHIEVOUS][EMOJI_HAPPY][EMOJI_ANGRY][EMOJI_SURPRISED][EMOJI_BIGANGER]
+
+#org @gText_UnionRoomChatKeyboard_Emoji2
+[EMOJI_BIGSMILE][EMOJI_EVIL][EMOJI_NEUTRAL][EMOJI_TIRED][EMOJI_SHOCKED]
+
+#org @gText_UnionRoomChatKeyboard_Emoji3
+[EMOJI_LEAF][EMOJI_FIRE][EMOJI_WATER][EMOJI_BOLT][EMOJI_BALL]
+
+#org @gText_UnionRoomChatKeyboard_Emoji4
+[EMOJI_LEFT_PAREN][EMOJI_RIGHT_PAREN][EMOJI_TILDE]
+
+#org @gText_UnionRoomChatKeyboard_Emoji5
+[EMOJI_LEFT_EYE][EMOJI_RIGHT_EYE][EMOJI_SMALLWHEEL][EMOJI_SPHERE][EMOJI_IRRITATED]
+
+#org @gText_UnionRoomChatKeyboard_Emoji6
+[EMOJI_AT][EMOJI_BIGWHEEL][EMOJI_TONGUE][EMOJI_ACUTE][EMOJI_GRAVE]
+
+#org @gText_UnionRoomChatKeyboard_Emoji7
+[EMOJI_RIGHT_FIST][EMOJI_LEFT_FIST][EMOJI_TRIANGLE_OUTLINE][EMOJI_UNION][EMOJI_GREATER_THAN]
+
+#org @gText_UnionRoomChatKeyboard_Emoji8
+[EMOJI_CIRCLE][EMOJI_TRIANGLE][EMOJI_SQUARE][EMOJI_HEART][EMOJI_MOON]
+
+#org @gText_UnionRoomChatKeyboard_Emoji9
+[EMOJI_NOTE][EMOJI_PLUS][EMOJI_MINUS][EMOJI_EQUALS][EMOJI_PIPE]
+
+#org @gText_UnionRoomChatKeyboard_Emoji10
+[EMOJI_HIGHBAR][EMOJI_UNDERSCORE];: 
+
+#org @gMoveDescription_Pound
+Un ataque físico realizado con una cola\nlarga o una pata delantera, etc.
+
+#org @gMoveDescription_KarateChop
+El enemigo es atacado con un tajo\nfuerte. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_DoubleSlap
+El enemigo es abofeteado repetidamente,\nde un lado a otro, de dos a cinco veces.
+
+#org @gMoveDescription_CometPunch
+El enemigo recibe una ráfaga de golpes\nque golpean de dos a cinco veces.
+
+#org @gMoveDescription_MegaPunch
+El enemigo es golpeado por un puñetazo\nlanzado con potencia llena de músculos.
+
+#org @gMoveDescription_PayDay
+Se arrojan numerosas monedas al enemigo.\nEl dinero se gana después de la batalla.
+
+#org @gMoveDescription_FirePunch
+El enemigo recibe un puñetazo con un\npuño de fuego. Puede dejar al enemigo\pcon una quemadura.
+
+#org @gMoveDescription_IcePunch
+El enemigo recibe un puñetazo con un\npuño helado. Puede dejar al enemigo\pcongelado.
+
+#org @gMoveDescription_ThunderPunch
+El enemigo recibe un puñetazo\nelectrizado. Puede dejar al enemigo\pparalizado.
+
+#org @gMoveDescription_Scratch
+Garras duras, puntiagudas y afiladas\ndesgarran al enemigo.
+
+#org @gMoveDescription_ViceGrip
+Enormes e impresionantes pinzas agarran\ny aprietan al enemigo.
+
+#org @gMoveDescription_Guillotine
+Un feroz ataque desgarrador con pinzas.\nEl enemigo se desmayará si lo golpea.
+
+#org @gMoveDescription_RazorWind
+Hojas de viento golpean al enemigo en el\nsegundo turno. Tiene una alta proporción\pde golpes críticos.
+
+#org @gMoveDescription_SwordsDance
+Una danza frenética de lucha. Aumenta\ndrásticamente la estadística ATAQUE.
+
+#org @gMoveDescription_Cut
+Un ataque básico. Se puede utilizar para\ncortar árboles delgados y hierba.
+
+#org @gMoveDescription_Gust
+Golpea al enemigo con una ráfaga de\nviento azotada por alas.
+
+#org @gMoveDescription_WingAttack
+El enemigo es golpeado con grandes e\nimponentes alas desplegadas.
+
+#org @gMoveDescription_Whirlwind
+El enemigo está obligado a cambiar con\nun ally. En la naturaleza, la batalla\ptermina.
+
+#org @gMoveDescription_Fly
+Un movimiento de 2 turnos que golpea en\nel segundo turno. Úselo para volar a\pcualquier ciudad conocida.
+
+#org @gMoveDescription_Bind
+Se utilizan un cuerpo largo o tentáculos\npara atar al enemigo durante dos a cinco\pturnos.
+
+#org @gMoveDescription_Slam
+El enemigo es golpeado con una cola\nlarga, enredaderas,etc.
+
+#org @gMoveDescription_VineWhip
+El enemigo es golpeado con enredaderas\ndelgadas que parecen látigos.
+
+#org @gMoveDescription_Stomp
+El enemigo es pisoteado con un gran pie.\nEsto puede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_DoubleKick
+Se usan dos piernas para patear\nrápidamente al enemigo dos veces en un\pturno.
+
+#org @gMoveDescription_MegaKick
+El enemigo es atacado con una patada\ndisparada con potencia llena de\pmúsculos.
+
+#org @gMoveDescription_JumpKick
+El usuario salta alto y luego patea. Si\nfalla, el usuario se lastima.
+
+#org @gMoveDescription_RollingKick
+Una patada rápida tras un giro. Puede\nhacer que el enemigo se estremezca.
+
+#org @gMoveDescription_SandAttack
+Se arroja mucha arena a la cara del\nenemigo, lo que reduce su precisión.
+
+#org @gMoveDescription_Headbutt
+El usuario saca la cabeza y embiste.\nPuede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_HornAttack
+El enemigo es golpeado con un cuerno\npuntiagudo para infligir daño.
+
+#org @gMoveDescription_FuryAttack
+El enemigo es golpeado repetidamente con\nun cuerno o pico de dos a cinco veces.
+
+#org @gMoveDescription_HornDrill
+El cuerno se gira como un taladro para\nembestir. El enemigo se desmayará si lo\pgolpea.
+
+#org @gMoveDescription_Tackle
+Un ataque físico en el que el usuario\ncarga con todo el cuerpo contra el\penemigo.
+
+#org @gMoveDescription_BodySlam
+El usuario deja  caer todo su cuerpo\nsobre el enemigo. Puede dejar al enemigo\pparalizado.
+
+#org @gMoveDescription_Wrap
+Se utiliza un cuerpo largo o enredaderas\npara envolver al enemigo durante dos a\pcinco turnos.
+
+#org @gMoveDescription_TakeDown
+Un imprudente ataque de carga de todo el\ncuerpo que también hiere un poco al\pusuario.
+
+#org @gMoveDescription_Thrash
+El usuario arrasa durante dos o tres\nturnos y luego se confunde.
+
+#org @gMoveDescription_DoubleEdge
+Una entrada imprudente, que pone en\nriesgo la vida y que también daña un\ppoco al usuario.
+
+#org @gMoveDescription_TailWhip
+El usuario mueve su cola lindamente,\nhaciendo que el enemigo reduzca su\pestadística de DEFENSA.
+
+#org @gMoveDescription_PoisonSting
+El enemigo es apuñalado con una púa\ntóxica etc. Puede envenenar al enemigo.
+
+#org @gMoveDescription_Twineedle
+El enemigo es apuñalado dos veces con\nlos aguijones de las patas delanteras.\pPuede envenenar al enemigo.
+
+#org @gMoveDescription_PinMissile
+Se disparan alfileres afilados al\nenemigo y se golpean de dos a cinco\pveces a la vez.
+
+#org @gMoveDescription_Leer
+El enemigo recibe una mirada intimidante\nque reduce su estadística de DEFENSA.
+
+#org @gMoveDescription_Bite
+El usuario muerde con colmillos feroces.\nPuede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_Growl
+El usuario gruñe de una manera linda,\nhaciendo que el enemigo reduzca su\pestadística de ATAQUE.
+
+#org @gMoveDescription_Roar
+El enemigo está obligado a cambiar con\nun ally. En la naturaleza, la batalla\ptermina.
+
+#org @gMoveDescription_Sing
+Una canción tranquilizadora con una voz\n tranquilizadora adormece al enemigo  en\pun sueño profundo.
+
+#org @gMoveDescription_Supersonic
+El usuario genera ondas sonoras que\nasienten. Puede confundir al enemigo.
+
+#org @gMoveDescription_SonicBoom
+El enemigo es golpeado con\una onda de\nchoque que siempre inflige 20- HP de\pdaño.
+
+#org @gMoveDescription_Disable
+Durante algunos turnos, impide que el\nenemigo use el último movimiento que\putilizó.
+
+#org @gMoveDescription_Acid
+El enemigo es rociado con un ácido\náspero que derrite la piel y que puede\preducir la DEFENSA.
+
+#org @gMoveDescription_Ember
+El enemigo es atacado con pequeñas\nllamas. El enemigo puede sufrir\pquemaduras.
+
+#org @gMoveDescription_Flamethrower
+El enemigo es quemado con intensas\nllamas. El enemigo puede sufrir\pquemaduras.
+
+#org @gMoveDescription_Mist
+El grupo aliado está protegido por una\nniebla que evita reducciones de\pestadísticas.
+
+#org @gMoveDescription_WaterGun
+El enemigo es golpeado con una gran\ncantidad de agua expulsada a la fuerza\pde la boca.
+
+#org @gMoveDescription_HydroPump
+Un gran volumen de agua es lanzado al\nenemigo bajo gran presión.
+
+#org @gMoveDescription_Surf
+Una gran ola choca contra el enemigo.\nTambién se puede usar para cruzar el\pagua.
+
+#org @gMoveDescription_IceBeam
+El enemigo es alcanzado con un rayo\nhelado. Puede congelar al enemigo.
+
+#org @gMoveDescription_Blizzard
+El enemigo es atacado por una tormenta\nde nieve. Puede congelar al enemigo.
+
+#org @gMoveDescription_Psybeam
+Se dispara un rayo peculiar al enemigo.\nPuede dejarlo confundido.
+
+#org @gMoveDescription_BubbleBeam
+Un chorro de burbujas golpea al enemigo.\nPuede reducir la estadística de\pVELOCIDAD del enemigo.
+
+#org @gMoveDescription_AuroraBeam
+Un rayo de ataque con los colores del\narcoíris. Puede reducir la estadística\pde ATAQUE del enemigo.
+
+#org @gMoveDescription_HyperBeam
+Un ataque gravemente dañino que hace que\nel usuario descanse en el siguiente\pturno.
+
+#org @gMoveDescription_Peck
+El enemigo es golpeado con un pico o\ncuerno puntiagudo.
+
+#org @gMoveDescription_DrillPeck
+Un ataque de sacacorchos con el pico\nafilado actuando como un taladro.
+
+#org @gMoveDescription_Submission
+Un imprudente ataque de lanzamiento de\ncuerpo completo que también daña un poco\pal usuario.
+
+#org @gMoveDescription_LowKick
+Una patada baja que hace tropezar que\ninflige más daño a enemigos más pesados.
+
+#org @gMoveDescription_Counter
+Un movimiento de represalia que\ncontrarresta cualquier golpe físico con\pel doble de daño.
+
+#org @gMoveDescription_SeismicToss
+Un lanzamiento alimentado por gravedad\nque causa daño que coincide con el nivel\pdel usuario.
+
+#org @gMoveDescription_Strength
+El enemigo recibe un golpe con la máxima\npotencia. También se puede usar para\pmover rocas.
+
+#org @gMoveDescription_Absorb
+Un ataque que absorbe la mitad del daño\nque infligió para restaurar HP.
+
+#org @gMoveDescription_MegaDrain
+Un ataque duro que drena la mitad del\ndaño que infligió para restaurar HP.
+
+#org @gMoveDescription_LeechSeed
+Se planta una semilla en el enemigo para\nrobar algo de HP para el usuario en cada\pturno.
+
+#org @gMoveDescription_Growth
+El cuerpo del usuario se obliga a\ncrecer, aumentando la estadística SP.\pATK.
+
+#org @gMoveDescription_RazorLeaf
+El enemigo es golpeado  con una hoja\ncortada. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_SolarBeam
+Un movimiento de 2 turnos que golpea al\nenemigo con energía absorbida en el\psegundo turno.
+
+#org @gMoveDescription_PoisonPowder
+Se dispersa una nube de polvo tóxico.\nPuede envenenar al enemigo.
+
+#org @gMoveDescription_StunSpore
+El polvo paralizante se esparce\nsalvajemente. Puede paralizar al\penemigo.
+
+#org @gMoveDescription_SleepPowder
+Un polvo que induce sueño se esparce en\ngran volumen alrededor de un enemigo.
+
+#org @gMoveDescription_PetalDance
+El usuario ataca con pétalos durante dos\ntres turnos, luego se confunde.
+
+#org @gMoveDescription_StringShot
+El enemigo está atado con hilos\ndisparados desde la boca para reducir su\pVELOCIDAD.
+
+#org @gMoveDescription_DragonRage
+El enemigo es golpeado con\una onda de\nchoque que siempre inflige 40 HP de\pdaño.
+
+#org @gMoveDescription_FireSpin
+El enemigo queda atrapado en una intensa\nespiral de fuego que dura de dos a cinco\pturnos.
+
+#org @gMoveDescription_ThunderShock
+Un ataque de descarga eléctrica que\ntambién puede dejar al enemigo\pparalizado.
+
+#org @gMoveDescription_Thunderbolt
+Un fuerte ataque eléctrico que también\npuede dejar al enemigo paralizado.
+
+#org @gMoveDescription_ThunderWave
+Una descarga eléctrica débil que\nseguramente causará parálisis si golpea.
+
+#org @gMoveDescription_Thunder
+Un brutal ataque relámpago que también\npuede dejar al enemigo paralizado.
+
+#org @gMoveDescription_RockThrow
+El enemigo es atacado con una lluvia de\npequeñas rocas que se pueden arrojar\pfácilmente.
+
+#org @gMoveDescription_Earthquake
+Un terremoto que golpea a todos los\nPOK\eMON en batalla excepto al usuario.
+
+#org @gMoveDescription_Fissure
+El enemigo cae en una fisura. El enemigo\nse desmaya si lo golpea.
+
+#org @gMoveDescription_Dig
+Un ataque que golpea o en el segundo\nturno. También se puede usar para salir\pde mazmorras.
+
+#org @gMoveDescription_Toxic
+Un movimiento que envenena gravemente al\nenemigo. Su daño de veneno empeora con\pcada turno.
+
+#org @gMoveDescription_Confusion
+Un ataque telequinético débil que\ntambién puede dejar al enemigo\pconfundido.
+
+#org @gMoveDescription_Psychic
+Un fuerte ataque atelequinético. También\npuede reducir el SP del enemigo.\pEstadística de DEF.
+
+#org @gMoveDescription_Hypnosis
+La sugestión hipnótica se utiliza para\nhacer que el enemigo caiga en un sueño\pprofundo.
+
+#org @gMoveDescription_Meditate
+El usuario medita para despertar su\npoder y aumentar su estadística de\pATAQUE.
+
+#org @gMoveDescription_Agility
+El usuario relaja y aligera su cuerpo\npara aumentar drásticamente su\pVELOCIDAD.
+
+#org @gMoveDescription_QuickAttack
+Un ataque rápido casi invisible que\nseguramente atacará primero.
+
+#org @gMoveDescription_Rage
+Un ataque que se vuelve más fuerte cada\nvez que el usuario es golpeado en\pbatalla.
+
+#org @gMoveDescription_Teleport
+Úselo para huir de cualquier POK\eMON\nsalvaje. También se transporta al último\pCENTRO POK\e.
+
+#org @gMoveDescription_NightShade
+Un ataque con un espejismo que inflige\ndaños que coinciden con el nivel del\pusuario.
+
+#org @gMoveDescription_Mimic
+El usuario copia el último movimiento\nutilizado por el enemigo durante el\presto de la batalla.
+
+#org @gMoveDescription_Screech
+Se emite un chirrido ensordecedor que\nreduce  drásticamente la DEFENSA del\penemigo.
+
+#org @gMoveDescription_DoubleTeam
+El usuario crea copias ilusorias de sí\nmismo para aumentar su evasividad.
+
+#org @gMoveDescription_Recover
+Un movimiento de autocuración que\nrestaura HP hasta la mitad del HP máximo\pdel usuario.
+
+#org @gMoveDescription_Harden
+El usuario endurece todos los músculos\nde  su cuerpo para aumentar  su\pestadística de DEFENSA.
+
+#org @gMoveDescription_Minimize
+El usuario comprime todas las células de\nsu cuerpo para aumentar su evasividad.
+
+#org @gMoveDescription_Smokescreen
+Una nube de humo o tinta que oscurece\n reduce la precisión del enemigo.
+
+#org @gMoveDescription_ConfuseRay
+El enemigo está expuesto a un rayo\nsiniestro que desencadena confusión.
+
+#org @gMoveDescription_Withdraw
+El usuario retira su cuerpo en su\ncaparazón duro, aumentando su\pestadística de DEFENSA.
+
+#org @gMoveDescription_DefenseCurl
+El usuario se acurruca para ocultar\npuntos débiles y aumentar su estadística\pde DEFENSA.
+
+#org @gMoveDescription_Barrier
+El usuario crea un muro resistente que\naumenta drásticamente su estadística de\pDEFENSA.
+
+#org @gMoveDescription_LightScreen
+Un muro de luz corta el daño de SP.\nAtaques ATK durante cinco turnos.
+
+#org @gMoveDescription_Haze
+Elimina todos los cambios de\nestadísticas entre todos POK\eMON\pinvolucrados en la batalla.
+
+#org @gMoveDescription_Reflect
+Un muro de luz corta el daño de ataques\nfísicos durante cinco turnos.
+
+#org @gMoveDescription_FocusEnergy
+El usuario respira profundamente y se\nconcentra para aumentar su índice de\pgolpes críticos.
+
+#org @gMoveDescription_Bide
+El usuario soporta ataques durante dos\nturnos, luego contraataca doble.
+
+#org @gMoveDescription_Metronome
+Mueve un dedo y estimula el cerebro para\nque realice cualquier movimiento al\pazar.
+
+#org @gMoveDescription_MirrorMove
+El usuario contrarresta el último\nmovimiento utilizado por el enemigo con\pel mismo movimiento.
+
+#org @gMoveDescription_SelfDestruct
+El usuario explota para infligir daño\nsevero, incluso desmayándose.
+
+#org @gMoveDescription_EggBomb
+Se lanza un huevo grande con gran fuerza\nal enemigo para infligir daño.
+
+#org @gMoveDescription_Lick
+El enemigo es lamido y golpeado con una\nlengua larga. También puede paralizar.
+
+#org @gMoveDescription_Smog
+El enemigo es atacado con gases de\nescape. También puede envenenar al\penemigo.
+
+#org @gMoveDescription_Sludge
+Se lanza lodo tóxico al enemigo. Puede\nenvenenar al objetivo.
+
+#org @gMoveDescription_BoneClub
+El enemigo es golpeado con un hueso en\nla mano. Puede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_FireBlast
+El enemigo es alcanzado  por una llama\nintensa. Puede dejar al objetivo con una\pquemadura.
+
+#org @gMoveDescription_Waterfall
+Una carga aataque poderosa. También se\npuede utilizar para escalar una cascada.
+
+#org @gMoveDescription_Clamp
+El enemigo es sujetado y comprimido por\nel caparazón del usuario durante dos a\pcinco turnos.
+
+#org @gMoveDescription_Swift
+Rayos en forma de estrella que nunca\nfallan se disparan contra todos los\penemigos en la batalla.
+
+#org @gMoveDescription_SkullBash
+El usuario aumenta su DEFENSA en el\nprimer turno, luego ataca en el segundo\pturno.
+
+#org @gMoveDescription_SpikeCannon
+Se disparan púas afiladas al enemigo\npara golpear de dos a cinco veces.
+
+#org @gMoveDescription_Constrict
+El enemigo es atacado con largos\ntentáculos i enredaderas. Puede reducir\pla VELOCIDAD.
+
+#org @gMoveDescription_Amnesia
+Se olvida de algo y sube bruscamente SP.\nDEF.
+
+#org @gMoveDescription_Kinesis
+El usuario distrae al enemigo\ndoblando\una cuchara. Puede reducir la\pprecisión.
+
+#org @gMoveDescription_SoftBoiled
+Cura al usuario hasta la mitad de su HP\ncompleto. Puede usarse para curar a un\paliado.
+
+#org @gMoveDescription_HiJumpKick
+Una fuerte patada con la rodilla\nsaltando. Si falla, el usuario resulta\pherido.
+
+#org @gMoveDescription_Glare
+El usuario intimida al enemigo con el\ndiseño en su vientre para causar\pparálisis.
+
+#org @gMoveDescription_DreamEater
+Absorbe la mitad del daño que infligió a\nun enemigo dormido para restaurar HP.
+
+#org @gMoveDescription_PoisonGas
+El enemigo es rociado con una nube de\ngas tóxico que puede envenenarlo.
+
+#org @gMoveDescription_Barrage
+Se lanzan objetos redondos al enemigo\npara golpear de dos a cinco veces.
+
+#org @gMoveDescription_LeechLife
+Un ataque que absorbe la mitad del daño\nque infligió para restaurar HP.
+
+#org @gMoveDescription_LovelyKiss
+El usuario fuerza a besar al enemigo con\nuna cara aterradora que induce al sueño.
+
+#org @gMoveDescription_SkyAttack
+Un movimiento de ataque de segundo turno\ncon una alta proporción de golpes\pcríticos. El enemigo puede retroceder.
+
+#org @gMoveDescription_Transform
+El usuario se transforma en una copia\ndel enemigo incluso con el mismo\pconjunto de movimientos.
+
+#org @gMoveDescription_Bubble
+Un chorro de burbujas golpea al enemigo.\nPuede reducir la estadística de\pVELOCIDAD del enemigo.
+
+#org @gMoveDescription_DizzyPunch
+El enemigo es golpeado  con un puñetazo\nrítmico que puede dejarlo confuso.
+
+#org @gMoveDescription_Spore
+El usuario esparce ráfagas de finas\nesporas que inducen el sueño.
+
+#org @gMoveDescription_Flash
+Una ráfaga de luz que reduce la\nprecisión del enemigo. También ilumina\pcuevas.
+
+#org @gMoveDescription_Psywave
+El enemigo es atacado con una extraña y\ncaliente onda de energía que varía en\pintensidad.
+
+#org @gMoveDescription_Splash
+El usuario simplemente se deja caer y\nsalpica sin tener ningún efecto.
+
+#org @gMoveDescription_AcidArmor
+El usuario altera sus células para\nlicuarse y aumentar drásticamente la\pDEFENSA.
+
+#org @gMoveDescription_Crabhammer
+Se utiliza una pinza grande para\nmartillar al enemigo. Tiene una alta\pproporción de golpes críticos.
+
+#org @gMoveDescription_Explosion
+El usuario explota para infligir daños\nterribles incluso mientras se desmaya.
+
+#org @gMoveDescription_FurySwipes
+El enemigo es rastrillado con garras\nafiladas o guadañas de dos a cinco\pveces.
+
+#org @gMoveDescription_Bonemerang
+El usuario lanza un hueso que golpea al\nenemigo una vez y luego otra vez al\pregresar.
+
+#org @gMoveDescription_Rest
+El usuario duerme dos turnos para\nrestaurar completamente el HP y\psolucionar cualquier problema de estado.
+
+#org @gMoveDescription_RockSlide
+Se lanzan grandes rocas al enemigo. Esto\npuede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_HyperFang
+El enemigo es atacado con colmillos\nafilados. Esto puede hacer que el\penemigo se estremezca.
+
+#org @gMoveDescription_Sharpen
+El usuario reduce su número de polígonos\npara afilar los bordes y aumentar el\pATAQUE.
+
+#org @gMoveDescription_Conversion
+El usuario cambia su tipo para que\ncoincida con el tipo de uno de sus\pmovimientos.
+
+#org @gMoveDescription_TriAttack
+Un ataque simultáneo de 3 rayos que\npuede paralizar, quemar o congelar al\penemigo.
+
+#org @gMoveDescription_SuperFang
+El usuario ataca con colmillos afilados\ny reduce a la mitad el HP del enemigo.
+
+#org @gMoveDescription_Slash
+El enemigo es cortado con garras, etc.\nTiene una alta proporción de golpes\pcríticos.
+
+#org @gMoveDescription_Substitute
+El usuario crea un señuelo usando una\ncuarta parte de su HP completo.
+
+#org @gMoveDescription_Struggle
+Un ataque que se usa sólo si no hay PP.\nTambién perjudica al usuario.
+
+#org @gMoveDescription_Sketch
+Este movimiento copia el último\nmovimiento utilizado por el enemigo y\pluego desaparece.
+
+#org @gMoveDescription_TripleKick
+Un ataque de 3 patadas que se vuelve más\npoderoso con cada golpe sucesivo.
+
+#org @gMoveDescription_Thief
+Un ataque que puede tomar el objeto en\npoder del enemigo si el usuario no tiene\pninguno.
+
+#org @gMoveDescription_SpiderWeb
+Atrapa al enemigo  con una cuerda\nadhesiva para que no huya ni se escape.
+
+#org @gMoveDescription_MindReader
+El usuario predice la acción del enemigo\npara asegurar su próximo ataque.
+
+#org @gMoveDescription_Nightmare
+A un enemigo dormido se le muestra una\npesadilla que le inflige algún daño en\pcada turno.
+
+#org @gMoveDescription_FlameWheel
+El usuario lanza una carga de fuego\nhacia el enemigo. Puede causar a\pquemaduras.
+
+#org @gMoveDescription_Snore
+Un ataque que sólo puede usarse mientras\nestá dormido. Puede\causar un\pestremecimiento.
+
+#org @gMoveDescription_Curse
+Un movimiento que funciona\ndiferentemente para el tipo FANTASMA y\ppara todos los demás tipos.
+
+#org @gMoveDescription_Flail
+Un ataque desesperado que se vuelve más\npoderoso cuanto menos HP tenga el\pusuario.
+
+#org @gMoveDescription_Conversion2
+El usuario cambia de tipo para hacerse\nresistente al último ataque que recibió.
+
+#org @gMoveDescription_Aeroblast
+Se dispara un vórtice de aire al\nenemigo. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_CottonSpore
+Esporas parecidas al algodón se adhieren\nal enemigo y reducen drásticamente su\pestadística de VELOCIDAD.
+
+#org @gMoveDescription_Reversal
+Un ataque total que se vuelve más\npoderoso cuanto menos HP tenga el\pusuario.
+
+#org @gMoveDescription_Spite
+Un movimiento que reduce 2 a 5 PP del\núltimo movimiento utilizado por el\penemigo.
+
+#org @gMoveDescription_PowderSnow
+Golpea al enemigo con una ráfaga de\nnieve. Puede provocar congelación.
+
+#org @gMoveDescription_Protect
+Permite al usuario evadir todos los\nataques. Puede fallar si se usa en\psucesión.
+
+#org @gMoveDescription_MachPunch
+Un puñetazo lanzado a velocidad\ncegadora. Es seguro que golpeará\pprimero.
+
+#org @gMoveDescription_ScaryFace
+Asusta al enemigo con una cara\naterradora para reducir  drásticamente\psu VELOCIDAD.
+
+#org @gMoveDescription_FaintAttack
+El usuario se acerca al enemigo de modo\ndesarmante y luego golpea sin fallar.
+
+#org @gMoveDescription_SweetKiss
+El usuario besa al enemigo con dulce\nternura que causa confusión.
+
+#org @gMoveDescription_BellyDrum
+El usuario maximiza su estadística de\nATAQUE a el costo de la mitad  de su HP\pcompleto.
+
+#org @gMoveDescription_SludgeBomb
+Se lanza lodo sucio al enemigo. Puede\nenvenenar al objetivo.
+
+#org @gMoveDescription_MudSlap
+Se arroja barro a la cara del enemigo\npara infligir daño y reducir su\pprecisión.
+
+#org @gMoveDescription_Octazooka
+Se dispara tinta en la cara o en los\nojos del enemigo, lo que daña y reduce\pla precisión.
+
+#org @gMoveDescription_Spikes
+Se coloca una trampa de púas alrededor\ndel grupo enemigo para herir a los\penemigos que entren.
+
+#org @gMoveDescription_ZapCannon
+Se dispara una ráfaga eléctrica como si\nfuera un cañón para infligir daño y\pparalizar.
+
+#org @gMoveDescription_Foresight
+Niega completamente los esfuerzos del\nenemigo por aumentar su capacidad de\pevasión.
+
+#org @gMoveDescription_DestinyBond
+Si el usuario se desmaya, el enemigo que\nda el golpe final también se desmaya.
+
+#org @gMoveDescription_PerishSong
+Cualquier luchador que escuche esto se\ndesmaya en tres turnos a menos que\pcambie.
+
+#org @gMoveDescription_IcyWind
+Se utiliza un viento helado para atacar.\nTambién reduce la estadística de\pVELOCIDAD.
+
+#org @gMoveDescription_Detect
+Permite al usuario evadir todos los\nataques. Puede fallar si se usa en\psucesión.
+
+#org @gMoveDescription_BoneRush
+El usuario golpea al enemigo con un\nhueso en la mano de dos a cinco veces.
+
+#org @gMoveDescription_LockOn
+El usuario se fija en el enemigo,\nhaciendo que el siguiente movimiento\pacierte.
+
+#org @gMoveDescription_Outrage
+El usuario se agita durante dos o tres\nturnos y luego se confunde.
+
+#org @gMoveDescription_Sandstorm
+Una tormenta de arena de 5 turnos que\ndaña todos los tipos excepto ROCA,\pTIERRA y ACERO.
+
+#org @gMoveDescription_GigaDrain
+Un ataque duro que absorbe la mitad del\ndaño que infligió para restaurar HP.
+
+#org @gMoveDescription_Endure
+El usuario resiste cualquier golpe\ncuando le queda 1 HP. Puede fallar si se\pusa en sucesión.
+
+#org @gMoveDescription_Charm
+El enemigo está encantado por las lindas\nllamadas del usuario, cortando\pdrásticamente su ATAQUE.
+
+#org @gMoveDescription_Rollout
+Un ataque  rodante de 5 turnos que se\nvuelve más fuerte cada vez que golpea.
+
+#org @gMoveDescription_FalseSwipe
+Un ataque restringido que siempre deja\nal enemigo con al menos 1 HP.
+
+#org @gMoveDescription_Swagger
+Un movimiento que confunde al enemigo,\npero que también aumenta drásticamente\psu ATAQUE.
+
+#org @gMoveDescription_MilkDrink
+Cura al usuario hasta la mitad de su HP\ncompleto. Puede usarse para curar a un\paliado.
+
+#org @gMoveDescription_Spark
+Un placaje cargado eléctricamente que\ntambién puede paralizar al enemigo.
+
+#org @gMoveDescription_FuryCutter
+Un ataque que se vuelve más fuerte con\ncada golpe sucesivo.
+
+#org @gMoveDescription_SteelWing
+El enemigo es golpeado con alas de\nacero. También puede aumentar la DEFENSA\pdel usuario.
+
+#org @gMoveDescription_MeanLook
+El enemigo es fijado con una mirada\ncruel que le impide escapar.
+
+#org @gMoveDescription_Attract
+Si es del otro género, el enemigo se\nencapricha y es poco probable que\pataque.
+
+#org @gMoveDescription_SleepTalk
+Mientras duerme, el usuario utiliza al\nazar ninguno de los movimientos\pque\conoce.
+
+#org @gMoveDescription_HealBell
+Una campana relajante suena para curar\nlos problemas de estado de todos los\paliados.
+
+#org @gMoveDescription_Return
+Este movimiento de ataque se vuelve más\npoderoso cuanto más le gusta al usuario\psu ENTRENADOR.
+
+#org @gMoveDescription_Present
+El enemigo recibe un regalo con una\ntrampa explosiva. Sin embargo, a veces\prestaura HP.
+
+#org @gMoveDescription_Frustration
+Este movimiento de ataque se vuelve más\npoderoso cuanto menos le gusta al\pusuario su ENTRENADOR.
+
+#org @gMoveDescription_Safeguard
+Protege al grupo del usuario de todos\nlos problemas de estado durante cinco\pturnos.
+
+#org @gMoveDescription_PainSplit
+El usuario añade su HP al HP del\nenemigo, luego comparte en partes\piguales el HP total.
+
+#org @gMoveDescription_SacredFire
+Un ataque de fuego místico y poderoso\nque puede infligir una quemadura.
+
+#org @gMoveDescription_Magnitude
+Un ataque que hace temblar el suelo\ncontra todos los POK\eMON existentes. Su\ppoder varía.
+
+#org @gMoveDescription_DynamicPunch
+El enemigo es golpeado con todo el poder\ndel usuario. Confunde al enemigo si\pgolpea.
+
+#org @gMoveDescription_Megahorn
+Un ataque de embestida brutal ejecutado\ncon un cuerno duro e impresionante.
+
+#org @gMoveDescription_DragonBreath
+El enemigo recibe una increíble ráfaga\nde aliento que puede paralizarlo.
+
+#org @gMoveDescription_BatonPass
+El usuario cambia , pasando cualquier\ncambio de estadística al nuevo luchador.
+
+#org @gMoveDescription_Encore
+Hace que el enemigo use el último\nmovimiento usado repetidamente durante\pdos a seis turnos.
+
+#org @gMoveDescription_Pursuit
+Un movimiento de ataque que funciona\nespecialmente bien en un enemigo que\pestá cambiando.
+
+#org @gMoveDescription_RapidSpin
+Un ataque que libera al usuario de BIND,\nWRAP, LEECH SEED y SPIKES.
+
+#org @gMoveDescription_SweetScent
+Atrae al enemigo para reducir la\nevasión. También atrae POK\eMON\psalvajes.
+
+#org @gMoveDescription_IronTail
+Un ataque con una cola dura como el\nacero. Puede reducir la estadística de\pDEFENSA del enemigo.
+
+#org @gMoveDescription_MetalClaw
+El enemigo es atacado con garras de\nacero. También puede aumentar el ATAQUE\pdel usuario.
+
+#org @gMoveDescription_VitalThrow
+Hace que el usuario ataque tras el\nenemigo. A cambio, no faltará.
+
+#org @gMoveDescription_MorningSun
+Restaura el HP del usuario. La cantidad\nde HP recuperada varía según el clima.
+
+#org @gMoveDescription_Synthesis
+Restaura el HP del usuario. La cantidad\nde HP recuperada varía según el clima.
+
+#org @gMoveDescription_Moonlight
+Restaura el HP del usuario. La cantidad\nde HP recuperada varía según el clima.
+
+#org @gMoveDescription_HiddenPower
+Un ataque que varía en tipo e intensidad\ndependiendo del usuario.
+
+#org @gMoveDescription_CrossChop
+El enemigo es golpeado con dobles\ngolpes. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_Twister
+Un tornado feroz ataca al enemigo. Puede\nhacer que el enemigo se estremezca.
+
+#org @gMoveDescription_RainDance
+Cae una fuerte lluvia durante cinco\nturnos, que potencia los movimientos de\ptipo AGUA.
+
+#org @gMoveDescription_SunnyDay
+El sol brilla durante cinco turnos,\npotenciando movimientos de tipo FUEGO.
+
+#org @gMoveDescription_Crunch
+El enemigo es aplastado con colmillos\nafilados. Puede reducir el SP del\penemigo. DEF.
+
+#org @gMoveDescription_MirrorCoat
+Un movimiento de represalia que devuelve\nel doble el ataque especial del enemigo.
+
+#org @gMoveDescription_PsychUp
+El usuario se hipnotiza a sí mismo para\ncopiar cualquier cambio de estadística\prealizado por el enemigo.
+
+#org @gMoveDescription_ExtremeSpeed
+Un ataque de carga increíblemente rápido\nque siempre va antes que cualquier otro.
+
+#org @gMoveDescription_AncientPower
+Se utiliza un poder antiguo para atacar.\n También puede aumentar  todas las\pestadísticas del usuario.
+
+#org @gMoveDescription_ShadowBall
+Se lanza una masa sombría al enemigo.\nTambién puede reducir el SP del enemigo.\pDEF.
+
+#org @gMoveDescription_FutureSight
+Dos turnos después de que se usa este\nmovimiento, el enemigo es atacado\ppsíquicamente.
+
+#org @gMoveDescription_RockSmash
+Un ataque que también puede cortar la\nDEFENSA. También puede romper rocas\pagrietadas.
+
+#org @gMoveDescription_Whirlpool
+El enemigo queda atrapado en un remolino\nrápido y violento durante dos cinco\pturnos.
+
+#org @gMoveDescription_BeatUp
+Todos los POK\eMON  del grupo se unen al\nataque. Cuantos más aliados, más daño.
+
+#org @gMoveDescription_FakeOut
+Un ataque que golpea primero y provoca\nestremecimiento. Utilizable osolo en el\p1er turno.
+
+#org @gMoveDescription_Uproar
+El usuario ataca con un alboroto que le\nimpide dormir durante dos a cinco\pturnos.
+
+#org @gMoveDescription_Stockpile
+El usuario carga energía para usar más\nadelante. Se puede\utilizar tres veces.
+
+#org @gMoveDescription_SpitUp
+El poder construido usando STOCKPILE se\nlibera de inmediato para atacar.
+
+#org @gMoveDescription_Swallow
+La energía que construyó usando\nSTOCKPILE se absorbe para restaurar HP.
+
+#org @gMoveDescription_HeatWave
+El usuario exhala un aliento caliente\npara aatacar. También puede provocar una\pquemadura.
+
+#org @gMoveDescription_Hail
+Una tormenta de granizo que dura cinco\nturnos daña todos los POK\eMON excepto\pel tipo ICE.
+
+#org @gMoveDescription_Torment
+Enfurece al enemigo, haciéndolo incapaz\nde usar el mismo movimiento\psucesivamente.
+
+#org @gMoveDescription_Flatter
+La adulación se utiliza para confundir\nal enemigo, pero a su SP. ATK también\paumenta.
+
+#org @gMoveDescription_WillOWisp
+Una llama siniestra, blanca azulada, se\ndispara al enemigo para infligir una\pquemadura.
+
+#org @gMoveDescription_Memento
+El usuario se desmaya, pero reduce\ndrásticamente el ATAQUE y SP del\penemigo. ATK.
+
+#org @gMoveDescription_Facade
+Un ataque que se potencia si el usuario\nse quema, envenena o queda paralizado.
+
+#org @gMoveDescription_FocusPunch
+Un ataque que se ejecuta en último\nlugar. El usuario se estremece si es\pgolpeado de antemano.
+
+#org @gMoveDescription_SmellingSalt
+Doblemente efectivo sobre\un enemigo\nparalizado, pero también cura la\pparálisis del enemigo.
+
+#org @gMoveDescription_FollowMe
+El usuario llama la atención hacia sí\nmismo, lo que hace que los enemigos solo\pataquen al usuario.
+
+#org @gMoveDescription_NaturePower
+Un ataque que cambia de tipo dependiendo\nde la ubicación del usuario.
+
+#org @gMoveDescription_Charge
+El usuario carga poder para impulsar el\nmovimiento ELÉCTRICO que usa a\pcontinuación.
+
+#org @gMoveDescription_Taunt
+El enemigo sufre una ira que le permite\nusar sólo movimientos de ataque.
+
+#org @gMoveDescription_HelpingHand
+Un movimiento que aumenta el poder del\nataque del aliado en una batalla.
+
+#org @gMoveDescription_Trick
+Un movimiento que engaña al enemigo para\nque intercambie objetos retenidos con el\pusuario.
+
+#org @gMoveDescription_RolePlay
+El usuario imita completamente al\nenemigo y copia su habilidad.
+
+#org @gMoveDescription_Wish
+Un movimiento de autocuración que\nrestaura la mitad de los HP completos en\pel siguiente turno.
+
+#org @gMoveDescription_Assist
+El usuario elige y usa aleatoriamente un\nmovimiento de un POK\eMON aliado.
+
+#org @gMoveDescription_Ingrain
+El usuario coloca raíces que restauran\nHP cada turno. No puede desconectarse.
+
+#org @gMoveDescription_Superpower
+Un ataque poderoso, pero también reduce\nlas estadísticas de ATAQUE y DEFENSA del\pusuario.
+
+#org @gMoveDescription_MagicCoat
+Refleja la SEMILLA DE SANGUÍN y\ncualquier movimiento que dañe el estado\pdel enemigo.
+
+#org @gMoveDescription_Recycle
+Un movimiento que recicla un elemento\nusado para usarlo una vez más.
+
+#org @gMoveDescription_Revenge
+Un movimiento de ataque que gana en\nintensidad si el objetivo ha herido al\pusuario.
+
+#org @gMoveDescription_BrickBreak
+Un ataque que también rompe cualquier\nbarrera como PANTALLA DE LUZ y REFLECT.
+
+#org @gMoveDescription_Yawn
+Un gran bostezo adormece al enemigo y lo\nhace dormir en el siguiente turno.
+
+#org @gMoveDescription_KnockOff
+Derriba el objeto  retenido por el\nenemigo para evitar su uso durante la\pbatalla.
+
+#org @gMoveDescription_Endeavor
+Obtiene poder cuantos menos HP tenga el\nusuario en comparación con el enemigo.
+
+#org @gMoveDescription_Eruption
+Cuanto mayor sea el HP del usuario, más\npoderoso se vuelve este ataque.
+
+#org @gMoveDescription_SkillSwap
+El usuario emplea su poder psíquico para\nintercambiar habilidades con el enemigo.
+
+#org @gMoveDescription_Imprison
+Evita que los enemigos utilicen\ncualquier movimiento que también conozca\pel usuario.
+
+#org @gMoveDescription_Refresh
+Un movimiento de autocuración que cura\nal usuario de un envenenamiento,\pquemadura o parálisis.
+
+#org @gMoveDescription_Grudge
+Si el usuario se desmaya, este\nmovimiento elimina el PP del movimiento\pque lo finalizó.
+
+#org @gMoveDescription_Snatch
+Roba los efectos del movimiento de\ncuración o cambio de estado del enemigo.
+
+#org @gMoveDescription_SecretPower
+Un ataque que puede tener un efecto\nadicional que varía según el terreno.
+
+#org @gMoveDescription_Dive
+El usuario se sumerge bajo el agua en el\nprimer turno y ataca en el siguiente.
+
+#org @gMoveDescription_ArmThrust
+Una ráfaga rápida de golpes con el brazo\nrecto que alcanzaron de dos a cinco\pveces.
+
+#org @gMoveDescription_Camouflage
+Altera el tipo del usuario dependiendo\ndel terreno de la ubicación.
+
+#org @gMoveDescription_TailGlow
+El usuario enciende una luz que aumenta\nbruscamente su SP. ATK stat.
+
+#org @gMoveDescription_LusterPurge
+Un estallido de luz hiere al enemigo.\n También puede reducir el SP del\penemigo. DEF.
+
+#org @gMoveDescription_MistBall
+Una ráfaga de golpes golpea al enemigo.\n También puede reducir el SP del\penemigo. ATK.
+
+#org @gMoveDescription_FeatherDance
+El enemigo está cubierto con una masa de\npelusa que corta drásticamente la\pestadística de ATAQUE.
+
+#org @gMoveDescription_TeeterDance
+Un baile tambaleante que confunde a\ntodos los POK\eMON en la batalla.
+
+#org @gMoveDescription_BlazeKick
+Una patada de fuego con una alta\nproporción de golpes críticos. También\ppuede quemar al enemigo.
+
+#org @gMoveDescription_MudSport
+Debilita los ataques de tipo ELÉCTRICO\nmientras el usuario está en la batalla.
+
+#org @gMoveDescription_IceBall
+Un ataque rodante de 5 turnos que se\nvuelve más fuerte cada vez que se lanza.
+
+#org @gMoveDescription_NeedleArm
+Un ataque que utiliza brazos espinosos.\nPuede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_SlackOff
+El usuario afloja y restaura su HP a la\nmitad de su HP completo.
+
+#org @gMoveDescription_HyperVoice
+El usuario suelta un grito horriblemente\nfuerte con el poder de dañar.
+
+#org @gMoveDescription_PoisonFang
+El enemigo es mordido con colmillos\ntóxicos. También puede envenenar\pgravemente al enemigo.
+
+#org @gMoveDescription_CrushClaw
+El enemigo es atacado con garras\nafiladas. También puede reducir la\pDEFENSA del enemigo.
+
+#org @gMoveDescription_BlastBurn
+El enemigo es golpeado con\una gran\nexplosión. El usuario no puede\pmoverse\en el siguiente turno.
+
+#org @gMoveDescription_HydroCannon
+El enemigo es alcanzado  con un cañón de\nagua. El usuario no puede moverse\en el\psiguiente turno.
+
+#org @gMoveDescription_MeteorMash
+El enemigo es golpeado  con un puñetazo\nfuerte y rápido. También puede aumentar\pel ATAQUE del usuario.
+
+#org @gMoveDescription_Astonish
+Un ataque que utiliza un grito\nalarmante. También puede hacer que el\penemigo se estremezca.
+
+#org @gMoveDescription_WeatherBall
+Un ataque que varía en poder y tipo\ndependiendo del clima.
+
+#org @gMoveDescription_Aromatherapy
+Se libera un aroma relajante para curar\ntodos los problemas de estado en el\pgrupo del usuario.
+
+#org @gMoveDescription_FakeTears
+El usuario finge que está llorando para\nreducir bruscamente el SP del enemigo.\pEstadística de DEF.
+
+#org @gMoveDescription_AirCutter
+El enemigo es golpeado con viento como\nuna navaja. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_Overheat
+Un ataque intenso que también reduce\ndrásticamente el SP del usuario.\pEstadística de ATK.
+
+#org @gMoveDescription_OdorSleuth
+Niega completamente los esfuerzos del\nenemigo por aumentar su capacidad de\pevasión.
+
+#org @gMoveDescription_RockTomb
+Se arrojan rocas al enemigo. También\ndisminuye la VELOCIDAD del enemigo si lo\pgolpea.
+
+#org @gMoveDescription_SilverWind
+El enemigo es atacado con un polvo\nplateado. Puede aumentar todas las\pestadísticas del usuario.
+
+#org @gMoveDescription_MetalSound
+Se utiliza un horrible chirrido metálico\npara disminuir drásticamente el SP del\penemigo. DEF.
+
+#org @gMoveDescription_GrassWhistle
+Se toca una melodía agradable para\nadormecer al enemigo en un sueño\pprofundo.
+
+#org @gMoveDescription_Tickle
+Se hace reír al enemigo, lo que reduce\nsus estadísticas de ATAQUE y DEFENSA.
+
+#org @gMoveDescription_CosmicPower
+El usuario absorbe un poder místico para\naumentar su DEFENSA y SP. DEF.
+
+#org @gMoveDescription_WaterSpout
+Cuanto mayor sea el HP del usuario, más\npoderoso se vuelve este ataque.
+
+#org @gMoveDescription_SignalBeam
+El enemigo es golpeado con\un rayo\nintermitente que también puede causar\pconfusión.
+
+#org @gMoveDescription_ShadowPunch
+El usuario lanza un puñetazo desde las\nsombras. No se puede evadir.
+
+#org @gMoveDescription_Extrasensory
+El usuario ataca con un poder extraño\nque puede hacer que el enemigo se\pestremezca.
+
+#org @gMoveDescription_SkyUppercut
+El usuario ataca con un gancho lanzado\nhacia el cielo con fuerza.
+
+#org @gMoveDescription_SandTomb
+El enemigo queda atrapado dentro de una\ndolorosa tormenta de arena durante dos a\pcinco turnos.
+
+#org @gMoveDescription_SheerCold
+El enemigo es atacado con un frío\nextremo que provoca desmayos si lo\pgolpea.
+
+#org @gMoveDescription_MuddyWater
+El usuario ataca con agua fangosa.\nTambién puede reducir la precisión del\penemigo.
+
+#org @gMoveDescription_BulletSeed
+El usuario dispara semillas al enemigo.\nSe disparan de dos a cinco semillas  a\pla vez.
+
+#org @gMoveDescription_AerialAce
+Un ataque  extremadamente rápido contra\nun objetivo. No se puede evadir.
+
+#org @gMoveDescription_IcicleSpear
+Se disparan carámbanos afilados contra\nel enemigo. Golpea de dos a cinco veces.
+
+#org @gMoveDescription_IronDefense
+El usuario endurece la superficie de su\ncuerpo para aumentar drásticamente su\pestadística de DEFENSA.
+
+#org @gMoveDescription_Block
+El usuario bloquea el camino del enemigo\ncon los brazos extendidos para evitar\pque escape.
+
+#org @gMoveDescription_Howl
+El usuario aúlla para elevar su espíritu\ny aumentar su estadística de ATAQUE.
+
+#org @gMoveDescription_DragonClaw
+Garras enormes y afiladas enganchan y\ncortan al enemigo rápidamente y con gran\ppoder.
+
+#org @gMoveDescription_FrenzyPlant
+El enemigo es golpeado con\una rama\nenorme. El usuario no puede moverse\en\pel siguiente turno.
+
+#org @gMoveDescription_BulkUp
+El usuario aumenta  su cuerpo para\naumentar  sus estadísticas de ATAQUE y\pDEFENSA.
+
+#org @gMoveDescription_Bounce
+El usuario rebota o contra el enemigo en\nel segundo turno. Puede paralizar al\penemigo.
+
+#org @gMoveDescription_MudShot
+El usuario ataca arrojando barro.\nTambién reduce la VELOCIDAD del enemigo.
+
+#org @gMoveDescription_PoisonTail
+Un ataque con una alta proporción de\nimpactos críticos. También puede\penvenenar al enemigo.
+
+#org @gMoveDescription_Covet
+Un ataque  lindamente ejecutado que\ntambién roba el objeto retenido del\penemigo.
+
+#org @gMoveDescription_VoltTackle
+El usuario lanza un ataque\nelectrificado. Le duele un poco al\pusuario .
+
+#org @gMoveDescription_MagicalLeaf
+El enemigo es atacado con una hoja\nextraña que no se puede evadir.
+
+#org @gMoveDescription_WaterSport
+Debilita los ataques de tipo FUEGO\nmientras el usuario está en la batalla.
+
+#org @gMoveDescription_CalmMind
+El usuario concentra su mente en\naumentar el SP. ATK y SP. Estadísticas\pde DEF.
+
+#org @gMoveDescription_LeafBlade
+El enemigo es cortado con una hoja\nafilada. Tiene una alta proporción de\pgolpes críticos.
+
+#org @gMoveDescription_DragonDance
+Una danza mística y poderosa que aumenta\nlas estadísticas de ATAQUE y VELOCIDAD\pdel usuario.
+
+#org @gMoveDescription_RockBlast
+El usuario lanza de dos a cinco rocas\nduras al enemigo para atacar.
+
+#org @gMoveDescription_ShockWave
+Una rápida descarga de electricidad\ngolpea al enemigo. No se puede evadir.
+
+#org @gMoveDescription_WaterPulse
+Un ataque con una ráfaga de agua\npulsante. También puede confundir al\penemigo.
+
+#org @gMoveDescription_DoomDesire
+Un movimiento que ataca al enemigo con\nuna explosión de luz dos turnos después\pde su uso.
+
+#org @gMoveDescription_PsychoBoost
+Un ataque intenso que también reduce\ndrásticamente el SP del usuario.\pEstadística de ATK.
+
+#org @gText_MysteryGiftBerry
+[B_COPY_VAR_2]¡BAYA! Papá lo tiene en PETALBURG\nGYM.
+
+#org @gText_MysteryGiftBerryTransform
+[B_COPY_VAR_1]BERRY transformada en inguna[B_COPY_VAR_2]BAYA.
+
+#org @gText_MysteryGiftBerryObtained
+[B_COPY_VAR_1]BERRY ya no se ha obtenido.
+
+#org @gText_MysteryGiftSpecialRibbon
+Se otorgó una CINTA especial al POK\eMON\nde tu grupo.
+
+#org @gText_MysteryGiftNationalDex
+El POK\eDEX ha sido actualizado con el\nMODO NACIONAL.
+
+#org @gText_MysteryGiftRareWord
+Se ha añadido una palabra rara.
+
+#org @gText_MysteryGiftSentOver
+[B_COPY_VAR_1]fue enviado!
+
+#org @gText_MysteryGiftFullParty
+[B_COPY_VAR_1]No se pudo enviar.
+
+#org @gText_MysteryGiftNewTrainer
+Un nuevo ENTRENADOR ha llegado a HOENN.
+
+#org @gText_MysteryGiftNewAdversaryInBattleTower
+-à ÀúŒß ŒÁÓ+Ï ÀúºŒ!
+
+#org @gText_MysteryGiftCantBeUsed
+Estos datos no se pueden utilizar en\nesta versión.
+
