@@ -1,3 +1,714 @@
-#org @gText_BattleYesNoChoice
-[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]ÒÓÔSí No
+#org @ViridianForest_Text_FriendsItchingToBattle
+¡Vine aquí con algunos amigos para\nconseguirnos algunos BUG POK\eMON!\p¡Todos están ansiosos por participar en\nalgunas batallas POK\eMON!
+
+#org @ViridianForest_Text_RickIntro
+¡Ey! ¡Tienes POK\eMON! ¡Vamos! ¡Luchemos\ncontra ellos!
+
+#org @ViridianForest_Text_RickDefeat
+¡No! ¡CATERPIE no puede hackearlo!
+
+#org @ViridianForest_Text_RickPostBattle
+¡Ssh! Ahuyentarás a los insectos. En\notra ocasión, ¿vale?
+
+#org @ViridianForest_Text_DougIntro
+¡Yo! ¡No puedes improvisar si eres un\nPOK\eMON ENTRENADOR!
+
+#org @ViridianForest_Text_DougDefeat
+¿Eh? ¡Me quedé sin POK\eMON!
+
+#org @ViridianForest_Text_DougPostBattle
+¡Eso apesta totalmente! ¡Voy a atrapar\nalgunos más fuertes!
+
+#org @ViridianForest_Text_SammyIntro
+¡Oye, espera! ¿Cuál es la prisa? ¿Porque\nel apuro?
+
+#org @ViridianForest_Text_SammyDefeat
+¡Te doy! ¡Eres bueno en esto!
+
+#org @ViridianForest_Text_SammyPostBattle
+A veces, puedes encontrar cosas en el\nsuelo. Estoy buscando las cosas que se\pme cayeron. ¿Me puedes ayudar?
+
+#org @ViridianForest_Text_AnthonyIntro
+¡Puede que sea pequeño, pero no me\ngustará si eres suave conmigo!
+
+#org @ViridianForest_Text_AnthonyDefeat
+Oh, boo. Nada salió bien.
+
+#org @ViridianForest_Text_AnthonyPostBattle
+Perdí parte de mi asignación...
+
+#org @ViridianForest_Text_CharlieIntro
+¿Sabías que POK\eMON evoluciona?
+
+#org @ViridianForest_Text_CharlieDefeat
+¡Oh! ¡Estoy perdido!
+
+#org @ViridianForest_Text_CharliePostBattle
+BUG POK\eMON evoluciona rápidamente.\n¡Son muy divertidos!
+
+#org @ViridianForest_Text_RanOutOfPokeBalls
+Estaba lanzando POK\e BOLAS para\atrapar\nPOK\eMON y se me acabó. Por eso nunca\ppuedes tener demasiadas POK\e BOLAS.
+
+#org @ViridianForest_Text_AvoidGrassyAreasWhenWeak
+CONSEJOS PARA EL ENTRENADOR Si tus\nPOK\eMON son débiles y quieres evitar\pbatallas, ¡manténte alejado de las áreas\ncubiertas de hierba!
+
+#org @ViridianForest_Text_UseAntidoteForPoison
+¡Para el veneno, usa ANTÍDOTO!\n¡Consíguelo en POK\eMON MARTS!
+
+#org @ViridianForest_Text_ContactOakViaPCToRatePokedex
+CONSEJOS PARA EL ENTRENADOR Contacte al\nPROF. OAK a través de una PC para\pevaluar tu POK\eDEX.
+
+#org @ViridianForest_Text_CantCatchOwnedMons
+CONSEJOS PARA EL ENTRENADOR No puedes\natrapar un POK\eMON que pertenece a otra\ppersona. ¡Lanza POK\e BOLAS solo a\nPOK\eMON salvajes para atraparlos!
+
+#org @ViridianForest_Text_WeakenMonsBeforeCapture
+CONSEJOS DEL ENTRENADOR ¡Debilita a\nPOK\eMON antes de intentar capturarlo!\p¡Cuando estén sanos, pueden escapar!
+
+#org @ViridianForest_Text_LeavingViridianForest
+DEJANDO EL BOSQUE VIRIDIAN PEWTER CITY\nADELANTE
+
+#org @MtMoon_1F_Text_MarcosIntro
+¡GUAU! ¡Me sorprendiste! …¡Oh, eres sólo\nun niño!
+
+#org @MtMoon_1F_Text_MarcosDefeat
+¡Guau! ¡Sorprendido de nuevo!
+
+#org @MtMoon_1F_Text_MarcosPostBattle
+Los niños como tú no deberían andar por\naquí en la oscuridad.
+
+#org @MtMoon_1F_Text_JoshIntro
+¿Viniste a explorar la cueva también?
+
+#org @MtMoon_1F_Text_JoshDefeat
+¡Perder apesta! Es tan desagradable.
+
+#org @MtMoon_1F_Text_JoshPostBattle
+He venido hasta aquí para presumir ante\nlas chicas.
+
+#org @MtMoon_1F_Text_MiriamIntro
+¡Guau! ¡Es mucho más grande aquí de lo\nque pensaba!
+
+#org @MtMoon_1F_Text_MiriamDefeat
+¡Oh! ¡Lo perdí!
+
+#org @MtMoon_1F_Text_MiriamPostBattle
+¿Cómo sales de aquí? Es tan grande que\npuedo perderme.
+
+#org @MtMoon_1F_Text_JovanIntro
+¡Qué! ¡No me acerques sigilosamente!
+
+#org @MtMoon_1F_Text_JovanDefeat
+¡Mi POK\eMON no sirve!
+
+#org @MtMoon_1F_Text_JovanPostBattle
+Tengo que encontrar POK\eMON más\nfuertes. ¿Dónde podrían estar?
+
+#org @MtMoon_1F_Text_IrisIntro
+¿Qué? Estoy esperando que mis amigos me\nencuentren aquí.
+
+#org @MtMoon_1F_Text_IrisDefeat
+¿Perdí?
+
+#org @MtMoon_1F_Text_IrisPostBattle
+Vine porque escuché que hay algunos\nfósiles muy raros aquí.
+
+#org @MtMoon_1F_Text_KentIntro
+Hay hombres sospechosos en la cueva. ¿Y\ntú?
+
+#org @MtMoon_1F_Text_KentDefeat
+¡Me tienes!
+
+#org @MtMoon_1F_Text_KentPostBattle
+¡Los vi! ¡Estoy seguro de que son del\nTEAM ROCKET!
+
+#org @MtMoon_1F_Text_RobbyIntro
+Tienes que atravesar esta cueva para\nllegar a CERULEAN CITY.
+
+#org @MtMoon_1F_Text_RobbyDefeat
+Perdí.
+
+#org @MtMoon_1F_Text_RobbyPostBattle
+¡ZUBAT es difícil! Pero si puedes\natrapar uno, podrás contar con él.
+
+#org @MtMoon_1F_Text_ZubatIsABloodsucker
+¡Cuidado! ¡ZUBAT es un chupasangre!
+
+#org @MtMoon_1F_Text_BrockHelpsExcavateFossils
+Hola, estoy excavando en busca de\nfósiles aquí bajo MT. LUNA. A veces,\pBROCK de PEWTER GYM me echa una mano.
+
+#org @MtMoon_B2F_Text_MiguelIntro
+¡Oye, detente! ¡Encontré estos fósiles!\n¡Ambos son míos!
+
+#org @MtMoon_B2F_Text_MiguelDefeat
+¡Está bien! ¡Lo compartiré!
+
+#org @MtMoon_B2F_Text_WellEachTakeAFossil
+¡Cada uno de nosotros cogeremos un\nfósil! ¡No seas codicioso!
+
+#org @MtMoon_B2F_Text_ThenThisFossilIsMine
+Muy bien. ¡Entonces este fósil es mío!
+
+#org @MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils
+A lo lejos, en la ISLA CINNABAR, hay un\nLABORATORIO POK\eMON. Investigan fósiles\pen regeneración.
+
+#org @MtMoon_B2F_Text_Grunt1Intro
+¡Nosotros, TEAM ROCKET, encontraremos\nlos fósiles! ¡Revivir a POK\eMON de\pellos nos hará  ganar enormes riquezas!
+
+#org @MtMoon_B2F_Text_Grunt1Defeat
+¡Urgh! ¡Ahora estoy enojado!
+
+#org @MtMoon_B2F_Text_Grunt1PostBattle
+¡Me hiciste enojar! ¡TEAM ROCKET te\npondrá en la lista negra!
+
+#org @MtMoon_B2F_Text_Grunt2Intro
+¡Nosotros, TEAM ROCKET, somos POK\eMON\ngangsters! ¡Infundimos miedo con nuestra\pfuerza!
+
+#org @MtMoon_B2F_Text_Grunt2Defeat
+¡Yo lo sople!
+
+#org @MtMoon_B2F_Text_Grunt2PostBattle
+¡Maldita sea! ¡Mis asociados no\ntolerarán esto!
+
+#org @MtMoon_B2F_Text_Grunt3Intro
+¡Estamos haciendo un gran trabajo aquí!\n¡Piérdete, chico!
+
+#org @MtMoon_B2F_Text_Grunt3Defeat
+Así que eres bueno...
+
+#org @MtMoon_B2F_Text_Grunt3PostBattle
+Si encuentras un fósil, dámelo y\n¡lárgate!
+
+#org @MtMoon_B2F_Text_Grunt4Intro
+¡Los niños pequeños no deberían jugar\ncon los adultos! ¡Podrían ser malas\pnoticias!
+
+#org @MtMoon_B2F_Text_Grunt4Defeat
+¡Estoy furioso!
+
+#org @MtMoon_B2F_Text_Grunt4PostBattle
+POK\eMON vivió aquí mucho antes de que\nllegara la gente.
+
+#org @MtMoon_B2F_Text_YouWantDomeFossil
+¿Quieres el FÓSIL DOME?
+
+#org @MtMoon_B2F_Text_YouWantHelixFossil
+¿Quieres el FÓSIL HÉLIX?
+
+#org @MtMoon_B2F_Text_ObtainedHelixFossil
+¡Obtuviste el FÓSIL HÉLICE!
+
+#org @MtMoon_B2F_Text_ObtainedDomeFossil
+¡Obtuviste el FÓSIL DEL DOMO!
+
+#org @SSAnne_1F_Corridor_Text_LeStrongSilentType
+¡Bonjour! ¡Soy el camarero de este\nbarco! ¡Estaré encantado de servirte\pcualquier cosa que quieras! … … … ¡Ah!\n¡El tipo fuerte y silencioso!
+
+#org @SSAnne_1F_Corridor_Text_PassengersAreRestless
+Los pasajeros están inquietos por este\nlargo viaje. ¡Es posible que los más\paburridos te desafíen!
+
+#org @SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner
+¡Este barco es un transatlántico de lujo\npara ENTRENADORES del mundo! En cada\ppuerto, organizamos fiestas con\nENTRENADORES invitados.
+
+#org @SSAnne_2F_Corridor_Text_RivalIntro
+[B_OPPONENT_MON1_NAME]:¡Hola! [B_BUFF2]! ¡Imagínate verte aquí!\n[B_BUFF2], ¿realmente te invitaron? Entonces,\p¿cómo va tu POK\eDEX? Ya capturé 40\ntipos, amigo. Hay diferentes tipos por\ptodas partes. Arrástrese por las áreas\ncon césped y búsquelos con atención.
+
+#org @SSAnne_2F_Corridor_Text_RivalDefeat
+¡Humph! ¡Al menos estás aumentando tu\nPOK\eMON!
+
+#org @SSAnne_2F_Corridor_Text_RivalVictory
+[B_BUFF2]…! êßùÁ ÏÛñçÉ! óÑ Éú ÊŒÇŒ ìÂ ÁÁ!
+
+#org @SSAnne_2F_Corridor_Text_RivalPostBattle
+[B_OPPONENT_MON1_NAME]: Escuché que había un CUT master a\nbordo. ¡Pero era solo un viejo mareado!\pCUT en sí es realmente útil. Sí, será\nútil. Deberías ir a verlo también. Huela\p!
+
+#org @SSAnne_3F_Corridor_Text_CaptainTeachesCutToMons
+Nuestro CAPITÁN es un maestro de la\nespada. Es fantástico usando CUT. ¡Dicen\pque incluso enseña CUT a POK\eMON!
+
+#org @SSAnne_Deck_Text_ShipDepartingSoon
+Se acabó la fiesta. El barco zarpará\npronto.
+
+#org @SSAnne_Deck_Text_ScrubbingDecksHardWork
+¡Uf! ¡Fregar terrazas es un trabajo\nduro!
+
+#org @SSAnne_Deck_Text_FeelSeasick
+Urf... Me siento mal... Me mareé, así\nque salí para tomar un poco de aire...
+
+#org @SSAnne_Deck_Text_EdmondIntro
+¡Oye, amigo! ¡Hagamos un pequeño baile!
+
+#org @SSAnne_Deck_Text_EdmondDefeat
+¡Eres impresionante!
+
+#org @SSAnne_Deck_Text_EdmondPostBattle
+¿Cuántos tipos de POK\eMON crees que hay\nen este gran mundo?
+
+#org @SSAnne_Deck_Text_TrevorIntro
+¡Ah, ahí! ¿Estás mareado?
+
+#org @SSAnne_Deck_Text_TrevorDefeat
+¡Simplemente fui descuidado!
+
+#org @SSAnne_Deck_Text_TrevorPostBattle
+Mi papá dijo que hay 100 tipos de\nPOK\eMON. Creo que hay más.
+
+#org @SSAnne_Kitchen_Text_BusyOutOfTheWay
+¡Tú, mon petit! ¡Estamos ocupados aquí!\n¡Fuera del camino!
+
+#org @SSAnne_Kitchen_Text_SawOddBerryInTrash
+Vi una BAYA extraña en la basura. Me\npregunto qué fue eso.
+
+#org @SSAnne_Kitchen_Text_SoBusyImDizzy
+¡Estoy tan ocupado que me estoy\nmareando! ¡Tienes que darme espacio\paquí!
+
+#org @SSAnne_Kitchen_Text_PeelSpudsEveryDay
+Hum-de-hum-de-ho… ¡Pelo patatas todos\nlos días! Hum-hum…
+
+#org @SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton
+¿Has oído hablar de SNORLAX? Es un\nglotón. Ningún otro POK\eMON come y\pduerme como SNORLAX puede y lo hace.
+
+#org @SSAnne_Kitchen_Text_OnlyGetToPeelOnions
+Lloriquear… Oler… Solo puedo pelar\ncebollas… Snivel…
+
+#org @SSAnne_Kitchen_Text_IAmLeChefMainCourseIs
+¡Eh-hem! ¡De hecho soy el CHEF! El plato\nprincipal es
+
+#org @SSAnne_Kitchen_Text_SalmonDuSalad
+¡Salmon du Salad! ¡Sin embargo, los\ninvitados pueden volver a quejarse de\pque es pescado a!
+
+#org @SSAnne_Kitchen_Text_EelsAuBarbecue
+¡Anguilas a la barbacoa! Me temo que los\ninvitados se amotinarán.
+
+#org @SSAnne_Kitchen_Text_PrimeBeefsteak
+¡Prime Beefsteak! Pero, ¿tengo\nsuficientes filetes de carne?
+
+#org @SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick
+CAPITÁN: Ooargh… Me siento horrible…\n¡Urrp! Mareado…
+
+#org @SSAnne_CaptainsOffice_Text_RubbedCaptainsBack
+[B_BUFF2]¡Le froté la espalda al CAPITÁN !\nRub-rub… Rub-rub…
+
+#org @SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut
+CAPITÁN: ¡Uf! ¡Gracias! Me siento mucho\nmejor ahora. ¿Quieres ver mi técnica CUT\poculta? Podría mostrarte mi preciada\ntécnica CUT si no estuviera tan\penfermo... ¡Lo sé! ¡Puedes tener esto!\n¡Esta MÁQUINA OCULTA! Enséñale a CORTAR\pa tu POK\eMON, y ¡podrás verlo CORTADO\nen cualquier momento!
+
+#org @SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain
+[B_BUFF2]¡Obtuviste HM01 del CAPITÁN!
+
+#org @SSAnne_CaptainsOffice_Text_ExplainCut
+Usando CUT, puedes talar árboles\npequeños. ¿Por qué no probarlo con los\párboles alrededor de VERMILION CITY?
+
+#org @SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon
+CAPITÁN: …¡Uf! Ahora que ya no estoy\nenfermo, Creo que es el momento. ¡El\pS.S. ANNE zarpará pronto! ¡Adiós, hasta\nnuestro regreso a VERMILION CITY!
+
+#org @SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis
+¡Oh, no! ¡No tienes espacio para esto!
+
+#org @SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked
+¡Qué asco! ¡No debería haber mirado!
+
+#org @SSAnne_CaptainsOffice_Text_HowToConquerSeasickness
+Cómo vencer el mareo... ¡El CAPITÁN está\nleyendo esto!
+
+#org @SSAnne_1F_Room1_Text_ImAGlobalPoliceAgent
+¡Ssh…! Soy un agente de POLICÍA GLOBAL.\nEstoy tras la pista del TEAM ROCKET. ¡No\pestán tramando nada bueno!
+
+#org @SSAnne_1F_Room2_Text_TylerIntro
+¡Me encanta POK\eMON! ¿A ti?
+
+#org @SSAnne_1F_Room2_Text_TylerDefeat
+¡Guau!  ¡Eres genial!
+
+#org @SSAnne_1F_Room2_Text_TylerPostBattle
+¡Escucha, escucha! Déjame ser tu amigo,\n¿vale? Entonces podremos intercambiar\pPOK\eMON y do cosas.
+
+#org @SSAnne_1F_Room2_Text_AnnIntro
+¡Coleccioné estos POK\eMON  de todo el\nmundo!
+
+#org @SSAnne_1F_Room2_Text_AnnDefeat
+¡Oh, no! ¡Fui alrededor del mundo por\nestos!
+
+#org @SSAnne_1F_Room2_Text_AnnPostBattle
+¡Lastimaste a mi pobre POK\eMON! ¡Exijo\nque los sanes en un CENTRO POK\eMON!
+
+#org @SSAnne_1F_Room2_Text_CruisingAroundWorld
+Estamos navegando alrededor del mundo,\nmis hijos y yo.
+
+#org @SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy
+¡Un crucero por el mundo es tan elegante\ny a la vez acogedor!
+
+#org @SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff
+Siempre viajo con WIGGLYTUFF. Nunca\nsalgo de casa sin él.
+
+#org @SSAnne_1F_Room3_Text_Wigglytuff
+WIGGLYTUFF: ¡Conejito de caca!
+
+#org @SSAnne_1F_Room4_Text_WaiterCherryPiePlease
+Camarero, quisiera una tarta de cerezas,\n¡por favor!
+
+#org @SSAnne_1F_Room4_Text_WaitressCherryPiePlease
+Camarera, ¡me gustaría un pastel de\ncerezas, por favor!
+
+#org @SSAnne_1F_Room5_Text_ArthurIntro
+¡Cachorro insolente! ¡Cómo te atreves a\nirrumpir!
+
+#org @SSAnne_1F_Room5_Text_ArthurDefeat
+¡Humph! ¡Niño grosero! ¡No tienes\nsentido de la cortesía!
+
+#org @SSAnne_1F_Room5_Text_ArthurPostBattle
+¡Deseo que me dejen en paz! ¡Fuera!
+
+#org @SSAnne_1F_Room7_Text_ThomasIntro
+No soy más que un viajero solitario...\nMis únicos compañeros y amigos son\pPOK\eMON que atrapé en mis viajes...
+
+#org @SSAnne_1F_Room7_Text_ThomasDefeat
+Mis, mis amigos...
+
+#org @SSAnne_1F_Room7_Text_ThomasPostBattle
+¡Deberías ser amable con tus amigos!
+
+#org @SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis
+¡He viajado por todas partes, pero en\ntodos mis viajes nunca había visto a\pningún POK\eMON dormir como este! ¡Era\nalgo como esto!
+
+#org @SSAnne_2F_Room2_Text_BrooksIntro
+Competir contra los jóvenes me mantiene\njoven.
+
+#org @SSAnne_2F_Room2_Text_BrooksDefeat
+¡Buen partido! ¡Ah, me siento joven otra\nvez!
+
+#org @SSAnne_2F_Room2_Text_BrooksPostBattle
+¡Hace quince años, habría ganado!
+
+#org @SSAnne_2F_Room2_Text_DaleIntro
+¡Mira lo que pesqué!
+
+#org @SSAnne_2F_Room2_Text_DaleDefeat
+¡Estoy fuera!
+
+#org @SSAnne_2F_Room2_Text_DalePostBattle
+¿Fiesta? La fiesta del crucero ya\ndebería haber terminado.
+
+#org @SSAnne_2F_Room3_Text_SeenMonsFerryPeople
+Ah, sí, ¡he visto algunos POK\eMON\nfervesantes a través del agua!
+
+#org @SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown
+Los árboles pequeños se pueden talar\nusando el movimiento CORTAR. ¡Pero\precuerda esto! CUT es una técnica de HM.\nUna vez aprendida, no se desecha tan\pfácilmente.
+
+#org @SSAnne_2F_Room4_Text_LamarIntro
+¿Cuál te parece más digno,\un POK\eMON\nfuerte o raro?
+
+#org @SSAnne_2F_Room4_Text_LamarDefeat
+¡Debo saludarte!
+
+#org @SSAnne_2F_Room4_Text_LamarPostBattle
+Personalmente, prefiero POK\eMON fuertes\ny raros.
+
+#org @SSAnne_2F_Room4_Text_DawnIntro
+¿No creo haberte visto en la fiesta?
+
+#org @SSAnne_2F_Room4_Text_DawnDefeat
+¡Tómalo con calma!
+
+#org @SSAnne_2F_Room4_Text_DawnPostBattle
+¡Oh, adoro tus fuertes POK\eMON! ¡Oh,\ncómo te envidio por ellos!
+
+#org @SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone
+¿Has ido a la ZONA SAFARI en FUCSIA\nCITY? Hay muchos tipos de POK\eMON\praros.
+
+#org @SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome
+¡Mi papá y yo pensamos que SAFARI ZONE\nes increíble! Ojalá pudiéramos ir allí\pde nuevo.
+
+#org @SSAnne_2F_Room6_Text_CaptainIsAwfullySick
+El CAPITÁN dijo que está terriblemente\nenfermo. Estaba todo pálido.
+
+#org @SSAnne_2F_Room6_Text_ManyPeopleGetSeasick
+He oído que mucha gente se marea.
+
+#org @SSAnne_B1F_Room1_Text_PhillipIntro
+Amigo, ¡caminarás por la tabla si\npierdes!
+
+#org @SSAnne_B1F_Room1_Text_PhillipDefeat
+¡Argh! ¡Golpeado por un niño!
+
+#org @SSAnne_B1F_Room1_Text_PhillipPostBattle
+Cuando estamos en el mar, las medusas\nPOK\eMON a veces pasan a la deriva.
+
+#org @SSAnne_B1F_Room1_Text_BarnyIntro
+¡Hola, extraño! No sé si eres del mar i\nde la montaña, pero detente y charla.\pTodos mis POK\eMON son del mar.
+
+#org @SSAnne_B1F_Room1_Text_BarnyDefeat
+¡Maldita sea! ¡Dejé que se escapara!
+
+#org @SSAnne_B1F_Room1_Text_BarnyPostBattle
+¡También iba a hacerte mi\asistente!
+
+#org @SSAnne_B1F_Room2_Text_HueyIntro
+¡Incluso nosotros, los marineros,\ntambién tenemos POK\eMON!
+
+#org @SSAnne_B1F_Room2_Text_HueyDefeat
+Vale, no estás mal.
+
+#org @SSAnne_B1F_Room2_Text_HueyPostBattle
+Atrapamos todos nuestros POK\eMON\nmientras estábamos en el mar.
+
+#org @SSAnne_B1F_Room3_Text_DylanIntro
+¡Me gustan los niños luchadores como tú!
+
+#org @SSAnne_B1F_Room3_Text_DylanDefeat
+¡Argh! ¡Lo perdí!
+
+#org @SSAnne_B1F_Room3_Text_DylanPostBattle
+Los POK\eMON marinos viven en aguas\nprofundas. ¡Necesitarás una CAÑA para\ppescarlos!
+
+#org @SSAnne_B1F_Room4_Text_LeonardIntro
+¡Ya sabes lo que dicen sobre los\nmarineros y las batallas!
+
+#org @SSAnne_B1F_Room4_Text_LeonardDefeat
+¡Correcto! ¡Buena batalla, amigo!
+
+#org @SSAnne_B1F_Room4_Text_LeonardPostBattle
+¡Jajaja! ¿Quieres ser marinero, amigo?
+
+#org @SSAnne_B1F_Room4_Text_DuncanIntro
+¡Vamos, entonces! ¡Mi orgullo de\nmarinero está en juego!
+
+#org @SSAnne_B1F_Room4_Text_DuncanDefeat
+¡Tu espíritu me hundió!
+
+#org @SSAnne_B1F_Room4_Text_DuncanPostBattle
+¿Viste al GURU DE LA PESCA en VERMILION\nCITY?
+
+#org @SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks
+¡Mi amigo MACHOKE es súper fuerte!\n¡Tiene suficiente FUERZA para mover\pgrandes rocas!
+
+#org @SSAnne_B1F_Room5_Text_Machoke
+MACHOKE: ¡Gwoh!¡Goggoh!
+
+#org @SSAnne_1F_Room6_Text_TakeAShortRest
+Te ves cansado. ¿Le gustaría tomar un\nbreve descanso?
+
+#org @SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed
+Me alegra ver que todo el mundo se ve\nrenovado y alegre.
+
+#org @SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother
+Oh, lamento preocuparme por ti. Te\npareces a mi hermano pequeño...
+
+#org @SSAnne_1F_Room6_Text_SorryYouLookLikeMySister
+Oh, lamento preocuparme por ti. Te\npareces a mi hermana pequeña...
+
+#org @UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness
+La gente suele perder cosas en la\noscuridad del CAMINO SUBTERRÁNEO.
+
+#org @UndergroundPath_WestEntrance_Text_SleepyMonNearCeladon
+También escuché que un POK\eMON\nsoñoliento apareció cerca de CELADON\pCITY.
+
+#org @UndergroundPath_EastEntrance_Text_DoYouGoToCeladonDeptStore
+Los DEPARTAMENTOS TIENDAS en CELADON\ntienen una gran selección. ¿Vas allí muy\pa menudo?
+
+#org @DiglettsCave_SouthEntrance_Text_DiglettDugThisTunnel
+Bueno, ¡no es una sorpresa! ¡DIGLETT\ncavó este largo túnel! Va directo a\pVIRIDIAN CITY, me dicen.
+
+#org @VictoryRoad_1F_Text_NaomiIntro
+Me pregunto si eres lo suficientemente\nbueno para mí.
+
+#org @VictoryRoad_1F_Text_NaomiDefeat
+perdí...
+
+#org @VictoryRoad_1F_Text_NaomiPostBattle
+Nunca quise perder contra nadie,\nespecialmente contra un niño más\ppequeño...
+
+#org @VictoryRoad_1F_Text_RolandoIntro
+Puedo ver que eres bueno. ¡Déjame ver\nexactamente qué tan bueno!
+
+#org @VictoryRoad_1F_Text_RolandoDefeat
+Tuve una oportunidad...
+
+#org @VictoryRoad_1F_Text_RolandoPostBattle
+¡Tch! ¡Lo admito, eres mejor que yo!
+
+#org @VictoryRoad_2F_Text_DawsonIntro
+Si puedes pasar por aquí, puedes ir a\nencontrarte con ELITE FOUR.
+
+#org @VictoryRoad_2F_Text_DawsonDefeat
+¡No! ¡Increíble!
+
+#org @VictoryRoad_2F_Text_DawsonPostBattle
+¡Puedo vencerte en lo que respecta a\nconocimientos sobre POK\eMON!
+
+#org @VictoryRoad_2F_Text_DaisukeIntro
+Esto es VICTORY ROAD. ¡Es la prueba\nfinal para los ENTRENADORES!
+
+#org @VictoryRoad_2F_Text_DaisukeDefeat
+¡Atcho!
+
+#org @VictoryRoad_2F_Text_DaisukePostBattle
+Si te quedas atascado, intenta mover\nalgunas rocas.
+
+#org @VictoryRoad_2F_Text_NelsonIntro
+Ah, ¿entonces deseas desafiar a ELITE\nFOUR?
+
+#org @VictoryRoad_2F_Text_NelsonDefeat
+¡Me tienes!
+
+#org @VictoryRoad_2F_Text_NelsonPostBattle
+[B_OPPONENT_MON1_NAME]También pasó por aquí.
+
+#org @VictoryRoad_2F_Text_VincentIntro
+¡Vamos! ¡Te azotaré!
+
+#org @VictoryRoad_2F_Text_VincentDefeat
+¡Me azotaron!
+
+#org @VictoryRoad_2F_Text_VincentPostBattle
+Te ganaste el derecho a estar en VICTORY\nROAD...
+
+#org @VictoryRoad_2F_Text_GregoryIntro
+¿Es VICTORY ROAD demasiado difícil?
+
+#org @VictoryRoad_2F_Text_GregoryDefeat
+¡Bien hecho!
+
+#org @VictoryRoad_2F_Text_GregoryPostBattle
+Muchos ENTRENADORES abandonan su desafío\naquí y se van a casa.
+
+#org @VictoryRoad_2F_Text_Gyaoo
+-!
+
+#org @Text_DoubleEdgeTeach
+Deberías estar orgulloso de ti mismo, de\nhaber luchado por VICTORY ROAD con tanta\pvalentía. En reconocimiento a tu hazaña,\nte enseñaré DOBLE FILO. ¿Quieres que te\penseñe esa técnica?
+
+#org @Text_DoubleEdgeDeclined
+Te enseñaré la técnica en cualquier\nmomento.
+
+#org @Text_DoubleEdgeWhichMon
+¿Qué POK\eMON debería enseñar DOBLE\nEDGE?
+
+#org @Text_DoubleEdgeTaught
+¡Sigue adelante por la POK\eMON LEAGUE!\n¡Corre hacia ellos y noquearlos !
+
+#org @VictoryRoad_3F_Text_GeorgeIntro
+Escuché rumores de un niño prodigio.
+
+#org @VictoryRoad_3F_Text_GeorgeDefeat
+¡Los rumores eran ciertos!
+
+#org @VictoryRoad_3F_Text_GeorgePostBattle
+Entonces, ¿fuiste tú quien venció a\nGIOVANNI del TEAM ROCKET?
+
+#org @VictoryRoad_3F_Text_AlexaIntro
+LOS ENTRENADORES viven para buscar\noponentes más fuertes.
+
+#org @VictoryRoad_3F_Text_AlexaDefeat
+¡Oh! ¡Qué fuerte!
+
+#org @VictoryRoad_3F_Text_AlexaPostBattle
+Al luchar en duras batallas, te vuelves\nmás fuerte.
+
+#org @VictoryRoad_3F_Text_CarolineIntro
+Te mostraré lo bueno que eres. ¡No!
+
+#org @VictoryRoad_3F_Text_CarolineDefeat
+¡Estoy furioso!
+
+#org @VictoryRoad_3F_Text_CarolinePostBattle
+Me mostraste lo bueno que era...
+
+#org @VictoryRoad_3F_Text_ColbyIntro
+¡Por aquí sólo pueden pasar los\nelegidos!
+
+#org @VictoryRoad_3F_Text_ColbyDefeat
+¡No lo creo!
+
+#org @VictoryRoad_3F_Text_ColbyPostBattle
+Todos los ENTRENADORES aquí se dirigen a\nla LIGA POK\eMON. No bajes la guardia.
+
+#org @VictoryRoad_3F_Text_RayIntro
+RAY: ¡Juntos, los dos estamos destinados\na la grandeza!
+
+#org @VictoryRoad_3F_Text_RayDefeat
+RAY: ¡Es ridículo! ¡Esto no puede ser!
+
+#org @VictoryRoad_3F_Text_RayPostBattle
+RAY: Nos has vencido. La grandeza sigue\nsiendo difícil de alcanzar...
+
+#org @VictoryRoad_3F_Text_RayNotEnoughMons
+RAY: Juntos, los dos estamos luchando\npor alcanzar la cima. Necesitamos que\ptraigas dos POK\eMON a la batalla con\nnosotros.
+
+#org @VictoryRoad_3F_Text_TyraIntro
+TYRA: Estamos intentando convertirnos en\ncampeones juntos.
+
+#org @VictoryRoad_3F_Text_TyraDefeat
+TYRA: Ah, pero…
+
+#org @VictoryRoad_3F_Text_TyraPostBattle
+TYRA: Me has enseñado que el poder puede\nser infinito en forma y forma.
+
+#org @VictoryRoad_3F_Text_TyraNotEnoughMons
+TYRA: No puedes luchar con nosotros si\nsolo tienes un POK\eMON.
+
+#org @RocketHideout_B1F_Text_Grunt1Intro
+¿Quién eres? ¿Cómo llegaste aquí?
+
+#org @RocketHideout_B1F_Text_Grunt1Defeat
+¡Ay! ¡Derrotado!
+
+#org @RocketHideout_B1F_Text_Grunt1PostBattle
+Maldita sea... Estás menospreciando al\nTEAM ROCKET, ¿no?
+
+#org @RocketHideout_B1F_Text_Grunt2Intro
+¿Irrumpiste en la operación del TEAM\nROCKET? ¡Qué descaro!
+
+#org @RocketHideout_B1F_Text_Grunt2Defeat
+¡Auge!
+
+#org @RocketHideout_B1F_Text_Grunt2PostBattle
+¡No vas a salirte con la tuya, mocoso!
+
+#org @RocketHideout_B1F_Text_Grunt3Intro
+¡Alerta de intruso!
+
+#org @RocketHideout_B1F_Text_Grunt3Defeat
+¡No puedo hacerlo!
+
+#org @RocketHideout_B1F_Text_Grunt3PostBattle
+¿ALCANCE SILFO? ¡Humph! No sé dónde\nestá.
+
+#org @RocketHideout_B1F_Text_Grunt4Intro
+¿Por qué viniste aquí?
+
+#org @RocketHideout_B1F_Text_Grunt4Defeat
+¡Esto no servirá!
+
+#org @RocketHideout_B1F_Text_Grunt4PostBattle
+Está bien, hablaré... Toma el ascensor\npara ver a mi JEFE.
+
+#org @RocketHideout_B1F_Text_Grunt5Intro
+¿Estás perdido, ratoncito?
+
+#org @RocketHideout_B1F_Text_Grunt5Defeat
+Por qué…?
+
+#org @RocketHideout_B1F_Text_Grunt5PostBattle
+¡Uh-oh, ese alboroto de alguna manera\nabrió la puerta!
+
+#org @RocketHideout_B2F_Text_GruntIntro
+BOSS dijo que puedes ver fantasmas con\nel SILPH SCOPE.
+
+#org @RocketHideout_B2F_Text_GruntDefeat
+¡Me rindo!
+
+#org @RocketHideout_B2F_Text_GruntPostBattle
+La sede del TEAM ROCKET tiene cuatro\npisos subterráneos. ¿Crees que puedes\pcomunicarte con el BOSS?
+
+#org @RocketHideout_B3F_Text_Grunt1Intro
+¡Deja de entrometerte en los asuntos de\nTEAM ROCKET o si no!
+
+#org @RocketHideout_B3F_Text_Grunt1Defeat
+¡Uf! ¡Derribado!
+
+#org @RocketHideout_B3F_Text_Grunt1PostBattle
+¿SILPH SCOPE? Oh, esa máquina que robó\nel BOSS. Está aquí en alguna parte.
+
+#org @RocketHideout_B3F_Text_Grunt2Intro
+¡Nos han dicho desde arriba que\nvendrías!
+
+#org @RocketHideout_B3F_Text_Grunt2Defeat
+¿Qué? ¿Perdí? ¡No!
 

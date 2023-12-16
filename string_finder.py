@@ -185,7 +185,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             else:
                                                 translated_text += '[' + splitted_text_section_2 + ']'
                                         else:
-                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            try:
+                                                translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            except:
+                                                translated_text = constructedString
                     else:
                         translated_text = constructedString
                 except:
@@ -205,7 +208,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         else:
                                             translated_text += '[' + splitted_text_section_2 + ']'
                                     else:
-                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        try:
+                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        except:
+                                            translated_text = constructedString
                     else:
                         translated_text = constructedString
                 if constructedString:
@@ -228,7 +234,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         else:
                                             translated_text += '[' + splitted_text_section_2 + ']'
                                     else:
-                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        try:
+                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        except:
+                                            translated_text = constructedString
                     if translated_text != '':
                         line_endings = 'npl'
                         line_endings_store = ''
