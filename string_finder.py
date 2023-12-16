@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'ViridianForest_Text_FriendsItchingToBattle':
+        # if string == 'ViridianForest_Text_DougIntro':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructedString = ''
@@ -160,9 +160,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 except:
                     pass
                 translated_text = ''
-                lang = nlp(constructedString)._.language['language']
+                lang = nlp(constructedString)._.language['score']
+                lang_score = nlp(constructedString)._.language['score']
                 lang2 = nlp(constructedString2)._.language['language']
-                if lang != 'en' and lang2 == 'ja':
+                lang2_score = nlp(constructedString)._.language['score']
+                if lang != 'en' and lang2 == 'ja' and lang_score > .8 and lang2_score > .8:
                     constructedString = constructedString2
                     if '[' in constructedString:
                         splitted_text = constructedString.split('[')
@@ -189,13 +191,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
                                 except:
                                     pass
-                    else:
-                        try:
-                            translated_text += GoogleTranslator(source='auto', target='es').translate(constructedString)
-                        except:
-                            pass
-                else:
-                    translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
+                translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
                 text_newline = translated_text.replace('\n', '\\n')
                 if translated_text:
                     line_endings = 'npl'
@@ -251,7 +247,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             print(3, string)
                             f.write('#org @' + string + '\n' + text_newline + '\n\n')
                 else:
-                    translated_text = GoogleTranslator(source='auto', target='es').translate(text_newline)
                     line_endings = 'npl'
                     line_endings_store = ''
                     pos = 0
