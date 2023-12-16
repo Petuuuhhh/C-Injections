@@ -3,8 +3,17 @@ from TextScripts import TextScripts, pokefirered_sym, charMap, CharMap, SpecialB
 from Japanese import JapaneseChars, Japanese
 import re
 from deep_translator import GoogleTranslator
-from langdetect import detect_langs
+import spacy
+from spacy.language import Language
+from spacy_langdetect import LanguageDetector
 # from tqdm import tqdm
+
+def get_lang_detector(nlp, name):
+    return LanguageDetector()
+
+nlp = spacy.load("en_core_web_sm")
+Language.factory("language_detector", func=get_lang_detector)
+nlp.add_pipe('language_detector', last=True)
 
 nineWidths = ['B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
 SOURCE_ROM = "BPRE0.gba"
@@ -18,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'Help_Text_HowToEnterName':
+        # if string == 'MtMoon_1F_Text_IrisDefeat':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructedString = ''
@@ -154,11 +163,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 langs2 = {}
                 translated_text = ''
                 try:
-                    for lang in detect_langs(constructedString):
+                    for lang in nlp(constructedString):
                         langs[str(lang).split(':')[0]] = str(lang).split(':')[1]
-                    for lang in detect_langs(constructedString2):
+                    for lang in nlp(constructedString2):
                         langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
                     if 'en' not in langs and 'ja' in langs2:
+                        print(constructedString, langs, langs2)
                         constructedString = constructedString2
                         if '[' in constructedString:
                             splitted_text = constructedString.split('[')
@@ -315,16 +325,20 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             for match in matches:
                                 sanitizedText = sanitizedText.replace(match, 'xxx', 1)
 
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+                            # Check if sanitizedText is less than 39 characters
+                            if len(sanitizedText) <= 39:
+                                formatted_text = sanitizedText
+                            else:
+                                # Split the string into sections of 39 characters without breaking words
+                                sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
 
-                            # Add '\\n' or '\\p' to the end of each section alternately
-                            formatted_sections = []
-                            for i, section in enumerate(sections):
-                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+                                # Add '\\n' or '\\p' to the end of each section alternately
+                                formatted_sections = []
+                                for i, section in enumerate(sections):
+                                    formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
 
-                            # Join the sections to form the final formatted string
-                            formatted_text = ''.join(formatted_sections)
+                                # Join the sections to form the final formatted string
+                                formatted_text = ''.join(formatted_sections)
 
                             # Replace 'xxx' with the original square brackets and their contents
                             for match in matches:
@@ -358,22 +372,27 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         pass
                                 pos = pos + 1
                             sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                            print(sanitizedText)
 
                             # Identify and replace square brackets and their content with 'xxx'
                             matches = re.findall(r'\[.+?\]', sanitizedText)
                             for match in matches:
                                 sanitizedText = sanitizedText.replace(match, 'xxx', 1)
 
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+                            # Check if sanitizedText is less than 39 characters
+                            if len(sanitizedText) <= 39:
+                                formatted_text = sanitizedText
+                            else:
+                                # Split the string into sections of 39 characters without breaking words
+                                sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
 
-                            # Add '\\n' or '\\p' to the end of each section alternately
-                            formatted_sections = []
-                            for i, section in enumerate(sections):
-                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+                                # Add '\\n' or '\\p' to the end of each section alternately
+                                formatted_sections = []
+                                for i, section in enumerate(sections):
+                                    formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
 
-                            # Join the sections to form the final formatted string
-                            formatted_text = ''.join(formatted_sections)
+                                # Join the sections to form the final formatted string
+                                formatted_text = ''.join(formatted_sections)
 
                             # Replace 'xxx' with the original square brackets and their contents
                             for match in matches:

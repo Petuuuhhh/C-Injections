@@ -7,16 +7,20 @@ matches = re.findall(r'\[.+?\]', sanitizedText)
 for match in matches:
     sanitizedText = sanitizedText.replace(match, 'xxx', 1)
 
-# Split the string into sections of 39 characters without breaking words
-sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+# Check if sanitizedText is less than 39 characters
+if len(sanitizedText) <= 39:
+    formatted_text = sanitizedText
+else:
+    # Split the string into sections of 39 characters without breaking words
+    sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
 
-# Add '\\n' or '\\p' to the end of each section alternately
-formatted_sections = []
-for i, section in enumerate(sections):
-    formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+    # Add '\\n' or '\\p' to the end of each section alternately
+    formatted_sections = []
+    for i, section in enumerate(sections):
+        formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
 
-# Join the sections to form the final formatted string
-formatted_text = ''.join(formatted_sections)
+    # Join the sections to form the final formatted string
+    formatted_text = ''.join(formatted_sections)
 
 # Replace 'xxx' with the original square brackets and their contents
 for match in matches:
