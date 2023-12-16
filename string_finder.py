@@ -160,7 +160,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 except:
                     pass
                 translated_text = ''
-                lang = nlp(constructedString)._.language['score']
+                lang = nlp(constructedString)._.language['language']
                 lang_score = nlp(constructedString)._.language['score']
                 lang2 = nlp(constructedString2)._.language['language']
                 lang2_score = nlp(constructedString)._.language['score']
@@ -191,7 +191,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                     translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
                                 except:
                                     pass
-                translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
+                    else:
+                        translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
+                else:
+                    translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
                 text_newline = translated_text.replace('\n', '\\n')
                 if translated_text:
                     line_endings = 'npl'
