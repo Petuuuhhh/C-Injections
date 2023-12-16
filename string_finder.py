@@ -164,7 +164,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 lang_score = nlp(constructedString)._.language['score']
                 lang2 = nlp(constructedString2)._.language['language']
                 lang2_score = nlp(constructedString)._.language['score']
-                print(string, lang, lang_score, lang2, lang2_score)
+                # print(string, lang, lang_score, lang2, lang2_score)
                 if lang != 'en' and lang2 == 'ja' and lang_score > .9 and lang2_score > .9:
                     constructedString = constructedString2
                     if '[' in constructedString:
