@@ -27,11 +27,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'MtMoon_1F_Text_IrisDefeat':
+        # if string == 'CeruleanCity_Text_SlowbroUseSonicboom':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
-                constructedString = ''
-                constructedString2 = ''
+                constructed_string = ''
+                constructed_string2 = ''
                 rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
                 ordROM = ord(rom.read(1))
                 num = 0
@@ -66,7 +66,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         if ordROM in CharMap and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
                             num2 = 0
                             if num > -1:
-                                constructedString += CharMap[ordROM]
+                                constructed_string += CharMap[ordROM]
                             num = num + 1
                             offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
                             rom.seek(int(('0x' + offset_actual), 16) - 0x08000000)
@@ -76,15 +76,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             if num2 > -1:
                                 if ordROM_2 in SpecialBuffers:
                                     # print(2, SpecialBuffers[ordROM_2])
-                                    constructedString += '[' + SpecialBuffers[ordROM_2] + ']'
+                                    constructed_string += '[' + SpecialBuffers[ordROM_2] + ']'
                                     offset_actual = hex(int(offset_actual, 16) + int('02', 16)).replace('0x', '')
                                 elif ordROM_3 in SpecialBuffers:
                                     # print(3, SpecialBuffers[ordROM_3])
-                                    constructedString += '[' + SpecialBuffers[ordROM_3] + ']'
+                                    constructed_string += '[' + SpecialBuffers[ordROM_3] + ']'
                                     offset_actual = hex(int(offset_actual, 16) + int('03', 16)).replace('0x', '')
                                 elif ordROM_5 in SpecialBuffers:
                                     # print(5, SpecialBuffers[ordROM_5])
-                                    constructedString += '[' + SpecialBuffers[ordROM_5] + ']'
+                                    constructed_string += '[' + SpecialBuffers[ordROM_5] + ']'
                                     offset_actual = hex(int(offset_actual, 16) + int('05', 16)).replace('0x', '')
                                 else:
                                     offset_actual = hex(int(offset_actual, 16) + int('01', 16)).replace('0x', '')
@@ -132,7 +132,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         if returnValue in Japanese and ordROM_2 not in SpecialBuffers and ordROM_3 not in SpecialBuffers and ordROM_5 not in SpecialBuffers:
                             num2 = 0
                             if num > -1:
-                                constructedString2 += Japanese[returnValue]
+                                constructed_string2 += Japanese[returnValue]
                             num = num + 1
                             rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
                             rom.seek(int(('0x' + rom_offset), 16) - 0x08000000)
@@ -142,15 +142,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             if num2 > -1:
                                 if ordROM_2 in SpecialBuffers:
                                     # print(2, SpecialBuffers[ordROM_2])
-                                    constructedString2 += '[' + SpecialBuffers[ordROM_2] + ']'
+                                    constructed_string2 += '[' + SpecialBuffers[ordROM_2] + ']'
                                     rom_offset = hex(int(rom_offset, 16) + int('02', 16)).replace('0x', '')
                                 elif ordROM_3 in SpecialBuffers:
                                     # print(3, SpecialBuffers[ordROM_3])
-                                    constructedString2 += '[' + SpecialBuffers[ordROM_3] + ']'
+                                    constructed_string2 += '[' + SpecialBuffers[ordROM_3] + ']'
                                     rom_offset = hex(int(rom_offset, 16) + int('03', 16)).replace('0x', '')
                                 elif ordROM_5 in SpecialBuffers:
                                     # print(5, SpecialBuffers[ordROM_5])
-                                    constructedString2 += '[' + SpecialBuffers[ordROM_5] + ']'
+                                    constructed_string2 += '[' + SpecialBuffers[ordROM_5] + ']'
                                     rom_offset = hex(int(rom_offset, 16) + int('05', 16)).replace('0x', '')
                                 else:
                                     rom_offset = hex(int(rom_offset, 16) + int('01', 16)).replace('0x', '')
@@ -159,58 +159,81 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             ordROM = ord(rom.read(1))
                 except:
                     pass
-                translated_text = ''
-                lang = nlp(constructedString)._.language['language']
-                lang_score = nlp(constructedString)._.language['score']
-                lang2 = nlp(constructedString2)._.language['language']
-                lang2_score = nlp(constructedString)._.language['score']
-                # print(string, lang, lang_score, lang2, lang2_score)
-                if lang != 'en' and lang2 == 'ja' and lang_score > .9 and lang2_score > .9:
-                    constructedString = constructedString2
-                    if '[' in constructedString:
-                        splitted_text = constructedString.split('[')
+                english = ''
+                japanese = ''
+                lang = nlp(constructed_string)._.language['language']
+                if lang != 'en':
+                    if '[' in constructed_string2:
+                        splitted_text = constructed_string2.split('[')
                         for splitted_text_section in splitted_text:
                             if ']' in splitted_text_section:
                                 splitted_text_2 = splitted_text_section.split(']')
                                 for splitted_text_section_2 in splitted_text_2:
                                     if splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructedString.split('[')[0] == '' and constructedString.split(']')[1] == ' ':
-                                            translated_text += '[' + splitted_text_section_2 + '] '
-                                        elif constructedString.split(']')[1] == '' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + ']'
-                                        elif constructedString.split(']')[1] == ' ' and constructedString.split('[')[0] == ' ':
-                                            translated_text += ' [' + splitted_text_section_2 + '] '
+                                        if constructed_string2.split('[')[0] == '' and constructed_string2.split(']')[1] == ' ':
+                                            japanese += '[' + splitted_text_section_2 + '] '
+                                        elif constructed_string2.split(']')[1] == '' and constructed_string2.split('[')[0] == ' ':
+                                            japanese += ' [' + splitted_text_section_2 + ']'
+                                        elif constructed_string2.split(']')[1] == ' ' and constructed_string2.split('[')[0] == ' ':
+                                            japanese += ' [' + splitted_text_section_2 + '] '
                                         else:
-                                            translated_text += '[' + splitted_text_section_2 + ']'
+                                            japanese += '[' + splitted_text_section_2 + ']'
                                     else:
                                         try:
-                                            translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                            japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                         except:
                                             pass
                             else:
                                 try:
-                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                    japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
                                 except:
                                     pass
                     else:
-                        translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
+                        japanese = GoogleTranslator(source='auto', target='es').translate(constructed_string2)
                 else:
-                    translated_text = GoogleTranslator(source='auto', target='es').translate(constructedString)
-                if translated_text:
-                    text_newline = translated_text.replace('\n', '\\n')
+                    japanese = GoogleTranslator(source='auto', target='es').translate(constructed_string2)
+                if '[' in constructed_string:
+                    splitted_text = constructed_string.split('[')
+                    for splitted_text_section in splitted_text:
+                        if ']' in splitted_text_section:
+                            splitted_text_2 = splitted_text_section.split(']')
+                            for splitted_text_section_2 in splitted_text_2:
+                                if splitted_text_section_2 in SpecialBuffersReverse:
+                                    if constructed_string.split('[')[0] == '' and constructed_string.split(']')[1] == ' ':
+                                        english += '[' + splitted_text_section_2 + '] '
+                                    elif constructed_string.split(']')[1] == '' and constructed_string.split('[')[0] == ' ':
+                                        english += ' [' + splitted_text_section_2 + ']'
+                                    elif constructed_string.split(']')[1] == ' ' and constructed_string.split('[')[0] == ' ':
+                                        english += ' [' + splitted_text_section_2 + '] '
+                                    else:
+                                        english += '[' + splitted_text_section_2 + ']'
+                                else:
+                                    try:
+                                        english += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                    except:
+                                        pass
+                        else:
+                            try:
+                                english += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                            except:
+                                pass
+                else:
+                    english = GoogleTranslator(source='auto', target='es').translate(constructed_string)
+                if english:
+                    text_newline = english.replace('\n', '\\n')
                     line_endings = 'npl'
                     line_endings_store = ''
                     pos = 0
                     try:
-                        for char in translated_text:
+                        for char in english:
                             if char == '\\':
                                 try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    if english[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + english[pos + 1]
                                 except:
                                     pass
                             pos = pos + 1
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                        sanitizedText = english.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
 
                         # Identify and replace square brackets and their content with 'xxx'
                         matches = re.findall(r'\[.+?\]', sanitizedText)
@@ -255,15 +278,15 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     line_endings_store = ''
                     pos = 0
                     try:
-                        for char in translated_text:
+                        for char in english:
                             if char == '\\':
                                 try:
-                                    if translated_text[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + translated_text[pos + 1]
+                                    if english[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + english[pos + 1]
                                 except:
                                     pass
                             pos = pos + 1
-                        sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+                        sanitizedText = english.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
 
                         # Identify and replace square brackets and their content with 'xxx'
                         matches = re.findall(r'\[.+?\]', sanitizedText)
@@ -303,4 +326,111 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         except:
                             print(6, string)
                             f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                if japanese:
+                    text_newline = japanese.replace('\n', '\\n')
+                    line_endings = 'npl'
+                    line_endings_store = ''
+                    pos = 0
+                    try:
+                        for char in japanese:
+                            if char == '\\':
+                                try:
+                                    if japanese[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + japanese[pos + 1]
+                                except:
+                                    pass
+                            pos = pos + 1
+                        sanitizedText = japanese.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+
+                        # Identify and replace square brackets and their content with 'xxx'
+                        matches = re.findall(r'\[.+?\]', sanitizedText)
+                        for match in matches:
+                            sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+
+                        # Check if sanitizedText is less than 37 characters
+                        if len(sanitizedText) <= 37:
+                            formatted_text = sanitizedText
+                        else:
+                            # Split the string into sections of 37 characters without breaking words
+                            sections = re.findall(r'(.{1,37}\S(?:\s|$)|\S+)', sanitizedText)
+
+                            # Add '\\n' or '\\p' to the end of each section alternately
+                            formatted_sections = []
+                            for i, section in enumerate(sections):
+                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+
+                            # Join the sections to form the final formatted string
+                            formatted_text = ''.join(formatted_sections)
+
+                        # Replace 'xxx' with the original square brackets and their contents
+                        for match in matches:
+                            formatted_text = formatted_text.replace('xxx', match, 1)
+
+                        # Remove the space before '\\n' or '\\p'
+                        formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
+
+                        # print(formatted_text)
+
+                        print(7, string)
+                        f.write('#org @' + string + 'Japanese\n' + formatted_text + '\n\n')
+                    except:
+                        try:
+                            print(8, string)
+                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
+                        except:
+                            print(9, string)
+                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
+                else:
+                    line_endings = 'npl'
+                    line_endings_store = ''
+                    pos = 0
+                    try:
+                        for char in japanese:
+                            if char == '\\':
+                                try:
+                                    if japanese[pos + 1] in line_endings:
+                                        line_endings_store = line_endings_store + japanese[pos + 1]
+                                except:
+                                    pass
+                            pos = pos + 1
+                        sanitizedText = japanese.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
+
+                        # Identify and replace square brackets and their content with 'xxx'
+                        matches = re.findall(r'\[.+?\]', sanitizedText)
+                        for match in matches:
+                            sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+
+                        # Check if sanitizedText is less than 37 characters
+                        if len(sanitizedText) <= 37:
+                            formatted_text = sanitizedText
+                        else:
+                            # Split the string into sections of 37 characters without breaking words
+                            sections = re.findall(r'(.{1,37}\S(?:\s|$)|\S+)', sanitizedText)
+
+                            # Add '\\n' or '\\p' to the end of each section alternately
+                            formatted_sections = []
+                            for i, section in enumerate(sections):
+                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
+
+                            # Join the sections to form the final formatted string
+                            formatted_text = ''.join(formatted_sections)
+
+                        # Replace 'xxx' with the original square brackets and their contents
+                        for match in matches:
+                            formatted_text = formatted_text.replace('xxx', match, 1)
+
+                        # Remove the space before '\\n' or '\\p'
+                        formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
+
+                        # print(formatted_text)
+
+                        print(10, string)
+                        f.write('#org @' + string + 'Japanese\n' + formatted_text + '\n\n')
+                    except:
+                        try:
+                            print(11, string)
+                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
+                        except:
+                            print(12, string)
+                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
 f.close()
