@@ -326,7 +326,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         except:
                             print(6, string)
                             f.write('#org @' + string + '\n' + text_newline + '\n\n')
-                if japanese:
+                if lang != 'en' and japanese:
                     text_newline = japanese.replace('\n', '\\n')
                     line_endings = 'npl'
                     line_endings_store = ''
