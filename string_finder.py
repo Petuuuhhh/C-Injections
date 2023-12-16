@@ -168,7 +168,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     for lang in nlp(constructedString2):
                         langs2[str(lang).split(':')[0]] = str(lang).split(':')[1]
                     if 'en' not in langs and 'ja' in langs2:
-                        print(constructedString, langs, langs2)
                         constructedString = constructedString2
                         if '[' in constructedString:
                             splitted_text = constructedString.split('[')
@@ -372,7 +371,6 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         pass
                                 pos = pos + 1
                             sanitizedText = translated_text.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-                            print(sanitizedText)
 
                             # Identify and replace square brackets and their content with 'xxx'
                             matches = re.findall(r'\[.+?\]', sanitizedText)
