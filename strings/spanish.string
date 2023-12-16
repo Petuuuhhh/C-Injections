@@ -1067,7 +1067,7 @@ No importa. ¡Mis hermanos me devolverán\nel favor!
 ¡Vete a casa antes de que mi JEFE se\nenoje!
 
 #org @SilphCo_7F_Text_RivalWhatKeptYou
-[B_OPPONENT_MON1_NAME]: Qué te contuvo,[B_BUFF2]
+[B_OPPONENT_MON1_NAME]: What kept you, [B_BUFF2]?
 
 #org @SilphCo_7F_Text_RivalIntro
 [B_OPPONENT_MON1_NAME]: ¡Jajaja! ¡Pensé que aparecerías si\nesperaba aquí! ¡Supongo que TEAM ROCKET\pte ralentizó! ¡No es que me importe! Te\nvi en SAFFRON, ¡así que decidí ver si te\precuperabas!
@@ -1430,10 +1430,10 @@ HM03 es SURF. POK\eMON podrá\ntransportarte a través del agua\pusándolo. Y es
 ¡Maullar!
 
 #org @PokemonLeague_LoreleisRoom_Text_Intro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @PokemonLeague_LoreleisRoom_Text_RematchIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @PokemonLeague_LoreleisRoom_Text_Defeat
 … ¡Las cosas no deberían ser así!
@@ -1442,10 +1442,10 @@ HM03 es SURF. POK\eMON podrá\ntransportarte a través del agua\pusándolo. Y es
 Eres mejor de lo que pensaba. Sigue\nadelante. Solo has probado el poder de\pPOK\eMON LEAGUE.
 
 #org @PokemonLeague_BrunosRoom_Text_Intro
-[B_BUFF2]! ¡Te aplastaremos con nuestro poder\nsuperior! ¡Hoo hah![PLAY_BGM]
+[B_BUFF2]! ¡Te aplastaremos con nuestro poder\nsuperior! ¡Hoo hah![PLAY_BGM]TIENE
 
 #org @PokemonLeague_BrunosRoom_Text_RematchIntro
-[B_BUFF2]! ¡Te aplastaremos con nuestro poder\nsuperior! ¡Hoo hah![PLAY_BGM]
+[B_BUFF2]! ¡Te aplastaremos con nuestro poder\nsuperior! ¡Hoo hah![PLAY_BGM]TIENE
 
 #org @PokemonLeague_BrunosRoom_Text_Defeat
 ¿Por qué? ¿Cómo podría perder?
@@ -1454,10 +1454,10 @@ Eres mejor de lo que pensaba. Sigue\nadelante. Solo has probado el poder de\pPOK
 Mi trabajo está hecho. Enfréntate a tu\npróximo desafío.
 
 #org @PokemonLeague_AgathasRoom_Text_Intro
-[B_BUFF2]! ¡Te mostraré cómo lucha un\nENTRENADOR real![PLAY_BGM]
+[B_BUFF2]! ¡Te mostraré cómo lucha un\nENTRENADOR real![PLAY_BGM]TIENE
 
 #org @PokemonLeague_AgathasRoom_Text_RematchIntro
-[B_BUFF2]! ¡Te mostraré cómo lucha un\nENTRENADOR real![PLAY_BGM]
+[B_BUFF2]! ¡Te mostraré cómo lucha un\nENTRENADOR real![PLAY_BGM]TIENE
 
 #org @PokemonLeague_AgathasRoom_Text_Defeat
 ¡Dios mío! ¡Eres algo especial, niña!
@@ -1466,10 +1466,10 @@ Mi trabajo está hecho. Enfréntate a tu\npróximo desafío.
 ¡Tú ganas! Ahora veo lo que el viejo\nidiota ve en ti. No tengo nada más que\pdecir. ¡Corre ahora, niña!
 
 #org @PokemonLeague_LancesRoom_Text_Intro
-[B_BUFF2]! Lidero ELITE FOUR. Puedes llamarme\nLANCE el dragón ENTRENADOR. Sabes que\plos dragones son POK\eMON míticos. Son\ndifíciles de atrapar y criar, pero sus\ppoderes son superiores. Ellos Son\nprácticamente indestructibles. No se\ppuede ser inteligente con ellos. Bueno,\n¿estás listo para perder? Tu desafío de\pLIGA termina conmigo ,[B_BUFF2][PLAY_BGM]
+Ah! I've heard about you, [B_BUFF2]! I lead\nthe ELITE FOUR. You can call me LANCE\pthe dragon TRAINER. You know that\ndragons are mythical POK\eMON. They're\phard to catch and raise, but their\npowers are superior. They're virtually\pindestructible. There's no being clever\nwith them. Well, are you ready to lose?\pYour LEAGUE challenge ends with me,\n[B_BUFF2]![PLAY_BGM]À[PLAY_BGM]TIENE
 
 #org @PokemonLeague_LancesRoom_Text_RematchIntro
-[B_BUFF2]! Lidero ELITE FOUR. Puedes llamarme\nLANCE el dragón ENTRENADOR. Sabes que\plos dragones son POK\eMON míticos. Son\ndifíciles de atrapar y criar, pero sus\ppoderes son superiores. Ellos Son\nprácticamente indestructibles. No se\ppuede ser inteligente con ellos. Bueno,\n¿estás listo para perder? Tu desafío de\pLIGA termina conmigo ,[B_BUFF2][PLAY_BGM]
+Ah! So, you've returned, [B_BUFF2]! I lead the\nELITE FOUR. You can call me LANCE the\pdragon TRAINER. You know that dragons\nare mythical POK\eMON. They're hard to\pcatch and raise, but their powers are\nsuperior. They're virtually\pindestructible. There's no being clever\nwith them. Well, are you ready to lose?\pYour LEAGUE challenge ends with me,\n[B_BUFF2]![PLAY_BGM]À[PLAY_BGM]TIENE
 
 #org @PokemonLeague_LancesRoom_Text_Defeat
 ¡Eso es todo! Odio admitirlo, ¡pero eres\nun maestro POK\eMON!
@@ -1493,7 +1493,7 @@ Mi trabajo está hecho. Enfréntate a tu\npróximo desafío.
 ¿Por qué? ¿Por qué perdí? Nunca cometí\nningún error al aumentar mi POK\eMON…\p¡Maldita sea! ¡Eres el nuevo CAMPEÓN DE\nLA LIGA POK\eMON ! Aunque no me gusta\padmitirlo…
 
 #org @PokemonLeague_ChampionsRoom_Text_OakPlayer
-[B_BUFF2]
+OAK: [B_BUFF2]!
 
 #org @PokemonLeague_ChampionsRoom_Text_OakCongratulations
 [B_COPY_VAR_1]para trabajar\en el POK\eDEX. [B_BUFF2],\n¡has alcanzado la mayoría de edad!
@@ -2195,7 +2195,7 @@ Hay lugares aquí en PATTERN BUSH donde\nla hierba no crece. ¿Cuál podría ser
 ¡Hola! ¡Bienvenido a TRAINER TOWER donde\nse reúnen ENTRENADORES de todas partes!
 
 #org @TrainerTower_Lobby_Text_TrainersUpToFloorNum
-[B_COPY_VAR_1]
+TRAINERS from all over the world gather\nhere to battle. Let me see… Right now,\pthere are TRAINERS only up to Floor [B_COPY_VAR_1].
 
 #org @TrainerTower_Lobby_Text_TrainersUpEighthFloor
 LOS ENTRENADORES están esperando tu\ndesafío hasta el octavo piso.
@@ -2234,7 +2234,7 @@ Parece que te has tomado tu tiempo  para\nllegar hasta aquí...
 Lo que me gustaría ver es un mejor\nmomento para ti... Cuento contigo. Hasta\pentonces, adiós...
 
 #org @TrainerTower_Text_XMinYZSec
-[B_COPY_VAR_1]mín.[B_COPY_VAR_2][B_COPY_VAR_3]segundo.
+[B_COPY_VAR_1] min. [B_COPY_VAR_2].[B_COPY_VAR_3] sec.[B_COPY_VAR_3]segundo.
 
 #org @TrainerTower_Lobby_Text_HereAreTheResults
 ÓÁÓÊ\e;ÂÒ
@@ -2489,7 +2489,7 @@ CIUDAD PEWTER Una ciudad gris piedra
 to Êçî& óŒÓÛ ÈÌ ŒŒÉÛÁñ ÑÊà ÉÛà ÚÉÛ Ëºñ+\nÒû ÑÉ ËÌÏ ùû Ûñ +û ª?
 
 #org @PewterCity_Text_OhPlayer
-[B_BUFF2][B_PLAYER_MON1_NAME]
+Oh, [B_BUFF2][B_PLAYER_MON1_NAME]!
 
 #org @PewterCity_Text_AskedToDeliverThis
 Me alegro de haberte contactado. Soy\nPROF. AYUDANTE DE OAK. Me han pedido que\pentregue esto, así que aquí lo tienes.
@@ -2510,7 +2510,7 @@ Bueno, debo regresar al LABORATORIO.\n¡Adiós!
 [B_BUFF2], Aquí tienes un par de ZAPATOS PARA\nCORRER para mi amado retador. Recuerda,\p¡siempre te animaré ! ¡Nunca te rindas!\nDe mamá
 
 #org @CeruleanCity_Text_RivalIntro
-[B_OPPONENT_MON1_NAME]: ¡Oye![B_BUFF2]! ¿Aún estás luchando aquí?\n¡Estoy muy bien! ¡Capturé un montón de\pPOK\eMON fuertes e inteligentes! Aquí,\ndéjame ver lo que atrapaste, [B_BUFF2]
+[B_OPPONENT_MON1_NAME]: Yo! [B_BUFF2]! You're still struggling\nalong back here? I'm doing great! I\pcaught a bunch of strong and smart\nPOK\eMON! Here, let me see what you\pcaught, [B_BUFF2]!
 
 #org @CeruleanCity_Text_RivalDefeat
 ¡Oye! ¡Tómatelo con calma! ¡Ya ganaste!
@@ -2528,7 +2528,7 @@ Un chismoso hablador como tú... Esa cosa\nes perfecta. No la necesito porque me
 ß+ŒÛ! Èºè Û+ÎÁ Éúù!
 
 #org @CeruleanCity_Text_GruntIntro
-[PLAY_BGM]
+[PLAY_BGM]\eÀ
 
 #org @CeruleanCity_Text_GruntDefeat
 RONCO: ¡Para! ¡Me rindo! ¡Me iré en\nsilencio!
@@ -2867,7 +2867,7 @@ LABORATORIO POK\eMON
 CINNABAR ISLAND POK\eMON GYM LÍDER:\nBLAINE ¡El impulsivo maestro de pruebas!
 
 #org @CinnabarIsland_Text_HeyIfItIsntPlayer
-[B_BUFF2]
+Huh? Hey, if it isn't [B_BUFF2]!
 
 #org @CinnabarIsland_Text_ComeWithMeToOneIsland
 Mira, soy yo, BILL. ¡Cuánto tiempo sin\nverte! Espero que todavía estés usando\pmi sistema de PC. Bueno, escucha, ya que\nnos encontramos aquí, ¿qué tal si pasas\ptiempo conmigo? Hay esta pequeña isla en\nel lejano sur llamado ONE ISLAND. Un\pamigo me invitó, así que estoy en camino\nhacia allí. ¿Qué te parece? ¿Te apetece\pvenir conmigo?
@@ -3002,7 +3002,7 @@ DOS ISLAS Boon Island para dos
 No puedo expresar lo agradecido que\nestoy por tu rescate de LOSTELLE.\pGracias a tu hazaña, la gente de TRES\nISLAS ha cambiado su atitud sobre la\pgente de KANTO. Y yo soy de KANTO, ya\nves.  La gente de THREE ISLAND me ayudó\pa aumentar mi mercancía.
 
 #org @TwoIsland_Text_HopeYouGiveItYourBest
-[B_BUFF2]
+Hi! I'm giving it my best here. I hope\nyou do too, [B_BUFF2].
 
 #org @TwoIsland_Text_BringingItemsFromDistantLands
 [B_BUFF2]! ¡Bienvenido! He empezado a traer\nobjetos de tierras lejanas. También\ptengo algunos objetos raros. ¡Por favor,\necha un vistazo!
@@ -5906,7 +5906,7 @@ Aún no te resulta muy familiar. POK\eMON\nson bastante cautelosos cuando los\pr
 [B_OPPONENT_MON1_NAME]: ¡Ey! ¡Abuelo! ¡No es justo! ¿Qué\nhay de mí?
 
 #org @PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer
-[B_OPPONENT_MON1_NAME]: Je, no necesito ser  codicioso como\ntú. ¡Soy maduro! Adelante, elige,[B_BUFF2]
+[B_OPPONENT_MON1_NAME]: Heh, I don't need to be greedy like\nyou. I'm mature! Go ahead and choose,\p[B_BUFF2]!
 
 #org @PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen
 [B_OPPONENT_MON1_NAME]: ¡Entonces me quedo con este!
@@ -6008,7 +6008,7 @@ Cuando aparece un POK\eMON salvaje, es\nun juego limpio. ¡Simplemente tírale u
 Hacer una guía completa sobre todos los\nPOK\eMON del mundo... ¡Ese era mi sueño!\pPero soy demasiado mayor. No puedo hacer\nel trabajo. Así que quiero que ustedes\pdos cumplan mi sueño para mí. Muévanse,\nustedes dos. ¡Esta es una gran tarea en\pla historia de POK\eMON!
 
 #org @PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait
-[B_BUFF2]
+POK\eMON around the world wait for you,\n[B_BUFF2]!
 
 #org @PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex
 [B_BUFF2]! ¿Cómo se perfila tu POK\eDEX? [B_OPPONENT_MON1_NAME]ya\nha capturado algunos POK\eMON y los ha\pagregado a los datos. Entonces,[B_BUFF2],\nechemos un vistazo a tu POK\eDEX. ...\p¿Qué pasa? No has agregado ningún dato\nnuevo. Te daré estos, así que inténtalo\pun poco más.
@@ -6089,10 +6089,10 @@ SPEARY: ¡Twitté!
 SPEAROW Nombre: SPEAROW
 
 #org @ViridianCity_Gym_Text_GiovanniIntro
-[PLAY_BGM]
+[PLAY_BGM]\eÀ
 
 #org @ViridianCity_Gym_Text_GiovanniDefeat
-[PAUSE_MUSIC][PLAY_BGM][PAUSE][PAUSE][RESUME_MUSIC]
+[PAUSE_MUSIC][PLAY_BGM]ESO[PAUSE]\n[PAUSE][RESUME_MUSIC]
 
 #org @ViridianCity_Gym_Text_GiovanniPostBattle
 Habiendo perdido de esta manera,  no\npuedo enfrentar a mis seguidores. He\ptraicionado su confianza. ¡A partir de\nhoy, TEAM ROCKET está terminado para\psiempre! En cuanto a mí, dedicaré mi\nvida a entrenar nuevamente.  p¡Volvamos\pa encontrarnos algún día! ¡Adiós!
@@ -6191,7 +6191,7 @@ VIRIDIAN GYM estuvo cerrado por mucho\ntiempo. Pero ahora, ¡nuestro LÍDER ha\p
 [B_OPPONENT_MON1_NAME]
 
 #org @ViridianCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+VIRIDIAN POK\eMON GYM LEADER: GIOVANNI\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @ViridianCity_School_Text_TryingToMemorizeNotes
 ¡Uf! Estoy intentando memorizar todas\nmis notas.
@@ -6353,10 +6353,10 @@ Transbordador espacial
 Un meteorito que cayó sobre MT. LUNA. Se\ncree que es una PIEDRA LUNA.
 
 #org @PewterCity_Gym_Text_BrockIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @PewterCity_Gym_Text_BrockDefeat
-[FONT][FONT_NORMAL]¡Recibiste la BOULDERBADGE de\nBROCK![PAUSE_MUSIC][PLAY_BGM][PAUSE][PAUSE][RESUME_MUSIC][FONT][FONT_MALE]Tener la\pBOULDERBADGE hace tu POK\eMON más\npoderoso. También permite el uso del\pmovimiento FLASH fuera de la batalla.\nPor supuesto, un POK\eMON debe conocer\pel movimiento FLASH para usarlo.
+[FONT][FONT_NORMAL]¡Recibiste la BOULDERBADGE de\nBROCK![PAUSE_MUSIC][PLAY_BGM]ESO[PAUSE]\n[PAUSE][RESUME_MUSIC]\pag[FONT][FONT_MALE]Tener la BOULDERBADGE hace tu\nPOK\eMON más poderoso. También permite\pel uso del movimiento FLASH fuera de la\nbatalla. Por supuesto, un POK\eMON debe\pconocer el movimiento FLASH para usarlo.
 
 #org @PewterCity_Gym_Text_TakeThisWithYou
 ¡Espera! Llévate esto contigo.
@@ -6401,7 +6401,7 @@ El primer POK\eMON que sale en una\npartida está a la izquierda de la LISTA\pde
 [B_OPPONENT_MON1_NAME]
 
 #org @PewterCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+PEWTER POK\eMON GYM LEADER: BROCK\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy
 ¡Un viejo turbio me incitó a comprar\neste extraño pez POK\eMON! ¡Es\ptotalmente débil y cuesta  $500!
@@ -6497,7 +6497,7 @@ A mi marido le gusta intercambiar\nPOK\eMON. Estás recolectando POK\eMON\ppara 
 ¿Por qué no subes e intentas\nintercambiar POK\eMON con tus amigos?\pPodrías obtener mucha más variedad\nintercambiando. Los POK\eMON que\pobtienes en los intercambios también\ncrecen rápidamente.
 
 #org @CeruleanCity_Gym_Text_MistyIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @CeruleanCity_Gym_Text_ExplainTM03
 TM03 enseña PULSO DE AGUA. ¡Úsalo en un\nPOK\eMON acuático!
@@ -6542,7 +6542,7 @@ MISTY es una ENTRENADORA que seguirá\nmejorando. ¡No perderá contra alguien\p
 [B_OPPONENT_MON1_NAME]
 
 #org @CeruleanCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+CERULEAN POK\eMON GYM LEADER: MISTY\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @CeruleanCity_BikeShop_Text_WelcomeToBikeShop
 ¡Hola! Bienvenido a nuestra TIENDA DE\nBICICLETAS. ¡Tenemos justo la BICICLETA\ppara ti! !
@@ -6632,7 +6632,7 @@ Hay algo nuevo en el segundo piso de los\nCENTROS POK\eMON, en la ESQUINA DIRECT
 ¿Con qué te gustaría  excambiarlo?
 
 #org @CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem
-[B_COPY_VAR_1]
+Fine, you'll exchange your BERRY POWDER\nfor one [B_COPY_VAR_1]?
 
 #org @CeruleanCity_House1_Text_DontHaveEnoughBerryPowder
 ¿Mmm? No tienes suficiente BAYAS EN\nPOLVO.
@@ -6728,7 +6728,7 @@ Ya veo. Vuelve a visitarnos.
 [B_COPY_VAR_1]! No se ve diferente de antes y, sin\nembargo, ¡esto es muy superior! ¡Qué\psuerte para ti!
 
 #org @LavenderTown_House2_Text_TrulyImpeccableName
-[B_COPY_VAR_1], ¿verdad? ¡Ese es un nombre\nrealmente impecable! Cuida bien de[B_COPY_VAR_1]
+[B_COPY_VAR_1], is it? That is a truly impeccable\nname! Take good care of [B_COPY_VAR_1]!
 
 #org @LavenderTown_House2_Text_ThatIsMerelyAnEgg
 Ahora, ahora. ¡Eso es simplemente un\nHUEVO!
@@ -6836,7 +6836,7 @@ Nuestro PRESIDENTE habla mucho sobre\nPOK\eMON.
 Nuestro PRESIDENTE realmente adora su\nPOK\eMON. Pero creo que la persona que\pmás le gusta a POK\eMON es DAISY.
 
 #org @VermilionCity_House2_Text_DoYouHaveMonWantToTradeForMyMon
-[B_COPY_VAR_1]? ¿Quieres cambiarlo por mi [B_COPY_VAR_2]
+Hi! Do you have a [B_COPY_VAR_1]? Want to trade it\nfor my [B_COPY_VAR_2]?
 
 #org @VermilionCity_House2_Text_ThatsTooBad
 Eso es muy malo.
@@ -6857,7 +6857,7 @@ Hay personas malvadas que usarán\nPOK\eMON para actos criminales. TEAM\pROCKET 
 Creo que POK\eMON puede ser bueno o\nmalo. Depende del ENTRENADOR.
 
 #org @VermilionCity_Gym_Text_LtSurgeIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @VermilionCity_Gym_Text_LtSurgePostBattle
 ¡Un pequeño consejo, chico! ¡La\nelectricidad es poderosa! ¡Pero es\pinútil contra POK\eMON tipo TIERRA!
@@ -6914,7 +6914,7 @@ LT. SURGE instaló las trampas en el GYM\nél mismo. Colocó cerraduras dobles e
 [B_OPPONENT_MON1_NAME]
 
 #org @VermilionCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+VERMILION POK\eMON GYM LEADER: LT. SURGE\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @VermilionCity_Gym_Text_NopeOnlyTrashHere
 ¡No! Aquí solo hay basura.
@@ -7301,7 +7301,7 @@ Cambiamos tus MONEDAS por premios.
 èÁ Â
 
 #org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize
-[B_COPY_VAR_1]
+So, you want the [B_COPY_VAR_1]?
 
 #org @CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM
 [B_COPY_VAR_2] ¿Es lo que quieres?
@@ -7316,7 +7316,7 @@ Lo sentimos, necesitarás más MONEDAS que\nesa.
 A Ô
 
 #org @CeladonCity_Gym_Text_ErikaIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @CeladonCity_Gym_Text_ErikaDefeat
 ¡Oh! Admito la derrota. Eres\nextraordinariamente fuerte. Debo\pconferirte la INSIGNIA ARCO IRIS.
@@ -7403,7 +7403,7 @@ No traje mi mejor POK\eMON. ¡Espera\nhasta la próxima!
 [B_OPPONENT_MON1_NAME]
 
 #org @CeladonCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+CELADON POK\eMON GYM LEADER: ERIKA\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @CeladonCity_Restaurant_Text_TakingBreakRightNow
 ¡Hola! Lo sentimos, pero estamos tomando\nun descanso en este momento.
@@ -7514,7 +7514,7 @@ WARDEN SLOWPOKE entró, pero No pude\nentenderlo. ¡Creo que tiene un problema\p
 WARDEN SLOWPOKE está ejecutando una\ncampaña de promoción en este momento.\pIntenta llegar al rincón  más alejado de\nla ZONA SAFARI. Si puedes lograrlo,\pganarás un premio muy conveniente.
 
 #org @FuchsiaCity_Gym_Text_KogaIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @FuchsiaCity_Gym_Text_KogaDefeat
 ¡Humph! ¡Has demostrado tu valía! ¡Aquí!\n¡Toma el SOULBADGE!
@@ -7598,7 +7598,7 @@ El maestro KOGA proviene de una larga\nlínea de ninjas. ¿De qué descendiste?
 [B_OPPONENT_MON1_NAME]
 
 #org @FuchsiaCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+FUCHSIA POK\eMON GYM LEADER: KOGA\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @FuchsiaCity_House1_Text_WardenIsOldHasFalseTeeth
 El GUARDIÁN de la ZONA SAFARI es viejo,\n pero todavía está muy activo. Sin\pembargo, todos sus dientes son postizos.
@@ -7700,7 +7700,7 @@ Vuelve si hay otros movimientos que\nolvidar.
 ¿Qué? Ningún EGG debería conocer ningún\nmovimiento.
 
 #org @CinnabarIsland_Gym_Text_BlaineIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @CinnabarIsland_Gym_Text_BlaineDefeat
 ¡Me he quemado hasta quedar reducido a\nnada! ¡Ni siquiera quedan cenizas! Te\phas ganado la VOLCANOBADGE.
@@ -7793,7 +7793,7 @@ El agua vence al fuego, por supuesto.\nPero el fuego derrite el hielo, por lo\pq
 [B_OPPONENT_MON1_NAME]
 
 #org @CinnabarIsland_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+CINNABAR POK\eMON GYM LEADER: BLAINE\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @CinnabarIsland_Gym_Text_PokemonQuizRules
 ¡POK\eMON Quiz! Hazlo bien y la puerta\nse abrirá a la siguiente habitación.\p¡Hazlo mal y enfréntate a un ENTRENADOR!\nSi quieres conservar tu POK\eMON para el\pLÍDER DEL GIMNASIO... Entonces\nconsíguelo ¡Correcto! ¡Aquí vamos!
@@ -8060,7 +8060,7 @@ Lo que se siembra de recoge.
 DOJO DE LUCHA
 
 #org @SaffronCity_Gym_Text_SabrinaIntro
-[PLAY_BGM]
+[PLAY_BGM]TIENE
 
 #org @SaffronCity_Gym_Text_SabrinaDefeat
 ¡Esta derrota me sorprende! Pero una\npérdida es una pérdida. Lo admito, no\ptrabajé lo suficiente para ganar. Tu\nvictoria te ha valido la MARSHBADGE.
@@ -8153,7 +8153,7 @@ Poder psíquico, ¿eh? Si tuviera eso,\n¡haría un montón a las máquinas\ptra
 [B_OPPONENT_MON1_NAME]
 
 #org @SaffronCity_Gym_Text_GymStatuePlayerWon
-[B_OPPONENT_MON1_NAME][B_BUFF2]
+SAFFRON POK\eMON GYM LEADER: SABRINA\nWINNING TRAINERS: [B_OPPONENT_MON1_NAME], [B_BUFF2][B_BUFF2]
 
 #org @SaffronCity_House_Text_DontLookAtMyLetter
 …Gracias por escribir. ¡Espero verte\npronto! …¡Oye! ¡No mires mi carta!
@@ -8228,7 +8228,7 @@ Por mucho calor que haga... Y por mucho\nfrío que haga... ¡Siempre he creído 
 ¡BROCK es mi héroe! ¡Es un hombre entre\nlos hombres! Jeje, le pedí a mi mamá que\phiciera algo por mí. ¡Le pedí que\nbordara “BROCK”\en mis pantalones\pcortos!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_BrocksFanToBitterEnd
-[MUS_DUMMY][MUS_DUMMY]… ¡Soy fan de BROCK! Incluso si\nfuera su único fan, ¡Lo juro por mi\pvoluntad dura como una roca, aterrizará\nen mis pantalones cortos! ¡Seré su fan\phasta el final!
+[MUS_DUMMY]… ags…[MUS_DUMMY]… ¡Soy fan de BROCK! Incluso\nsi fuera su único fan, ¡Lo juro por mi\pvoluntad dura como una roca, aterrizará\nen mis pantalones cortos! ¡Seré su fan\phasta el final!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_BrocksLastWordOnCool
 BROCK es la última palabra sobre lo\ngenial, fin de la historia! ¡Ahora hay\pun chico al que quiero parecerme!
@@ -8252,7 +8252,7 @@ Todos los aquí reunidos somos fanáticos\nde los ENTRENADORES POK\eMON. Su\papa
 [B_BUFF2]! It's[B_BUFF2]! Quiero ser como[B_BUFF2]¡un día!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_EveryoneButMeStoppedBeingYourFan
-[B_BUFF2]'s fan... Pero eso significa que\npuedo tener[B_BUFF2] ¡todo para mí! ¡Sí!\p¡Adelante! Mi único[B_BUFF2]
+Everyone stopped being [B_BUFF2]'s fan… But\nthat means I can have [B_BUFF2] all to myself!\pYay! Go for it! My one and only [B_BUFF2]!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_WantToBeLikeSabrina
 ¿Sabes qué? ¡Quiero ser como SABRINA!\n¡Quiero ser una chica psíquica como\pella!
@@ -8279,13 +8279,13 @@ Me pregunto si algún día podré\nconvertirme en un ENTRENADOR genial.
 [B_BUFF2]? Tengo que decirte que adoro tu\nforma en que luchas. Espero que sigas\phaciéndolo. ¡Seré tu fan número uno!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_ImYourNumberOneFan
-[B_BUFF2]! Es tan decepcionante... ¡Me di\ncuenta ¡Soy tu único y número uno fan!\pBueno, ¡no se puede evitar! ¡Déjame\nanimarte, al menos! ¡Hurra, hurra,[B_BUFF2]
+Oh, my goodness! If it isn't [B_BUFF2]! It's\nso disappointing… I realized I'm your\pnumber-one-and-only fan! Well, it can't\nbe helped! Let me cheer you on, at\pleast! Hurray, hurray, [B_BUFF2]!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_TrainerHasBeenOnFire
 [B_COPY_VAR_1]ha estado en llamas. La forma en que\nlucha... ¡Es simplemente  la forma en\pque me gusta!
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_EveryoneTalksAboutYou
-[B_BUFF2]! Últimamente, de lo único que todo\nel mundo habla es de ti. Me siento solo\pporque prefiero[B_COPY_VAR_1]
+Oh, hello! If it isn't [B_BUFF2]! Lately, all\neveryone talks about is you. I'm feeling\plonesome because I prefer [B_COPY_VAR_1].
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_YouReallyAreAmazing
 [B_BUFF2], ¡realmente eres increíble! En lugar\nde simplemente mirar, tal vez yo también\pdebería convertirme en ENTRENADOR.
@@ -8297,7 +8297,7 @@ Soy tu único fan... Suspiro... Esto es\nsolitario... ¿No puedes esforzarte má
 [B_COPY_VAR_1]es tan digno... Es tan mi tipo. ¿Por\nqué los demás no pueden ver la dignidad\pque simplemente rezuma?
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_BelieveInMasterWithAllMyHeart
-[B_COPY_VAR_1] con todo mi corazón. Incluso si soy\nel único que cree en él. Sin embargo,\pnunca me sentiré solo. No si sigo\npensando en el Maestro [B_COPY_VAR_1]
+I believe in Master [B_COPY_VAR_1] with all my\nheart. Even if I am the only one to\pbelieve in him. I won't ever feel\nlonesome, though. Not if I keep thinking\pabout Master [B_COPY_VAR_1].
 
 #org @SaffronCity_PokemonTrainerFanClub_Text_YourBattleStyleIsEducational
 ¡Hola! Tu estilo de lucha es de lo más\neducativo. Espero que sigas esforzándote\pen alcanzar el éxito, ¡hola!
@@ -8852,7 +8852,7 @@ Lamento haberle quitado tanto tiempo a\nBILL. También lamento ser un  anfitrió
 Los servicios habituales de PC no están\ndisponibles...
 
 #org @OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer
-[B_BUFF2]
+BILL: Oh, hey! [B_BUFF2]!
 
 #org @OneIsland_PokemonCenter_1F_Text_BillWeGotItDone
 BILL: ¿Por qué tardaste tanto? ¿Has\nsalido a pasar un buen rato? Lo\plogramos. ¡Las PC están en\nfuncionamiento!
@@ -8873,7 +8873,7 @@ BILL: Bueno, ahí lo tienes. Terminé con\nel trabajo. Deberíamos regresar a KA
 [B_BUFF2], Lamento mucho que te hayamos\nenviado solo hoy. Te prometo que te\pmostraré estas islas en algún momento.
 
 #org @OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine
-[B_BUFF2]
+CELIO: Hello! You look awfully busy as\nalways. How am I doing? Well, I'm\pmodifying my Network Machine. When I get\ndone with the machine, I hope you'll be\pfirst to use it, [B_BUFF2].
 
 #org @OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful
 [B_BUFF2], ¿cómo te han ido las cosas? Oh, ¿es\nasí? Has atrapado más POK\eMON. ¿Sabes\pqué? Tal vez pueda serte útil.
@@ -8924,7 +8924,7 @@ Vale, esto es bueno…
 ¡Lo logré! ¡Me vinculé con LANETTE!
 
 #org @OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou
-[B_BUFF2][B_BUFF2]¡Lo logré! ¡Logré conectarme con\nENTRENADORES en la región de HOENN!\p¡Finalmente, la máquina de red está\ncompletamente operativa! [B_BUFF2], ¡Te lo\pdebo todo a ti! Gracias a ti, mi sueño\nse hizo realidad …
+[B_BUFF2]…\n[B_BUFF2]¡Lo logré! ¡Logré conectarme\ncon ENTRENADORES en la región de HOENN!\p¡Finalmente, la máquina de red está\ncompletamente operativa! [B_BUFF2], ¡Te lo\pdebo todo a ti! Gracias a ti, mi sueño\nse hizo realidad …
 
 #org @OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck
 [B_BUFF2], vas a seguir buscando POK\eMON\nexóticos, ¿verdad? ¡Te deseo la mejor de\plas suertes!
@@ -9005,7 +9005,7 @@ Lo siento. No vamos a ejecutar ningún\njuego hoy.
 ¿Así que rescataste a LOSTELLE? ¿Cómo\npuedo agradecerte? LOSTELLE, cariño,\p¡perdóname! ¡Papá no sabía que estabas\nasustado y en problemas!
 
 #org @TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy
-[B_BUFF2]
+LOSTELLE: It's okay, Daddy. I got to be\nfriends with [B_BUFF2]!
 
 #org @TwoIsland_JoyfulGameCorner_Text_ThisIsForMe
 Oh, ¿qué es eso? ¿Estás diciendo que\nesto es para mí? ¿Cómo supiste que me\pencantan las rocas y gemas raras? Seguro\nque sabes cómo hacer feliz a un chico .
@@ -9065,7 +9065,7 @@ Si tu POK\eMON necesita aprender un\nmovimiento, necesito uno o dos HONGOS.
 No vive mucha gente en DOS ISLAS. Hay\nuna anciana que vive en el cabo. Ha\pestado allí desde no sé cuándo.
 
 #org @ThreeIsland_House1_Text_YoureAlwaysSoCool
-[B_BUFF2]! ¡Siempre eres tan genial! Un día\ntambién te prepararé el almuerzo ,[B_BUFF2]
+LOSTELLE: Hi, [B_BUFF2]! You're always so\ncool! I'll make lunch for you, too, one\pday, [B_BUFF2].
 
 #org @ThreeIsland_House1_Text_RareRocksGemsDisplayed
 Se muestran rocas y gemas raras.
@@ -9236,19 +9236,19 @@ SELPHY: Te deseo la mejor de suerte.
 Mayordomo: La sonrisa de Lady SELPHY\ntiene el brillo del sol. Por favor, te\pruego que traigas alegría a Lady SELPHY.
 
 #org @Text_UltimateMoveThatMon
-[B_COPY_VAR_1]
+I perfected the ultimate move of its\ntype… But will no one take it for future\puse? …Hm? Hmmm! Y-you… Th-that [B_COPY_VAR_1]…
 
 #org @Text_JustMistaken
 …No… Simplemente me equivoqué.
 
 #org @Text_AllowMeToTeachMonUltimateMove
-[B_COPY_VAR_1]¡Es digno de aprender mi último\nmovimiento! ¿Lo permitirás? ¿Permitirás\pque tu[B_COPY_VAR_1]para aprender mi[B_COPY_VAR_2]
+Oh! This is the one! This is the\nPOK\eMON! This [B_COPY_VAR_1] is worthy of learning\pmy ultimate move! Will you allow it?\nWill you allow your [B_COPY_VAR_1] to learn my [B_COPY_VAR_2]?
 
 #org @Text_YouRejectIt
 ¡Jaja! ¿Lo rechazas? ¡No, no me dejaré\ndisuadir!
 
 #org @Text_LetMeConferUltimateMove
-[B_COPY_VAR_2]en tu[B_COPY_VAR_1]
+[B_COPY_VAR_2]en tu[B_COPY_VAR_1]. Ggggrah-awooo!
 
 #org @Text_TaughtMove
 Jadeo, jadeo, jadeo... No pensé que\npodría enseñar ese movimiento mientras\paún vivía...
@@ -9356,22 +9356,22 @@ Bienvenido a POK\eMON CABLE CLUB CÁPSULA\nDEL TIEMPO.
 [B_BUFF2][B_PLAYER_MON1_NAME]¡Bienvenido! ¿Qué puedo hacer por\nti?
 
 #org @Text_ObtainedTheX
-[B_COPY_VAR_2]
+Obtained the [B_COPY_VAR_2]!
 
 #org @Text_BagIsFull
 La BOLSA está llena…
 
 #org @Text_PutItemAway
-[B_BUFF2]Pon el[B_COPY_VAR_2] en el[B_COPY_VAR_3]
+[B_BUFF2] put the [B_COPY_VAR_2] in the [B_COPY_VAR_3].
 
 #org @Text_FoundOneItem
-[B_BUFF2]encontré uno[B_COPY_VAR_2]
+[B_BUFF2] found one [B_COPY_VAR_2]!
 
 #org @Text_TooBadBagFull
 ¡Qué lástima! La BOLSA está llena…
 
 #org @Text_FoundXCoins
-[B_BUFF2]encontrado [B_COPY_VAR_1][B_COPY_VAR_2]
+[B_BUFF2] found [B_COPY_VAR_1] [B_COPY_VAR_2]!
 
 #org @Text_PutCoinsAwayInCoinCase
 [B_BUFF2]guarde las MONEDAS en el CAJA DE\nMONEDAS.
@@ -9383,13 +9383,13 @@ La BOLSA está llena…
 ¡Qué lástima! No hay nada donde\nponerlos...
 
 #org @Text_FoundXItems
-[B_BUFF2]encontrado [B_COPY_VAR_1][B_COPY_VAR_2]
+[B_BUFF2]encontrado [B_COPY_VAR_1][B_COPY_VAR_2](s)!
 
 #org @Text_ObtainedTheDecor
-[B_COPY_VAR_2]
+Obtained the [B_COPY_VAR_2]!
 
 #org @Text_NoRoomForAnotherDecor
-[B_COPY_VAR_2]
+Too bad! There's no room left for\nanother [B_COPY_VAR_2]…
 
 #org @Text_DecorTransferredToPC
 [B_COPY_VAR_2]fue transferido al PC.
@@ -9452,10 +9452,10 @@ Lo siento mucho. El CLUB INALÁMBRICO\nPOK\eMON está  en proceso de ajustes.
 Parece estar sufriendo ajustes...
 
 #org @Text_HandedOverItem
-[B_BUFF2]entregó el [B_COPY_VAR_1]
+[B_BUFF2] handed over the [B_COPY_VAR_1].
 
 #org @Text_GiveNicknameToThisMon
-[B_COPY_VAR_1]
+Do you want to give a nickname to this\n[B_COPY_VAR_1]?
 
 #org @Text_ItemfinderResponding
 ¡Es! í( è+çÂ ÏÛñ! ÏŒà ÂÛñ! ………
@@ -9464,7 +9464,7 @@ Parece estar sufriendo ajustes...
 [B_BUFF2]desenterró uno[B_COPY_VAR_2] desde lo más\nprofundo del suelo.
 
 #org @Text_OnlySkilledTrainersAllowedThrough
-[B_COPY_VAR_1]
+[B_COPY_VAR_1] ytodavía!
 
 #org @Text_CantLetYouPass
 Las reglas son reglas. No puedo dejarte\npasar.
@@ -9476,25 +9476,25 @@ Las reglas son reglas. No puedo dejarte\npasar.
 [B_COPY_VAR_1]. No tienes el[B_COPY_VAR_1] ytodavía. Debes\ntenerlo para acceder a la LIGA POK\eMON.
 
 #org @Text_OnlyPassWithBadgeOhGoAhead
-[B_COPY_VAR_1]. ¡Oh! Eso es el[B_COPY_VAR_1][PAUSE_MUSIC][PLAY_BGM][PAUSE][RESUME_MUSIC] Está\nbien, entonces. Por favor, adelante.
+You can pass here only if you have\nthe [B_COPY_VAR_1].\pOh! That is the [B_COPY_VAR_1]![PAUSE_MUSIC][PLAY_BGM]ÀÀ[PAUSE][RESUME_MUSIC]\pOkay, then.\nPlease, go right ahead.
 
 #org @Aide_Text_HaventCaughtEnoughMonsForItem
-[B_COPY_VAR_3]tipos de POK\eMON! Necesitas[B_COPY_VAR_1]tipos\nsi quieres el[B_COPY_VAR_2]
+Let's see… Uh-oh! You have caught only\n[B_COPY_VAR_3] kinds of POK\eMON! You need [B_COPY_VAR_1]\pkinds if you want the [B_COPY_VAR_2].
 
 #org @Aide_Text_GetEnoughMonsComeBackForItem
-[B_COPY_VAR_1]tipos de POK\eMON, vuelve por el[B_COPY_VAR_2]
+…Oh. I see. When you get [B_COPY_VAR_1] kinds of\nPOK\eMON, come back for the [B_COPY_VAR_2].
 
 #org @Aide_Text_DontHaveAnyRoomForItem
-[B_COPY_VAR_2]
+Oh! I see you don't have any room for\nthe [B_COPY_VAR_2].
 
 #org @Trade_Text_LookingForMonWannaTradeForMon
-[B_COPY_VAR_1]! Quiero cambiar uno por mi [B_COPY_VAR_2]
+I'm looking for the POK\eMON [B_COPY_VAR_1]! Wanna\ntrade one for my [B_COPY_VAR_2]?
 
 #org @Trade_Text_AwwOhWell
 ¡Awww! Oh, bueno…
 
 #org @Trade_Text_WhatThatsNoMon
-[B_COPY_VAR_1]
+What? That's no [B_COPY_VAR_1]!
 
 #org @Trade_Text_HeyThanks
 ¡Hey gracias!
@@ -9503,7 +9503,7 @@ Las reglas son reglas. No puedo dejarte\npasar.
 [B_COPY_VAR_2]¿excelente?
 
 #org @Trade_Text_DoYouHaveMonWouldYouTradeForMon
-[B_COPY_VAR_1]? ¿Aceptarías un intercambio por\nmi[B_COPY_VAR_2]
+Hello, there! Do you happen to have a\n[B_COPY_VAR_1]? Would you agree to a trade for my\p[B_COPY_VAR_2]?
 
 #org @Trade_Text_WellIfYouDontWantTo
 Bueno, si no quieres...
@@ -9518,7 +9518,7 @@ Bueno, si no quieres...
 [B_COPY_VAR_2]que te cambié, ¿se ha vuelto más\nfuerte?
 
 #org @Trade_Text_DoYouHaveMonWantToTradeForMon
-[B_COPY_VAR_1]? ¿Quieres cambiarlo por mi [B_COPY_VAR_2]
+Hi! Do you have a [B_COPY_VAR_1]? Want to trade it\nfor my [B_COPY_VAR_2]?
 
 #org @Trade_Text_ThatsTooBad
 Eso es muy malo.
@@ -9551,7 +9551,7 @@ Enlace cerrado al PROF. La PC de OAK.
 La voz de alguien sonó:  “¡No huyas!”
 
 #org @Text_IdLikeToSeeRequest
-[B_COPY_VAR_2]îÛîŒÁß- Ôºó[B_COPY_VAR_1][B_COPY_VAR_3][B_COPY_VAR_2]îÛîŒÁß-
+[B_COPY_VAR_2]îÛîŒÁß- Ôºó[B_COPY_VAR_1][B_COPY_VAR_3]\n[B_COPY_VAR_2]îÛîŒÁß-
 
 #org @Text_ThankYouForShowingMe
 [B_COPY_VAR_1][B_COPY_VAR_3][B_COPY_VAR_2]-! ÀûÑ- Œ ùªÏË-!
@@ -9569,19 +9569,19 @@ OJOS…
 La puerta está abierta…
 
 #org @Text_MonSentToBoxInSomeonesPC
-[B_COPY_VAR_2]fue transferido a la PC de alguien.\nSe colocó en  BOX “[B_COPY_VAR_1]
+[B_COPY_VAR_2] was transferred to Someone's PC. It\nwas placed in  BOX “[B_COPY_VAR_1].”
 
 #org @Text_MonSentToBoxInBillsPC
-[B_COPY_VAR_2]fue transferido a la PC de BILL. Se\ncolocó en  BOX “[B_COPY_VAR_1]
+[B_COPY_VAR_2] was transferred to BILL'S PC. It was\nplaced in  BOX “[B_COPY_VAR_1].”
 
 #org @Text_MonSentToBoxSomeonesBoxFull
-[B_COPY_VAR_3]” en La PC de alguien estaba llena.\n[B_COPY_VAR_2]fue transferido a BOX “[B_COPY_VAR_1]
+BOX “[B_COPY_VAR_3]” on Someone's PC was full. [B_COPY_VAR_2]\nwas transferred to BOX “[B_COPY_VAR_1].”
 
 #org @Text_MonSentToBoxBillsBoxFull
-[B_COPY_VAR_3]” en La PC de BILL estaba llena.\n[B_COPY_VAR_2]fue transferido a BOX “[B_COPY_VAR_1]
+BOX “[B_COPY_VAR_3]” on BILL'S PC was full. [B_COPY_VAR_2] was\ntransferred to BOX “[B_COPY_VAR_1].”
 
 #org @Text_PlayerObtainedTheMon
-[B_BUFF2]obtenido el[B_COPY_VAR_1]
+[B_BUFF2] obtained the [B_COPY_VAR_1]!
 
 #org @Text_MonSentToBoxInPC
 [B_COPY_VAR_1]” en [B_COPY_VAR_2]& Û+ÔÂÏŒ!
@@ -9635,13 +9635,13 @@ Gracias por acceder al Sistema de\nREGALOS MISTERIOSOS.
 Añ…… ôÒ+ÁÂ
 
 #org @Text_FoundTMHMContainsMove
-[B_BUFF2]encontrado una[B_COPY_VAR_2]! Contiene[B_COPY_VAR_1]
+[B_BUFF2] found a [B_COPY_VAR_2]! It contains [B_COPY_VAR_1].
 
 #org @Text_WhereDoYouWantToGo
 ÈÚÉºÎ+! à ÁÊŒÁ+?
 
 #org @Text_AllAboardSeagallopNum
-[B_COPY_VAR_1]
+All right! All aboard SEAGALLOP HI-SPEED\n[B_COPY_VAR_1]!
 
 #org @Text_Gyaoo
 ¡Guau!
@@ -9842,292 +9842,292 @@ ir ir
 )ùÂ -Ò! ç ÓÉÁë ùÂÔ!
 
 #org @gFameCheckerFlavorText_ProfOak0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]LABORATORIO DE INVESTIGACIÓN\pPOK\eMON ROBLE
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]LABORATORIO DE INVESTIGACIÓN\pPOK\eMON ROBLE
 
 #org @gFameCheckerFlavorText_ProfOak1
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂHacer una guía completa sobre\ptodos los POK\eMON del mundo... ¡Ese era\nmi sueño!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂHacer una guía completa\psobre todos los POK\eMON del mundo...\n¡Ese era mi sueño!
 
 #org @gFameCheckerFlavorText_ProfOak2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]PROF. Puede que OAK no parezca\pgran cosa, pero es la autoridad en\nPOK\eMON. Muchos ENTRENADORES POK\eMON\plo tienen en gran respeto.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]PROF. Puede que OAK no\pparezca gran cosa, pero es la autoridad\nen POK\eMON. Muchos ENTRENADORES\pPOK\eMON lo tienen en gran respeto.
 
 #org @gFameCheckerFlavorText_ProfOak3
-[COLOR][SHADOW]Ì¿Familiares y amigos? [COLOR][SHADOW]PROF.\nSegún se informa, OAK vive con sus\pnietos, DAISY y[B_OPPONENT_MON1_NAME]
+[COLOR]Ë[SHADOW]ÌFamily and friends?\n[COLOR]Á[SHADOW]ÂPROF. OAK reportedly lives with\phis grandchildren, DAISY and [B_OPPONENT_MON1_NAME].
 
 #org @gFameCheckerFlavorText_ProfOak4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [FONT][FONT_FEMALE][SHADOW]He\noído que OAK se ha interesado mucho en\pti, niño. Ese viejo idiota alguna vez\nfue duro y guapo. Pero eso fue hace\pdécadas. Es una sombra de lo que era\nantes.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_FEMALE]En[SHADOW]He oído que OAK se ha\pinteresado mucho en ti, niño. Ese viejo\nidiota alguna vez fue duro y guapo. Pero\peso fue hace décadas. Es una sombra de\nlo que era antes.
 
 #org @gFameCheckerFlavorText_ProfOak5
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]PROF. OAK pronto tendrá su\ppropio programa de radio. El programa se\nllamará PROF. OAK'S POK\eMON SEMINAR.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]PROF. OAK pronto tendrá su\ppropio programa de radio. El programa se\nllamará PROF. OAK'S POK\eMON SEMINAR.
 
 #org @gFameCheckerFlavorText_Daisy0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]ÂSi le muestras a DAISY tu\pPOK\eMON, ella podrá saber cuánto le\ngustas. Ocasionalmente, incluso\ppreparará un POK\eMON para ti.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂSi le muestras a DAISY tu\pPOK\eMON, ella podrá saber cuánto le\ngustas. Ocasionalmente, incluso\ppreparará un POK\eMON para ti.
 
 #org @gFameCheckerFlavorText_Daisy1
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]Pero creo que la persona que\pmás le gusta a POK\eMON es DAISY.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Pero creo que la persona que\pmás le gusta a POK\eMON es DAISY.
 
 #org @gFameCheckerFlavorText_Daisy2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]Ella estaba acicalando\psuavemente a POK\eMON... Era un\nangelito. El nombre de esa niña... Creo\pque era DAISY.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]Ella estaba acicalando\psuavemente a POK\eMON... Era un\nangelito. El nombre de esa niña... Creo\pque era DAISY.
 
 #org @gFameCheckerFlavorText_Daisy3
-[COLOR][SHADOW]Ì¿Familiares y amigos? [COLOR][SHADOW]PROF.\nSegún se informa, OAK vive con sus\pnietos, DAISY y[B_OPPONENT_MON1_NAME]
+[COLOR]Ë[SHADOW]ÌFamily and friends?\n[COLOR]Á[SHADOW]ÂPROF. OAK reportedly lives with\phis grandchildren, DAISY and [B_OPPONENT_MON1_NAME].
 
 #org @gFameCheckerFlavorText_Daisy4
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]Una chica de PALLET TOWN,\pDAISY, disfruta del TÉ todos los días.\nVisita el DEPARTAMENTO DE CELADON.\pTIENDA para comprar TÉ.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Una chica de PALLET TOWN,\pDAISY, disfruta del TÉ todos los días.\nVisita el DEPARTAMENTO DE CELADON.\pTIENDA para comprar TÉ.
 
 #org @gFameCheckerFlavorText_Daisy5
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]¡El gran\ncampeón del CONCURSO POK\eMON de\pprimavera es DAISY OAK de PALLET TOWN!
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]¡El\ngran campeón del CONCURSO POK\eMON de\pprimavera es DAISY OAK de PALLET TOWN!
 
 #org @gFameCheckerFlavorText_Brock0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂPEWTER CITY POK\eMON GYM LÍDER:\pBROCK ¡El sólido ENTRENADOR POK\eMON!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂPEWTER CITY POK\eMON GYM LÍDER:\pBROCK ¡El sólido ENTRENADOR POK\eMON!
 
 #org @gFameCheckerFlavorText_Brock1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]ÂMi fuerza de voluntad dura\pcomo una roca es evidente  incluso en\nmis POK\eMON. Mis POK\eMON son todos\pduros como una roca y tienen una\nverdadera determinación. Así es, ¡todos\pmis POK\eMON son del tipo ROCA!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]ÂMi fuerza de voluntad dura\pcomo una roca es evidente  incluso en\nmis POK\eMON. Mis POK\eMON son todos\pduros como una roca y tienen una\nverdadera determinación. Así es, ¡todos\pmis POK\eMON son del tipo ROCA!
 
 #org @gFameCheckerFlavorText_Brock2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂNo hay muchos ENTRENADORES\pPOK\eMON  serios aquí. Todos son como\nATRAPADORES DE ERRORES, ya sabes, sólo\paficionados. Pero BROCK de PEWTER GYM no\nes así, ni un poquito.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂNo hay muchos ENTRENADORES\pPOK\eMON  serios aquí. Todos son como\nATRAPADORES DE ERRORES, ya sabes, sólo\paficionados. Pero BROCK de PEWTER GYM no\nes así, ni un poquito.
 
 #org @gFameCheckerFlavorText_Brock3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]BROCK es genial. No sólo es\pduro. A la gente le gusta y lo respeta.\nQuiero convertirme en LÍDER DE GIMNASIO\pcomo él.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]BROCK es genial. No sólo es\pduro. A la gente le gusta y lo respeta.\nQuiero convertirme en LÍDER DE GIMNASIO\pcomo él.
 
 #org @gFameCheckerFlavorText_Brock4
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]Hola, estoy excavando en busca\pde fósiles aquí bajo MT. LUNA. A veces,\nBROCK de PEWTER GYM me echa una mano.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]Hola, estoy excavando en\pbusca de fósiles aquí bajo MT. LUNA. A\nveces, BROCK de PEWTER GYM me echa una\pmano.
 
 #org @gFameCheckerFlavorText_Brock5
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[COLOR][SHADOW]BROCK rara vez se ríe, pero se\pdice que no puede parar si empieza.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[COLOR]En[SHADOW]BROCK rara vez se ríe, pero se\pdice que no puede parar si empieza.
 
 #org @gFameCheckerFlavorText_Misty0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂCERULEAN CITY POK\eMON GYM LÍDER:\pMISTY ¡La sirena marimacha!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂCERULEAN CITY POK\eMON GYM\pLÍDER: MISTY ¡La sirena marimacha!
 
 #org @gFameCheckerFlavorText_Misty1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE][SHADOW]¡Mi política es una ofensiva\ptotal con POK\eMON de tipo AGUA!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE]En[SHADOW]¡Mi política es una ofensiva\ptotal con POK\eMON de tipo AGUA!
 
 #org @gFameCheckerFlavorText_Misty2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂMISTY es una ENTRENADORA que\pseguirá mejorando. ¡No perderá contra\nalguien como tú!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂMISTY es una ENTRENADORA que\pseguirá mejorando. ¡No perderá contra\nalguien como tú!
 
 #org @gFameCheckerFlavorText_Misty3
-[COLOR][SHADOW]ÌHay un rumor...\n[FONT][FONT_MALE][SHADOW]ÂENTRENADORES fuertes y\pPOK\eMON de AGUA a son comunes en estos\nlugares. Dicen que MISTY del CERULEAN\pGYM entrena aquí.
+[COLOR]MI[SHADOW]ÌHay un rumor...\n[FONT][FONT_MALE]En[SHADOW]ÂENTRENADORES fuertes y\pPOK\eMON de AGUA a son comunes en estos\nlugares. Dicen que MISTY del CERULEAN\pGYM entrena aquí.
 
 #org @gFameCheckerFlavorText_Misty4
-[COLOR][SHADOW]ÌHay un rumor... [FONT][FONT_FEMALE][SHADOW]ÂEsta\ncapa es un famoso lugar para citas.\pMISTY, la LÍDER DEL GIMNASIO, tiene\ngrandes esperanzas sobre este lugar.
+[COLOR]MI[SHADOW]ÌHay un rumor...\n[FONT][FONT_FEMALE]En[SHADOW]ÂEsta capa es un famoso lugar\ppara citas. MISTY, la LÍDER DEL\nGIMNASIO, tiene grandes esperanzas sobre\peste lugar.
 
 #org @gFameCheckerFlavorText_Misty5
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]Se dice que\nMISTY adora a LORELEI de la ÉLITE\pCUATRO.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]Se dice\nque MISTY adora a LORELEI de la ÉLITE\pCUATRO.
 
 #org @gFameCheckerFlavorText_LtSurge0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂVERMILION CITY POK\eMON GYM\pLÍDER: LT. SURGE ¡El relámpago\namericano!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂVERMILION CITY POK\eMON GYM\pLÍDER: LT. SURGE ¡El relámpago\namericano!
 
 #org @gFameCheckerFlavorText_LtSurge1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¡Te lo digo, chico, el POK\eMON\p eléctrico me salvó durante la guerra!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¡Te lo digo, chico, el\pPOK\eMON  eléctrico me salvó durante la\nguerra!
 
 #org @gFameCheckerFlavorText_LtSurge2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]Cuando estaba en el ejército,\pLT. SURGE era mi estricto CO. Era un\ncapataz duro.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]Cuando estaba en el ejército,\pLT. SURGE era mi estricto CO. Era un\ncapataz duro.
 
 #org @gFameCheckerFlavorText_LtSurge3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]LT. SURGE siempre fue famoso\ppor su carácter cauteloso en el\nejército.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]LT. SURGE siempre fue famoso\ppor su carácter cauteloso en el\nejército.
 
 #org @gFameCheckerFlavorText_LtSurge4
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]LT. SURGE instaló las trampas\pen el GYM él mismo. Colocó cerraduras\ndobles en todas partes.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]LT. SURGE instaló las trampas\pen el GYM él mismo. Colocó cerraduras\ndobles en todas partes.
 
 #org @gFameCheckerFlavorText_LtSurge5
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]LT. Se\nrumorea que SURGE fue  piloto mientras\pestaba en Estados Unidos. Utilizó la\nelectricidad generada por POK\eMON para\pimpulsar su avión.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]LT. Se\nrumorea que SURGE fue  piloto mientras\pestaba en Estados Unidos. Utilizó la\nelectricidad generada por POK\eMON para\pimpulsar su avión.
 
 #org @gFameCheckerFlavorText_Erika0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂCELADON CITY POK\eMON GYM LÍDER:\pERIKA ¡La princesa amante de la\nnaturaleza!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂCELADON CITY POK\eMON GYM\pLÍDER: ERIKA ¡La princesa amante de la\nnaturaleza!
 
 #org @gFameCheckerFlavorText_Erika1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE][SHADOW]ÂSoy un estudiante del arte de\parreglo floral. Mis POK\eMON son\núnicamente del tipo GRASS.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE]En[SHADOW]ÂSoy un estudiante del arte\pde arreglo floral. Mis POK\eMON son\núnicamente del tipo GRASS.
 
 #org @gFameCheckerFlavorText_Erika2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]Nuestra LÍDER ERIKA puede ser\ptranquila, pero es famosa por aquí.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Nuestra LÍDER ERIKA puede ser\ptranquila, pero es famosa por aquí.
 
 #org @gFameCheckerFlavorText_Erika3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]ÂSolo utilizamos POK\eMON tipo\pGRASS en  nuestro GIMNASIO. ¿Por qué?\n¡También los usamos para hacer arreglos\pflorales!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]ÂSolo utilizamos POK\eMON\ptipo GRASS en  nuestro GIMNASIO. ¿Por\nqué? ¡También los usamos para hacer\parreglos florales!
 
 #org @gFameCheckerFlavorText_Erika4
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE][SHADOW]ÂNunca coleccionaría POK\eMON\psi no fueran atractivos.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE]En[SHADOW]ÂNunca coleccionaría POK\eMON\psi no fueran atractivos.
 
 #org @gFameCheckerFlavorText_Erika5
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]Se rumorea\nque si echas un vistazo a CELADON GYM, a\pmenudo podrás ver a ERIKA durmiendo.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]Se\nrumorea que si echas un vistazo a\pCELADON GYM, a menudo podrás ver a ERIKA\ndurmiendo.
 
 #org @gFameCheckerFlavorText_Koga0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂFUCSIA CITY POK\eMON GYM LÍDER:\pKOGA El Maestro Ninja Venenoso
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂFUCSIA CITY POK\eMON GYM LÍDER:\pKOGA El Maestro Ninja Venenoso
 
 #org @gFameCheckerFlavorText_Koga1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¡Desesperación ante el horror\pcreciente de los POK\eMON de tipo\nVENENO!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¡Desesperación ante el horror\pcreciente de los POK\eMON de tipo\nVENENO!
 
 #org @gFameCheckerFlavorText_Koga2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]Aunque haya perdido, seguiré\pentrenando según las enseñanzas de KOGA,\nmi maestro ninja.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]Aunque haya perdido, seguiré\pentrenando según las enseñanzas de KOGA,\nmi maestro ninja.
 
 #org @gFameCheckerFlavorText_Koga3
-[COLOR][SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_FEMALE][SHADOW]ÂMi padre es el LÍDER DE\pGIMNASIO de esta ciudad. Estoy\nentrenando para usar POISON POK\eMON al\pigual que mi padre.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_FEMALE]En[SHADOW]ÂMi padre es el LÍDER DE\pGIMNASIO de esta ciudad. Estoy\nentrenando para usar POISON POK\eMON al\pigual que mi padre.
 
 #org @gFameCheckerFlavorText_Koga4
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]Se dice que\nÂKOGA tiene un conocimiento profundo de\pla medicina. Incluso prepara medicinas\npara cuidar su POK\eMON hasta que\precupere la salud.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]Se dice\nque ÂKOGA tiene un conocimiento profundo\pde la medicina. Incluso prepara\nmedicinas para cuidar su POK\eMON hasta\pque recupere la salud.
 
 #org @gFameCheckerFlavorText_Koga5
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]ÂLa ZONA SAFARI es enorme, ¿no\pcrees ? El LÍDER DEL GIMNASIO DE FUCSIA,\nKOGA,  patrulla los terrenos de vez en\pcuando. Gracias a él, podemos jugar aquí\n sabiendo que estamos a salvo.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂLa ZONA SAFARI es enorme,\p¿no crees ? El LÍDER DEL GIMNASIO DE\nFUCSIA, KOGA,  patrulla los terrenos de\pvez en cuando. Gracias a él, podemos\njugar aquí  sabiendo que estamos a\psalvo.
 
 #org @gFameCheckerFlavorText_Sabrina0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂSAFFRON CITY POK\eMON GYM LÍDER:\pSABRINA ¡La maestra de POK\eMON\nPSÍQUICO!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂSAFFRON CITY POK\eMON GYM\pLÍDER: SABRINA ¡La maestra de POK\eMON\nPSÍQUICO!
 
 #org @gFameCheckerFlavorText_Sabrina1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¿Conoces a una chica LÍDER DE\pGIMNASIO en SAFFRON CITY? Ella usa\nPOK\eMON de tipo PSÍQUICO, ¿verdad?
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¿Conoces a una chica LÍDER DE\pGIMNASIO en SAFFRON CITY? Ella usa\nPOK\eMON de tipo PSÍQUICO, ¿verdad?
 
 #org @gFameCheckerFlavorText_Sabrina2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]ÂHe tenido poderes psíquicos\pdesde que era un niño. Todo comenzó\ncuando una cuchara que arrojé\pdescuidadamente y se dobló.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]ÂHe tenido poderes psíquicos\pdesde que era un niño. Todo comenzó\ncuando una cuchara que arrojé\pdescuidadamente y se dobló.
 
 #org @gFameCheckerFlavorText_Sabrina3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]No me gusta luchar, pero si lo\pdeseas, ¡te mostraré mis poderes!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]No me gusta luchar, pero si\plo deseas, ¡te mostraré mis poderes!
 
 #org @gFameCheckerFlavorText_Sabrina4
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]La gente\ndice que SABRINA puede comunicarse con\psu POK\eMON durante la batalla sin\nhablar.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]La\ngente dice que SABRINA puede comunicarse\pcon su POK\eMON durante la batalla sin\nhablar.
 
 #org @gFameCheckerFlavorText_Sabrina5
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂSABRINA acaba de acabar con el\pKARATE MASTER de al lado.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂSABRINA acaba de acabar con\pel KARATE MASTER de al lado.
 
 #org @gFameCheckerFlavorText_Blaine0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[COLOR][SHADOW]ÂCINNABAR ISLAND POK\eMON GYM\pLÍDER: BLAINE ¡El impulsivo maestro de\nlas pruebas!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[COLOR]En[SHADOW]ÂCINNABAR ISLAND POK\eMON GYM\pLÍDER: BLAINE ¡El impulsivo maestro de\nlas pruebas!
 
 #org @gFameCheckerFlavorText_Blaine1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¡Mis ardientes POK\eMON son\ptodos rudos y están listos con un calor\nintenso! ¡Incineran a todos los\pretadores!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¡Mis ardientes POK\eMON son\ptodos rudos y están listos con un calor\nintenso! ¡Incineran a todos los\pretadores!
 
 #org @gFameCheckerFlavorText_Blaine2
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]ÂNuestro LÍDER, BLAINE, se\pperdió en las montañas pero bueno. Cayó\nla noche cuando apareció un pájaro de\pfuego POK\eMON. Su luz le permitió a\nBLAINE encontrar el camino hacia abajo\pcon seguridad.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]ÂNuestro LÍDER, BLAINE, se\pperdió en las montañas pero bueno. Cayó\nla noche cuando apareció un pájaro de\pfuego POK\eMON. Su luz le permitió a\nBLAINE encontrar el camino hacia abajo\pcon seguridad.
 
 #org @gFameCheckerFlavorText_Blaine3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]BLAINE, de ÂCINNABAR GYM, es un\ptipo bastante extraño. Ha vivido en la\nisla desde mucho antes de que se\pconstruyera el LAB.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]BLAINE, de ÂCINNABAR GYM, es\pun tipo bastante extraño. Ha vivido en\nla isla desde mucho antes de que se\pconstruyera el LAB.
 
 #org @gFameCheckerFlavorText_Blaine4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [COLOR][SHADOW]Es\nuna foto de BLAINE y MR. FUJI. Están\pparados hombro con hombro con grandes\nsonrisas.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[COLOR]En[SHADOW]Es una foto de BLAINE y MR.\pFUJI. Están parados hombro con hombro\ncon grandes sonrisas.
 
 #org @gFameCheckerFlavorText_Blaine5
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]Se dice que\nBLAINE se quita las gafas oscuras sólo\pcuando está pensando nuevas preguntas\ndel cuestionario.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]Se dice\nque BLAINE se quita las gafas oscuras\psólo cuando está pensando nuevas\npreguntas del cuestionario.
 
 #org @gFameCheckerFlavorText_Lorelei0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE][SHADOW]Soy LORELEI de ELITE FOUR.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Soy LORELEI de ELITE FOUR.
 
 #org @gFameCheckerFlavorText_Lorelei1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE][SHADOW]ÂNadie puede superarme cuando\pse trata de POK\eMON helados.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE]En[SHADOW]ÂNadie puede superarme cuando\pse trata de POK\eMON helados.
 
 #org @gFameCheckerFlavorText_Lorelei2
-[COLOR][SHADOW]Ì¿Dónde nació esta persona?\n[FONT][FONT_MALE][SHADOW]ÂHemos tenido una gran y\ppoderosa ENTRENADORA que creció en esta\nisla. Apuesto a que incluso tú la\pconocerías. ¡Es LORELEI de ELITE FOUR!
+[COLOR]MI[SHADOW]Ì¿Dónde nació esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂHemos tenido una gran y\ppoderosa ENTRENADORA que creció en esta\nisla. Apuesto a que incluso tú la\pconocerías. ¡Es LORELEI de ELITE FOUR!
 
 #org @gFameCheckerFlavorText_Lorelei3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[COLOR][SHADOW]¡Conocida por su estilo de lucha\plógico, calculado y genial, LORELEI\ntiene un secreto sorprendente!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[COLOR]En[SHADOW]¡Conocida por su estilo de lucha\plógico, calculado y genial, LORELEI\ntiene un secreto sorprendente!
 
 #org @gFameCheckerFlavorText_Lorelei4
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]¿Sabías que LORELEI tiene\pmuchísimos muñecos de peluche? ¡Cada vez\nque regresa a FOUR ISLAND, su colección\pcrece!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]¿Sabías que LORELEI tiene\pmuchísimos muñecos de peluche? ¡Cada vez\nque regresa a FOUR ISLAND, su colección\pcrece!
 
 #org @gFameCheckerFlavorText_Lorelei5
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE][SHADOW]ÂEl LAPRAS que tiene, me\pimagino que será el que conoció cuando\nera niña. Creo que fue en la CUEVA DE\pHIELO donde lo atrapó. Quizás ese\nPOK\eMON ha estado con ella desde desde\pentonces.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_FEMALE]En[SHADOW]ÂEl LAPRAS que tiene, me\pimagino que será el que conoció cuando\nera niña. Creo que fue en la CUEVA DE\pHIELO donde lo atrapó. Quizás ese\nPOK\eMON ha estado con ella desde desde\pentonces.
 
 #org @gFameCheckerFlavorText_Bruno0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]¡Soy BRUNO de ELITE FOUR!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]¡Soy BRUNO de ELITE FOUR!
 
 #org @gFameCheckerFlavorText_Bruno1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¡He vivido y entrenado con mi\pPOK\eMON de lucha!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¡He vivido y entrenado con mi\pPOK\eMON de lucha!
 
 #org @gFameCheckerFlavorText_Bruno2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[COLOR][SHADOW]ÂBRUNO aparentemente se unió a\pELITE FOUR por su ardiente ambición de\nluchar contra los mejores ENTRENADORES.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[COLOR]En[SHADOW]ÂBRUNO aparentemente se unió a\pELITE FOUR por su ardiente ambición de\nluchar contra los mejores ENTRENADORES.
 
 #org @gFameCheckerFlavorText_Bruno3
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂBRUNO, que es un estudiante de\púltimo año por delante de mí, visita el\nSPA de vez en cuando. Viene a\prehabilitación de lesiones, tanto las\nsuyas como las de sus POK\eMON.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂBRUNO, que es un estudiante\pde último año por delante de mí, visita\nel SPA de vez en cuando. Viene a\prehabilitación de lesiones, tanto las\nsuyas como las de sus POK\eMON.
 
 #org @gFameCheckerFlavorText_Bruno4
-[COLOR][SHADOW]ÌHay un rumor... [FONT][FONT_FEMALE][SHADOW]Es uno\nde los CUATRO DE ÉLITE. Su nombre es\pBRUNO. Se fue decepcionado cuando\ndescubrió que se habían vendido todas\plas Rage Candybars.
+[COLOR]MI[SHADOW]ÌHay un rumor... [FONT][FONT_FEMALE]En[SHADOW]Es\nuno de los CUATRO DE ÉLITE. Su nombre es\pBRUNO. Se fue decepcionado cuando\ndescubrió que se habían vendido todas\plas Rage Candybars.
 
 #org @gFameCheckerFlavorText_Bruno5
-[COLOR][SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE][SHADOW]Incluso BRUNO... Él entrenó con\pun compañero llamado nombre de BRAWLY\nantes.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE]En[SHADOW]Incluso BRUNO... Él entrenó\pcon un compañero llamado nombre de\nBRAWLY antes.
 
 #org @gFameCheckerFlavorText_Agatha0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE][SHADOW]Soy AGATHA de ELITE FOUR.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Soy AGATHA de ELITE FOUR.
 
 #org @gFameCheckerFlavorText_Agatha1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]Los POK\eMON de tipo FANTASMA\pde ÂAGATHA tienen una dureza\nterriblemente aterradora.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]Los POK\eMON de tipo FANTASMA\pde ÂAGATHA tienen una dureza\nterriblemente aterradora.
 
 #org @gFameCheckerFlavorText_Agatha2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]Esa anciana también tiene muy\ppoca mecha. No hace falta nada para que\nesa dama aterradora grite.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]Esa anciana también tiene muy\ppoca mecha. No hace falta nada para que\nesa dama aterradora grite.
 
 #org @gFameCheckerFlavorText_Agatha3
-[COLOR][SHADOW]ÌHay un rumor... [COLOR][SHADOW]En su\njuventud, AGATHA y el PROF. OAK eran\privales que competían por la supremacía\ncomo ENTRENADORES.
+[COLOR]MI[SHADOW]ÌHay un rumor... [COLOR]En[SHADOW]En su\njuventud, AGATHA y el PROF. OAK eran\privales que competían por la supremacía\ncomo ENTRENADORES.
 
 #org @gFameCheckerFlavorText_Agatha4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [FONT][FONT_FEMALE][SHADOW]He\noído que OAK se ha interesado mucho en\pti, niño. Ese viejo idiota alguna vez\nfue duro y guapo. Pero eso fue hace\pdécadas. Es una sombra de lo que era\nantes.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_FEMALE]En[SHADOW]He oído que OAK se ha\pinteresado mucho en ti, niño. Ese viejo\nidiota alguna vez fue duro y guapo. Pero\peso fue hace décadas. Es una sombra de\nlo que era antes.
 
 #org @gFameCheckerFlavorText_Agatha5
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]ÂTomemos a AGATHA, por ejemplo.\pElla estableció un récord al ser el\nmiembro más viejo de ELITE FOUR.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]ÂTomemos a AGATHA, por\pejemplo. Ella estableció un récord al\nser el miembro más viejo de ELITE FOUR.
 
 #org @gFameCheckerFlavorText_Lance0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]Lidero ELITE FOUR. Puedes\pllamarme LANCE el dragón ENTRENADOR.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]Lidero ELITE FOUR. Puedes\pllamarme LANCE el dragón ENTRENADOR.
 
 #org @gFameCheckerFlavorText_Lance1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]ÂSabes que los dragones son\pPOK\eMON míticos. Son difíciles de\natrapar y criar, pero sus poderes son\psuperiores. Son prácticamente\nindestructibles. No se puede ser\pinteligente con ellos.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]ÂSabes que los dragones son\pPOK\eMON míticos. Son difíciles de\natrapar y criar, pero sus poderes son\psuperiores. Son prácticamente\nindestructibles. No se puede ser\pinteligente con ellos.
 
 #org @gFameCheckerFlavorText_Lance2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE][SHADOW]¡Él defiende la justicia! ¡Es\pgenial y, sin embargo, apasionado! ¡Es\nel mejor, LANCE!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]¡Él defiende la justicia! ¡Es\pgenial y, sin embargo, apasionado! ¡Es\nel mejor, LANCE!
 
 #org @gFameCheckerFlavorText_Lance3
-[COLOR][SHADOW]ÌHay un rumor... [FONT][FONT_FEMALE][SHADOW]ÂTenemos\nun cliente, LANCE, que viene de vez en\pcuando. Siempre compra capas. Me\npregunto... ¿Tiene muchas capas\pidénticas en casa?
+[COLOR]MI[SHADOW]ÌHay un rumor...\n[FONT][FONT_FEMALE]En[SHADOW]ÂTenemos un cliente, LANCE,\pque viene de vez en cuando. Siempre\ncompra capas. Me pregunto... ¿Tiene\pmuchas capas idénticas en casa?
 
 #org @gFameCheckerFlavorText_Lance4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [COLOR][SHADOW]Se\ncree que el abuelo de ÂLANCE es el mayor\pde un famoso clan de maestros dragones.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[COLOR]En[SHADOW]Se cree que el abuelo de ÂLANCE\pes el mayor de un famoso clan de\nmaestros dragones.
 
 #org @gFameCheckerFlavorText_Lance5
-[COLOR][SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE][SHADOW]Por lo que he oído, LANCE tiene\pun primo que es LÍDER DE GIMNASIO en\nalgún lugar lejano.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE]En[SHADOW]Por lo que he oído, LANCE\ptiene un primo que es LÍDER DE GIMNASIO\nen algún lugar lejano.
 
 #org @gFameCheckerFlavorText_Bill0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]Después de todo, BILL es\pmundialmente famoso como POK\eMANIAC. Él\ntambién inventó el sistema de\palmacenamiento POK\eMON en PC.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]Después de todo, BILL es\pmundialmente famoso como POK\eMANIAC. Él\ntambién inventó el sistema de\palmacenamiento POK\eMON en PC.
 
 #org @gFameCheckerFlavorText_Bill1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]¡BILL tiene muchos POK\eMON!\p¡También colecciona algunos raros!
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]¡BILL tiene muchos POK\eMON!\p¡También colecciona algunos raros!
 
 #org @gFameCheckerFlavorText_Bill2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]¡Es mi nieto! Siempre le gustó\pcoleccionar cosas, ¡incluso cuando era\nniño!
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]¡Es mi nieto! Siempre le\pgustó coleccionar cosas, ¡incluso cuando\nera niño!
 
 #org @gFameCheckerFlavorText_Bill3
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]ÂBILL es un POK\eMANIAC, por lo\pque ama  a todos los tipos.\nAparentemente, el primero que atrapó fue\pun ABRA.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]ÂBILL es un POK\eMANIAC, por\plo que ama  a todos los tipos.\nAparentemente, el primero que atrapó fue\pun ABRA.
 
 #org @gFameCheckerFlavorText_Bill4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [FONT][FONT_MALE][SHADOW]La\nciudad natal de BILL es GOLDENROD CITY,\pdonde todavía viven sus padres. He oído\nque es una ciudad bastante festiva y\pbulliciosa.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE]En[SHADOW]La ciudad natal de BILL es\pGOLDENROD CITY, donde todavía viven sus\npadres. He oído que es una ciudad\pbastante festiva y bulliciosa.
 
 #org @gFameCheckerFlavorText_Bill5
-[COLOR][SHADOW]ÌHay un rumor...\n[FONT][FONT_MALE][SHADOW]Aparentemente, BILL simplemente\pno puede digerir leche en absoluto.
+[COLOR]MI[SHADOW]ÌHay un rumor...\n[FONT][FONT_MALE]En[SHADOW]Aparentemente, BILL\psimplemente no puede digerir leche en\nabsoluto.
 
 #org @gFameCheckerFlavorText_MrFuji0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE][SHADOW]Es muy amable. Cuida de\pPOK\eMON abandonados y huérfanos.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_FEMALE]En[SHADOW]Es muy amable. Cuida de\pPOK\eMON abandonados y huérfanos.
 
 #org @gFameCheckerFlavorText_MrFuji1
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]ÂEste viejo marchó hasta\p nuestro ESCONDITE. Luego, comienza a\ndespotricar sobre cómo TEAM ROCKET está\pabusando de POK\eMON. Entonces, solo\nestamos hablando de ello como adultos.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂEste viejo marchó hasta\p nuestro ESCONDITE. Luego, comienza a\ndespotricar sobre cómo TEAM ROCKET está\pabusando de POK\eMON. Entonces, solo\nestamos hablando de ello como adultos.
 
 #org @gFameCheckerFlavorText_MrFuji2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[COLOR][SHADOW]ÂPOK\eMON FAN MAGAZINE ¡Sorteo del\pgran premio mensual! El formulario de\nsolicitud está... ¡Desapareció! Ha sido\precortado. Alguien debe haber presentado\nya su solicitud.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[COLOR]En[SHADOW]ÂPOK\eMON FAN MAGAZINE ¡Sorteo\pdel gran premio mensual! El formulario\nde solicitud está... ¡Desapareció! Ha\psido recortado. Alguien debe haber\npresentado ya su solicitud.
 
 #org @gFameCheckerFlavorText_MrFuji3
-[COLOR][SHADOW]ÌHay un rumor... [FONT][FONT_MALE][SHADOW]He oído\nque MR. FUJI tampoco es originario de\pestas partes.
+[COLOR]MI[SHADOW]ÌHay un rumor... [FONT][FONT_MALE]En[SHADOW]He\noído que MR. FUJI tampoco es originario\pde estas partes.
 
 #org @gFameCheckerFlavorText_MrFuji4
-[COLOR][SHADOW]Ì¿Familiares y amigos? [COLOR][SHADOW]Es\nuna foto de BLAINE y MR. FUJI. Están\pparados hombro con hombro con grandes\nsonrisas.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[COLOR]En[SHADOW]Es una foto de BLAINE y MR.\pFUJI. Están parados hombro con hombro\ncon grandes sonrisas.
 
 #org @gFameCheckerFlavorText_MrFuji5
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[COLOR][SHADOW]Editor: El tímido MR. FUJI rechazó\pnuestras solicitudes de entrevista. Es\nun hombre amable que es adorado y\prespetado en LAVENDER TOWN.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[COLOR]En[SHADOW]Editor: El tímido MR. FUJI\prechazó nuestras solicitudes de\nentrevista. Es un hombre amable que es\padorado y respetado en LAVENDER TOWN.
 
 #org @gFameCheckerFlavorText_Giovanni0
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]ÂTEAM ROCKET captura POK\eMON\pde alrededor del mundo. Son herramientas\nimportantes para mantener nuestra\pempresa criminal en marcha. ¡Soy el\nlíder, GIOVANNI!
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]ÂTEAM ROCKET captura POK\eMON\pde alrededor del mundo. Son herramientas\nimportantes para mantener nuestra\pempresa criminal en marcha. ¡Soy el\nlíder, GIOVANNI!
 
 #org @gFameCheckerFlavorText_Giovanni1
-[COLOR][SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE][SHADOW]ÂEsos matones que se apoderaron\pde nuestro edificio... Su JEFE dijo que\nestaba buscando POK\eMON fuertes.
+[COLOR]MI[SHADOW]Ì¿Tipo favorito de POK\eMON?\n[FONT][FONT_MALE]En[SHADOW]ÂEsos matones que se\papoderaron de nuestro edificio... Su\nJEFE dijo que estaba buscando POK\eMON\pfuertes.
 
 #org @gFameCheckerFlavorText_Giovanni2
-[COLOR][SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE][SHADOW]¡El JEFE del TEAM ROCKET es\pterriblemente cruel! Para él, los\nPOK\eMON son solo herramientas para\pusar.
+[COLOR]MI[SHADOW]Ì¿Cómo es esta persona?\n[FONT][FONT_MALE]En[SHADOW]¡El JEFE del TEAM ROCKET es\pterriblemente cruel! Para él, los\nPOK\eMON son solo herramientas para\pusar.
 
 #org @gFameCheckerFlavorText_Giovanni3
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]¡Bienvenido a mi escondite! Así\pserá hasta que pueda restaurar TEAM\nROCKET a su antigua gloria.
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]¡Bienvenido a mi escondite!\pAsí será hasta que pueda restaurar TEAM\nROCKET a su antigua gloria.
 
 #org @gFameCheckerFlavorText_Giovanni4
-[COLOR][SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE][SHADOW]¡Déjame volar! ¿GIOVANNI era el\pLÍDER DE GIMNASIO de VIRIDIAN?
+[COLOR]MI[SHADOW]Ì¿Qué hace esta persona?\n[FONT][FONT_MALE]En[SHADOW]¡Déjame volar! ¿GIOVANNI era\pel LÍDER DE GIMNASIO de VIRIDIAN?
 
 #org @gFameCheckerFlavorText_Giovanni5
-[COLOR][SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE][SHADOW]ÂTú... No eres el hijo de\pGIOVANNI, ¿verdad? No, eso no puede ser\ncorrecto. El hijo de GIOVANNI es\ppelirrojo.
+[COLOR]MI[SHADOW]Ì¿Familiares y amigos?\n[FONT][FONT_MALE]En[SHADOW]ÂTú... No eres el hijo de\pGIOVANNI, ¿verdad? No, eso no puede ser\ncorrecto. El hijo de GIOVANNI es\ppelirrojo.
 
 #org @gFameCheckerFlavorTextOriginLocation_ProfOak0
 CIUDAD PALETA
@@ -10739,7 +10739,7 @@ POK\eMON JOURNAL Característica\nespecial: ¡AGATHA de ELITE FOUR! En su\pjuven
 POK\eMON JOURNAL Característica\nespecial: ¡LANCE de ELITE FOUR! Se cree\pque el abuelo de LANCE es el mayor de un\nfamoso clan de maestros de dragones.
 
 #org @PokemonJournal_Text_SpecialFeatureProfOak
-[B_OPPONENT_MON1_NAME]
+POK\eMON JOURNAL Special Feature: PROF.\nOAK, the POK\eMON Researcher! PROF. OAK\preportedly lives with his grandchildren\nDAISY and [B_OPPONENT_MON1_NAME].
 
 #org @PokemonJournal_Text_SpecialFeatureDaisyOak
 Este es un DIARIO POK\eMON de hace\naños... DIARIO POK\eMON ¡Especial del\pCONCURSO! ¡El gran campeón del CONCURSO\nPOK\eMON de primavera es DAISY OAK de\pPALLET TOWN!
@@ -11195,7 +11195,7 @@ Usando “BOLSA”
 [MUS_DUMMY]Usando una POK\e BALL
 
 #org @Help_Text_UsingPlayer
-[B_BUFF2]
+[B_BUFF2]"
 
 #org @Help_Text_UsingSave
 Usando “GUARDAR”
@@ -11480,7 +11480,7 @@ SP. DEF
 VELOCIDAD
 
 #org @Help_Text_Level
-[LEFT_PAREN][RIGHT_PAREN]
+[LEFT_PAREN]Nivel[RIGHT_PAREN]
 
 #org @Help_Text_Type
 TIPO
@@ -12221,7 +12221,7 @@ Espero que disfrutes del sistema de\ncomunicación inalámbrica.
 ¡Parece que este árbol se puede CORTAR !\n¿Te gustaría CORTARLO?
 
 #org @Text_MonUsedMove
-[B_COPY_VAR_1]usado[B_COPY_VAR_2]
+[B_COPY_VAR_1] used [B_COPY_VAR_2]!
 
 #org @Text_TreeCanBeCutDown
 ¡Parece que este árbol se puede CORTAR !
@@ -12335,7 +12335,7 @@ Bien. Vuelve.
 ¡Ah, eres tú! Me alegro de verte. ¡Tu\nPOK\eMON solo puede estar bien!
 
 #org @DayCare_Text_YourMonHasGrownXLevels
-[B_COPY_VAR_1]ha crecido por[B_COPY_VAR_2]
+By level, your [B_COPY_VAR_1] has grown by [B_COPY_VAR_2].
 
 #org @DayCare_Text_YourPartyIsFull
 Tu grupo POK\eMON está lleno. Haz\nespacio y luego ven a verme.
@@ -12344,7 +12344,7 @@ Tu grupo POK\eMON está lleno. Haz\nespacio y luego ven a verme.
 Ùç & \eÊÑñÉÁ?
 
 #org @DayCare_Text_ItWillCostX
-[B_COPY_VAR_1]de regreso,  costará  $[B_COPY_VAR_2]
+If you want your [B_COPY_VAR_1] back, it will cost\n $[B_COPY_VAR_2].
 
 #org @DayCare_Text_HeresYourMon
 ¡Perfecto! Aquí tienes tu POK\eMON.
@@ -12461,7 +12461,7 @@ y \eÊÚÊ ÈŒçÏî ËÎÁ!
 [B_COPY_VAR_1]! îÓÛ ËºÛ ÀûÑÂ ÈºÁà º& óÛ ÁÊßÎÁ
 
 #org @SootopolisCity_Text_ReceivedOneItem
-[B_BUFF2][B_COPY_VAR_2]& ¡ooo!
+[B_BUFF2]es [B_COPY_VAR_2]& ¡ooo!
 
 #org @SootopolisCity_Text_HuhBagIsCrammedFull
 Àû? Êî óÙóç ÁÁ
@@ -12476,7 +12476,7 @@ y \eÊÚÊ ÈŒçÏî ËÎÁ!
 ÈÈÊÁ [B_COPY_VAR_1] óÛßÁç?\lÔºè ++···\n+ ÈÈÊÁ [B_COPY_VAR_1] îÓÛ
 
 #org @SootopolisCity_Text_BiggestMonPlayersXCmColossus
-[B_COPY_VAR_1][B_COPY_VAR_2]C[B_COPY_VAR_3]
+[B_COPY_VAR_1]!\n[B_COPY_VAR_2]C[B_COPY_VAR_3]cmçôÚ!
 
 #org @Text_DadLetterArrivedForYouPlayer
 [B_BUFF2]! ùË ÊŒß! [B_BUFF2]ÀÛç Ûî ÑìúºŒ
@@ -13514,7 +13514,7 @@ Pero primero, cuéntame un poco sobre tú.
 Comencemos con tu nombre. ¿Qué es? 
 
 #org @gOakSpeech_Text_SoYourNameIsPlayer
-[B_BUFF2]
+Right… So your name is [B_BUFF2].
 
 #org @gOakSpeech_Text_WhatWasHisName
 Este es mi nieto. Ha sido tu rival desde\nque ambos eran bebés. …Erm, ¿cómo se\pllama ahora?
@@ -13523,10 +13523,10 @@ Este es mi nieto. Ha sido tu rival desde\nque ambos eran bebés. …Erm, ¿cómo
 El nombre de tu rival, ¿cómo era ahora?
 
 #org @gOakSpeech_Text_ConfirmRivalName
-[B_OPPONENT_MON1_NAME]
+…Er, was it [B_OPPONENT_MON1_NAME]?
 
 #org @gOakSpeech_Text_RememberRivalsName
-[B_OPPONENT_MON1_NAME]
+[B_OPPONENT_MON1_NAME]! ag
 
 #org @gOakSpeech_Text_LetsGo
 [B_BUFF2]! ¡Tu propia leyenda de POK\eMON está\na punto de desarrollarse! ¡Un mundo de\psueños y aventuras con POK\eMON te\nespera! ¡Vamos!
@@ -13846,9 +13846,6 @@ Es
 #org @gStatusConditionString_ConfusionJpn
 +ú+
 
-#org @sText_GameFreak
--
-
 #org @sNewLineText
 \n
 
@@ -13859,16 +13856,13 @@ en
 /
 
 #org @sText_HealthboxNickname
-[HIGHLIGHT]
+[HIGHLIGHT]En
 
 #org @sText_ClrWhtHltTranspShdwDrkGry
-[COLOR][HIGHLIGHT][SHADOW]
+[COLOR]TIENE[HIGHLIGHT][SHADOW]En
 
 #org @sText_Newline
 \n
-
-#org @sText_Slash
-/
 
 #org @sText_S
 S
@@ -17030,7 +17024,7 @@ BASE SECRETA
 MEZCLA
 
 #org @sEasyChatWord_POKEBLOCK
-[POKEBLOCK]
+[POKEBLOCK]ESTRELLA
 
 #org @sEasyChatWord_Master
 MAESTRO
@@ -17158,9 +17152,6 @@ JOVEN
 #org @sEasyChatWord_Ugly
 FEO
 
-#org @sText_UnusedColors
-[COLOR][HIGHLIGHT][SHADOW]
-
 #org @sText_Trainer1LoseText
 [B_TRAINER1_LOSE_TEXT]
 
@@ -17168,49 +17159,49 @@ FEO
 [B_TRAINER2_LOSE_TEXT]
 
 #org @sText_Trainer1RecallPkmn1
-[B_TRAINER1_NAME][B_OPPONENT_MON1_NAME], ¡regresar!
+[B_TRAINER1_NAME]: [B_OPPONENT_MON1_NAME], come back![B_OPPONENT_MON1_NAME], ¡regresar!
 
 #org @sText_Trainer1WinText
 [B_TRAINER1_WIN_TEXT]
 
 #org @sText_Trainer1RecallPkmn2
-[B_TRAINER1_NAME][B_OPPONENT_MON2_NAME], ¡regresar!
+[B_TRAINER1_NAME]: [B_OPPONENT_MON2_NAME], come back![B_OPPONENT_MON2_NAME], ¡regresar!
 
 #org @sText_Trainer1RecallBoth
-[B_TRAINER1_NAME][B_OPPONENT_MON1_NAME]y N[B_OPPONENT_MON2_NAME], ¡regresar!
+[B_TRAINER1_NAME]: [B_OPPONENT_MON1_NAME] and [B_OPPONENT_MON2_NAME], come back![B_OPPONENT_MON1_NAME]y N[B_OPPONENT_MON2_NAME],\n¡regresar!
 
 #org @sText_Trainer2WinText
 [B_TRAINER2_WIN_TEXT]
 
 #org @sText_PkmnGainedEXP
-[B_BUFF1]ganado[B_BUFF2][B_BUFF3]EXP. ¡Puntos! 
+[B_BUFF1]ganado[B_BUFF2]\n[B_BUFF3]EXP. ¡Puntos! 
 
 #org @sText_ABoosted
 un impulsado
 
 #org @sText_PkmnGrewToLv
-[B_BUFF1]creció hasta LV.[B_BUFF2][WAIT_SE]
+[B_BUFF1] grew to LV. [B_BUFF2]![WAIT_SE] [WAIT_SE] ag
 
 #org @sText_PkmnLearnedMove
-[B_BUFF1]aprendido [B_BUFF2][WAIT_SE]
+[B_BUFF1] learned [B_BUFF2]![WAIT_SE] [WAIT_SE] ag
 
 #org @sText_TryToLearnMove1
-[B_BUFF1]está intentando aprender[B_BUFF2]
+[B_BUFF1]está intentando aprender[B_BUFF2]. ag
 
 #org @sText_TryToLearnMove2
 [B_BUFF1]no puedo aprender más de cuatro\nmovimientos. 
 
 #org @sText_TryToLearnMove3
-[B_BUFF2]
+Delete a move to make room for [B_BUFF2]?
 
 #org @sText_PkmnForgotMove
-[B_BUFF1]lo olvidé [B_BUFF2]
+[B_BUFF1]lo olvidé [B_BUFF2]. ag
 
 #org @sText_StopLearningMove
-[PAUSE]îDejar de aprender [B_BUFF2]
+[PAUSE]îStop learning [B_BUFF2]?
 
 #org @sText_DidNotLearnMove
-[B_BUFF1]no aprendí [B_BUFF2]
+[B_BUFF1]no aprendí [B_BUFF2]. ag
 
 #org @sText_UseNextPkmn
 ¿Usar el siguiente POK\eMON?
@@ -17222,22 +17213,22 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX] ¡se protegió!
 
 #org @sText_AvoidedDamage
-[B_DEF_NAME_WITH_PREFIX]daño evitado con[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] avoided damage with [B_DEF_ABILITY]!
 
 #org @sText_PkmnMakesGroundMiss
-[B_DEF_NAME_WITH_PREFIX]hace que los movimientos de TIERRA\nfallen con[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] makes GROUND moves miss with [B_DEF_ABILITY]!
 
 #org @sText_PkmnAvoidedAttack
 [B_DEF_NAME_WITH_PREFIX]¡evitó el ataque!
 
 #org @sText_ItDoesntAffect
-[B_DEF_NAME_WITH_PREFIX]
+It doesn't affect [B_DEF_NAME_WITH_PREFIX]…
 
 #org @sText_AttackerFainted
-[B_ATK_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] ¡desmayado! 
 
 #org @sText_TargetFainted
-[B_DEF_NAME_WITH_PREFIX]
+[B_DEF_NAME_WITH_PREFIX] ¡desmayado! 
 
 #org @sText_PlayerGotMoney
 [B_PLAYER_NAME]tengo  $[B_BUFF1] ¡por ganar! 
@@ -17249,7 +17240,7 @@ un impulsado
 [B_PLAYER_NAME]en pánico y perdido  $[B_BUFF1]… … … … …\n[B_PLAYER_NAME]blanqueado![PAUSE_UNTIL_PRESS]
 
 #org @sText_PlayerWhiteoutAgainstTrainer
-[B_PLAYER_NAME]¡Se acabó us POK\eMON! Jugador\nperdido contra [B_TRAINER1_CLASS][B_TRAINER1_NAME][PAUSE_UNTIL_PRESS]
+[B_PLAYER_NAME] is out of usable POK\eMON! Player\nlost against [B_TRAINER1_CLASS] [B_TRAINER1_NAME]![PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @sText_PlayerPaidAsPrizeMoney
 [B_PLAYER_NAME]pagado  $[B_BUFF1]como premio en dinero… …\n… … … [B_PLAYER_NAME]blanqueado![PAUSE_UNTIL_PRESS]
@@ -17258,7 +17249,7 @@ un impulsado
 [B_PLAYER_NAME]blanqueado![PAUSE_UNTIL_PRESS]
 
 #org @sText_PreventsEscape
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]previene escape con[B_SCR_ACTIVE_ABILITY]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]previene escape con[B_SCR_ACTIVE_ABILITY]! ag
 
 #org @sText_CantEscape2
 ¡No puedo escapar! 
@@ -17288,7 +17279,7 @@ un impulsado
 [B_EFF_NAME_WITH_PREFIX] ¡fue envenenado!
 
 #org @sText_PkmnPoisonedBy
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] envenenado[B_EFF_NAME_WITH_PREFIX]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s [B_SCR_ACTIVE_ABILITY] poisoned [B_EFF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnHurtByPoison
 [B_ATK_NAME_WITH_PREFIX]está herido por veneno!
@@ -17306,7 +17297,7 @@ un impulsado
 [B_EFF_NAME_WITH_PREFIX]¡fue quemado!
 
 #org @sText_PkmnBurnedBy
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] quemado[B_EFF_NAME_WITH_PREFIX]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s [B_SCR_ACTIVE_ABILITY] burned [B_EFF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnHurtByBurn
 [B_ATK_NAME_WITH_PREFIX]está herido por su quemadura!
@@ -17330,7 +17321,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]fue descongelado!
 
 #org @sText_PkmnWasDefrostedBy
-[B_ATK_NAME_WITH_PREFIX]fue descongelado por[B_CURRENT_MOVE]
+[B_ATK_NAME_WITH_PREFIX] was defrosted by [B_CURRENT_MOVE]!
 
 #org @sText_PkmnWasParalyzed
 [B_EFF_NAME_WITH_PREFIX]¡Está paralizado! ¡Es posible que no\npueda moverse!
@@ -17378,7 +17369,7 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX] ¡Me enamoré!
 
 #org @sText_PkmnInLove
-[B_ATK_NAME_WITH_PREFIX]está enamorado de[B_SCR_ACTIVE_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] is in love with [B_SCR_ACTIVE_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnImmobilizedByLove
 [B_ATK_NAME_WITH_PREFIX]está inmovilizado por el amor!
@@ -17459,16 +17450,16 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]¡Quedó atrapado por la TUMBA DE\nARENA!
 
 #org @sText_PkmnWrappedBy
-[B_DEF_NAME_WITH_PREFIX]fue ENVUELTO por [B_ATK_NAME_WITH_PREFIX]
+[B_DEF_NAME_WITH_PREFIX] was WRAPPED by [B_ATK_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnClamped
-[B_ATK_NAME_WITH_PREFIX]SUJETO [B_DEF_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] CLAMPED [B_DEF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnHurtBy
-[B_ATK_NAME_WITH_PREFIX]esta herido por[B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] is hurt by [B_BUFF1]!
 
 #org @sText_PkmnFreedFrom
-[B_ATK_NAME_WITH_PREFIX]fue liberado de[B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] was freed from [B_BUFF1]!
 
 #org @sText_PkmnCrashed
 [B_ATK_NAME_WITH_PREFIX]¡Continuó y se estrelló!
@@ -17531,7 +17522,7 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]¡No puedo dormir en medio del\nALboroto!
 
 #org @sText_PkmnStockpiled
-[B_ATK_NAME_WITH_PREFIX]STOCKPILADO [B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] STOCKPILED [B_BUFF1]!
 
 #org @sText_PkmnCantStockpile
 [B_ATK_NAME_WITH_PREFIX]¡Ya no puedo STOCKPILE!
@@ -17543,7 +17534,7 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]¡despierto!
 
 #org @sText_PkmnStayedAwakeUsing
-[B_DEF_NAME_WITH_PREFIX]permaneció despierto usando su[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] stayed awake using its [B_DEF_ABILITY]!
 
 #org @sText_PkmnStoringEnergy
 [B_ATK_NAME_WITH_PREFIX]está almacenando energía!
@@ -17555,13 +17546,13 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]¡Se confundió debido a la fatiga!
 
 #org @sText_PkmnPickedUpItem
-[B_PLAYER_NAME]recogido  $[B_BUFF1]
+[B_PLAYER_NAME]recogido  $[B_BUFF1]! ag
 
 #org @sText_PkmnUnaffected
 [B_DEF_NAME_WITH_PREFIX]¡ no se ve afectado!
 
 #org @sText_PkmnTransformedInto
-[B_ATK_NAME_WITH_PREFIX]transformado en[B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] transformed into [B_BUFF1]!
 
 #org @sText_PkmnMadeSubstitute
 [B_ATK_NAME_WITH_PREFIX]hecho a ¡SUSTITUTO!
@@ -17570,7 +17561,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]¡ya tiene SUSTITUTO!
 
 #org @sText_SubstituteDamaged
-[B_DEF_NAME_WITH_PREFIX]
+[B_DEF_NAME_WITH_PREFIX]! ag
 
 #org @sText_PkmnSubstituteFaded
 [B_DEF_NAME_WITH_PREFIX]'s SUSTITUTO se desvaneció! 
@@ -17594,10 +17585,10 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]¡EL ENCORE terminó!
 
 #org @sText_PkmnTookAim
-[B_ATK_NAME_WITH_PREFIX]apuntó at[B_DEF_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] took aim at [B_DEF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnSketchedMove
-[B_ATK_NAME_WITH_PREFIX]BOSQUEZADO [B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] SKETCHED [B_BUFF1]!
 
 #org @sText_PkmnTryingToTakeFoe
 [B_ATK_NAME_WITH_PREFIX]está intentando llevarse a su enemigo\nconsigo!
@@ -17606,10 +17597,10 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]tomó [B_ATK_NAME_WITH_PREFIX]¡con eso!
 
 #org @sText_PkmnReducedPP
-[B_DEF_NAME_WITH_PREFIX][B_BUFF1]por[B_BUFF2]
+Reduced [B_DEF_NAME_WITH_PREFIX]'s [B_BUFF1] by [B_BUFF2]!
 
 #org @sText_PkmnStoleItem
-[B_ATK_NAME_WITH_PREFIX]robado[B_DEF_NAME_WITH_PREFIX]'s[B_LAST_ITEM]
+[B_ATK_NAME_WITH_PREFIX] stole [B_DEF_NAME_WITH_PREFIX]'s [B_LAST_ITEM]!
 
 #org @sText_TargetCantEscapeNow
 [B_DEF_NAME_WITH_PREFIX]¡No puedo escapar ahora!
@@ -17621,7 +17612,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]está encerrado en una PESADILLA!
 
 #org @sText_PkmnLaidCurse
-[B_ATK_NAME_WITH_PREFIX]cortó su propio HP y le puso una\nMALDICIÓN[B_DEF_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] cut its own HP and laid a CURSE on\n[B_DEF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnAfflictedByCurse
 [B_ATK_NAME_WITH_PREFIX]está afligido por la MALDICIÓN!
@@ -17633,10 +17624,10 @@ un impulsado
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]está herido por SPIKES!
 
 #org @sText_PkmnIdentified
-[B_ATK_NAME_WITH_PREFIX]identificado [B_DEF_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] identified [B_DEF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnPerishCountFell
-[B_ATK_NAME_WITH_PREFIX]El recuento de PERISH cayó a[B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX]'s PERISH count fell to [B_BUFF1]!
 
 #org @sText_PkmnBracedItself
 [B_ATK_NAME_WITH_PREFIX]¡preparado él mismo!
@@ -17645,7 +17636,7 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]¡SOPORTÓ el golpe!
 
 #org @sText_MagnitudeStrength
-[B_BUFF1]
+MAGNITUDE [B_BUFF1]!
 
 #org @sText_PkmnCutHPMaxedAttack
 [B_ATK_NAME_WITH_PREFIX]¡corta su propio HP y maximiza el\nATAQUE!
@@ -17654,7 +17645,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]copiado [B_DEF_NAME_WITH_PREFIX]¡Las estadísticas cambian!
 
 #org @sText_PkmnGotFree
-[B_ATK_NAME_WITH_PREFIX]Me liberé de [B_DEF_NAME_WITH_PREFIX]'s[B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] got free of [B_DEF_NAME_WITH_PREFIX]'s [B_BUFF1]!
 
 #org @sText_PkmnShedLeechSeed
 [B_ATK_NAME_WITH_PREFIX]cobertizo ¡SEMILLAS DE SANGUIGUIS!
@@ -17684,7 +17675,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]¡comenzó a cargar energía!
 
 #org @sText_NaturePowerTurnedInto
-[B_CURRENT_MOVE]
+NATURE POWER turned into [B_CURRENT_MOVE]!
 
 #org @sText_PkmnStatusNormal
 [B_ATK_NAME_WITH_PREFIX]¡El estado ha vuelto a la normalidad!
@@ -17699,22 +17690,22 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]¡Me enamoré de la burla!
 
 #org @sText_PkmnReadyToHelp
-[B_ATK_NAME_WITH_PREFIX]está listo para ayudar[B_DEF_NAME_WITH_PREFIX]
+[B_ATK_NAME_WITH_PREFIX] is ready to help [B_DEF_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnSwitchedItems
 [B_ATK_NAME_WITH_PREFIX]¡Cambió items con su oponente!
 
 #org @sText_PkmnObtainedX
-[B_ATK_NAME_WITH_PREFIX]obtenido [B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] obtained [B_BUFF1].
 
 #org @sText_PkmnObtainedX2
-[B_DEF_NAME_WITH_PREFIX]obtenido [B_BUFF2]
+[B_DEF_NAME_WITH_PREFIX] obtained [B_BUFF2].
 
 #org @sText_PkmnObtainedXYObtainedZ
-[B_ATK_NAME_WITH_PREFIX]obtenido [B_BUFF1][B_DEF_NAME_WITH_PREFIX]obtenido [B_BUFF2]
+[B_ATK_NAME_WITH_PREFIX] obtained [B_BUFF1]. [B_DEF_NAME_WITH_PREFIX] obtained [B_BUFF2].
 
 #org @sText_PkmnCopiedFoe
-[B_ATK_NAME_WITH_PREFIX]copiado [B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY]
+[B_ATK_NAME_WITH_PREFIX] copied [B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY]!
 
 #org @sText_PkmnMadeWish
 [B_ATK_NAME_WITH_PREFIX]¡pidió un deseo!
@@ -17735,7 +17726,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]hecho [B_DEF_NAME_WITH_PREFIX]¡soñoliento!
 
 #org @sText_PkmnKnockedOff
-[B_ATK_NAME_WITH_PREFIX]derribado [B_DEF_NAME_WITH_PREFIX]'s[B_LAST_ITEM]
+[B_ATK_NAME_WITH_PREFIX] knocked off [B_DEF_NAME_WITH_PREFIX]'s [B_LAST_ITEM]!
 
 #org @sText_PkmnSwappedAbilities
 [B_ATK_NAME_WITH_PREFIX]¡Intercambió habilidades con su\noponente!
@@ -17750,7 +17741,7 @@ un impulsado
 [B_ATK_NAME_WITH_PREFIX]'s[B_BUFF1]¡Perdió atodos sus PP debido al\nRENACIMIENTO!
 
 #org @sText_PkmnShroudedItself
-[B_ATK_NAME_WITH_PREFIX]envuelto en sí mismo en[B_CURRENT_MOVE]
+[B_ATK_NAME_WITH_PREFIX] shrouded itself in [B_CURRENT_MOVE]!
 
 #org @sText_PkmnMoveBounced
 [B_ATK_NAME_WITH_PREFIX]'s[B_CURRENT_MOVE] ¡fue recuperado por MAGIC COAT!
@@ -17768,7 +17759,7 @@ un impulsado
 ¡El poder del fuego fue debilitado!
 
 #org @sText_XFoundOneY
-[B_ATK_NAME_WITH_PREFIX]encontrado inguno[B_LAST_ITEM]
+[B_ATK_NAME_WITH_PREFIX] found one [B_LAST_ITEM]!
 
 #org @sText_SoothingAroma
 ¡Un aroma relajante flotó a través del\nárea!
@@ -17777,7 +17768,7 @@ un impulsado
 [PAUSE]
 
 #org @sText_ForXCommaYZ
-[B_SCR_ACTIVE_NAME_WITH_PREFIX][B_LAST_ITEM][B_BUFF1]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX],\n[B_LAST_ITEM][B_BUFF1]
 
 #org @sText_PkmnUsedXToGetPumped
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]usado [B_LAST_ITEM]¡ajetrear!
@@ -17807,7 +17798,7 @@ un impulsado
 [B_ACTIVE_NAME_WITH_PREFIX]no puedo usar [B_CURRENT_MOVE]¡Después de la\nburla! 
 
 #org @sText_PkmnCantUseMoveSealed
-[B_ACTIVE_NAME_WITH_PREFIX]no puedo usar el sellado[B_CURRENT_MOVE]
+[B_ACTIVE_NAME_WITH_PREFIX]no puedo usar el sellado[B_CURRENT_MOVE]! ag
 
 #org @sText_PkmnMadeItRain
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] ¡Hizo llover!
@@ -17816,13 +17807,13 @@ un impulsado
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] aumentó su VELOCIDAD!
 
 #org @sText_PkmnProtectedBy
-[B_DEF_NAME_WITH_PREFIX]estaba protegido por[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] was protected by [B_DEF_ABILITY]!
 
 #org @sText_PkmnPreventsUsage
-[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] impide[B_ATK_NAME_WITH_PREFIX] de usar[B_CURRENT_MOVE]
+[B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY] prevents [B_ATK_NAME_WITH_PREFIX] from using [B_CURRENT_MOVE]!
 
 #org @sText_PkmnRestoredHPUsing
-[B_DEF_NAME_WITH_PREFIX]HP restaurado usando su[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] restored HP using its [B_DEF_ABILITY]!
 
 #org @sText_PkmnsXMadeYUseless
 [B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] hecho[B_CURRENT_MOVE]¡inútil!
@@ -17846,7 +17837,7 @@ un impulsado
 [B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] ¡aumentó su poder de FUEGO!
 
 #org @sText_PkmnAnchorsItselfWith
-[B_DEF_NAME_WITH_PREFIX]se ancla con[B_DEF_ABILITY]
+[B_DEF_NAME_WITH_PREFIX] anchors itself with [B_DEF_ABILITY]!
 
 #org @sText_PkmnCutsAttackWith
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] cuts[B_DEF_NAME_WITH_PREFIX]¡ATAQUE!
@@ -17855,19 +17846,19 @@ un impulsado
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] ¡evita la pérdida de\nestadísticas!
 
 #org @sText_PkmnHurtsWith
-[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] herido[B_ATK_NAME_WITH_PREFIX]
+[B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY] hurt [B_ATK_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnTraced
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]TRAZADO [B_BUFF1]'s[B_BUFF2]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX] TRACED [B_BUFF1]'s [B_BUFF2]!
 
 #org @sText_PkmnsXPreventsBurns
 [B_EFF_NAME_WITH_PREFIX]'s[B_EFF_ABILITY] ¡evita quemaduras!
 
 #org @sText_PkmnsXBlocksY
-[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] bloques[B_CURRENT_MOVE]
+[B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY] blocks [B_CURRENT_MOVE]!
 
 #org @sText_PkmnsXBlocksY2
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] bloques[B_CURRENT_MOVE]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s [B_SCR_ACTIVE_ABILITY] blocks [B_CURRENT_MOVE]!
 
 #org @sText_PkmnsXRestoredHPALittle2
 [B_ATK_NAME_WITH_PREFIX]'s[B_ATK_ABILITY] ¡restauró un poco su HP!
@@ -17882,7 +17873,7 @@ un impulsado
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] impide[B_BUFF1]¡pérdida!
 
 #org @sText_PkmnsXInfatuatedY
-[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] enamorado[B_ATK_NAME_WITH_PREFIX]
+[B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY] infatuated [B_ATK_NAME_WITH_PREFIX]!
 
 #org @sText_PkmnsXMadeYIneffective
 [B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] hecho[B_CURRENT_MOVE]¡ineficaz!
@@ -17903,7 +17894,7 @@ un impulsado
 [B_BUFF1]'s[B_LAST_ABILITY] ¡evita el cambio! 
 
 #org @sText_PreventedFromWorking
-[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] prevenido[B_SCR_ACTIVE_NAME_WITH_PREFIX][B_BUFF1]de trabajar!
+[B_DEF_NAME_WITH_PREFIX]'s[B_DEF_ABILITY] prevenido[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s [B_BUFF1]de trabajar!
 
 #org @sText_PkmnsXMadeItIneffective
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] ¡lo hizo ineficaz!
@@ -17912,13 +17903,13 @@ un impulsado
 [B_EFF_NAME_WITH_PREFIX]'s[B_EFF_ABILITY] ¡evita que se estremezca!
 
 #org @sText_PkmnsXPreventsYsZ
-[B_ATK_NAME_WITH_PREFIX]'s[B_ATK_ABILITY] impide[B_DEF_NAME_WITH_PREFIX][B_DEF_ABILITY]de trabajar!
+[B_ATK_NAME_WITH_PREFIX]'s[B_ATK_ABILITY] impide[B_DEF_NAME_WITH_PREFIX]'s [B_DEF_ABILITY]de trabajar!
 
 #org @sText_PkmnsXCuredItsYProblem
 [B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] curó su[B_BUFF1]¡problema!
 
 #org @sText_PkmnsXHadNoEffectOnY
-[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s[B_SCR_ACTIVE_ABILITY] no tuvo ningún efecto sobre[B_EFF_NAME_WITH_PREFIX]
+[B_SCR_ACTIVE_NAME_WITH_PREFIX]'s [B_SCR_ACTIVE_ABILITY] had no effect on [B_EFF_NAME_WITH_PREFIX]!
 
 #org @sText_TooScaredToMove
 [B_ATK_NAME_WITH_PREFIX]¡Tiene demasiado miedo para moverse!
@@ -17939,19 +17930,19 @@ duramente
 ¡cayó!
 
 #org @sText_AttackersStatRose
-[B_ATK_NAME_WITH_PREFIX]'s[B_BUFF1][B_BUFF2]
+[B_ATK_NAME_WITH_PREFIX]'s[B_BUFF1]\n[B_BUFF2]
 
 #org @gText_DefendersStatRose
-[B_DEF_NAME_WITH_PREFIX]'s[B_BUFF1][B_BUFF2]
+[B_DEF_NAME_WITH_PREFIX]'s[B_BUFF1]\n[B_BUFF2]
 
 #org @sText_UsingItemTheStatOfPkmnRose
 [B_LAST_ITEM], el[B_BUFF1] de[B_SCR_ACTIVE_NAME_WITH_PREFIX][B_BUFF2]
 
 #org @sText_AttackersStatFell
-[B_ATK_NAME_WITH_PREFIX]'s[B_BUFF1][B_BUFF2]
+[B_ATK_NAME_WITH_PREFIX]'s[B_BUFF1]\n[B_BUFF2]
 
 #org @sText_DefendersStatFell
-[B_DEF_NAME_WITH_PREFIX]'s[B_BUFF1][B_BUFF2]
+[B_DEF_NAME_WITH_PREFIX]'s[B_BUFF1]\n[B_BUFF2]
 
 #org @sText_StatsWontIncrease2
 [B_ATK_NAME_WITH_PREFIX]¡Las estadísticas de no subirán más!
@@ -17966,7 +17957,7 @@ duramente
 ¡Es un KO de un solo golpe!
 
 #org @sText_123Poof
-[PAUSE]i1,[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE][PLAY_SE]¡Puf!
+[PAUSE]i1,[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS[PLAY_SE]¡Puf!
 
 #org @sText_AndEllipsis
 Y P
@@ -17984,31 +17975,31 @@ No es muy efectivo...
 [PLAY_SE]Ù ¡Escapé sano y salvo! 
 
 #org @sText_PkmnFledUsingIts
-[PLAY_SE]Ù[B_ATK_NAME_WITH_PREFIX]huyó usando su[B_LAST_ITEM]
+[PLAY_SE]Ù[B_ATK_NAME_WITH_PREFIX]huyó usando su[B_LAST_ITEM]! ag
 
 #org @sText_PkmnFledUsing
-[PLAY_SE]Ù[B_ATK_NAME_WITH_PREFIX]huyó usando[B_ATK_ABILITY]
+[PLAY_SE]Ù[B_ATK_NAME_WITH_PREFIX]huyó usando[B_ATK_ABILITY]! ag
 
 #org @sText_WildPkmnFled
 [PLAY_SE]Ù Salvaje[B_BUFF1]huyó!
 
 #org @sText_PlayerDefeatedLinkTrainer
-[B_LINK_OPPONENT1_NAME]
+Player defeated [B_LINK_OPPONENT1_NAME]!
 
 #org @sText_TwoLinkTrainersDefeated
-[B_LINK_OPPONENT1_NAME] y[B_LINK_OPPONENT2_NAME]
+Player beat [B_LINK_OPPONENT1_NAME] and [B_LINK_OPPONENT2_NAME]!
 
 #org @sText_PlayerLostAgainstLinkTrainer
-[B_LINK_OPPONENT1_NAME]
+Player lost against [B_LINK_OPPONENT1_NAME]!
 
 #org @sText_PlayerLostToTwo
-[B_LINK_OPPONENT1_NAME] y[B_LINK_OPPONENT2_NAME]
+Player lost to [B_LINK_OPPONENT1_NAME] and [B_LINK_OPPONENT2_NAME]!
 
 #org @sText_PlayerBattledToDrawLinkTrainer
-[B_LINK_OPPONENT1_NAME]
+Player battled to a draw against [B_LINK_OPPONENT1_NAME]!
 
 #org @sText_PlayerBattledToDrawVsTwo
-[B_LINK_OPPONENT1_NAME]y[B_LINK_OPPONENT2_NAME]
+Player battled to a draw against [B_LINK_OPPONENT1_NAME] and\n[B_LINK_OPPONENT2_NAME]!
 
 #org @sText_WildFled
 [PLAY_SE]Ù[B_LINK_OPPONENT1_NAME]huyó!
@@ -18134,16 +18125,16 @@ El granizo cesó.
 [B_TRAINER1_CLASS][B_TRAINER1_NAME]está a punto de usar[B_BUFF2].\nVoluntad[B_PLAYER_NAME]cambiar POK\eMON?
 
 #org @sText_PkmnLearnedMove2
-[B_ATK_NAME_WITH_PREFIX]aprendido [B_BUFF1]
+[B_ATK_NAME_WITH_PREFIX] learned [B_BUFF1]!
 
 #org @sText_PlayerDefeatedLinkTrainerTrainer1
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]
+[B_TRAINER1_CLASS][B_TRAINER1_NAME]! ag
 
 #org @sText_ThrewARock
-[B_PLAYER_NAME]arrojó una ROCA a la[B_OPPONENT_MON1_NAME]
+[B_PLAYER_NAME] threw a ROCK at the [B_OPPONENT_MON1_NAME]!
 
 #org @sText_ThrewSomeBait
-[B_PLAYER_NAME]arrojó un poco de CEBO at el[B_OPPONENT_MON1_NAME]
+[B_PLAYER_NAME] threw some BAIT at the [B_OPPONENT_MON1_NAME]!
 
 #org @sText_PkmnWatchingCarefully
 [B_OPPONENT_MON1_NAME]está mirando con atención!
@@ -18191,49 +18182,49 @@ El granizo cesó.
 [B_LINK_OPPONENT1_NAME]y[B_LINK_OPPONENT2_NAME] quiero luchar!
 
 #org @sText_Trainer1SentOutPkmn
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]enviado fuera[B_OPPONENT_MON1_NAME][PAUSE]
+[B_TRAINER1_CLASS] [B_TRAINER1_NAME] sent out [B_OPPONENT_MON1_NAME]![PAUSE][PAUSE]
 
 #org @sText_Trainer1SentOutTwoPkmn
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]enviado fuera[B_OPPONENT_MON1_NAME]y[B_OPPONENT_MON2_NAME][PAUSE]
+[B_TRAINER1_CLASS] [B_TRAINER1_NAME] sent out [B_OPPONENT_MON1_NAME] and [B_OPPONENT_MON2_NAME]![PAUSE][PAUSE]
 
 #org @sText_Trainer1SentOutPkmn2
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]enviado fuera[B_BUFF1]
+[B_TRAINER1_CLASS] [B_TRAINER1_NAME] sent out [B_BUFF1]!
 
 #org @sText_LinkTrainerSentOutPkmn
-[B_LINK_OPPONENT1_NAME]enviado [B_OPPONENT_MON1_NAME]
+[B_LINK_OPPONENT1_NAME] sent out [B_OPPONENT_MON1_NAME]!
 
 #org @sText_LinkTrainerSentOutTwoPkmn
-[B_LINK_OPPONENT1_NAME]enviado [B_OPPONENT_MON1_NAME]y[B_OPPONENT_MON2_NAME]
+[B_LINK_OPPONENT1_NAME] sent out [B_OPPONENT_MON1_NAME] and [B_OPPONENT_MON2_NAME]!
 
 #org @sText_TwoLinkTrainersSentOutPkmn
-[B_LINK_OPPONENT1_NAME]enviado[B_LINK_OPPONENT_MON1_NAME][B_LINK_OPPONENT2_NAME]enviado[B_LINK_OPPONENT_MON2_NAME]
+[B_LINK_OPPONENT1_NAME] sent out [B_LINK_OPPONENT_MON1_NAME]! [B_LINK_OPPONENT2_NAME] sent out [B_LINK_OPPONENT_MON2_NAME]!
 
 #org @sText_LinkTrainerSentOutPkmn2
-[B_LINK_OPPONENT1_NAME]enviado [B_BUFF1]
+[B_LINK_OPPONENT1_NAME] sent out [B_BUFF1]!
 
 #org @sText_LinkTrainerMultiSentOutPkmn
-[B_LINK_SCR_TRAINER_NAME]enviado [B_BUFF1]
+[B_LINK_SCR_TRAINER_NAME] sent out [B_BUFF1]!
 
 #org @sText_GoPkmn
-[B_PLAYER_MON1_NAME]
+Go! [B_PLAYER_MON1_NAME]!
 
 #org @sText_GoTwoPkmn
-[B_PLAYER_MON1_NAME]y N[B_PLAYER_MON2_NAME]
+Go! [B_PLAYER_MON1_NAME] and [B_PLAYER_MON2_NAME]!
 
 #org @sText_GoPkmn2
-[B_BUFF1]
+Go! [B_BUFF1]!
 
 #org @sText_DoItPkmn
-[B_BUFF1]
+Do it! [B_BUFF1]!
 
 #org @sText_GoForItPkmn
-[B_BUFF1]
+Go for it, [B_BUFF1]!
 
 #org @sText_YourFoesWeakGetEmPkmn
-[B_BUFF1]
+Your foe's weak! Get 'em, [B_BUFF1]!
 
 #org @sText_LinkPartnerSentOutPkmnGoPkmn
-[B_LINK_PARTNER_NAME]enviado[B_LINK_PLAYER_MON2_NAME]! ¡Vamos![B_LINK_PLAYER_MON1_NAME]
+[B_LINK_PARTNER_NAME] sent out [B_LINK_PLAYER_MON2_NAME]! Go! [B_LINK_PLAYER_MON1_NAME]!
 
 #org @sText_PkmnThatsEnough
 [B_BUFF1], ¡ya es suficiente! ¡Vuelve!
@@ -18248,13 +18239,13 @@ El granizo cesó.
 [B_BUFF1]¡Bien! ¡Vuelve!
 
 #org @sText_Trainer1WithdrewPkmn
-[B_TRAINER1_CLASS][B_TRAINER1_NAME] se retiró[B_BUFF1]
+[B_TRAINER1_CLASS] [B_TRAINER1_NAME] withdrew [B_BUFF1]!
 
 #org @sText_LinkTrainer1WithdrewPkmn
-[B_LINK_OPPONENT1_NAME]se retiró [B_BUFF1]
+[B_LINK_OPPONENT1_NAME] withdrew [B_BUFF1]!
 
 #org @sText_LinkTrainer2WithdrewPkmn
-[B_LINK_SCR_TRAINER_NAME]se retiró [B_BUFF1]
+[B_LINK_SCR_TRAINER_NAME] withdrew [B_BUFF1]!
 
 #org @sText_WildPkmnPrefix
 Salvaje
@@ -18338,16 +18329,16 @@ evasiva
 ¡Estaba demasiado amargo!
 
 #org @sText_PlayerUsedItem
-[B_PLAYER_NAME]usado [B_LAST_ITEM]
+[B_PLAYER_NAME] used [B_LAST_ITEM]!
 
 #org @sText_OldManUsedItem
-[B_LAST_ITEM]
+The old man used [B_LAST_ITEM]!
 
 #org @sText_PokedudeUsedItem
-[B_LAST_ITEM]
+The POK\e DUDE used [B_LAST_ITEM]!
 
 #org @sText_Trainer1UsedItem
-[B_TRAINER1_CLASS][B_TRAINER1_NAME] usado[B_LAST_ITEM]
+[B_TRAINER1_CLASS] [B_TRAINER1_NAME] used [B_LAST_ITEM]!
 
 #org @sText_TrainerBlockedBall
 ¡El ENTRENADOR bloqueó el BALÓN!
@@ -18377,13 +18368,13 @@ evasiva
 ùÌúºŒ! ÁÚè ÚÉûÔÂàßÁ!
 
 #org @sText_GotchaPkmnCaught
-[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM]
+[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM]Arriba
 
 #org @sText_GotchaPkmnCaught2
-[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM][PAUSE]
+[B_OPPONENT_MON1_NAME]¡fue atrapado![WAIT_SE][PLAY_BGM]TIENE[PAUSE]
 
 #org @sText_GiveNicknameCaptured
-[B_OPPONENT_MON1_NAME]
+Give a nickname to the captured [B_OPPONENT_MON1_NAME]?
 
 #org @sText_PkmnSentToPC
 [B_OPPONENT_MON1_NAME]fue enviado a [B_PC_CREATOR_NAME]ORDENADOR PERSONAL.
@@ -18452,13 +18443,13 @@ BAYA
 [B_LAST_ITEM]El efecto sólo permite [B_CURRENT_MOVE]para ser\nusado! 
 
 #org @sText_PkmnHungOnWithX
-[B_DEF_NAME_WITH_PREFIX]colgado usando su[B_LAST_ITEM]
+[B_DEF_NAME_WITH_PREFIX] hung on using its [B_LAST_ITEM]!
 
 #org @sText_PlayedFluteCatchyTune
 [B_PLAYER_NAME]jugó el[B_LAST_ITEM]. ¡Esa sí que es una\nmelodía pegadiza!
 
 #org @sText_PlayedThe
-[B_PLAYER_NAME]jugó el [B_LAST_ITEM]
+[B_PLAYER_NAME] played the [B_LAST_ITEM].
 
 #org @sText_PkmnHearingFluteAwoke
 ¡El POK\eMON que escuchó la FLAUTA\nadespertó!
@@ -18497,7 +18488,7 @@ ROBLE: ¡Hm! ¡Excelente! Si ganas,\nganarás un premio en metálico y ¡tu\pPOK
 [B_COPY_VAR_1]está evolucionando!
 
 #org @gText_CongratsPkmnEvolved
-[B_COPY_VAR_1] evolucionó hacia[B_COPY_VAR_2][WAIT_SE]
+Congratulations! Your [B_COPY_VAR_1] evolved into\n[B_COPY_VAR_2]![WAIT_SE] [WAIT_SE] ag
 
 #org @gText_PkmnStoppedEvolving
 [B_COPY_VAR_1] ¡dejó de evolucionar! 
@@ -18509,7 +18500,7 @@ ROBLE: ¡Hm! ¡Excelente! Si ganas,\nganarás un premio en metálico y ¡tu\pPOK
 [B_ACTIVE_NAME_WITH_PREFIX]¿hacer?
 
 #org @gText_WhatWillPlayerThrow
-[B_PLAYER_NAME]
+[B_PLAYER_NAME] ¿tirar?
 
 #org @gText_WhatWillOldManDo
 ¿Qué hará el viejo?
@@ -18518,10 +18509,10 @@ ROBLE: ¡Hm! ¡Excelente! Si ganas,\nganarás un premio en metálico y ¡tu\pPOK
 [PAUSE]ŒEnlace en espera…
 
 #org @gText_BattleMenu
-[PALETTE][COLOR_HIGHLIGHT_SHADOW][CLEAR_TO][CLEAR_TO]
+[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]LUCHAR[CLEAR_TO]BOLSA POK\eMON[CLEAR_TO]CORRER
 
 #org @gText_SafariZoneMenu
-[PALETTE][COLOR_HIGHLIGHT_SHADOW][CLEAR_TO][CLEAR_TO]
+[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]ÓÓÔBAJO[CLEAR_TO]CEBO ROCA[CLEAR_TO]CORRER
 
 #org @gText_MoveInterfacePP
 PÁGINAS
@@ -18530,19 +18521,19 @@ PÁGINAS
 TIPO/
 
 #org @gText_MoveInterfaceDynamicColors
-[PALETTE][COLOR_HIGHLIGHT_SHADOW]
+[PALETTE]È[COLOR_HIGHLIGHT_SHADOW]ÒÓÔ
 
 #org @gText_WhichMoveToForget_Unused
-[PALETTE][COLOR_HIGHLIGHT_SHADOW]ÒÓÔç & ÒºÎÓŒÁ?
+[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]ÒÓÔç & ÒºÎÓŒÁ?
 
 #org @gText_BattleYesNoChoice
-[PALETTE][COLOR_HIGHLIGHT_SHADOW]
+[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]ÒÓÔSí No
 
 #org @gText_BattleSwitchWhich
-[PALETTE][COLOR_HIGHLIGHT_SHADOW]
+[PALETTE]Y[COLOR_HIGHLIGHT_SHADOW]ÒÓÔ¿Cambiar cuál?
 
 #org @sText_UnusedColors
-[PALETTE][COLOR_HIGHLIGHT_SHADOW]
+[PALETTE]È[COLOR_HIGHLIGHT_SHADOW]ÒÓÔ
 
 #org @sText_RightArrow2
 [RIGHT_ARROW_2]
@@ -18554,7 +18545,7 @@ TIPO/
 -
 
 #org @sText_MaxHP
-[FONT][FONT_SMALL][FONT][FONT_NORMAL]
+[FONT][FONT_SMALL]X[FONT][FONT_NORMAL]PAG
 
 #org @sText_Attack
 ATAQUE
@@ -18575,7 +18566,7 @@ SP. DEF
 [HIGHLIGHT]ARRIBA:
 
 #org @gText_HighlightRed
-[HIGHLIGHT]
+[HIGHLIGHT]En
 
 #org @gText_Sleep
 dormir
@@ -18692,7 +18683,7 @@ TABLA DE TIEMPO
 TIEMPO CLARO
 
 #org @gText_XMinYZSec
-[B_COPY_VAR_1]MÍN.[B_COPY_VAR_2][B_COPY_VAR_3]
+[B_COPY_VAR_1]MIN. [B_COPY_VAR_2].[B_COPY_VAR_3]SEC.[B_COPY_VAR_3]SEGUNDO.
 
 #org @gText_Unused_1F
 1F
@@ -18722,10 +18713,10 @@ TIEMPO CLARO
 [PLAY_SE]Ù[B_TRAINER1_CLASS][B_TRAINER1_NAME]huyó!
 
 #org @sText_PlayerLostAgainstTrainer1
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]
+Player lost against [B_TRAINER1_CLASS] [B_TRAINER1_NAME]!
 
 #org @sText_PlayerBattledToDrawTrainer1
-[B_TRAINER1_CLASS][B_TRAINER1_NAME]
+Player battled to a draw against [B_TRAINER1_CLASS]\n[B_TRAINER1_NAME]!
 
 #org @sJPText_TatakauWaza
 ŒŒÉÂ
@@ -18746,7 +18737,7 @@ PÁGINAS/
 100
 
 #org @sText_Player
-[HIGHLIGHT]
+[HIGHLIGHT] ¡-
 
 #org @sText_Sama
 [HIGHLIGHT]I
@@ -18761,10 +18752,10 @@ PÁGINAS/
 [HIGHLIGHT][MUS_DUMMY][MUS_DUMMY][MUS_DUMMY]É+& îÑ É+ÓÁ ÎÓŒ ÁÁßÂÓÊ& ŒŒÇ\nà Ï;ÂòÁ ÏÒ
 
 #org @sText_GameFreak
-[COLOR][HIGHLIGHT]
+[COLOR]Á[HIGHLIGHT] --
 
 #org @sText_Empty
-[COLOR][HIGHLIGHT]
+[COLOR]En[HIGHLIGHT]
 
 #org @gExpandedPlaceholder_Sapphire
 ZAFIRO
@@ -18884,22 +18875,22 @@ LR
 CONTROL S
 
 #org @gText_PickOk
-[DPAD_UPDOWN]Çú[A_BUTTON]
+[DPAD_UPDOWN]Çú[A_BUTTON]ÍÛÁ
 
 #org @gText_ABUTTONNext
-[A_BUTTON]
+[A_BUTTON]PRÓXIMO
 
 #org @gText_ABUTTONNext_BBUTTONBack
-[A_BUTTON]PRÓXIMO[B_BUTTON]
+[A_BUTTON]PRÓXIMO[B_BUTTON]ATRÁS
 
 #org @gText_UPDOWNPick_ABUTTONNext_BBUTTONBack
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]PRÓXIMO[B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]PRÓXIMO[B_BUTTON]CANCELAR
 
 #org @gText_UPDOWNPick_ABUTTONBBUTTONCancel
-[DPAD_UPDOWN]ELEGIR[A_BUTTON][B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_ABUTTONExit
-[A_BUTTON]
+[A_BUTTON]SALIDA
 
 #org @gText_Boy
 CHICO
@@ -18911,7 +18902,7 @@ CHICA
 [MUS_DUMMY]TABLA DE CONTENIDO
 
 #org @gText_PickOK
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO
 
 #org @gText_Seen
 Visto:
@@ -18926,7 +18917,7 @@ KANTÓ
 NACIONAL
 
 #org @gText_PokemonHabitats
-[COLOR][SHADOW]ÓPOK\eMON HABITATS
+[COLOR]PARAGUAS[SHADOW]ÓPOK\eMON HABITATS
 
 #org @gText_DexCategory_GrasslandPkmn
 POK\eMON de pastizales
@@ -18956,7 +18947,7 @@ POK\eMON urbano
 POK\eMON raro
 
 #org @gText_Search
-[COLOR][SHADOW]
+[COLOR]PARAGUAS[SHADOW]BÚSQUEDA
 
 #org @gText_NumericalMode
 MODO NUMÉRICO
@@ -18965,7 +18956,7 @@ MODO NUMÉRICO
 MODO DE LA A A LA Z
 
 #org @gText_PokedexOther
-[COLOR][SHADOW]
+[COLOR]PARAGUAS[SHADOW]ÓOTRO
 
 #org @gTextJP_HowToUsePokedex
 É+ç ÚÉÁÉŒ
@@ -18983,7 +18974,7 @@ MODO MÁS LIGERO
 MODO MÁS PEQUEÑO
 
 #org @gText_PokemonList
-[COLOR][SHADOW]ÓPOK\eMON LISTA
+[COLOR]PARAGUAS[SHADOW]ÓPOK\eMON LISTA
 
 #org @gText_NumericalModeKanto
 MODO NUMÉRICO: KANTO
@@ -18998,13 +18989,13 @@ LISTA DE POK\eMON
 BUSCAR
 
 #org @gText_PickOKExit
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]CANCELAR
 
 #org @gText_5Dashes
 -----
 
 #org @gText_PickFlipPageCheckCancel
-[DPAD_LEFTRIGHT][PLUS]VOLVER PÁGINA[A_BUTTON]CONTROLAR[B_BUTTON]
+[DPAD_LEFTRIGHT]ELEGIR[PLUS]VOLVER\nPÁGINA[A_BUTTON]CONTROLAR[B_BUTTON]CANCELAR
 
 #org @gText_PokedexPokemon
 POK\eMON
@@ -19025,13 +19016,13 @@ libras
 -
 
 #org @gText_Cry
-[START_BUTTON]
+[START_BUTTON]LLORAR
 
 #org @gText_NextDataCancel
-[A_BUTTON]PRÓXIMOS DATOS[B_BUTTON]
+[A_BUTTON]PRÓXIMOS DATOS[B_BUTTON]CANCELAR
 
 #org @gText_Next
-[A_BUTTON]
+[A_BUTTON]PRÓXIMO
 
 #org @gText_CancelPreviousData
 [A_BUTTON]CANCELAR[B_BUTTON]DATOS ANTERIORES
@@ -19082,10 +19073,10 @@ NOMBRE
 DNI No.
 
 #org @gText_BirchInTrouble
-[HIGHLIGHT][COLOR]ÀíèÉÓ ! & ÏÛ ŒÒÌÛÀùÂ!
+[HIGHLIGHT]PARAGUAS[COLOR]ÀíèÉÓ ! & ÏÛ ŒÒÌÛÀùÂ!
 
 #org @gText_ConfirmStarterChoice
-[HIGHLIGHT][COLOR]
+[HIGHLIGHT]PARAGUAS[COLOR]¿Qué?
 
 #org @gText_SaveError_PleaseExchangeBackupMemory
 Error al guardar. Cambie la memoria de\nrespaldo.
@@ -19178,13 +19169,13 @@ DESELECCIONAR
 [LV_2]
 
 #org @gText_NumberClear01
-[NO][CLEAR]
+[NO][CLEAR]TIENE
 
 #org @gText_Plus
 [PLUS]
 
 #org @gText_Escape3
-[ESCAPE]
+[ESCAPE]A
 
 #org @gText_IDNumber2
 [ID][NO]
@@ -19223,7 +19214,7 @@ SALIDA
 JUBILARSE
 
 #org @gText_MenuSafariStats
-[B_COPY_VAR_1][B_COPY_VAR_2][MUS_DUMMY][B_COPY_VAR_3]
+[B_COPY_VAR_1]/[B_COPY_VAR_2] BALLS[MUS_DUMMY][B_COPY_VAR_3][B_COPY_VAR_2] BOLAS[MUS_DUMMY][B_COPY_VAR_3]
 
 #org @gText_TimesStrVar1
 [B_COPY_VAR_1]
@@ -19268,19 +19259,19 @@ No hay POK\eMON.
 [B_COPY_VAR_1]no se puede retener aquí.
 
 #org @gText_DepositHowManyStrVars1
-[B_COPY_VAR_1]
+[B_COPY_VAR_1](s)?
 
 #org @gText_DepositedStrVar2StrVar1s
-[B_COPY_VAR_2][B_COPY_VAR_1]
+[B_COPY_VAR_2]\n[B_COPY_VAR_1](s).
 
 #org @gText_NoRoomToStoreItems
 No hay espacio para almacenar artículos.
 
 #org @gText_TossOutHowManyStrVar1s
-[B_COPY_VAR_1]
+[B_COPY_VAR_1](s)?
 
 #org @gText_ThrewAwayStrVar2StrVar1s
-[B_COPY_VAR_2][B_COPY_VAR_1]
+[B_COPY_VAR_2]\n[B_COPY_VAR_1](s).
 
 #org @gText_ThrowAwayStrVar2OfThisItemQM
 [B_COPY_VAR_2]de este artículo?
@@ -19310,10 +19301,10 @@ en(& ÊÂÏŒ!
 \e+í(& ÊÂÏŒ!
 
 #org @gText_TMHMContainedVar1
-[B_COPY_VAR_1][B_COPY_VAR_1]& á ÈÇÎÓÓÉÉ?
+[B_COPY_VAR_1] ÊªËÎºÛÁŒ! [B_COPY_VAR_1]& á ÈÇÎÓÓÉÉ?
 
 #org @gText_PlayerUsedVar2
-[B_BUFF2]usé el [B_COPY_VAR_2][PAUSE_UNTIL_PRESS]
+[B_BUFF2] used the [B_COPY_VAR_2].[PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @gText_RepelEffectsLingered
 [PAUSE_UNTIL_PRESS]
@@ -19352,7 +19343,7 @@ CERCA
 El TM CASE se guardará.
 
 #org @gText_FontSmall
-[FONT][FONT_SMALL][FONT_NORMAL]
+[FONT][FONT_SMALL]Y[FONT_NORMAL]
 
 #org @gText_FontNormal
 [FONT][FONT_NORMAL]
@@ -19430,7 +19421,7 @@ Deja de comprar.
 [B_COPY_VAR_3]. ¿Estaría bien?
 
 #org @gText_TurnedOverItemsWorthYen
-[B_COPY_VAR_1](S) valor  $[B_COPY_VAR_3]
+Turned over the [B_COPY_VAR_1](S) worth  $[B_COPY_VAR_3].
 
 #org @gText_PokedollarVar1
 [B_COPY_VAR_1]
@@ -19538,13 +19529,13 @@ Si se elimina el CORREO, el mensaje se\nperderá. ¿Bueno?
 [B_COPY_VAR_1]no contiene nada.[PAUSE_UNTIL_PRESS]
 
 #org @gText_ReceivedItemFromPkmn
-[B_COPY_VAR_2] de[B_COPY_VAR_1][PAUSE_UNTIL_PRESS]
+Received the [B_COPY_VAR_2] from [B_COPY_VAR_1].[PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @gText_MailTakenFromPkmn
 [PAUSE_UNTIL_PRESS]
 
 #org @gText_SwitchedPkmnItem
-[B_COPY_VAR_2]fue tomado y reemplazado con el[B_COPY_VAR_1][PAUSE_UNTIL_PRESS]
+The [B_COPY_VAR_2] was taken and replaced with the\n[B_COPY_VAR_1].[PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnHoldingItemCantHoldMail
 [PAUSE_UNTIL_PRESS]
@@ -19556,28 +19547,28 @@ Si se elimina el CORREO, el mensaje se\nperderá. ¿Bueno?
 [B_COPY_VAR_1]está lleno. No se pudo eliminar el\nelemento del POK\eMON.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnLearnedMove3
-[B_COPY_VAR_1]aprendido [B_COPY_VAR_2]
+[B_COPY_VAR_1] learned [B_COPY_VAR_2]!
 
 #org @gText_PkmnCantLearnMove
 [B_COPY_VAR_1]y[B_COPY_VAR_2] no son compatibles. [B_COPY_VAR_2]no se\npuede aprender.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnNeedsToReplaceMove
-[B_COPY_VAR_1]quiere aprender el movimiento[B_COPY_VAR_2]. Sin\nembargo,[B_COPY_VAR_1]ya conoce cuatro movimientos.\p¿Debería eliminarse un movimiento y\nreemplazarse con[B_COPY_VAR_2]
+[B_COPY_VAR_1] wants to learn the move [B_COPY_VAR_2].\nHowever, [B_COPY_VAR_1] already knows four moves.\pShould a move be deleted and replaced\nwith [B_COPY_VAR_2]?
 
 #org @gText_StopLearningMove2
-[B_COPY_VAR_2]
+Stop trying to teach [B_COPY_VAR_2]?
 
 #org @gText_MoveNotLearned
-[B_COPY_VAR_1]no aprendí el movimiento[B_COPY_VAR_2][PAUSE_UNTIL_PRESS]
+[B_COPY_VAR_1] did not learn the move [B_COPY_VAR_2].[PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @gText_WhichMoveToForget
 [PAUSE_UNTIL_PRESS]
 
 #org @gText_12PoofForgotMove
-[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE][PLAY_SE]¡Puf!\p [B_COPY_VAR_1]olvidé cómo usar[B_COPY_VAR_2][PAUSE_UNTIL_PRESS]
+[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS[PLAY_SE]¡Puf!\p [B_COPY_VAR_1]olvidé cómo usar[B_COPY_VAR_2]. romesa...[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnAlreadyKnows
-[B_COPY_VAR_1]ya lo sabe [B_COPY_VAR_2][PAUSE_UNTIL_PRESS]
+[B_COPY_VAR_1] already knows [B_COPY_VAR_2].[PAUSE_UNTIL_PRESS][PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnHPRestoredByVar2
 [B_COPY_VAR_1]El HP fue restaurado\npor[B_COPY_VAR_2]puntos).[PAUSE_UNTIL_PRESS]
@@ -19607,10 +19598,10 @@ Si se elimina el CORREO, el mensaje se\nperderá. ¿Bueno?
 [B_COPY_VAR_1]se volvió saludable.[PAUSE_UNTIL_PRESS]
 
 #org @gText_MovesPPIncreased
-[B_COPY_VAR_1]['s][PAUSE_UNTIL_PRESS]
+[B_COPY_VAR_1]El PP aumentó.[PAUSE_UNTIL_PRESS]
 
 #org @gText_PkmnElevatedToLvVar2
-[B_COPY_VAR_1]fue elevado a Lv.[B_COPY_VAR_2]
+[B_COPY_VAR_1] was elevated to Lv. [B_COPY_VAR_2].
 
 #org @gText_PkmnBaseVar2StatIncreased
 [B_COPY_VAR_1]la base[B_COPY_VAR_2]Se generó  stat.[PAUSE_UNTIL_PRESS]
@@ -19661,7 +19652,7 @@ Elige un POK\eMON.
 ¿Dar a qué POK\eMON?
 
 #org @gText_DoWhatWithPokemon
-[PKMN]
+Do what with this [PKMN]?
 
 #org @gText_NothingToCut
 No hay nada que CORTAR.
@@ -19796,10 +19787,10 @@ Comparte HP.
 Regrese a un lugar de curación.
 
 #org @gText_EscapeFromHereAndReturnTo
-[B_COPY_VAR_1]
+Want to escape from here and return to\n[B_COPY_VAR_1]?
 
 #org @gText_ReturnToHealingSpot
-[B_COPY_VAR_1]
+Want to return to the healing spot used\nlast in [B_COPY_VAR_1]?
 
 #org @gText_ItemEffect_Attack
 ATAQUE
@@ -19865,10 +19856,10 @@ Saque elementos de la PC.
 Ya no queda espacio en la BOLSA.
 
 #org @gText_WithdrawHowMany
-[B_COPY_VAR_1]
+[B_COPY_VAR_1](s)?
 
 #org @gText_WithdrewQuantItem
-[B_COPY_VAR_2][B_COPY_VAR_1]
+[B_COPY_VAR_2]\n[B_COPY_VAR_1](s).
 
 #org @gOtherText_Read
 LEER
@@ -19982,19 +19973,19 @@ Haz un desafío.
 INFORMACIÓN
 
 #org @gText_FreshWater_200
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]00
 
 #org @gText_SodaPop_300
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]00
 
 #org @gText_Lemonade_350
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]50
 
 #org @gText_50Coins_1000
-[FONT][MUS_DUMMY]50 MONEDAS[CLEAR_TO]
+[FONT][MUS_DUMMY]50 MONEDAS[CLEAR_TO] $1000
 
 #org @gText_500Coins_10000
-[FONT][FONT_SMALL]0 MONEDAS[CLEAR_TO]
+[FONT][FONT_SMALL]0 MONEDAS[CLEAR_TO] $10,000
 
 #org @gText_Excellent
 Excelente
@@ -20180,7 +20171,7 @@ LIMONADA
 MONEDAS
 
 #org @gText_Bicycle_Price
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL],000,000
 
 #org @gText_NoThanks
 NO, GRACIAS
@@ -20324,7 +20315,7 @@ ISLA NACIMIENTO
 [CLEAR_TO][FONT][FONT_SMALL]600 MONEDAS
 
 #org @gText_SmokeBall_800Coins
-[CLEAR_TO][FONT][FONT_SMALL]0 MONEDAS
+[CLEAR_TO]En[FONT][FONT_SMALL]0 MONEDAS
 
 #org @gText_BecomeLeader
 CONVIÉRTETE EN LÍDER
@@ -20465,28 +20456,28 @@ SALA DE LA UNIÓN
 [CLEAR_TO][FONT][FONT_SMALL]
 
 #org @gText_RevivalHerb_300
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO]en[FONT][FONT_SMALL]0
 
 #org @gText_Protein_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_Iron_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_Carbos_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_Calcium_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_Zinc_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_HpUp_1000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gText_PpUp_3000
-[CLEAR_TO][FONT][FONT_SMALL]
+[CLEAR_TO][FONT][FONT_SMALL]000
 
 #org @gString_BattleRecords_PlayersBattleResults
 [B_BUFF2]RESULTADOS DE LA BATALLA
@@ -20495,7 +20486,7 @@ SALA DE LA UNIÓN
 [B_COPY_VAR_1]L:[B_COPY_VAR_2]D:[B_COPY_VAR_3]
 
 #org @gString_BattleRecords_ColumnHeaders
-[CLEAR_TO][CLEAR_TO]
+[CLEAR_TO]PERDER[CLEAR_TO]DIBUJAR
 
 #org @gString_BattleRecords_7Dashes
 -------
@@ -21023,31 +21014,31 @@ Guardar completado. “Presione el botón\nA”.
 ¿NOMBRE DEL RIVAL?
 
 #org @gText_MoveOkBack
-[DPAD_ANY]MOVER[A_BUTTON]DE ACUERDO[B_BUTTON]
+[DPAD_ANY]MOVER[A_BUTTON]DE ACUERDO[B_BUTTON]ATRÁS
 
 #org @gText_RegionMap_Space
 
 
 #org @gText_RegionMap_AButtonGuide
-[A_BUTTON]
+[A_BUTTON]GUÍA
 
 #org @gText_RegionMap_AButtonCancel
-[A_BUTTON]
+[A_BUTTON]CANCELAR
 
 #org @gText_RegionMap_AButtonCancel2
-[A_BUTTON]
+[A_BUTTON]CANCELAR
 
 #org @gText_RegionMap_AButtonSwitch
-[A_BUTTON]
+[A_BUTTON]CAMBIAR
 
 #org @gText_RegionMap_AButtonOK
-[A_BUTTON]
+[A_BUTTON]DE ACUERDO
 
 #org @gText_RegionMap_DPadMove
-[DPAD_ANY]
+[DPAD_ANY]MOVER
 
 #org @gText_RegionMap_UpDownPick
-[DPAD_UPDOWN]
+[DPAD_UPDOWN]ELEGIR
 
 #org @gText_RegionMap_NoData
 Sin datos
@@ -21209,25 +21200,25 @@ EXP. PUNTOS
 SIGUIENTE LV.
 
 #org @gText_PokeSum_Controls_PageCancel
-[DPAD_RIGHT]PÁGINA[A_BUTTON]
+[DPAD_RIGHT]PÁGINA[A_BUTTON]CANCELAR
 
 #org @gText_PokeSum_Controls_Cancel
-[A_BUTTON]
+[A_BUTTON]CANCELAR
 
 #org @gText_PokeSum_Controls_Page
-[DPAD_LEFTRIGHT]
+[DPAD_LEFTRIGHT]PÁGINA
 
 #org @gText_PokeSum_Controls_PageDetail
-[DPAD_LEFT]PÁGINA[A_BUTTON]
+[DPAD_LEFT]PÁGINA[A_BUTTON]DETALLE
 
 #org @gText_PokeSum_Controls_PickSwitch
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]CAMBIAR
 
 #org @gText_PokeSum_Controls_Pick
-[DPAD_UPDOWN]
+[DPAD_UPDOWN]ELEGIR
 
 #org @gText_PokeSum_Controls_PickDelete
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]BORRAR
 
 #org @gText_PokeSum_HmMovesCantBeForgotten
 Los movimientos de HM no se pueden\nolvidar ahora.
@@ -21272,7 +21263,7 @@ BATALLAS DE ENLACE
 BATALLAS DE CABLE DE ENLACE
 
 #org @gText_WinLossRatio
-[CLEAR_TO]
+[CLEAR_TO]L:
 
 #org @gText_PokemonTrades
 POK\eMON TRADES
@@ -21353,7 +21344,7 @@ LR
 TIPO
 
 #org @gText_PickSwitchCancel
-[DPAD_UPDOWN]ELEGIR[DPAD_LEFTRIGHT]CAMBIAR[A_BUTTON][B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[DPAD_LEFTRIGHT]CAMBIAR[A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_ResetRTCConfirmCancel
 RTC& ÏÒ A ÌÛÁ B
@@ -21413,19 +21404,19 @@ Retírese del JUEGO SAFARI y regrese al\nmostrador de registro.
 Anteriormente en tu búsqueda...
 
 #org @gText_QuestLog_SwitchMon1WithMon2
-[B_BUFF2]cambió el POK\eMON [B_COPY_VAR_1]con[B_COPY_VAR_2]
+[B_BUFF2] switched the POK\eMON [B_COPY_VAR_1] with [B_COPY_VAR_2].
 
 #org @gText_QuestLog_SwappedHeldItemsOnMon
 [B_COPY_VAR_2]de [B_COPY_VAR_1]y le dio el artículo\n[B_COPY_VAR_3]sostener.
 
 #org @gText_QuestLog_TookHeldItemFromMon
-[B_COPY_VAR_2]de [B_COPY_VAR_1]
+Took the item [B_COPY_VAR_2] from [B_COPY_VAR_1].
 
 #org @gText_QuestLog_UsedItemOnMonAtThisLocation
 [B_COPY_VAR_1]en[B_COPY_VAR_2] en esta ubicación.
 
 #org @gText_QuestLog_UsedTheItem
-[B_BUFF2]usé el [B_COPY_VAR_1]
+[B_BUFF2] used the [B_COPY_VAR_1].
 
 #org @gText_QuestLog_UsedTheKeyItem
 [B_COPY_VAR_1], que estaba en el BOLSILLO DE\nARTÍCULOS CLAVE.
@@ -21434,7 +21425,7 @@ Anteriormente en tu búsqueda...
 [B_COPY_VAR_1]aprendí el movimiento [B_COPY_VAR_2]de una MT.
 
 #org @gText_QuestLog_MonReplacedMoveWithTM
-[B_COPY_VAR_1]aprendí el movimiento [B_COPY_VAR_2]de una MT y\nolvidé el movimiento[B_COPY_VAR_3]
+[B_COPY_VAR_1] learned the move [B_COPY_VAR_2] from a TM and\nforgot the move [B_COPY_VAR_3].
 
 #org @gText_QuestLog_MonsWereFullyRestoredAtCenter
 Los POK\eMON fueron completamente\nrestaurados a en un CENTRO POK\eMON.
@@ -21455,7 +21446,7 @@ Los POK\eMON fueron completamente\nrestaurados a en un CENTRO POK\eMON.
 [B_BUFF2]retiró el artículo[B_COPY_VAR_1] desde la PC.
 
 #org @gText_QuestLog_TradedMon1ForPersonsMon2
-[B_COPY_VAR_3]a cambio de [B_COPY_VAR_1]'s[B_COPY_VAR_2]
+Traded [B_COPY_VAR_3] in exchange for [B_COPY_VAR_1]'s [B_COPY_VAR_2].
 
 #org @gText_QuestLog_SingleBattleWithPersonResultedInOutcome
 [MUS_DUMMY]en una BATALLA ÚNICA. Fue un partido\nmuy reñido que resultó en un À.
@@ -21524,10 +21515,10 @@ con tenacidad
 de alguna manera
 
 #org @gText_QuestLog_TradedMon1ForTrainersMon2
-[B_COPY_VAR_1]. Obtenido el ENTRENADOR[B_COPY_VAR_2]en\nexchange por[B_COPY_VAR_3]
+Met and traded with [B_COPY_VAR_1]. Obtained the\nTRAINER's [B_COPY_VAR_2] in exchange for [B_COPY_VAR_3].
 
 #org @gText_QuestLog_BattledTrainerEndedInOutcome
-[B_COPY_VAR_1]. El partido terminó en un[B_COPY_VAR_2]
+Met and battled [B_COPY_VAR_1]. The match ended in\na [B_COPY_VAR_2].
 
 #org @gText_QuestLog_BoughtItem
 [MUS_DUMMY]y compré uno  À.
@@ -21557,7 +21548,7 @@ C
 [B_COPY_VAR_1]aprendió el movimiento de forma\nsegura [B_COPY_VAR_2]utilizando un HM.
 
 #org @gText_QuestLog_MonReplacedMoveWithHM
-[B_COPY_VAR_1]aprendió el movimiento de forma\nsegura [B_COPY_VAR_2]usando un HM y olvidé el\pmovimiento[B_COPY_VAR_3]
+[B_COPY_VAR_1] securely learned the move [B_COPY_VAR_2] using\nan HM and forgot the move [B_COPY_VAR_3].
 
 #org @gText_QuestLog_DefeatedWildMon
 È logró derrotar al POK\eMON À en .
@@ -21584,16 +21575,16 @@ Derrotaste al POK\eMON À y atrapaste Ç\nPOK\eMON incluido Â en .
 Derrotaste Á POK\eMON incluido À y\natrapaste Ç POK\eMON incluido Â en .
 
 #org @gText_QuestLog_GaveMonHeldItem
-[B_COPY_VAR_1]retener el artículo [B_COPY_VAR_2]
+Made [B_COPY_VAR_1] hold the item [B_COPY_VAR_2].
 
 #org @gText_QuestLog_GaveMonHeldItem2
-[B_BUFF2]hecho[B_COPY_VAR_1]retener el artículo [B_COPY_VAR_2]
+[B_BUFF2] made [B_COPY_VAR_1] hold the item [B_COPY_VAR_2].
 
 #org @gText_QuestLog_UsedCut
 [B_COPY_VAR_1]Usé el movimiento oculto CUT aquí.
 
 #org @gText_QuestLog_UsedFly
-[B_COPY_VAR_1]usó el Movimiento Oculto FLY y voló\nhacia[B_COPY_VAR_2]
+[B_COPY_VAR_1] used the Hidden Move FLY and flew to\n[B_COPY_VAR_2].
 
 #org @gText_QuestLog_UsedSurf
 [B_COPY_VAR_1]Usó el Movimiento Oculto SURF y montó\nlas olas.
@@ -21614,19 +21605,19 @@ Derrotaste Á POK\eMON incluido À y\natrapaste Ç POK\eMON incluido Â en .
 [B_COPY_VAR_1]y êÉÁ Ñª& òÏ \e+ ¡& ÚÉŒ!
 
 #org @gText_QuestLog_UsedDigInLocation
-[B_COPY_VAR_1]usé DIG para escapar [B_COPY_VAR_2]
+[B_COPY_VAR_1] used DIG to escape from [B_COPY_VAR_2].
 
 #org @gText_QuestLog_UsedSweetScent
 [B_COPY_VAR_1]usó DULCE AROMA para atraer POK\eMON\nsalvajes.
 
 #org @gText_QuestLog_UsedTeleportToLocation
-[B_COPY_VAR_1]utilizó TELEPORT, transportando al\ngrupo a[B_COPY_VAR_2][B_COPY_VAR_3]
+[B_COPY_VAR_1] used TELEPORT, transporting the\nparty to [B_COPY_VAR_2]'s [B_COPY_VAR_3].
 
 #org @gText_QuestLog_LeftTownsLocationForNextDestination
-[B_BUFF2]izquierda[B_COPY_VAR_1][B_COPY_VAR_2]para el siguiente\ndestino.
+[B_BUFF2]izquierda[B_COPY_VAR_1]'s [B_COPY_VAR_2]para el siguiente\ndestino.
 
 #org @gText_QuestLog_PlayedGamesAtGameCorner
-[B_COPY_VAR_1]
+Played a lot of games at the ROCKET GAME\nCORNER in [B_COPY_VAR_1].
 
 #org @gText_QuestLog_RestedAtHome
 [B_BUFF2]Descansó cómodamente en casa.
@@ -21638,7 +21629,7 @@ Derrotaste Á POK\eMON incluido À y\natrapaste Ç POK\eMON incluido Â en .
 [B_COPY_VAR_1]estaba lleno de ENTRENADORES duros...\nHabía que hacer preparativos.
 
 #org @gText_QuestLog_DepartedGym
-[B_COPY_VAR_1]
+Departed the GYM in [B_COPY_VAR_1].
 
 #org @gText_QuestLog_HadGreatTimeInSafariZone
 [B_BUFF2]Lo pasé muy bien con POK\eMON  en la\nZONA SAFARI.
@@ -21662,7 +21653,7 @@ fríamente
 apenas
 
 #org @gText_QuestLog_UsedEscapeRope
-[B_BUFF2]usé una CUERDA DE ESCAPE para salir\nde[B_COPY_VAR_2]
+[B_BUFF2] used an ESCAPE ROPE to get out from\n[B_COPY_VAR_2].
 
 #org @gText_QuestLog_Draw
 dibujar
@@ -21674,13 +21665,13 @@ dibujar
 [B_BUFF2]partió de [B_COPY_VAR_2]y abrió camino al\nsiguiente destino.
 
 #org @gText_QuestLog_ObtainedItemInLocation
-[B_COPY_VAR_1][B_BUFF2] o obtuve el artículo[B_COPY_VAR_2]
+Here in [B_COPY_VAR_1], [B_BUFF2] obtained the item [B_COPY_VAR_2].
 
 #org @gText_QuestLog_ArrivedInLocation
-[B_COPY_VAR_1]
+Arrived in [B_COPY_VAR_1].
 
 #org @gText_QuestLog_SavedGameAtLocation
-[B_BUFF2]guardó el juego en esta ubicación:[B_COPY_VAR_1]
+And [B_BUFF2] saved the game at this location:\n[B_COPY_VAR_1].
 
 #org @gText_QuestLog_Home
 HOGAR
@@ -21797,7 +21788,7 @@ El nivel subió a
 .
 
 #org @gText_LevelUp_MaxHP
-[FONT][FONT_SMALL][FONT][FONT_NORMAL]
+[FONT][FONT_SMALL]X.[FONT][FONT_NORMAL]PAG
 
 #org @gText_LevelUp_Attack
 ATAQUE
@@ -21815,10 +21806,10 @@ SP. INFORMÁTICA
 SP. DEF
 
 #org @gText_LevelUp_Plus
-[FONT][FONT_SMALL][FONT][FONT_NORMAL][FONT_SMALL][FONT_NORMAL]
+[FONT][FONT_SMALL][FONT][FONT_NORMAL]É[FONT_SMALL]É[FONT_NORMAL], 
 
 #org @gText_LevelUp_Minus
-[FONT][FONT_SMALL][FONT_NORMAL]
+[FONT][FONT_SMALL]É[FONT_NORMAL], 
 
 #org @gText_Counting_1
 1,
@@ -21830,7 +21821,7 @@ SP. DEF
 ¡Puf! 
 
 #org @gText_MonForgotMove
-[MUS_DUMMY]
+[MUS_DUMMY]lo olvidé Para. 
 
 #org @gText_And
 Y P
@@ -21842,7 +21833,7 @@ Y P
 ¿Eh?
 
 #org @gText_MonLearnedTMHM
-[MUS_DUMMY]
+[MUS_DUMMY]aprendido À!
 
 #org @gText_Upper
 SUPERIOR
@@ -21986,7 +21977,7 @@ REGISTRO
 [B_COPY_VAR_1]¡Nació del HUEVO!
 
 #org @gText_NickHatchPrompt
-[B_COPY_VAR_1]
+Would you like to nickname the newly\nhatched [B_COPY_VAR_1]?
 
 #org @gString_OutOfCoins
 Te has quedado sin MONEDAS. ¡Se acabó el\njuego!
@@ -21995,7 +21986,7 @@ Te has quedado sin MONEDAS. ¡Se acabó el\njuego!
 ¿Deja de jugar?
 
 #org @gString_SlotMachineControls
-[DPAD_LEFTRIGHT]COMBINACIONES[DPAD_DOWN]APOSTAR[A_BUTTON]DETENER[B_BUTTON]
+[DPAD_LEFTRIGHT]COMBINACIONES[DPAD_DOWN]APOSTAR[A_BUTTON]DETENER[B_BUTTON]SALIDA
 
 #org @gText_TeachyTV
 ÈÏÇ
@@ -22034,7 +22025,7 @@ ALGUIEN
 AYUDA
 
 #org @gString_HelpSystem_ClearTo8
-[CLEAR_TO]
+[CLEAR_TO]MI
 
 #org @gText_SpacePoints2
 puntos
@@ -22094,7 +22085,7 @@ BAYAS recogidas en fila con cinco\njugadores:
 ¡Anunciamos los resultados de la\nRECOGIDA DE BAYAS!
 
 #org @gText_10P30P50P50P
-[MUS_DUMMY][MUS_DUMMY]30P[MUS_DUMMY][MUS_DUMMY]50P[MUS_DUMMY][MUS_DUMMY][EMOJI_MINUS]
+[MUS_DUMMY][MUS_DUMMY]30P[MUS_DUMMY][MUS_DUMMY]50P[MUS_DUMMY][MUS_DUMMY][EMOJI_MINUS]50P
 
 #org @gText_AnnouncingRankings
 ¡Anunciando clasificaciones!
@@ -22145,7 +22136,7 @@ Comunicación en espera…
 Espere mientras cada miembro elige una\nBAYA.
 
 #org @gText_BerryCrush_GainedXUnitsOfPowder
-[PAUSE_MUSIC][PLAY_BGM]"Terminaste con[B_COPY_VAR_1]unidades de\nPOLVO DE BAYAS suave como la seda.[RESUME_MUSIC] Tu\pcantidad total de POLVO DE BAYAS is[B_COPY_VAR_2]
+[PAUSE_MUSIC][PLAY_BGM]"Terminaste con[B_COPY_VAR_1]unidades de\nPOLVO DE BAYAS suave como la seda.[RESUME_MUSIC] Tu\pcantidad total de POLVO DE BAYAS is[B_COPY_VAR_2].\nag
 
 #org @gText_BerryCrush_RecordingGameResults
 Grabando los resultados de tu juego en\nel archivo guardado. Espera.
@@ -22166,7 +22157,7 @@ Se acabó el tiempo. No se pudo hacer un\nbuen POLVO DE BAYAS ...
 Comunicación en espera…
 
 #org @gText_1_ClrBluShdwLtBlu_Dynamic0
-[COLOR][SHADOW]I
+[COLOR]MI[SHADOW]I
 
 #org @gText_1_Dynamic0
 1.
@@ -22175,7 +22166,7 @@ Comunicación en espera…
 veces
 
 #org @gText_XDotY
-[B_COPY_VAR_1][B_COPY_VAR_2]
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
 
 #org @gText_StrVar1Berry
 [B_COPY_VAR_1]BAYA
@@ -22196,19 +22187,19 @@ Suavidad:
 mín.
 
 #org @gText_XDotY2
-[B_COPY_VAR_1][B_COPY_VAR_2]
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
 
 #org @gText_SpaceSec
 segundo.
 
 #org @gText_XDotY3
-[B_COPY_VAR_1][B_COPY_VAR_2]
+[B_COPY_VAR_1].[B_COPY_VAR_2][B_COPY_VAR_2]
 
 #org @gText_TimesPerSec
 Tiempos/seg.
 
 #org @gText_Var1Percent
-[B_COPY_VAR_1]
+[B_COPY_VAR_1]%
 
 #org @gText_PressesRankings
 Número de rankings de imprentas
@@ -22544,16 +22535,16 @@ PLATA
 ORO
 
 #org @gText_HelpSystemControls_A_Next
-[A_BUTTON]
+[A_BUTTON]PRÓXIMO
 
 #org @gText_HelpSystemControls_PickOkEnd
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]FIN
 
 #org @gText_HelpSystemControls_AorBtoCancel
-[A_BUTTON][B_BUTTON]
+[A_BUTTON][B_BUTTON]CANCELAR
 
 #org @gText_HelpSystemControls_PickOkCancel
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]CANCELAR
 
 #org @gEasyChatGroupName_Pokemon
 POK\eMON
@@ -22661,31 +22652,31 @@ RESUMEN
 COMERCIO
 
 #org @gText_Trade_CommunicationStandby
-[COLOR][HIGHLIGHT][SHADOW]ÂEspera de comunicación... Por\nfavor, espere.
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]ÂEspera de\ncomunicación... Por favor, espere.
 
 #org @gText_TradeHasBeenCanceled
-[COLOR][HIGHLIGHT][SHADOW]La operación ha sido cancelada.
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]La operación ha sido\ncancelada.
 
 #org @gText_Trade_OnlyPkmnForBattle
-[COLOR][HIGHLIGHT][SHADOW]ÂEse es tu único POK\eMON para\nla batalla.
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]ÂEse es tu único\nPOK\eMON para la batalla.
 
 #org @gText_WaitingForFriendToFinish
-[COLOR][HIGHLIGHT][SHADOW]Esperando a que tu amigo\n termine...
+[COLOR]En[HIGHLIGHT]TIENE[SHADOW]Esperando a que tu amigo\n termine...
 
 #org @gText_FriendWantsToTrade
 Tu amigo quiere intercambiar POK\eMON.
 
 #org @gText_XWillBeSentToY
-[B_COPY_VAR_2]será enviado a[B_COPY_VAR_1]
+[B_COPY_VAR_2] will be sent to [B_COPY_VAR_1].
 
 #org @gText_ByeByeVar1
-[B_COPY_VAR_2]
+Bye-bye, [B_COPY_VAR_2]!
 
 #org @gText_XSentOverY
-[B_COPY_VAR_1]enviada a través[B_COPY_VAR_3]
+[B_COPY_VAR_1] sent over [B_COPY_VAR_3].
 
 #org @gText_TakeGoodCareOfX
-[B_COPY_VAR_3]
+Take good care of [B_COPY_VAR_3]!
 
 #org @gText_From
 De
@@ -22706,7 +22697,7 @@ Personas en la SALA DE LA UNIÓN:
 Personas que se comunican:
 
 #org @gText_Dynamic0Players
-[MUS_DUMMY]
+[MUS_DUMMY]jugadores
 
 #org @gText_Dynamic1Players
 Jugar
@@ -22718,13 +22709,13 @@ Sobre los jugadores
 jugadores
 
 #org @gText_DPadChooseAButtonConfirm
-[DPAD_ANY][A_BUTTON]
+[DPAD_ANY]Çú:[A_BUTTON]ÍÛÁ
 
 #org @gText_BButtonCancel
-[B_BUTTON]
+[B_BUTTON]CANCELAR
 
 #org @gText_ChooseBattleLineup
-[COLOR][SHADOW][MUS_DUMMY]ŒÁÓ+ç ËîÀÓ [COLOR][SHADOW]Â+ç Ï;&ÊòÛ ËÎÁ
+[COLOR]C[SHADOW]Y[MUS_DUMMY]ŒÁÓ+ç ËîÀÓ [COLOR]En[SHADOW]Â+ç Ï;&ÊòÛ\nËÎÁ
 
 #org @gText_UnusedId
 [ID]
@@ -22745,28 +22736,28 @@ Los dos no parecen agradarse mucho.
 Los dos prefieren jugar con otros\nPOK\eMON que entre ellos.
 
 #org @gText_TeachWhichMoveToMon
-[B_COPY_VAR_1]
+Teach which move to [B_COPY_VAR_1]?
 
 #org @gText_TeachMoveQues
-[B_COPY_VAR_2]
+Teach [B_COPY_VAR_2]?
 
 #org @gText_MonLearnedMove
-[B_COPY_VAR_1]aprendido [B_COPY_VAR_2]
+[B_COPY_VAR_1] learned [B_COPY_VAR_2].
 
 #org @gText_MonIsTryingToLearnMove
-[B_COPY_VAR_1]está tratando de aprender [B_COPY_VAR_2].\nPero[B_COPY_VAR_1]no puedo aprender más de cuatro\pmovimientos. Elimina un movimiento\nanterior para hacer espacio para[B_COPY_VAR_2]
+[B_COPY_VAR_1] is trying to learn [B_COPY_VAR_2]. But [B_COPY_VAR_1]\ncan't learn more than four moves. Delete\pan older move to make room for [B_COPY_VAR_2]?
 
 #org @gText_StopLearningMove
-[B_COPY_VAR_2]
+Stop learning [B_COPY_VAR_2]?
 
 #org @gText_1_2_and_Poof
-[PAUSE]i1,[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE][PLAY_SE]¡Puf!
+[PAUSE]i1,[PAUSE]Ô2,\ny[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS…[PAUSE]PARAGUAS[PLAY_SE]¡Puf!
 
 #org @gText_MonForgotOldMoveAndMonLearnedNewMove
-[B_COPY_VAR_1]olvidó[B_COPY_VAR_3][B_COPY_VAR_1] aprendido[B_COPY_VAR_2]
+[B_COPY_VAR_1] forgot [B_COPY_VAR_3]. And… [B_COPY_VAR_1] learned [B_COPY_VAR_2].
 
 #org @gText_GiveUpTryingToTeachNewMove
-[B_COPY_VAR_1]
+Give up trying to teach a new move to\n[B_COPY_VAR_1]?
 
 #org @gText_WhichMoveShouldBeForgotten
 ¿Qué movimiento debería olvidarse? 
@@ -22784,13 +22775,13 @@ Comunicación en espera... Esperando que\notro jugador elija.
 [PAUSE]
 
 #org @gFameCheckerText_MainScreenUI
-[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[A_BUTTON]
+[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[A_BUTTON]DE ACUERDO
 
 #org @gFameCheckerText_PickScreenUI
-[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[B_BUTTON]
+[START_BUTTON]ELEGIR[DPAD_UPDOWN]SELECCIONAR[B_BUTTON]CANCELAR
 
 #org @gFameCheckerText_FlavorTextUI
-[DPAD_ANY]ELEGIR[A_BUTTON]LEER[B_BUTTON]
+[DPAD_ANY]ELEGIR[A_BUTTON]LEER[B_BUTTON]CANCELAR
 
 #org @gFameCheckerOakName
 ROBLE
@@ -22850,10 +22841,10 @@ La comunicación ha sido cancelada.
 Aún no has recibido el regalo de la\nTARJETA. ¿Ingresar una nueva TARJETA de\ptodos modos?
 
 #org @gText_WonderCardReceivedFrom
-[B_COPY_VAR_1]
+A WONDER CARD has been received from\n[B_COPY_VAR_1].
 
 #org @gText_WonderNewsReceivedFrom
-[B_COPY_VAR_1]
+A WONDER NEWS item has been received\nfrom [B_COPY_VAR_1].
 
 #org @gText_WonderCardReceived
 Se ha recibido una nueva WONDER CARD.
@@ -22904,16 +22895,16 @@ Enviando tu TARJETA MARAVILLA...
 Enviando su artículo MARAVILLA DE\nNOTICIAS...
 
 #org @gText_WonderCardSentTo
-[B_COPY_VAR_1]
+Your WONDER CARD has been sent to [B_COPY_VAR_1].
 
 #org @gText_WonderNewsSentTo
-[B_COPY_VAR_1]
+Your WONDER NEWS item has been sent to\n[B_COPY_VAR_1].
 
 #org @gText_StampSentTo
-[B_COPY_VAR_1]
+A STAMP has been sent to [B_COPY_VAR_1].
 
 #org @gText_GiftSentTo
-[B_COPY_VAR_1]
+A GIFT has been sent to [B_COPY_VAR_1].
 
 #org @gText_OtherTrainerHasCard
 El otro ENTRENADOR ya tiene la misma\nWONDER CARD.
@@ -22955,7 +22946,7 @@ Las NOTICIAS MARAVILLAS fueron\ndesperdiciadas.
 REGALO MISTERIOSO
 
 #org @gText_PickOKCancel
-[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[A_BUTTON]DE ACUERDO[B_BUTTON]SALIDA
 
 #org @gText_WonderCards
 TARJETAS MARAVILLAS
@@ -22982,7 +22973,7 @@ ENVIAR
 SACUDIDA
 
 #org @gText_DelAllCancelOk
-[CLEAR_TO][CLEAR_TO]
+[CLEAR_TO]CANCELAR[CLEAR_TO]3OK
 
 #org @sText_Akito
  ÀÊÑ
@@ -22991,7 +22982,7 @@ SACUDIDA
 [UNDERSCORE]
 
 #org @sText_Clear17
-[CLEAR]
+[CLEAR]Ù
 
 #org @sListItemTextColor_RegularItem
 [COLOR_HIGHLIGHT_SHADOW]Á
@@ -23087,7 +23078,7 @@ MODO 4 JUGADORES
 MODO 5 JUGADORES 
 
 #org @gText_UR_BButtonCancel
-[B_BUTTON]
+[B_BUTTON]CANCELAR
 
 #org @sText_SearchingForParticipants
 Œò Î+ÉÏ Ï=ÂÙ=Â Ò!
@@ -23096,7 +23087,7 @@ MODO 5 JUGADORES
 [B_COPY_VAR_2]contactado contigo para [B_COPY_VAR_1].\n¿Aceptar?
 
 #org @gText_UR_PlayerContactedYouShareX
-[B_COPY_VAR_2]Nos hemos puesto en contacto contigo.\n¿Podrías compartirlo?[B_COPY_VAR_1]
+[B_COPY_VAR_2] contacted you. Will you share [B_COPY_VAR_1]?
 
 #org @gText_UR_PlayerContactedYouAddToMembers
 [B_COPY_VAR_2]Me comuniqué con usted. ¿Agregar a\nlos miembros?
@@ -23108,7 +23099,7 @@ MODO 5 JUGADORES
 [B_COPY_VAR_1]MODE con estos miembros?
 
 #org @gText_UR_AnOKWasSentToPlayer
-[B_COPY_VAR_1]
+An “OK” was sent to [B_COPY_VAR_1].
 
 #org @sText_OtherTrainerUnavailableNow
 El otro ENTRENADOR no parece estar\ndisponible ahora... 
@@ -23120,7 +23111,7 @@ No puedes transmitir con un ENTRENADOR\nque esté demasiado lejos.
 Los otros ENTRENADORES aún no están\nlistos. 
 
 #org @gText_UR_ModeWithTheseMembersWillBeCanceled
-[B_COPY_VAR_1]El MODE con estos miembros será\ncancelado.[PAUSE]
+[B_COPY_VAR_1]El MODE con estos miembros será\ncancelado.[PAUSE]En
 
 #org @sText_MemberNoLongerAvailable
 Hay un miembro que ya no puede\npermanecer disponible. 
@@ -23159,10 +23150,10 @@ El enlace con tu amigo ha sido\neliminado...
 [B_COPY_VAR_1]respondió: "No..."
 
 #org @sText_DoYouWantXMode
-[B_COPY_VAR_2]
+[B_COPY_VAR_2] ¿MODO?
 
 #org @sText_DoYouWantXMode2
-[B_COPY_VAR_2]
+[B_COPY_VAR_2] ¿MODO?
 
 #org @sText_CommunicatingPleaseWait
 èßÏÉÌÛÁÒ… Ï;ÂÏ;Â ÈÙËÎÁ
@@ -23171,13 +23162,13 @@ El enlace con tu amigo ha sido\neliminado...
 [B_COPY_VAR_1]La respuesta de el comercio...
 
 #org @sText_Communicating
-[PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE]
+[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
 
 #org @sText_CommunicatingWithPlayer
-[B_COPY_VAR_1][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE]
+[B_COPY_VAR_1][PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
 
 #org @sText_PleaseWaitAWhile
-[PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE][PAUSE]
+[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]En[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.[PAUSE]PARAGUAS.
 
 #org @sText_HiDoSomethingMale
 ¡Hola! ¿Hay algo que quieras hacer?
@@ -23213,7 +23204,7 @@ El enlace con tu amigo ha sido\neliminado...
 Esperando respuesta del otro\nENTRENADOR...
 
 #org @sText_AwaitingResponseFromPlayer
-[B_COPY_VAR_1]
+Awaiting a response from [B_COPY_VAR_1]…
 
 #org @sText_AwaitingResponseCancelBButton
 ÀÁÛç ÛÁÀ+& ÛÁÒ -
@@ -23444,7 +23435,7 @@ El registro se ha completado.
 La operación ha sido cancelada. 
 
 #org @gText_UR_CancelRegistrationOfMon
-[B_COPY_VAR_2][B_COPY_VAR_1]
+Cancel the registration of your Lv. [B_COPY_VAR_2]\n[B_COPY_VAR_1]?
 
 #org @gText_UR_CancelRegistrationOfEgg
 ¿Cancelar el registro de tu EGG?
@@ -23486,7 +23477,7 @@ Su oferta comercial fue rechazada.
 COMERCIO DE HUEVOS
 
 #org @gText_UR_ChooseJoinCancel
-[DPAD_UPDOWN][MUS_DUMMY][A_BUTTON][MUS_DUMMY][B_BUTTON]
+[DPAD_UPDOWN]ELEGIR[MUS_DUMMY][A_BUTTON]UNIRSE[MUS_DUMMY][B_BUTTON]CANCELAR
 
 #org @gText_UR_ChooseTrainer
 Por favor elige un ENTRENADOR.
@@ -23561,7 +23552,7 @@ SALIDA
 INFORMACIÓN
 
 #org @gText_UR_NameWantedOfferLv
-[CLEAR_TO][CLEAR_TO][CLEAR_TO]
+[CLEAR_TO]BUSCADO[CLEAR_TO]OFERTA[CLEAR_TO]55
 
 #org @gText_UR_SingleBattle
 BATALLA ÚNICA
@@ -23621,10 +23612,10 @@ Es una TARJETA NORMAL.
 ¡Es una TARJETA ORO!
 
 #org @gText_UR_TrainerCardInfoPage1
-[MUS_DUMMY]À's TARJETA DE ENTRENADOR… Á\nPOK\eDEX: Â HORA:[MUS_DUMMY][MUS_DUMMY]
+[MUS_DUMMY]À's TARJETA DE ENTRENADOR… Á\nPOK\eDEX: Â HORA:[MUS_DUMMY][MUS_DUMMY]Ç:È 
 
 #org @gText_UR_TrainerCardInfoPage2
-[MUS_DUMMY][MUS_DUMMY]Á LOSSES TRADES:[MUS_DUMMY]Â VECES “Ç È É\nÊ” 
+[MUS_DUMMY]GANA[MUS_DUMMY]Á LOSSES TRADES:[MUS_DUMMY]Â VECES “Ç\nÈ É Ê” 
 
 #org @sText_GladToMeetYouMale
 [PAUSE]
@@ -23642,7 +23633,7 @@ Cancelada la lectura de la Tarjeta.
 …
 
 #org @sText_ClearTo18
-[CLEAR_TO]
+[CLEAR_TO]Ú
 
 #org @sText_SingleSpace
 
@@ -23747,52 +23738,49 @@ ABCDEFG
 0123456
 
 #org @gText_EasyChatKeyboard_ABCDEFothers
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]
+[CLEAR]ACEPTA[CLEAR]NÓTESE\nBIEN[CLEAR]CE[CLEAR]èD[CLEAR]EE.UU.[CLEAR]FE[CLEAR]otros
 
 #org @gText_EasyChatKeyboard_GHIJKL
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]
+[CLEAR]YO G[CLEAR]puaj[CLEAR]ÉI[CLEAR]ehJ[CLEAR]CUÑA[CLEAR]ÉL
 
 #org @gText_EasyChatKeyboard_MNOPQRS
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y
+[CLEAR]SOY[CLEAR]I[CLEAR]EW[CLEAR]èP[CLEAR]Ecualizador[CLEAR]VEHÍCULO[CLEAR]Y[CLEAR]Y
 
 #org @gText_EasyChatKeyboard_TUVWXYZ
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y
+[CLEAR]alto\nvoltaje[CLEAR]I[CLEAR]AÑO[CLEAR]èW[CLEAR]ÉX[CLEAR]Ey[CLEAR]EZ[CLEAR]Y
 
 #org @gText_NamingScreenKeyboard_abcdef
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y[CLEAR]
+[CLEAR]Acepta[CLEAR]Mib[CLEAR]CE[CLEAR]ayuda[CLEAR]Eh[CLEAR]Ef[CLEAR]Y[CLEAR]Y.
 
 #org @gText_NamingScreenKeyboard_ghijkl
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]mi[CLEAR]
+[CLEAR]Yo\nG[CLEAR]puaj[CLEAR]Ey[CLEAR]\ej[CLEAR]Cuña[CLEAR]Él[CLEAR]mi[CLEAR]Y,
 
 #org @gText_NamingScreenKeyboard_mnopqrs
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR] mi
+[CLEAR]Soy[CLEAR]I[CLEAR]Sí[CLEAR]isp[CLEAR]ecuación[CLEAR]Sí[CLEAR]Y[CLEAR] mi
 
 #org @gText_NamingScreenKeyboard_tuvwxyz
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y
+[CLEAR]Él[CLEAR]I[CLEAR]Año[CLEAR]èw[CLEAR]É[CLEAR]xEy[CLEAR]ez[CLEAR]Y
 
 #org @gText_NamingScreenKeyboard_ABCDEF
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y[CLEAR]
+[CLEAR]ACEPTA[CLEAR]NÓTESE\nBIEN[CLEAR]CE[CLEAR]èD[CLEAR]EE.UU.[CLEAR]FE[CLEAR]Y[CLEAR]Y.
 
 #org @gText_NamingScreenKeyboard_GHIJKL
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y[CLEAR]
+[CLEAR]YO\nG[CLEAR]puaj[CLEAR]ÉI[CLEAR]ehJ[CLEAR]CUÑA[CLEAR]ÉL[CLEAR]Y[CLEAR]Y,
 
 #org @gText_NamingScreenKeyboard_MNOPQRS
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y
+[CLEAR]SOY[CLEAR]I[CLEAR]EW[CLEAR]èP[CLEAR]Ecualizador[CLEAR]VEHÍCULO[CLEAR]Y[CLEAR]Y
 
 #org @gText_NamingScreenKeyboard_TUVWXYZ
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Y
+[CLEAR]alto\nvoltaje[CLEAR]I[CLEAR]AÑO[CLEAR]èW[CLEAR]ÉX[CLEAR]Ey[CLEAR]EZ[CLEAR]Y
 
 #org @gText_NamingScreenKeyboard_01234
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Œ
+[CLEAR]I0[CLEAR]Œ1[CLEAR]Œ2[CLEAR]Œ3[CLEAR]Œ4[CLEAR]Œ
 
 #org @gText_NamingScreenKeyboard_56789
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Œ
-
-#org @gText_NamingScreenKeyboard_Symbols1
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]
+[CLEAR]Q5[CLEAR]Œ6[CLEAR]Œ7[CLEAR]Œ8[CLEAR]Œ9[CLEAR]Œ
 
 #org @gText_NamingScreenKeyboard_Symbols2
-[CLEAR][CLEAR][CLEAR][CLEAR][CLEAR][CLEAR]Ú
+[CLEAR]I…[CLEAR]Œ“[CLEAR]Œ”[CLEAR]Ú‘[CLEAR]Ú'[CLEAR]Ú
 
 #org @gText_UnionRoomChatKeyboard_ABCDE
 A B C D E
@@ -23882,7 +23870,7 @@ uvwxy
 [EMOJI_NOTE][EMOJI_PLUS][EMOJI_MINUS][EMOJI_EQUALS][EMOJI_PIPE]
 
 #org @gText_UnionRoomChatKeyboard_Emoji10
-[EMOJI_HIGHBAR][EMOJI_UNDERSCORE]
+[EMOJI_HIGHBAR][EMOJI_UNDERSCORE];: 
 
 #org @gMoveDescription_Pound
 Un ataque físico realizado con una cola\nlarga o una pata delantera, etc.
