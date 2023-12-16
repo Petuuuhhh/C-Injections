@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'PewterCity_House1_Text_Nidoran':
+        # if string == 'Text_OnlyPassWithBadgeOhGoAhead':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructedString = ''
@@ -188,7 +188,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             try:
                                                 translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                             except:
-                                                translated_text = constructedString
+                                                translated_text += splitted_text_section_2
+                                else:
+                                    try:
+                                        translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                    except:
+                                        translated_text += splitted_text_section
                     else:
                         translated_text = constructedString
                 except:
@@ -211,7 +216,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         try:
                                             translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                         except:
-                                            translated_text = constructedString
+                                            translated_text += splitted_text_section_2
+                            else:
+                                try:
+                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                except:
+                                    translated_text += splitted_text_section
                     else:
                         translated_text = constructedString
                 if constructedString:
@@ -237,7 +247,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         try:
                                             translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
                                         except:
-                                            translated_text = constructedString
+                                            translated_text += splitted_text_section_2
+                            else:
+                                try:
+                                    translated_text += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                except:
+                                    translated_text += splitted_text_section
                     if translated_text != '':
                         line_endings = 'npl'
                         line_endings_store = ''

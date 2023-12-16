@@ -3653,7 +3653,7 @@ Me siento un poco mareado. No he\ncaminado desde hace algún tiempo.
 Estoy demasiado cansado. No tenía ganas.
 
 #org @Route10_Text_CarolPostBattle
-Los POK\eMON aquí en las montañas son\ntan gruesos... ¡Ojalá hubiera POK\eMON\p rosados ​​con un patrón floral!
+Los POK\eMON aquí en las montañas son\ntan gruesos... ¡Ojalá hubiera POK\eMON\p rosados con un patrón floral!
 
 #org @Route10_Text_RockTunnelDetourToLavender
 TÚNEL DE ROCA Desvío a LAVENDER TOWN
@@ -7882,9 +7882,6 @@ Hay un mensaje de correo electrónico. …\n… … Hay tres pájaros legendario
 #org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor
 [B_BUFF2]recibido el[B_COPY_VAR_1] del médico.
 
-#org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon
-АА оÛßА!
-
 #org @CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain
 [B_COPY_VAR_2]¡Lo es! Es un fósil de[B_COPY_VAR_1],  ¡un\nPOK\eMON que ya está extinto! ¡Mi\pMáquina de Resurrección hará que ese\nPOK\eMON vuelva a vivir!
 
@@ -8135,7 +8132,7 @@ SABRINA es joven, pero también es\n nuestra LÍDER altamente capacitada. ¡No\p
 ¡Ay! ¡Abajo y fuera!
 
 #org @SaffronCity_Gym_Text_CameronPostBattle
-Solía ​​haber dos GIMNASIOS POK\eMON  en\nSAFFRON. El DOJO DE LUCHA de al lado\pperdió  su estado de GIMNASIO.\nSimplemente los derrotamos cuando\pdecidimos tener solo un GIMNASIO.
+Solía haber dos GIMNASIOS POK\eMON  en\nSAFFRON. El DOJO DE LUCHA de al lado\pperdió  su estado de GIMNASIO.\nSimplemente los derrotamos cuando\pdecidimos tener solo un GIMNASIO.
 
 #org @SaffronCity_Gym_Text_PrestonIntro
 SAFFRON POK\eMON GYM es famoso por\nentrenar psíquicos. Quieres ver a\pSABRINA, ¿verdad ? ¡Puedo decir!
@@ -11597,7 +11594,7 @@ EXP. Puntos significa "Puntos de\nexperiencia ". POK\eMON gana EXP. Puntos\ppor 
 POK\eMON puede aprender hasta cuatro\nmovimientos diferentes. Hay muchos tipos\pde movimientos, incluidos ataques y\naquellos con efectos especiales. Los\ptipos de movimientos que se pueden\naprender varían para cada  POK\eMON.\pAlgunos movimientos se pueden aprender\nde los elementos.
 
 #org @Help_Text_DefineAttack
-ATAQUE indica el poder de un movimiento\noofensivo. Cuanto mayor sea esta\pestadística, más poderoso será el\nmovimiento. Se aplica para los\psiguientes tipos de movimiento: NORMAL,\nVENENO, TIERRA, VOLADOR, BUG, ​​LUCHA,\pROCA, FANTASMA, y ACERO.
+ATAQUE indica el poder de un movimiento\noofensivo. Cuanto mayor sea esta\pestadística, más poderoso será el\nmovimiento. Se aplica para los\psiguientes tipos de movimiento: NORMAL,\nVENENO, TIERRA, VOLADOR, BUG, LUCHA,\pROCA, FANTASMA, y ACERO.
 
 #org @Help_Text_DefineDefense
 DEFENSA indica la resistencia que\nPOK\eMON tiene contra los ataques\pfísicos. Cuanto más alta sea esta\nestadística, menos daño sufrirá por el\pgolpe físico de un enemigo.
@@ -11942,7 +11939,7 @@ Tipo propio de POK\eMON: BUG
 [MUS_DUMMY][CIRCLE_DOT]: HIELO, ROCA [MUS_DUMMY][TRIANGLE]: FUEGO, AGUA,\nELECTRICIDAD, ACERO
 
 #org @Help_Text_TypeMatchupOwnPokemonSteel
-[MUS_DUMMY][CIRCLE_DOT]: FUEGO, LUCHA, TIERRA [MUS_DUMMY][TRIANGLE]:\nNORMAL, HIELO, VUELO, [MUS_DUMMY][MUS_DUMMY][MUS_DUMMY]PSÍQUICO,\pBUG, ​​ROCA, FANTASMA, [MUS_DUMMY][MUS_DUMMY][MUS_DUMMY]DRAGÓN,\nOSCURIDAD, ACERO [MUS_DUMMY][BIG_MULT_X]: VENENO
+[MUS_DUMMY][CIRCLE_DOT]: FUEGO, LUCHA, TIERRA [MUS_DUMMY][TRIANGLE]:\nNORMAL, HIELO, VUELO, [MUS_DUMMY][MUS_DUMMY][MUS_DUMMY]PSÍQUICO,\pBUG, ROCA, FANTASMA, [MUS_DUMMY][MUS_DUMMY][MUS_DUMMY]DRAGÓN,\nOSCURIDAD, ACERO [MUS_DUMMY][BIG_MULT_X]: VENENO
 
 #org @Help_Text_TypeMatchupOwnMoveFlying
 [MUS_DUMMY][CIRCLE_DOT]: HIERBA, LUCHA, ERROR [MUS_DUMMY][TRIANGLE]:\nELÉCTRICO, ROCA, ACERO
@@ -12536,7 +12533,7 @@ y \eÊÚÊ ÈŒçÏî ËÎÁ!
 Ê;Âè Êçî& ÂòñÉ… ÔÏÛ ßàÁªç & ÚËñÉ… ßôïçó\nŒ ŒçÏÁù
 
 #org @Route120_Text_PokeblocksExpressionOfLove
--)& êñÑ ÛËñ … ÔÏÛ Ôº& ​​​​ÏÛ ŒÛËºñ … ºÛ\nÀÁ ù?
+-)& êñÑ ÛËñ … ÔÏÛ Ôº& ÏÛ ŒÛËºñ … ºÛ\nÀÁ ù?
 
 #org @Route120_Text_YouUnderstandTakeThis
 Â+ Â+! ô Éñ\eÑàè Éñù º Àñ
@@ -13727,7 +13724,7 @@ Previene quemaduras.
 Atrapa POK\eMON de tipo ACERO.
 
 #org @sSoundproofDescription
-Evita movimientos basados ​​en sonido.
+Evita movimientos basados en sonido.
 
 #org @sRainDishDescription
 Ligera recuperación de HP bajo la\nlluvia.
@@ -13826,7 +13823,7 @@ Aumenta el ATAQUE.
 Bloquea golpes críticos.
 
 #org @sCacophonyDescription
-Evita movimientos basados ​​en sonido.
+Evita movimientos basados en sonido.
 
 #org @sAirLockDescription
 Niega los efectos del clima.
@@ -14024,7 +14021,7 @@ TAREA TERMINADA )--ÏÏŒ
 Ï=ñÁ. ÑÛó ÈÈÊß èß ÎË.
 
 #org @sBerryDescriptionPart1_Qualot
-Í ÁÒÊ. Ñ ​​​​Àò êñ
+Í ÁÒÊ. Ñ Àò êñ
 
 #org @sBerryDescriptionPart2_Qualot
 Ï;ó ÏÉûÑ ÔÚ.
