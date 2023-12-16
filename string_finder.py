@@ -217,12 +217,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         for match in matches:
                             sanitizedText = sanitizedText.replace(match, 'xxx', 1)
 
-                        # Check if sanitizedText is less than 39 characters
-                        if len(sanitizedText) <= 39:
+                        # Check if sanitizedText is less than 37 characters
+                        if len(sanitizedText) <= 37:
                             formatted_text = sanitizedText
                         else:
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+                            # Split the string into sections of 37 characters without breaking words
+                            sections = re.findall(r'(.{1,37}\S(?:\s|$)|\S+)', sanitizedText)
 
                             # Add '\\n' or '\\p' to the end of each section alternately
                             formatted_sections = []
@@ -270,12 +270,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         for match in matches:
                             sanitizedText = sanitizedText.replace(match, 'xxx', 1)
 
-                        # Check if sanitizedText is less than 39 characters
-                        if len(sanitizedText) <= 39:
+                        # Check if sanitizedText is less than 37 characters
+                        if len(sanitizedText) <= 37:
                             formatted_text = sanitizedText
                         else:
-                            # Split the string into sections of 39 characters without breaking words
-                            sections = re.findall(r'(.{1,39}\S(?:\s|$)|\S+)', sanitizedText)
+                            # Split the string into sections of 37 characters without breaking words
+                            sections = re.findall(r'(.{1,37}\S(?:\s|$)|\S+)', sanitizedText)
 
                             # Add '\\n' or '\\p' to the end of each section alternately
                             formatted_sections = []
