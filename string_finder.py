@@ -17,7 +17,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        if string == 'SootopolisCity_Text_OhDoesntMatter':
+        if string == 'Help_Text_HowToEnterName':
             if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
                 if string in TextScripts:
                     constructedString = ''
@@ -325,7 +325,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
                                                 wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
                                             elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                                wrapped_text_store = wrapped_text_store + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\n' + wrapped_text[newCharIndex:].split(' ')[text_index]
                                                 newCharIndex = charIndex + 3
                                         wrapped_text = wrapped_text_store
                                         width_ = 0
@@ -336,7 +336,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                             if text_index < len(wrapped_text[newCharIndex:].split(' ')) - 1:
                                                 wrapped_text_store = wrapped_text_store + wrapped_text[newCharIndex:].split(' ')[text_index] + ' '
                                             elif text_index == len(wrapped_text[newCharIndex:].split(' ')) - 1:
-                                                wrapped_text_store = wrapped_text_store + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
+                                                wrapped_text_store = wrapped_text_store[:-1] + '\\p' + wrapped_text[newCharIndex:].split(' ')[text_index]
                                                 newCharIndex = charIndex + 3
                                         wrapped_text = wrapped_text_store
                                         width_ = 0
