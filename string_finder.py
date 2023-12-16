@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        if string == 'PewterCity_House1_Text_Nidoran':
+        # if string == 'PewterCity_House1_Text_Nidoran':
             if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
                 if string in TextScripts:
                     constructedString = ''
@@ -336,12 +336,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 # print(formatted_text)
 
                                 print(3, string)
-                                print(formatted_text)
                                 f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                             except:
                                 try:
                                     print(4, string)
-                                    print(text_newline)
                                     f.write('#org @' + string + '\n' + text_newline + '\n\n')
                                 except:
                                     f.write('#org @' + string + '\n' + text_newline + '\n\n')
