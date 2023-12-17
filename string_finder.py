@@ -235,7 +235,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         # Identify and replace square brackets and their content with '*'
                         matches = re.findall(r'\[.+?\]', sanitizedText)
                         for match in matches:
-                            sanitizedText = sanitizedText.replace(match, '*', 1)
+                            if match not in nineWidths:
+                                sanitizedText = sanitizedText.replace(match, '*', 1)
+                            else:
+                                sanitizedText = sanitizedText.replace(match, 'xxxxxxxxx', 1)
 
                         # Check if sanitizedText is less than 37 characters
                         if len(sanitizedText) <= 37:
@@ -254,7 +257,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # Replace '*' with the original square brackets and their contents
                         for match in matches:
-                            formatted_text = formatted_text.replace('*', match, 1)
+                            if match not in nineWidths:
+                                formatted_text = formatted_text.replace('*', match, 1)
+                            else:
+                                formatted_text = formatted_text.replace('xxxxxxxxx', match, 1)
 
                         # Remove the space before '\\n' or '\\p'
                         formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
