@@ -232,10 +232,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             pos = pos + 1
                         sanitizedText = english.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
 
-                        # Identify and replace square brackets and their content with 'xxx'
+                        # Identify and replace square brackets and their content with '*'
                         matches = re.findall(r'\[.+?\]', sanitizedText)
                         for match in matches:
-                            sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+                            sanitizedText = sanitizedText.replace(match, '*', 1)
 
                         # Check if sanitizedText is less than 37 characters
                         if len(sanitizedText) <= 37:
@@ -252,9 +252,9 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             # Join the sections to form the final formatted string
                             formatted_text = ''.join(formatted_sections)
 
-                        # Replace 'xxx' with the original square brackets and their contents
+                        # Replace '*' with the original square brackets and their contents
                         for match in matches:
-                            formatted_text = formatted_text.replace('xxx', match, 1)
+                            formatted_text = formatted_text.replace('*', match, 1)
 
                         # Remove the space before '\\n' or '\\p'
                         formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
@@ -284,10 +284,10 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             pos = pos + 1
                         sanitizedText = english.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
 
-                        # Identify and replace square brackets and their content with 'xxx'
+                        # Identify and replace square brackets and their content with '*'
                         matches = re.findall(r'\[.+?\]', sanitizedText)
                         for match in matches:
-                            sanitizedText = sanitizedText.replace(match, 'xxx', 1)
+                            sanitizedText = sanitizedText.replace(match, '*', 1)
 
                         # Check if sanitizedText is less than 37 characters
                         if len(sanitizedText) <= 37:
@@ -304,9 +304,9 @@ with open(SOURCE_ROM, 'rb+') as rom:
                             # Join the sections to form the final formatted string
                             formatted_text = ''.join(formatted_sections)
 
-                        # Replace 'xxx' with the original square brackets and their contents
+                        # Replace '*' with the original square brackets and their contents
                         for match in matches:
-                            formatted_text = formatted_text.replace('xxx', match, 1)
+                            formatted_text = formatted_text.replace('*', match, 1)
 
                         # Remove the space before '\\n' or '\\p'
                         formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
