@@ -161,35 +161,34 @@ with open(SOURCE_ROM, 'rb+') as rom:
                 except:
                     pass
                 english = ''
-                japanese = ''
-                lang = ''
-                if '[' in constructed_string2:
-                    splitted_text = constructed_string2.split('[')
-                    for splitted_text_section in splitted_text:
-                        if ']' in splitted_text_section:
-                            splitted_text_2 = splitted_text_section.split(']')
-                            for splitted_text_section_2 in splitted_text_2:
-                                if splitted_text_section_2 in SpecialBuffersReverse:
-                                    if constructed_string2.split('[')[0] == '' and constructed_string2.split(']')[1] == ' ':
-                                        japanese += '[' + splitted_text_section_2 + '] '
-                                    elif constructed_string2.split(']')[1] == '' and constructed_string2.split('[')[0] == ' ':
-                                        japanese += ' [' + splitted_text_section_2 + ']'
-                                    elif constructed_string2.split(']')[1] == ' ' and constructed_string2.split('[')[0] == ' ':
-                                        japanese += ' [' + splitted_text_section_2 + '] '
-                                    else:
-                                        japanese += '[' + splitted_text_section_2 + ']'
-                                else:
-                                    try:
-                                        japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section_2)
-                                    except:
-                                        pass
-                        else:
-                            try:
-                                japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section)
-                            except:
-                                pass
-                else:
-                    japanese = GoogleTranslator(source='auto', target=target_language).translate(constructed_string2)
+                # japanese = ''
+                # if '[' in constructed_string2:
+                    # splitted_text = constructed_string2.split('[')
+                    # for splitted_text_section in splitted_text:
+                        # if ']' in splitted_text_section:
+                            # splitted_text_2 = splitted_text_section.split(']')
+                            # for splitted_text_section_2 in splitted_text_2:
+                                # if splitted_text_section_2 in SpecialBuffersReverse:
+                                    # if constructed_string2.split('[')[0] == '' and constructed_string2.split(']')[1] == ' ':
+                                        # japanese += '[' + splitted_text_section_2 + '] '
+                                    # elif constructed_string2.split(']')[1] == '' and constructed_string2.split('[')[0] == ' ':
+                                        # japanese += ' [' + splitted_text_section_2 + ']'
+                                    # elif constructed_string2.split(']')[1] == ' ' and constructed_string2.split('[')[0] == ' ':
+                                        # japanese += ' [' + splitted_text_section_2 + '] '
+                                    # else:
+                                        # japanese += '[' + splitted_text_section_2 + ']'
+                                # else:
+                                    # try:
+                                        # japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section_2)
+                                    # except:
+                                        # pass
+                        # else:
+                            # try:
+                                # japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section)
+                            # except:
+                                # pass
+                # else:
+                    # japanese = GoogleTranslator(source='auto', target=target_language).translate(constructed_string2)
                 if '[' in constructed_string:
                     splitted_text = constructed_string.split('[')
                     for splitted_text_section in splitted_text:
@@ -262,19 +261,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # print(formatted_text)
 
-                        lang2 = nlp(formatted_text)._.language['language']
-                        if lang2 == target_language:
-                            print(1, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                        else:
-                            lang = 'ja'
+                        print(1, string)
+                        f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                     except:
                         try:
-                            if lang2 == target_language:
-                                print(2, string)
-                                f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                            else:
-                                lang = 'ja'
+                            print(2, string)
+                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         except:
                             pass
                 else:
@@ -321,72 +313,11 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # print(formatted_text)
 
-                        lang2 = nlp(formatted_text)._.language['language']
-                        if lang2 == target_language:
-                            print(3, string)
-                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                        else:
-                            lang = 'ja'
-                    except:
-                        try:
-                            if lang2 == target_language:
-                                print(4, string)
-                                f.write('#org @' + string + '\n' + formatted_text + '\n\n')
-                            else:
-                                lang = 'ja'
-                        except:
-                            pass
-                if lang == 'ja' and japanese:
-                    print(string, japanese)
-                    text_newline = japanese.replace('\n', '\\n')
-                    line_endings = 'npl'
-                    line_endings_store = ''
-                    pos = 0
-                    try:
-                        for char in japanese:
-                            if char == '\\':
-                                try:
-                                    if japanese[pos + 1] in line_endings:
-                                        line_endings_store = line_endings_store + japanese[pos + 1]
-                                except:
-                                    pass
-                            pos = pos + 1
-                        sanitizedText = japanese.replace('\\n', ' ').replace('\\p', ' ').replace('\\l', ' ')
-
-                        # Identify and replace square brackets and their content with 'xxx'
-                        matches = re.findall(r'\[.+?\]', sanitizedText)
-                        for match in matches:
-                            sanitizedText = sanitizedText.replace(match, 'xxx', 1)
-
-                        # Check if sanitizedText is less than 37 characters
-                        if len(sanitizedText) <= 37:
-                            formatted_text = sanitizedText
-                        else:
-                            # Split the string into sections of 37 characters without breaking words
-                            sections = re.findall(r'(.{1,37}\S(?:\s|$)|\S+)', sanitizedText)
-
-                            # Add '\\n' or '\\p' to the end of each section alternately
-                            formatted_sections = []
-                            for i, section in enumerate(sections):
-                                formatted_sections.append(section + ('\\p' if i % 2 else '\\n') if i < len(sections) - 1 else section)
-
-                            # Join the sections to form the final formatted string
-                            formatted_text = ''.join(formatted_sections)
-
-                        # Replace 'xxx' with the original square brackets and their contents
-                        for match in matches:
-                            formatted_text = formatted_text.replace('xxx', match, 1)
-
-                        # Remove the space before '\\n' or '\\p'
-                        formatted_text = formatted_text.replace(' \\n', '\\n').replace(' \\p', '\\p')
-
-                        # print(formatted_text)
-
-                        print(5, string)
+                        print(3, string)
                         f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                     except:
                         try:
-                            print(6, string)
+                            print(4, string)
                             f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         except:
                             pass
