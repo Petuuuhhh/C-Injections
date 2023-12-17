@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'SilphCo_7F_Text_SavedAtLast':
+        # if string == 'PokemonMansion_Text_PressSecretSwitchJP':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructed_string = ''
@@ -338,7 +338,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                 lang = 'ja'
                         except:
                             pass
-                if lang != 'en' and japanese:
+                if lang == 'ja':
                     text_newline = japanese.replace('\n', '\\n')
                     line_endings = 'npl'
                     line_endings_store = ''
