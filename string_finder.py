@@ -27,7 +27,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
         offset = symbol[0][2:]
         offset_actual = symbol[0]
         rom_offset = offset_actual
-        # if string == 'CeruleanCity_Text_SlowbroUseSonicboom':
+        # if string == 'SilphCo_7F_Text_SavedAtLast':
         if int('0x' + offset_actual, 16) >= int('0x08000000', 16):
             if string in TextScripts:
                 constructed_string = ''
@@ -264,15 +264,21 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # print(formatted_text)
 
-                        print(1, string)
-                        f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                        lang2 = nlp(formatted_text)._.language['language']
+                        if lang2 == 'es':
+                            print(1, string)
+                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                        else:
+                            lang = 'ja'
                     except:
                         try:
-                            print(2, string)
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            if lang2 == 'es':
+                                print(2, string)
+                                f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                            else:
+                                lang = 'ja'
                         except:
-                            print(3, string)
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            pass
                 else:
                     line_endings = 'npl'
                     line_endings_store = ''
@@ -317,15 +323,21 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # print(formatted_text)
 
-                        print(4, string)
-                        f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                        lang2 = nlp(formatted_text)._.language['language']
+                        if lang2 == 'es':
+                            print(3, string)
+                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                        else:
+                            lang = 'ja'
                     except:
                         try:
-                            print(5, string)
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            if lang2 == 'es':
+                                print(4, string)
+                                f.write('#org @' + string + '\n' + formatted_text + '\n\n')
+                            else:
+                                lang = 'ja'
                         except:
-                            print(6, string)
-                            f.write('#org @' + string + '\n' + text_newline + '\n\n')
+                            pass
                 if lang != 'en' and japanese:
                     text_newline = japanese.replace('\n', '\\n')
                     line_endings = 'npl'
@@ -371,13 +383,12 @@ with open(SOURCE_ROM, 'rb+') as rom:
 
                         # print(formatted_text)
 
-                        print(7, string)
-                        f.write('#org @' + string + 'Japanese\n' + formatted_text + '\n\n')
+                        print(5, string)
+                        f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                     except:
                         try:
-                            print(8, string)
-                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
+                            print(6, string)
+                            f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         except:
-                            print(9, string)
-                            f.write('#org @' + string + 'Japanese\n' + text_newline + '\n\n')
+                            pass
 f.close()
