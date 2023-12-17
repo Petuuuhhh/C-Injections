@@ -161,35 +161,31 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     pass
                 english = ''
                 japanese = ''
-                lang = nlp(constructed_string)._.language['language']
-                if lang != 'en':
-                    if '[' in constructed_string2:
-                        splitted_text = constructed_string2.split('[')
-                        for splitted_text_section in splitted_text:
-                            if ']' in splitted_text_section:
-                                splitted_text_2 = splitted_text_section.split(']')
-                                for splitted_text_section_2 in splitted_text_2:
-                                    if splitted_text_section_2 in SpecialBuffersReverse:
-                                        if constructed_string2.split('[')[0] == '' and constructed_string2.split(']')[1] == ' ':
-                                            japanese += '[' + splitted_text_section_2 + '] '
-                                        elif constructed_string2.split(']')[1] == '' and constructed_string2.split('[')[0] == ' ':
-                                            japanese += ' [' + splitted_text_section_2 + ']'
-                                        elif constructed_string2.split(']')[1] == ' ' and constructed_string2.split('[')[0] == ' ':
-                                            japanese += ' [' + splitted_text_section_2 + '] '
-                                        else:
-                                            japanese += '[' + splitted_text_section_2 + ']'
+                if '[' in constructed_string2:
+                    splitted_text = constructed_string2.split('[')
+                    for splitted_text_section in splitted_text:
+                        if ']' in splitted_text_section:
+                            splitted_text_2 = splitted_text_section.split(']')
+                            for splitted_text_section_2 in splitted_text_2:
+                                if splitted_text_section_2 in SpecialBuffersReverse:
+                                    if constructed_string2.split('[')[0] == '' and constructed_string2.split(']')[1] == ' ':
+                                        japanese += '[' + splitted_text_section_2 + '] '
+                                    elif constructed_string2.split(']')[1] == '' and constructed_string2.split('[')[0] == ' ':
+                                        japanese += ' [' + splitted_text_section_2 + ']'
+                                    elif constructed_string2.split(']')[1] == ' ' and constructed_string2.split('[')[0] == ' ':
+                                        japanese += ' [' + splitted_text_section_2 + '] '
                                     else:
-                                        try:
-                                            japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
-                                        except:
-                                            pass
-                            else:
-                                try:
-                                    japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
-                                except:
-                                    pass
-                    else:
-                        japanese = GoogleTranslator(source='auto', target='es').translate(constructed_string2)
+                                        japanese += '[' + splitted_text_section_2 + ']'
+                                else:
+                                    try:
+                                        japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                    except:
+                                        pass
+                        else:
+                            try:
+                                japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                            except:
+                                pass
                 else:
                     japanese = GoogleTranslator(source='auto', target='es').translate(constructed_string2)
                 if '[' in constructed_string:
