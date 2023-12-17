@@ -162,6 +162,7 @@ with open(SOURCE_ROM, 'rb+') as rom:
                     pass
                 english = ''
                 japanese = ''
+                lang = ''
                 if '[' in constructed_string2:
                     splitted_text = constructed_string2.split('[')
                     for splitted_text_section in splitted_text:
