@@ -18,6 +18,7 @@ nlp.add_pipe('language_detector', last=True)
 nineWidths = ['B_BUFF2', 'B_OPPONENT_MON1_NAME', 'B_COPY_VAR_1', 'B_COPY_VAR_2', 'B_COPY_VAR_3']
 SOURCE_ROM = "BPRE0.gba"
 num3 = 0
+target_language = 'es'
 
 f = open("output.txt", "w", encoding="utf-8")
 with open(SOURCE_ROM, 'rb+') as rom:
@@ -178,16 +179,16 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         japanese += '[' + splitted_text_section_2 + ']'
                                 else:
                                     try:
-                                        japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section_2)
                                     except:
                                         pass
                         else:
                             try:
-                                japanese += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                japanese += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section)
                             except:
                                 pass
                 else:
-                    japanese = GoogleTranslator(source='auto', target='es').translate(constructed_string2)
+                    japanese = GoogleTranslator(source='auto', target=target_language).translate(constructed_string2)
                 if '[' in constructed_string:
                     splitted_text = constructed_string.split('[')
                     for splitted_text_section in splitted_text:
@@ -205,16 +206,16 @@ with open(SOURCE_ROM, 'rb+') as rom:
                                         english += '[' + splitted_text_section_2 + ']'
                                 else:
                                     try:
-                                        english += GoogleTranslator(source='auto', target='es').translate(splitted_text_section_2)
+                                        english += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section_2)
                                     except:
                                         pass
                         else:
                             try:
-                                english += GoogleTranslator(source='auto', target='es').translate(splitted_text_section)
+                                english += GoogleTranslator(source='auto', target=target_language).translate(splitted_text_section)
                             except:
                                 pass
                 else:
-                    english = GoogleTranslator(source='auto', target='es').translate(constructed_string)
+                    english = GoogleTranslator(source='auto', target=target_language).translate(constructed_string)
                 if english:
                     text_newline = english.replace('\n', '\\n')
                     line_endings = 'npl'
@@ -261,14 +262,14 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         # print(formatted_text)
 
                         lang2 = nlp(formatted_text)._.language['language']
-                        if lang2 == 'es':
+                        if lang2 == target_language:
                             print(1, string)
                             f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         else:
                             lang = 'ja'
                     except:
                         try:
-                            if lang2 == 'es':
+                            if lang2 == target_language:
                                 print(2, string)
                                 f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                             else:
@@ -320,14 +321,14 @@ with open(SOURCE_ROM, 'rb+') as rom:
                         # print(formatted_text)
 
                         lang2 = nlp(formatted_text)._.language['language']
-                        if lang2 == 'es':
+                        if lang2 == target_language:
                             print(3, string)
                             f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                         else:
                             lang = 'ja'
                     except:
                         try:
-                            if lang2 == 'es':
+                            if lang2 == target_language:
                                 print(4, string)
                                 f.write('#org @' + string + '\n' + formatted_text + '\n\n')
                             else:
