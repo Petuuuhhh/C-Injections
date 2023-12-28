@@ -1,6 +1,6 @@
 [General]
-ApplicationVersion = '''0.5.5'''
-FreeSpaceSearch = '''000200'''
+ApplicationVersion = '''0.5.6'''
+FreeSpaceSearch = '''71A280'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -351,7 +351,7 @@ DefaultHash = '''E3068BEC'''
 [[NamedAnchors]]
 Name = '''graphics.pokemon.icons.deoxys'''
 Address = 0xE3A388
-Format = '''`ucs4x4x16|graphics.pokemon.icons.index`'''
+Format = '''`ucs4x4x8|graphics.pokemon.icons.index`'''
 DefaultHash = '''B62FF03E'''
 
 [[NamedAnchors]]
@@ -1701,7 +1701,7 @@ DefaultHash = '''F54A83E4'''
 [[NamedAnchors]]
 Name = '''graphics.overworld.firstpersonview.sprites'''
 Address = 0x43E9E8
-Format = '''[id.data.maps.names+88 transition.transitiontype worldmapflag: tileset<`lzt4|graphics.firstpersonview.sprites`> tilemap<`lzm4x32x20|graphics.firstpersonview.sprites`> pal<`ucp4:DE`>]graphics.firstpersonview.count'''
+Format = '''[id.data.maps.names transition.transitiontype worldmapflag: tileset<`lzt4|graphics.firstpersonview.sprites`> tilemap<`lzm4x32x20|graphics.firstpersonview.sprites`> pal<`ucp4:DE`>]graphics.firstpersonview.count'''
 DefaultHash = '''FDA52FF9'''
 
 [[NamedAnchors]]
@@ -2367,7 +2367,7 @@ DefaultHash = '''61C502F2'''
 [[NamedAnchors]]
 Name = '''scripts.text.destinations'''
 Address = 0x3E17E0
-Format = '''[text<"">]14'''
+Format = ''''''
 DefaultHash = '''7BD09E27'''
 
 [[NamedAnchors]]
@@ -2631,7 +2631,7 @@ DefaultHash = '''A51B2D46'''
 [[NamedAnchors]]
 Name = '''graphics.townmap.catchmap.conversion.kanto'''
 Address = 0x464148
-Format = '''[worldmap:data.maps.names+88 catchmap:]data.maps.catchmap.conversion.kanto.length'''
+Format = '''[worldmap:data.maps.names catchmap:]data.maps.catchmap.conversion.kanto.length'''
 DefaultHash = '''561422CE'''
 
 [[NamedAnchors]]
@@ -3257,6 +3257,12 @@ Name = '''graphics.trainers.players.mugshot.palettes'''
 Address = 0x3FA754
 Format = '''[palette<`ucp4`>]playerMugshots'''
 DefaultHash = '''7A0E7181'''
+
+[[NamedAnchors]]
+Name = '''graphics.newgame.menu.naming.sprite2'''
+Address = 0x3E1800
+Format = '''`ucs4x2x6|graphics.newgame.menu.naming.palette1`'''
+DefaultHash = '''0BC30602'''
 
 #################################
 #################################
@@ -6017,7 +6023,7 @@ DefaultHash = '''6B6E11EC'''
 157 = [
    '''StartOldManTutorialBattle''',
    '''ChangePokemonNickname''',
-   '''ChoosePartyMon''',
+   '''ChoosePartyMon''',# Selected index will be stored in var4. var4=1 for lead pokemon, var4=6 for last pokemon, var4=7 for cancel. Requires `waitstate` after.
 ]
 163 = [
    '''Script_IsFanClubMemberFanOfPlayer''',
@@ -6153,7 +6159,7 @@ DefaultHash = '''6B6E11EC'''
    '''StartSouthernIslandBattle''',
 ]
 327 = [
-   '''GetPartyMonSpecies''',
+   '''GetPartyMonSpecies''',# Read party index from var4, return species
    '''IsSelectedMonEgg''',
 ]
 331 = [
@@ -6172,7 +6178,7 @@ DefaultHash = '''6B6E11EC'''
    '''SetPostgameFlags''',
    '''StartMarowakBattle''',
    '''ForcePlayerOntoBike''',
-   '''ListMenu''',
+   '''ListMenu''',# Lists options from scripts.text.listmenu based on the value of var4
    '''ReturnToListMenu''',
    '''DoPicboxCancel''',
    '''SetVermilionTrashCans''',
@@ -6208,7 +6214,7 @@ DefaultHash = '''6B6E11EC'''
    '''GetNumLevelsGainedForRoute5DaycareMon''',
    '''TakePokemonFromRoute5Daycare''',
    '''DoSeagallopFerryScene''',
-   '''DoesPlayerPartyContainSpecies''',
+   '''DoesPlayerPartyContainSpecies''',# read species from var4, if it's in the party, return 1 (recommend returning to varResult)
    '''Script_SetHelpContext''',
    '''BackupHelpContext''',
    '''RestoreHelpContext''',
@@ -7044,7 +7050,7 @@ Destination = '''data.items.stats'''
 [[GotoShortcut]]
 Name = '''Maps'''
 Image = '''data.maps.banks/3/maps/0/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank3.pallet town.3-0'''
+Destination = '''maps.bank3.PALLET TOWN.3-0'''
 
 #################################
 [[TableGroup]]

@@ -39,6 +39,9 @@
 #include "../include/constants/songs.h"
 #include "../include/constants/field_weather.h"
 
+extern u8 gText_ExpShareOn[];
+extern u8 gText_ExpShareOff[];
+
 static void Task_ItemUse_CloseMessageBoxAndReturnToField(u8 taskId)
 {
     ClearDialogWindowAndFrame(0, 1);
@@ -53,17 +56,17 @@ void FieldUseFunc_ExpShare(u8 taskId)
 	{
 		PlaySE(SE_EXP_MAX);
 		if (!gTasks[taskId].data[2]) // to account for pressing select in the overworld
-			DisplayItemMessageOnField(taskId, 2, gText_Yes, Task_ItemUse_CloseMessageBoxAndReturnToField);
+			DisplayItemMessageOnField(taskId, 2, gText_ExpShareOn, Task_ItemUse_CloseMessageBoxAndReturnToField);
 		else
-			DisplayItemMessageInBag(taskId, 2, gText_Yes, Task_ReturnToBagFromContextMenu);
+			DisplayItemMessageInBag(taskId, 2, gText_ExpShareOn, Task_ReturnToBagFromContextMenu);
 	}
 	else
 	{
 		PlaySE(SE_PC_OFF);
 		if (!gTasks[taskId].data[2]) // to account for pressing select in the overworld
-			DisplayItemMessageOnField(taskId, 2, gText_No, Task_ItemUse_CloseMessageBoxAndReturnToField);
+			DisplayItemMessageOnField(taskId, 2, gText_ExpShareOff, Task_ItemUse_CloseMessageBoxAndReturnToField);
 		else
-			DisplayItemMessageInBag(taskId, 2, gText_No, Task_ReturnToBagFromContextMenu);
+			DisplayItemMessageInBag(taskId, 2, gText_ExpShareOff, Task_ReturnToBagFromContextMenu);
 	}
 	if (FlagGet(FLAG_EXP_SHARE)) FlagClear(FLAG_EXP_SHARE);
     else FlagSet(FLAG_EXP_SHARE);
