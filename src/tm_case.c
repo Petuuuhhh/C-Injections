@@ -369,7 +369,7 @@ enum {
 
 // When a TM/HM in the list is selected in the field, create a context
 // menu with a list of actions that can be taken.
-static void Task_SelectTMAction_FromFieldBag(u8 taskId)
+void Task_SelectTMAction_FromFieldBag(u8 taskId)
 {
     u8 * strbuf;
     TMCase_SetWindowBorder2(2);
