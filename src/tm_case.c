@@ -228,7 +228,7 @@ static const struct SpriteTemplate sTMSpriteTemplate = {
 void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
 {
     StringCopy(gStringVar4, gText_FontSize0);
-    if (itemId >= ITEM_HM01)
+    if (itemId >= ITEM_HM01 && itemId <= ITEM_HM08)
     {
         u8 hmDigits = 1;
         if (NUM_HIDDEN_MACHINES >= 10)
@@ -246,7 +246,8 @@ void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
             tmDigits = 3;
         
         StringAppend(gStringVar4, gOtherText_UnkF9_08_Clear_01);
-        ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
+        if (itemId <= ITEM_TM50) ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
+        else ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM37 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
         StringAppend(gStringVar4, gStringVar1);
     }
     
@@ -268,7 +269,7 @@ void TMCase_ItemPrintFunc(u8 windowId, s32 itemId, u8 y)
     
     if (itemId != -2)
     {
-        if (BagGetItemIdByPocketPosition(POCKET_TM_CASE, itemId) >= ITEM_HM01)
+        if (BagGetItemIdByPocketPosition(POCKET_TM_CASE, itemId) >= ITEM_HM01 && BagGetItemIdByPocketPosition(POCKET_TM_CASE, itemId) <= ITEM_HM08)
             isHm = TRUE;
         else
             isHm = FALSE;
@@ -393,7 +394,7 @@ void Task_SelectTMAction_FromFieldBag(u8 taskId)
     AddTextPrinterParameterized_ColorByIndex(2, 2, strbuf, 0, 2, 1, 0, 0, 1);
     Free(strbuf);
     
-    if (gSpecialVar_ItemId >= ITEM_HM01)
+    if (gSpecialVar_ItemId >= ITEM_HM01 && gSpecialVar_ItemId <= ITEM_HM08)
     {
         PlaceHMTileInWindow(2, 0, 2);
         CopyWindowToVram(2, 2);
@@ -447,9 +448,11 @@ u8 CreateTMSprite(u16 itemId)
     }
     else
     {        
-        SetTMSpriteAnim(&gSprites[spriteId], itemId - ITEM_TM01);
+        if (itemId <= ITEM_TM50) SetTMSpriteAnim(&gSprites[spriteId], itemId - ITEM_TM01);
+        else SetTMSpriteAnim(&gSprites[spriteId], itemId - ITEM_TM37);
         TintTMSpriteByType(gBattleMoves[ItemIdToBattleMoveId(itemId)].type);
-        UpdateTMSpritePosition(&gSprites[spriteId], itemId - ITEM_TM01);
+        if (itemId <= ITEM_TM50) UpdateTMSpritePosition(&gSprites[spriteId], itemId - ITEM_TM01);
+        else UpdateTMSpritePosition(&gSprites[spriteId], itemId - ITEM_TM37);
         return spriteId;
     }
 }
