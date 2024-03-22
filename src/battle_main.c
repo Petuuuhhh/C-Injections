@@ -43,8 +43,14 @@
 #include "../include/constants/songs.h"
 #include "../include/constants/trainers.h"
 #include "../include/overworld.h"
+#include "../include/constants/map_groups.h"
 
 extern struct Evolution gEvolutionTable[][EVOS_PER_MON];
+
+static const u16 sGymMapsList[] = 
+{
+    MAP_THREE_ISLAND_HOUSE1,
+};
 
 u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
 {
@@ -81,7 +87,7 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                 const struct TrainerMonNoItemDefaultMoves *partyData = gTrainers[trainerNum].party.NoItemDefaultMoves;
                 u8 level = partyData[i].lvl;
                 u16 species = partyData[i].species;
-                if (gTrainers[gTrainerBattleOpponent_A].trainerClass != TRAINER_CLASS_LEADER) {
+                if (gTrainers[gTrainerBattleOpponent_A].trainerClass != TRAINER_CLASS_LEADER && !IsCurMapInLocationList(sGymMapsList)) {
                     if (badgeCount == 0) level = (Random() % 4) + 2;
                     else if (badgeCount == 1) level = (Random() % 6) + 8;
                     else if (badgeCount == 2) level = (Random() % 6) + 13;
@@ -92,7 +98,7 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                     else if (badgeCount == 7) level = (Random() % 6) + 38;
                     else if (badgeCount == 8) level = (Random() % 6) + 43;
                 }
-                else if (gSaveBlock1Ptr->location.mapGroup == 34 && gSaveBlock1Ptr->location.mapNum == 0) {
+                else if (IsCurMapInLocationList(sGymMapsList)) {
                     if (badgeCount == 0) level = (Random() % 6) + 8;
                     if (badgeCount == 1) level = (Random() % 6) + 14;
                     if (badgeCount == 2) level = (Random() % 6) + 18;

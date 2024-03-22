@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "global.h": "c",
-        "util.h": "c"
+        "util.h": "c",
+        "overworld.h": "c",
+        "moves.h": "c"
     }
 }
