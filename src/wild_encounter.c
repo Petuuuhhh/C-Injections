@@ -60,6 +60,7 @@ bool8 TryGenerateWildMonLevelScaling(const struct WildPokemonInfo * info, u8 are
     else if (badgeCount == 8) level = (Random() % 6) + 35;
     species = info->wildPokemon[slot].species;
     if (gEvolutionTable[species][0].method == EVO_LEVEL && gEvolutionTable[species][0].param <= level) species = gEvolutionTable[species][0].targetSpecies;
+    if (gEvolutionTable[species][0].method == EVO_LEVEL && gEvolutionTable[species][0].param <= level) species = gEvolutionTable[species][0].targetSpecies;
     if (flags == WILD_CHECK_REPEL && !IsWildLevelAllowedByRepel(level))
     {
         return FALSE;
