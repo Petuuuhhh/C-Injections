@@ -44,6 +44,8 @@
 #include "../include/constants/trainers.h"
 #include "../include/overworld.h"
 
+extern struct Evolution gEvolutionTable[][EVOS_PER_MON];
+
 u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
 {
     u32 nameHash = 0;
@@ -78,14 +80,16 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
             {
                 const struct TrainerMonNoItemDefaultMoves *partyData = gTrainers[trainerNum].party.NoItemDefaultMoves;
                 u8 level = partyData[i].lvl;
+                u16 species = partyData[i].species;
                 if (badgeCount == 0 && gTrainerBattleOpponent_A == TRAINER_RIVAL_CHERRYGROVE_CITY_TOTODILE) level = 3;
+                if (gEvolutionTable[species][0].method == EVO_LEVEL && gEvolutionTable[species][0].param > level) species = gEvolutionTable[species][0].targetSpecies;
 
                 for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
                     nameHash += gSpeciesNames[partyData[i].species][j];
 
                 personalityValue += nameHash << 8;
                 fixedIV = partyData[i].iv * MAX_PER_STAT_IVS / 255;
-                CreateMon(&party[i], partyData[i].species, level, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
+                CreateMon(&party[i], species, level, fixedIV, TRUE, personalityValue, OT_ID_RANDOM_NO_SHINY, 0);
                 break;
             }
             case F_TRAINER_PARTY_CUSTOM_MOVESET:
