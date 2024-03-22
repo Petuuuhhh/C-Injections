@@ -8,9 +8,9 @@ import sys
 # Options go here.
 ############
 
-ROM_NAME = "BPRE0.gba"  # The name of your rom
-OFFSET_TO_PUT = 0x1C88650
-SEARCH_FREE_SPACE = True   # Set to True if you want the script to search for free space
+ROM_NAME = "OpenLC.gba"  # The name of your rom
+OFFSET_TO_PUT = 0xF00E04
+SEARCH_FREE_SPACE = False   # Set to True if you want the script to search for free space
                            # Set to False if you don't want to search for free space as you for example update the engine
 
 #############

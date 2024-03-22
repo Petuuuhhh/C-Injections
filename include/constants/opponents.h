@@ -752,6 +752,8 @@
 //       only space for 25 additional trainers before trainer flag space overflows.
 //       MAX_TRAINERS_COUNT can be increased but will take up additional saveblock space
 
+#define TRAINER_RIVAL_CHERRYGROVE_CITY_TOTODILE 3
+
 #define NUM_TRAINERS                             743
 #define MAX_TRAINERS_COUNT                       768
 

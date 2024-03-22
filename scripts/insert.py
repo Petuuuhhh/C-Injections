@@ -7,8 +7,8 @@ import sys
 from datetime import datetime
 import _io
 
-OFFSET_TO_PUT = 0x1c88650
-SOURCE_ROM = "BPRE0.gba"
+OFFSET_TO_PUT = 0xf00e04
+SOURCE_ROM = "OpenLC.gba"
 ROM_NAME = "test.gba"
 
 if sys.platform.startswith('win'):
