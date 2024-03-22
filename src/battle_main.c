@@ -92,6 +92,16 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                     else if (badgeCount == 7) level = (Random() % 6) + 38;
                     else if (badgeCount == 8) level = (Random() % 6) + 43;
                 }
+                else if (gSaveBlock1Ptr->location.mapGroup == 34 && gSaveBlock1Ptr->location.mapNum == 0) {
+                    if (badgeCount == 0) level = (Random() % 6) + 8;
+                    if (badgeCount == 1) level = (Random() % 6) + 14;
+                    if (badgeCount == 2) level = (Random() % 6) + 18;
+                    if (badgeCount == 3) level = (Random() % 6) + 24;
+                    if (badgeCount == 4) level = (Random() % 6) + 29;
+                    if (badgeCount == 5) level = (Random() % 6) + 35;
+                    if (badgeCount == 6) level = (Random() % 6) + 40;
+                    if (badgeCount == 7) level = (Random() % 6) + 46;
+                }
                 else {
                     if (badgeCount == 0) level = (Random() % 6) + 10;
                     if (badgeCount == 1) level = (Random() % 6) + 16;
