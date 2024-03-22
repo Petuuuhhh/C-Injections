@@ -73,6 +73,7 @@ struct TrainerMonNoItemDefaultMoves
     u16 iv;
     u8 lvl;
     u16 species;
+    u8 unused;
 };
 
 struct TrainerMonItemDefaultMoves
