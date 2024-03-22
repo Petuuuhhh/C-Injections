@@ -81,9 +81,28 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                 const struct TrainerMonNoItemDefaultMoves *partyData = gTrainers[trainerNum].party.NoItemDefaultMoves;
                 u8 level = partyData[i].lvl;
                 u16 species = partyData[i].species;
-                if (badgeCount == 0 && gTrainerBattleOpponent_A == TRAINER_RIVAL_CHERRYGROVE_CITY_TOTODILE) level = 3;
-                if (gEvolutionTable[species][0].method == EVO_LEVEL && gEvolutionTable[species][0].param > level) species = gEvolutionTable[species][0].targetSpecies;
-
+                if (gTrainers[gTrainerBattleOpponent_A].trainerClass != TRAINER_CLASS_LEADER) {
+                    if (badgeCount == 0) level = (Random() % 4) + 2;
+                    else if (badgeCount == 1) level = (Random() % 6) + 8;
+                    else if (badgeCount == 2) level = (Random() % 6) + 13;
+                    else if (badgeCount == 3) level = (Random() % 6) + 18;
+                    else if (badgeCount == 4) level = (Random() % 6) + 23;
+                    else if (badgeCount == 5) level = (Random() % 6) + 28;
+                    else if (badgeCount == 6) level = (Random() % 6) + 33;
+                    else if (badgeCount == 7) level = (Random() % 6) + 38;
+                    else if (badgeCount == 8) level = (Random() % 6) + 43;
+                }
+                else {
+                    if (badgeCount == 0) level = (Random() % 6) + 10;
+                    if (badgeCount == 1) level = (Random() % 6) + 16;
+                    if (badgeCount == 2) level = (Random() % 6) + 21;
+                    if (badgeCount == 3) level = (Random() % 6) + 27;
+                    if (badgeCount == 4) level = (Random() % 6) + 32;
+                    if (badgeCount == 5) level = (Random() % 6) + 38;
+                    if (badgeCount == 6) level = (Random() % 6) + 43;
+                    if (badgeCount == 7) level = (Random() % 6) + 49;
+                }
+                if (gEvolutionTable[species][0].method == EVO_LEVEL && gEvolutionTable[species][0].param <= level) species = gEvolutionTable[species][0].targetSpecies;
                 for (j = 0; gSpeciesNames[partyData[i].species][j] != EOS; j++)
                     nameHash += gSpeciesNames[partyData[i].species][j];
 
