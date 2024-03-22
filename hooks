@@ -1,3 +1,4 @@
 #examples:
 #SetTradedMonPokedexFlags 080507A0 1
 CreateNPCTrainerPartyBadgeLevelScaling 080112e0 2
+TryGenerateWildMonLevelScaling 08082aec 2
