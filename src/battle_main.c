@@ -105,7 +105,7 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                     else if (badgeCount == 7) level = (Random() % 6) + 38;
                     else if (badgeCount == 8) level = (Random() % 6) + 43;
                 }
-                else if (IsCurMapInLocationList(sGymMapsList)) {
+                else if (gTrainers[gTrainerBattleOpponent_A].trainerClass != TRAINER_CLASS_LEADER && IsCurMapInLocationList(sGymMapsList)) {
                     if (badgeCount == 0) level = (Random() % 6) + 8;
                     if (badgeCount == 1) level = (Random() % 6) + 14;
                     if (badgeCount == 2) level = (Random() % 6) + 18;
@@ -115,7 +115,7 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
                     if (badgeCount == 6) level = (Random() % 6) + 40;
                     if (badgeCount == 7) level = (Random() % 6) + 46;
                 }
-                else {
+                else if (gTrainers[gTrainerBattleOpponent_A].trainerClass == TRAINER_CLASS_LEADER) {
                     if (badgeCount == 0) level = (Random() % 6) + 10;
                     if (badgeCount == 1) level = (Random() % 6) + 16;
                     if (badgeCount == 2) level = (Random() % 6) + 21;
