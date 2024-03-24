@@ -49,7 +49,14 @@ extern struct Evolution gEvolutionTable[][EVOS_PER_MON];
 
 static const u16 sGymMapsList[] = 
 {
-    MAP_THREE_ISLAND_HOUSE1,
+    MAP_PEWTER_CITY_GYM,
+    MAP_CERULEAN_CITY_GYM,
+    MAP_VERMILION_CITY_GYM,
+    MAP_CELADON_CITY_GYM,
+    MAP_FUCHSIA_CITY_GYM,
+    MAP_CINNABAR_ISLAND_GYM,
+    MAP_SAFFRON_CITY_GYM,
+    MAP_VIRIDIAN_CITY_GYM
 };
 
 u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
@@ -86,7 +93,7 @@ u8 CreateNPCTrainerPartyBadgeLevelScaling(struct Pokemon *party, u16 trainerNum)
             {
                 const struct TrainerMonNoItemDefaultMoves *partyData = gTrainers[trainerNum].party.NoItemDefaultMoves;
                 u8 level = partyData[i].lvl;
-                u16 species = partyData[i].species;
+                u16 species = GetEggSpecies(partyData[i].species);
                 if (gTrainers[gTrainerBattleOpponent_A].trainerClass != TRAINER_CLASS_LEADER && !IsCurMapInLocationList(sGymMapsList)) {
                     if (badgeCount == 0) level = (Random() % 4) + 2;
                     else if (badgeCount == 1) level = (Random() % 6) + 8;

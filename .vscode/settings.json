@@ -3,6 +3,11 @@
         "global.h": "c",
         "util.h": "c",
         "overworld.h": "c",
-        "moves.h": "c"
+        "moves.h": "c",
+        "maps.h": "c",
+        "pokemon.h": "c",
+        "quest_log.h": "c",
+        "abilities.h": "c",
+        "level_up_learnset_pointers.h": "c"
     }
 }
