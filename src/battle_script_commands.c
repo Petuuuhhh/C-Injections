@@ -116,39 +116,30 @@ void atk23_getexp(void)
             
             if (badgeCount == 0 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 15) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 1 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 19) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 2 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 24) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 3 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 29) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 4 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 31) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 5 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 33) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 6 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 42) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 7 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 46) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
             else if (badgeCount == 8 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 55) {
                 *exp = 0;
-                gExpShareExp = 0;
             }
 
             gBattleScripting.getexpState++;
