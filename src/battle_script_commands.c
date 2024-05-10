@@ -76,6 +76,7 @@ void atk23_getexp(void)
         {
             u16 calculatedExp;
             s32 viaSentIn;
+            u8 badgeCount = CountBadgesForOverworldWhiteOutLossCalculation();
 
             for (viaSentIn = 0, i = 0; i < PARTY_SIZE; i++)
             {
@@ -95,14 +96,13 @@ void atk23_getexp(void)
             calculatedExp = gSpeciesInfo[gBattleMons[gBattlerFainted].species].expYield * gBattleMons[gBattlerFainted].level / 7;
             viaExpShare = gSaveBlock1Ptr->playerPartyCount;
 
-            if (FlagGet(FLAG_EXP_SHARE) && viaExpShare > 1) // exp share is turned on
+            if (viaExpShare) // at least one mon is getting exp via exp share
             {
                 *exp = SAFE_DIV(calculatedExp / 2, viaSentIn);
                 if (*exp == 0)
                     *exp = 1;
 
-                // gExpShareExp = calculatedExp / 2 / viaExpShare;
-                gExpShareExp = calculatedExp / 2;
+                gExpShareExp = calculatedExp / 2 / viaExpShare;
                 if (gExpShareExp == 0)
                     gExpShareExp = 1;
             }
@@ -111,6 +111,43 @@ void atk23_getexp(void)
                 *exp = SAFE_DIV(calculatedExp, viaSentIn);
                 if (*exp == 0)
                     *exp = 1;
+                gExpShareExp = 0;
+            }
+            
+            if (badgeCount == 0 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 15) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 1 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 19) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 2 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 24) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 3 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 29) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 4 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 31) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 5 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 33) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 6 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 42) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 7 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 46) {
+                *exp = 0;
+                gExpShareExp = 0;
+            }
+            else if (badgeCount == 8 && GetMonData(&gPlayerParty[i], MON_DATA_LEVEL) > 55) {
+                *exp = 0;
                 gExpShareExp = 0;
             }
 

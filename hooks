@@ -1,4 +1,4 @@
 #examples:
 #SetTradedMonPokedexFlags 080507A0 1
 atk23_getexp 08021a68 2
-FieldUseFunc_ExpShare 08901000 2
+#FieldUseFunc_ExpShare 08901000 2
