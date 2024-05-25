@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''720E40'''
+FreeSpaceSearch = '''720500'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -104,7 +104,7 @@ DefaultHash = '''0E9784EA'''
 
 [[NamedAnchors]]
 Name = '''data.items.stats'''
-Address = 0x71A380
+Address = 0x71A280
 Format = '''[name""13 unused. index: price: holdeffect.holdeffects param. description<""> keyitemvalue. bagkeyitem. pocket.pocketid type.|s=pocket(0=itemtype|1=itemtype|2=itemtype|4=itemtype|5=itemtype) fieldeffect<> battleusage:: battleeffect<> battleextra::]data.items.count'''
 DefaultHash = '''07F16966'''
 
@@ -578,7 +578,7 @@ DefaultHash = '''37B1CAEE'''
 
 [[NamedAnchors]]
 Name = '''graphics.items.sprites'''
-Address = 0x71F700
+Address = 0x71EF80
 Format = '''[sprite<`lzs4x3x3`> palette<`lzp4`>]data.items.stats+1'''
 DefaultHash = '''A0AF2FB0'''
 
@@ -638,7 +638,7 @@ DefaultHash = '''ED9BD5FC'''
 
 [[NamedAnchors]]
 Name = '''data.items.effects'''
-Address = 0x720680
+Address = 0x71FDC0
 Format = '''[data<`pie`>]data.items.stats-13'''
 DefaultHash = '''9A3E396F'''
 

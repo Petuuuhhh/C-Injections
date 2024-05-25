@@ -246,7 +246,8 @@ void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
             tmDigits = 3;
         
         StringAppend(gStringVar4, gOtherText_UnkF9_08_Clear_01);
-        ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
+        if (itemId <= ITEM_TM50) ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
+        else ConvertIntToDecimalStringN(gStringVar1, itemId - 326 + 1, STR_CONV_MODE_LEADING_ZEROS, tmDigits);
         StringAppend(gStringVar4, gStringVar1);
     }
     
@@ -406,7 +407,7 @@ void Task_SelectTMAction_FromFieldBag(u8 taskId)
 
 void SetTMSpriteAnim(struct Sprite * sprite, u8 idx)
 {
-    if (idx < 376)
+    if (idx > NUM_TECHNICAL_MACHINES)
         StartSpriteAnim(sprite, 1);
     else
         StartSpriteAnim(sprite, 0);
@@ -447,9 +448,11 @@ u8 CreateTMSprite(u16 itemId)
     }
     else
     {        
-        SetTMSpriteAnim(&gSprites[spriteId], itemId);
+        if (itemId <= ITEM_HM08) SetTMSpriteAnim(&gSprites[spriteId], itemId - ITEM_TM01);
+        else SetTMSpriteAnim(&gSprites[spriteId], itemId - 326);
         TintTMSpriteByType(gBattleMoves[ItemIdToBattleMoveId(itemId)].type);
-        UpdateTMSpritePosition(&gSprites[spriteId], itemId);
+        if (itemId <= ITEM_HM08) UpdateTMSpritePosition(&gSprites[spriteId], itemId - ITEM_TM01);
+        else UpdateTMSpritePosition(&gSprites[spriteId], itemId - 326);
         return spriteId;
     }
 }

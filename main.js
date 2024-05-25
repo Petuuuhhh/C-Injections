@@ -24,18 +24,18 @@ for (const mon in learnsetsMerge) {
     );
     learnsets[mon]['learnset'] = orderedLearnset;
 }
-const tmhmList = ['workup', 'dragonclaw', 'psyshock', 'calmmind', 'roar', 'toxic', 'hail', 'bulkup', 'venoshock', 'hiddenpower', 'sunnyday', 'taunt', 'icebeam', 'blizzard', 'hyperbeam', 'lightscreen', 'protect', 'raindance', 'roost', 'safeguard', 'frustration', 'solarbeam', 'smackdown', 'thunderbolt', 'thunder', 'earthquake', 'return', 'leechlife', 'psychic', 'shadowball', 'brickbreak', 'doubleteam', 'reflect', 'sludgewave', 'flamethrower', 'sludgebomb', 'sandstorm', 'fireblast', 'rocktomb', 'aerialace', 'torment', 'facade', 'flamecharge', 'rest', 'attract', 'thief', 'lowsweep', 'round', 'echoedvoice', 'overheat', 'steelwing', 'focusblast', 'energyball', 'falseswipe', 'scald', 'fling', 'chargebeam', 'skydrop', 'brutalswing', 'quash', 'willowisp', 'acrobatics', 'embargo', 'explosion', 'shadowclaw', 'payback', 'smartstrike', 'gigaimpact', 'rockpolish', 'auroraveil', 'stoneedge', 'voltswitch', 'thunderwave', 'gyroball', 'swordsdance', 'fly', 'psychup', 'bulldoze', 'frostbreath', 'rockslide', 'xscissor', 'dragontail', 'infestation', 'poisonjab', 'dreameater', 'grassknot', 'swagger', 'sleeptalk', 'uturn', 'substitute', 'flashcannon', 'trickroom', 'wildcharge', 'surf', 'snarl', 'naturepower', 'darkpulse', 'waterfall', 'dazzlinggleam', 'confide', 'cut', 'fly', 'surf', 'strength', 'flash', 'rocksmash', 'waterfall', 'dive'];
+const tmhmList = ['focuspunch', 'dragonclaw', 'waterpulse', 'calmmind', 'roar', 'toxic', 'hail', 'bulkup', 'bulletseed', 'hiddenpower', 'sunnyday', 'taunt', 'icebeam', 'blizzard', 'hyperbeam', 'lightscreen', 'protect', 'raindance', 'gigadrain', 'safeguard', 'frustration', 'solarbeam', 'irontail', 'thunderbolt', 'thunder', 'earthquake', 'return', 'dig', 'psychic', 'shadowball', 'brickbreak', 'doubleteam', 'reflect', 'shockwave', 'flamethrower', 'sludgebomb', 'sandstorm', 'fireblast', 'rocktomb', 'aerialace', 'torment', 'facade', 'secretpower', 'rest', 'attract', 'thief', 'steelwing', 'skillswap', 'snatch', 'overheat', 'cut', 'fly', 'surf', 'strength', 'flash', 'rocksmash', 'waterfall', 'dive', 'leechseed', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'synthesis', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound'];
 let sTMHMMoves = 'static const u16 sTMHMMoves[NUM_TMHMS] = {\n';
 function PrintsTMHMMoves(learnsetsGen) {
     for (const move of tmhmList) {
-        sTMHMMoves += '\tMOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',\n';
+        if (move) sTMHMMoves += '\tMOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',\n';
     }
     sTMHMMoves += '};';
     fs.writeFileSync('party_menu.h', sTMHMMoves);
 }
 PrintsTMHMMoves(7);
-const NumTMs = 100;
-let TMHMLearnsets = '//#define TMHM_LEARNSET(moves) {(u32)(moves), ((u64)(moves) >> 32)}\n//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01))\n\n#define TMHM(tmhm)          ((u8) ((ITEM_##tmhm) - ITEM_TM01))\n#define TMHM_LEARNSET_END   0xFF\n\n';
+const NumTMs = 120;
+let TMHMLearnsets = '//#define TMHM_LEARNSET(moves) {(u32)(moves), ((u64)(moves) >> 32)}\n//#define TMHM(tmhm) ((u64)1 << (ITEM_##tmhm - ITEM_TM01))\n\n#define TMHM(tmhm)          ((u8) ((ITEM_##tmhm) - ITEM_TM01))\n#define TMHM2(tmhm)          ((u8) ((ITEM_##tmhm) - 318))\n#define TMHM_LEARNSET_END   0xFF\n\n';
 async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
     for (const mon in Dex.data.Species) {
         if (!gens.get(speciesGen).species.get(mon)) continue; // Limit mons to gen's species
@@ -52,8 +52,9 @@ async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
             if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
                 if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                else if (tmhmList.indexOf(move) + 1 <= NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                else TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - 99) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                else if (tmhmList.indexOf(move) + 1 <= 50) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                else if (tmhmList.indexOf(move) + 1 > 50 && tmhmList.indexOf(move) <= 57) TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - 49) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                else TMHMLearnsets += '\tTMHM2(TM' + (tmhmList.indexOf(move) - 7) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
             }
         }
         TMHMLearnsets += '\tTMHM_LEARNSET_END,\n};\n\n';
