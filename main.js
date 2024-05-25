@@ -24,7 +24,7 @@ for (const mon in learnsetsMerge) {
     );
     learnsets[mon]['learnset'] = orderedLearnset;
 }
-const tmhmList = ['focuspunch', 'dragonclaw', 'waterpulse', 'calmmind', 'roar', 'toxic', 'hail', 'bulkup', 'bulletseed', 'hiddenpower', 'sunnyday', 'taunt', 'icebeam', 'blizzard', 'hyperbeam', 'lightscreen', 'protect', 'raindance', 'gigadrain', 'safeguard', 'frustration', 'solarbeam', 'irontail', 'thunderbolt', 'thunder', 'earthquake', 'return', 'dig', 'psychic', 'shadowball', 'brickbreak', 'doubleteam', 'reflect', 'shockwave', 'flamethrower', 'sludgebomb', 'sandstorm', 'fireblast', 'rocktomb', 'aerialace', 'torment', 'facade', 'secretpower', 'rest', 'attract', 'thief', 'steelwing', 'skillswap', 'snatch', 'overheat', 'cut', 'fly', 'surf', 'strength', 'flash', 'rocksmash', 'waterfall', 'dive', 'leechseed', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'synthesis', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound', 'pound'];
+const tmhmList = ['focuspunch', 'dragonclaw', 'waterpulse', 'calmmind', 'roar', 'toxic', 'hail', 'bulkup', 'bulletseed', 'hiddenpower', 'sunnyday', 'taunt', 'icebeam', 'blizzard', 'hyperbeam', 'lightscreen', 'protect', 'raindance', 'gigadrain', 'safeguard', 'frustration', 'solarbeam', 'irontail', 'thunderbolt', 'thunder', 'earthquake', 'return', 'dig', 'psychic', 'shadowball', 'brickbreak', 'doubleteam', 'reflect', 'shockwave', 'flamethrower', 'sludgebomb', 'sandstorm', 'fireblast', 'rocktomb', 'aerialace', 'torment', 'facade', 'secretpower', 'rest', 'attract', 'thief', 'steelwing', 'skillswap', 'snatch', 'overheat', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', 'cut', 'fly', 'surf', 'strength', 'flash', 'rocksmash', 'waterfall', 'dive'];
 let sTMHMMoves = 'static const u16 sTMHMMoves[NUM_TMHMS] = {\n';
 function PrintsTMHMMoves(learnsetsGen) {
     for (const move of tmhmList) {
@@ -42,20 +42,21 @@ async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
         TMHMLearnsets += 'static const u8 s' + gens.get(speciesGen).species.get(mon).name.replace('-', '').replace('.', '').replace(' ', '') + 'TMHMLearnset[] = {\n';
         for (const move of tmhmList) {
             // Limit to a certain gen's learnset compatibility
-            /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
+            const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
                     if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else if (tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else TMHMLearnsets += '\tTMHM(HM' + (tmhmList.indexOf(move) - 99) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else if (tmhmList.indexOf(move) + 1 <= 64) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else if (tmhmList.indexOf(move) + 1 >= 64 && tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM2(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else TMHMLearnsets += '\tTMHM2(HM0' + (tmhmList.indexOf(move) - NumTMs + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 }
-            }); */
-            if (!learnsets[mon] || !learnsets[mon].learnset) continue;
+            });
+            /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;
             if (learnsets[mon].learnset[move]) {
                 if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 else if (tmhmList.indexOf(move) + 1 <= 50) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 else if (tmhmList.indexOf(move) + 1 > 50 && tmhmList.indexOf(move) <= 57) TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - 49) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 else TMHMLearnsets += '\tTMHM2(TM' + (tmhmList.indexOf(move) - 7) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-            }
+            } */
         }
         TMHMLearnsets += '\tTMHM_LEARNSET_END,\n};\n\n';
     }
@@ -67,4 +68,4 @@ async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
     TMHMLearnsets += '};';
     fs.writeFileSync('tmhm_learnsets.h', TMHMLearnsets);
 }
-PrintTMHMLearnsets(3, 7, tmhmList);
+PrintTMHMLearnsets(3, 3, tmhmList);

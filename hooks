@@ -12,3 +12,4 @@ GetTMNumberAndMoveString 08131d48 2
 SetTMSpriteAnim 08133714 2
 UpdateTMSpritePosition 08133790 2
 #TMCase_ItemPrintFunc 08131e68 2
+SortPocketAndPlaceHMsFirst 0809a5e4 2
