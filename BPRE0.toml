@@ -1,6 +1,6 @@
 [General]
-ApplicationVersion = '''0.5.5'''
-FreeSpaceSearch = '''000200'''
+ApplicationVersion = '''0.5.6'''
+FreeSpaceSearch = '''720E40'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -61,12 +61,6 @@ Format = '''[level.]scripts.battle.badge.obey.0badges'''
 DefaultHash = '''6EF97965'''
 
 [[NamedAnchors]]
-Name = '''scripts.newgame.starters.left'''
-Address = 0x169BB5
-Format = '''[species1:data.pokemon.names]scripts.newgame.starters.middle'''
-DefaultHash = '''CC573F59'''
-
-[[NamedAnchors]]
 Name = '''scripts.newgame.starters.middle'''
 Address = 0x169D82
 Format = '''[species2:data.pokemon.names]1'''
@@ -110,7 +104,7 @@ DefaultHash = '''0E9784EA'''
 
 [[NamedAnchors]]
 Name = '''data.items.stats'''
-Address = 0x3DB028
+Address = 0x71A380
 Format = '''[name""13 unused. index: price: holdeffect.holdeffects param. description<""> keyitemvalue. bagkeyitem. pocket.pocketid type.|s=pocket(0=itemtype|1=itemtype|2=itemtype|4=itemtype|5=itemtype) fieldeffect<> battleusage:: battleeffect<> battleextra::]data.items.count'''
 DefaultHash = '''07F16966'''
 
@@ -206,13 +200,13 @@ DefaultHash = '''C7BBBFD8'''
 
 [[NamedAnchors]]
 Name = '''data.maps.banks'''
-Address = 0x71BCE4
+Address = 0x3526A8
 Format = '''[maps<[map<[layout<[width:: height:: borderblock<> blockmap<`blm`> blockdata1<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> animation<> attributes<>]1> blockdata2<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> animation<> attributes<>]1> borderwidth. borderheight. unused:]1> events<[objectCount.100 warpCount.100 scriptCount.100 signpostCount.100 objects<[id. graphics.graphics.overworld.sprites kind: x:|z y:|z elevation.11 moveType. range:|t|x::|y:: trainerType: trainerRangeOrBerryID: script<`xse`> flag:|h padding:]/objectCount> warps<[x:|z y:|z elevation.11 warpID. map. bank.]/warpCount> scripts<[x:|z y:|z elevation:11 trigger: index:: script<`xse`>]/scriptCount> signposts<[x:|z y:|z elevation.11 kind. unused:1 arg::|s=kind(0=<>|1=<>|2=<>|3=<>|4=<>)]/signpostCount>]1> mapscripts<[type. pointer<>]!00> connections<[count:: connections<[direction::mapdirections offset:: mapGroup. mapNum. unused:]/count>]1> music:songnames layoutID:data.maps.layouts+1 regionSectionID.data.maps.names+88 cave. weather. mapType. allowBiking. flags.|t|allowEscaping.|allowRunning.|showMapName. floorNum. battleType.]1>]?>]43'''
 DefaultHash = '''9B0EA3BB'''
 
 [[NamedAnchors]]
 Name = '''data.maps.layouts'''
-Address = 0x71E8C0
+Address = 0x34EB8C
 Format = '''[layout<[width:: height:: borderblock<> blockmap<`blm`> blockdata1<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> animation<> attributes<>]1> blockdata2<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> animation<> attributes<>]1> borderwidth. borderheight. unused:]1>]383'''
 DefaultHash = '''A7C5CF7B'''
 
@@ -584,7 +578,7 @@ DefaultHash = '''37B1CAEE'''
 
 [[NamedAnchors]]
 Name = '''graphics.items.sprites'''
-Address = 0x3D4294
+Address = 0x71F700
 Format = '''[sprite<`lzs4x3x3`> palette<`lzp4`>]data.items.stats+1'''
 DefaultHash = '''A0AF2FB0'''
 
@@ -644,8 +638,8 @@ DefaultHash = '''ED9BD5FC'''
 
 [[NamedAnchors]]
 Name = '''data.items.effects'''
-Address = 0x2528BC
-Format = '''[data<`pie`>]data.items.stats-13-199'''
+Address = 0x720680
+Format = '''[data<`pie`>]data.items.stats-13'''
 DefaultHash = '''9A3E396F'''
 
 [[NamedAnchors]]
@@ -987,7 +981,7 @@ DefaultHash = '''9A7B740C'''
 [[NamedAnchors]]
 Name = '''data.pokedex.stats'''
 Address = 0x44E850
-Format = '''[species""12 height: heightInches|=height÷.254 weight: weightLbs|=weight÷4.536 description1<""> description2<""> unused: pokemonScale: pokemonOffset:|z trainerScale: trainerOffset:|z unused:]96'''
+Format = '''[species""12 height: heightInches|=height÷.254 weight: weightLbs|=weight÷4.536 description1<""> description2<""> unused: pokemonScale: pokemonOffset:|z trainerScale: trainerOffset:|z unused:]387'''
 DefaultHash = '''C6A5A4E0'''
 
 [[NamedAnchors]]
@@ -1898,7 +1892,7 @@ DefaultHash = '''8A57B18B'''
 
 [[NamedAnchors]]
 Name = '''graphics.titlescreen.background.animation.sprite'''
-Address = 0x804200
+Address = 0x3BF79C
 Format = '''`lzs4x2x2|graphics.titlescreen.background.animation.palette`'''
 DefaultHash = '''91ADB897'''
 
@@ -1934,13 +1928,13 @@ DefaultHash = '''1D4A70A6'''
 
 [[NamedAnchors]]
 Name = '''graphics.titlescreen.pokemon.tileset'''
-Address = 0x804600
+Address = 0xEAD608
 Format = '''`lzt4|graphics.titlescreen.pokemon.palette`'''
 DefaultHash = '''CFEB5357'''
 
 [[NamedAnchors]]
 Name = '''graphics.titlescreen.pokemon.tilemap'''
-Address = 0x805500
+Address = 0xEADEE4
 Format = '''`lzm4x32x20|graphics.titlescreen.pokemon.tileset`'''
 DefaultHash = '''677994AF'''
 
@@ -2270,7 +2264,7 @@ DefaultHash = '''55E16381'''
 
 [[NamedAnchors]]
 Name = '''graphics.newgame.player.male.sprite'''
-Address = 0x720C08
+Address = 0x46163C
 Format = '''`lzs8x8x12|graphics.newgame.player.male.palette`'''
 DefaultHash = '''6F2B5F8D'''
 
@@ -2402,19 +2396,19 @@ DefaultHash = '''37B1CAEE'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.intro.welcome'''
-Address = 0x71DF3E
+Address = 0x1C5C78
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.intro.preShowcaseMon'''
-Address = 0x71BAEC
+Address = 0x1C5D06
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.intro.showcaseMon'''
-Address = 0x71E4D2
+Address = 0x1C5D12
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
@@ -2426,7 +2420,7 @@ DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.intro.introduceSelf'''
-Address = 0x7221D4
+Address = 0x1C5DBD
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
@@ -2438,13 +2432,13 @@ DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.prompt.name'''
-Address = 0x71B104
+Address = 0x1C5DEA
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.prompt.confirmName'''
-Address = 0x71C009
+Address = 0x1C5E13
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
@@ -2474,7 +2468,7 @@ DefaultHash = '''9CC77BE4'''
 
 [[NamedAnchors]]
 Name = '''scripts.newgame.professor.speeches.ready'''
-Address = 0x722212
+Address = 0x1C5EF4
 Format = '''""'''
 DefaultHash = '''9CC77BE4'''
 
@@ -2588,7 +2582,7 @@ DefaultHash = '''37B1CAEE'''
 
 [[NamedAnchors]]
 Name = '''graphics.townmap.icon.head.male.sprite'''
-Address = 0x8034BC
+Address = 0x3EF524
 Format = '''`lzs4x2x2|graphics.townmap.icon.head.male.palette`'''
 DefaultHash = '''DF9E6B6F'''
 
@@ -3608,6 +3602,24 @@ Length = 1
 Name = '''scripts.newgame.heal.y'''
 Address = 0x0BFD78
 Length = 1
+
+[[MatchedWords]]
+Name = '''scripts.newgame.professor.pokemon'''
+Address = 0x12FB38
+Length = 1
+Note = '''ID of the pokemon shown during the professor's introduction. Also edit pointers to graphics.pokemon.sprites.front/29 and graphics.pokemon.palettes.normal/29'''
+
+[[MatchedWords]]
+Name = '''scripts.newgame.professor.pokemon'''
+Address = 0x130F40
+Length = 1
+Note = '''ID of the pokemon shown during the professor's introduction. Also edit pointers to graphics.pokemon.sprites.front/29 and graphics.pokemon.palettes.normal/29'''
+
+[[MatchedWords]]
+Name = '''scripts.newgame.professor.pokemon'''
+Address = 0x130F4C
+Length = 1
+Note = '''ID of the pokemon shown during the professor's introduction. Also edit pointers to graphics.pokemon.sprites.front/29 and graphics.pokemon.palettes.normal/29'''
 
 [[MatchedWords]]
 Name = '''data.maps.catchmap.conversion.kanto.length'''
@@ -5999,7 +6011,7 @@ DefaultHash = '''6B6E11EC'''
 157 = [
    '''StartOldManTutorialBattle''',
    '''ChangePokemonNickname''',
-   '''ChoosePartyMon''',
+   '''ChoosePartyMon''',# Selected index will be stored in var4. var4=1 for lead pokemon, var4=6 for last pokemon, var4=7 for cancel. Requires `waitstate` after.
 ]
 163 = [
    '''Script_IsFanClubMemberFanOfPlayer''',
@@ -6135,7 +6147,7 @@ DefaultHash = '''6B6E11EC'''
    '''StartSouthernIslandBattle''',
 ]
 327 = [
-   '''GetPartyMonSpecies''',
+   '''GetPartyMonSpecies''',# Read party index from var4, return species
    '''IsSelectedMonEgg''',
 ]
 331 = [
@@ -6154,7 +6166,7 @@ DefaultHash = '''6B6E11EC'''
    '''SetPostgameFlags''',
    '''StartMarowakBattle''',
    '''ForcePlayerOntoBike''',
-   '''ListMenu''',
+   '''ListMenu''',# Lists options from scripts.text.listmenu based on the value of var4
    '''ReturnToListMenu''',
    '''DoPicboxCancel''',
    '''SetVermilionTrashCans''',
@@ -6190,7 +6202,7 @@ DefaultHash = '''6B6E11EC'''
    '''GetNumLevelsGainedForRoute5DaycareMon''',
    '''TakePokemonFromRoute5Daycare''',
    '''DoSeagallopFerryScene''',
-   '''DoesPlayerPartyContainSpecies''',
+   '''DoesPlayerPartyContainSpecies''',# read species from var4, if it's in the party, return 1 (recommend returning to varResult)
    '''Script_SetHelpContext''',
    '''BackupHelpContext''',
    '''RestoreHelpContext''',
@@ -7025,8 +7037,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/3/maps/0/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank3.PALLET TOWN.3-0'''
+Image = '''data.maps.banks/4/maps/3/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank4.PALLET TOWN.4-3'''
 
 #################################
 [[TableGroup]]
