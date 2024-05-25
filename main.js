@@ -45,9 +45,9 @@ async function PrintTMHMLearnsets(speciesGen, learnsetsGen, tmhmList) {
             const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
                     if (tmhmList.indexOf(move) + 1 < 10) TMHMLearnsets += '\tTMHM(TM0' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else if (tmhmList.indexOf(move) + 1 <= 64) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else if (tmhmList.indexOf(move) + 1 >= 64 && tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM2(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
-                    else TMHMLearnsets += '\tTMHM2(HM0' + (tmhmList.indexOf(move) - NumTMs + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else if (tmhmList.indexOf(move) + 1 <= 50) TMHMLearnsets += '\tTMHM(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else if (tmhmList.indexOf(move) + 1 > 50 && tmhmList.indexOf(move) + 1 < NumTMs) TMHMLearnsets += '\tTMHM2(TM' + (tmhmList.indexOf(move) + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
+                    else TMHMLearnsets += '\tTMHM(HM0' + (tmhmList.indexOf(move) - NumTMs + 1) + '_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + '),\n';
                 }
             });
             /* if (!learnsets[mon] || !learnsets[mon].learnset) continue;

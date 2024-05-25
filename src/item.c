@@ -24,14 +24,14 @@ void SortPocketAndPlaceHMsFirst(struct BagPocket * pocket)
     {
         if (pocket->itemSlots[i].itemId == ITEM_NONE && GetBagItemQuantity(&pocket->itemSlots[i].quantity) == 0)
             return;
-        if (pocket->itemSlots[i].itemId >= ITEM_HM01 && GetBagItemQuantity(&pocket->itemSlots[i].quantity) != 0)
+        if (pocket->itemSlots[i].itemId >= ITEM_TM01 && GetBagItemQuantity(&pocket->itemSlots[i].quantity) != 0)
         {
             for (j = i + 1; j < pocket->capacity; j++)
             {
                 if (pocket->itemSlots[j].itemId == ITEM_NONE && GetBagItemQuantity(&pocket->itemSlots[j].quantity) == 0)
                     break;
             }
-            SwapItemSlots(&pocket->itemSlots[i], &pocket->itemSlots[j]);
+            // SwapItemSlots(&pocket->itemSlots[i], &pocket->itemSlots[j]);
             break;
         }
     }
