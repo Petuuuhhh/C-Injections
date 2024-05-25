@@ -8,7 +8,7 @@ Task_LearnedMove 08125c48 2
 CanMonLearnTMHM 08043c2c 2
 GetTMNumberAndMoveString 08131d48 2
 #Task_SelectTMAction_FromFieldBag 08132414 2
-CreateTMSprite 0813368c 2
+#CreateTMSprite 0813368c 2
 SetTMSpriteAnim 08133714 2
 UpdateTMSpritePosition 08133790 2
-TMCase_ItemPrintFunc 08131e68 2
+#TMCase_ItemPrintFunc 08131e68 2
