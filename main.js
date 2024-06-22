@@ -45,7 +45,7 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
         Gen3Learnset[mon] = {};
         let TradebacksMoves = {};
         TradebacksMoves[mon] = {};
-        for (const move in Dex.data.Moves /*const move of list*/) {
+        // for (const move in Dex.data.Moves /*const move of list*/) {
             // Limit to a certain gen's learnset compatibility
             /* const learn = await gens.get(learnsetsGen).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue) {
@@ -57,14 +57,14 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
             if (learnsets[mon].learnset[move]) {
                 gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
             } */
-            const Gen3Learn = await gens.get(3).learnsets.canLearn(mon, move).then(returnValue => {
-                if (returnValue) {
-                    Gen3Learnset[mon][move] = 3;
-                }
-            })
-        }
+            // const Gen3Learn = await gens.get(3).learnsets.canLearn(mon, move).then(returnValue => {
+                // if (returnValue) {
+                    // Gen3Learnset[mon][move] = 3;
+                // }
+            // })
+        // }
         // Do this for however many gens you want to get tradeback/tradeforward moves from
-        for (const move in Dex.data.Moves /*const move of list*/) {
+        /* for (const move in Dex.data.Moves) {
             const Gen7Learn = await gens.get(7).learnsets.canLearn(mon, move).then(returnValue => {
                 if (returnValue && !(move in Gen3Learnset[mon]) && gens.get(speciesGen).moves.get(move)) {
                     TradebacksMoves[mon][move] = []; // Only for first tradeback/tradeforward learnset
@@ -80,8 +80,8 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
             }
             gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
             gMoveLearnerMoves += '),\n\n';
-        }
-        /* if (!gen3ou[gens.get(speciesGen).species.get(mon).name]) continue;
+        } */
+        if (!gen3ou[gens.get(speciesGen).species.get(mon).name]) continue;
         gMoveLearnerMoves += '\tmove_learner_moves(' + gens.get(speciesGen).species.get(mon).name.toUpperCase().replace('-', '_').replace('.', '_').replace(' ', '_') + ',';
         for (let move in gen3ou[gens.get(speciesGen).species.get(mon).name].moves) {
             if (move == 'Nothing') continue;
@@ -89,11 +89,13 @@ async function PrintgMoveLearnerMoves(speciesGen, learnsetsGen, list) {
                 move = 'hiddenpower';
                 HiddenPower += 1;
             }
-            if (toID(move) != 'hiddenpower') gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
-            else if (HiddenPower < 2) gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+            if (gen3ou[gens.get(speciesGen).species.get(mon).name].moves[move] < .25) {
+                if (toID(move) != 'hiddenpower') gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+                else if (HiddenPower < 2) gMoveLearnerMoves += '\n\t\t\t  MOVE_' + gens.get(learnsetsGen).moves.get(move).name.toUpperCase().replace('-', '_').replace(/ /g, '_') + ',';
+            }
         }
         gMoveLearnerMoves = gMoveLearnerMoves.slice(0, -1);
-        gMoveLearnerMoves += '),\n\n'; */
+        gMoveLearnerMoves += '),\n\n';
     }
     gMoveLearnerMoves += '\tMOVE_LEARNER_MOVES_TERMINATOR\n};';
     fs.writeFileSync('move_learner_moves.h', gMoveLearnerMoves);
